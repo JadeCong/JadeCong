@@ -1,5 +1,6 @@
-Jade Cong([jadecong.github.io](https://jadecong.github.io/))
+Jade Cong (jadecong.github.io)
 ---
+
 - 👋 Hi, I’m @JadeCong
 - 👀 I’m interested in robotics and artificial intelligence.
 - 🌱 I’m currently learning mysql database.
