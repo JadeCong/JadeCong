@@ -1,7 +1,7 @@
 <a href="https://github.com/JadeCong"><img decoding="async" loading="lazy" width="149" height="149" style="position:absolute; right:-2px; top:2px;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
 
 
-# Jingde (Jade) Cong
+# Jingde (Jade) Cong  ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png)
 
 - 👋 I'm a Robot Algorithm Engineer and AI Enthusiast.
 - 👀 I’m interested in robotics, artificial intelligence and robot learning.
