@@ -12,24 +12,24 @@
 ![Stars](https://img.shields.io/github/stars/JadeCong?affiliations=OWNER%2CCOLLABORATOR)
 ![Followers](https://img.shields.io/github/followers/JadeCong?label=Follow)
 ![Sponsors](https://img.shields.io/github/sponsors/JadeCong)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong)
 
 
 ## Skills
 
-![Field](https://img.shields.io/badge/Field-Robotics-yellow)
-![Field](https://img.shields.io/badge/Field-AI-yellow)
-![Field](https://img.shields.io/badge/Field-AIRobotics-yellow)
-![Field](https://img.shields.io/badge/Field-RobotLearning-yellow)
+![Field](https://img.shields.io/badge/Field-Robotics-red)
+![Field](https://img.shields.io/badge/Field-AI-red)
+![Field](https://img.shields.io/badge/Field-AIRobotics-red)
+![Field](https://img.shields.io/badge/Field-RobotLearning-red)
 
-![Language](https://img.shields.io/badge/Language-C-brightgreen)
-![Language](https://img.shields.io/badge/Language-C++-brightgreen)
-![Language](https://img.shields.io/badge/Language-CSharp-brightgreen)
-![Language](https://img.shields.io/badge/Language-Python-brightgreen)
-![Language](https://img.shields.io/badge/Language-Go-brightgreen)
-![Language](https://img.shields.io/badge/Language-Matlab-brightgreen)
+![Language](https://img.shields.io/badge/Language-C-yellow)
+![Language](https://img.shields.io/badge/Language-C++-yellow)
+![Language](https://img.shields.io/badge/Language-CSharp-yellow)
+![Language](https://img.shields.io/badge/Language-Python-yellow)
+![Language](https://img.shields.io/badge/Language-Go-yellow)
+![Language](https://img.shields.io/badge/Language-Matlab-yellow)
 
 ![Tool](https://img.shields.io/badge/Tool-Git-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-Docker-brightgreen)
@@ -37,7 +37,16 @@
 ![Tool](https://img.shields.io/badge/Tool-PyTorch-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-ROS-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-ROS2-brightgreen)
+![Tool](https://img.shields.io/badge/Tool-Robosuite-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-MuJoCo-brightgreen)
+![Tool](https://img.shields.io/badge/Tool-UnrealEngine-brightgreen)
+![Tool](https://img.shields.io/badge/Tool-Unity3D-brightgreen)
+![Tool](https://img.shields.io/badge/Tool-SolidWorks-brightgreen)
+
+![Algorithm](https://img.shields.io/badge/Algorithm-OMPL-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-OpenCV-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-PCL-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-StableBaselines3-blue)
 
 
 ## Know More About Me
