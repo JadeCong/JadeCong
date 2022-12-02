@@ -1,11 +1,15 @@
-Jade Cong (jadecong.github.io)
+Jingde (Jade) Cong
 ---
 
-- 👋 Hi, I’m @JadeCong
-- 👀 I’m interested in robotics and artificial intelligence.
-- 🌱 I’m currently learning mysql database.
-- 💞️ I’m looking to collaborate on humanoid robotics and machine intelligence.
-- 📫 You can keep in touch with me with e-mail jade.cong@qq.com or jade.cong.me@gmail.com.
+- 👋 I'm a Robot Algorithm Engineer and AI Enthusiast.
+- 👀 I’m interested in robotics, artificial intelligence and robot learning.
+- 🌱 I’m currently learning mysql for constructing database.
+- 💞️ I’m looking to collaborate on humanoid robotics and machine intelligence for robot learning.
+- 📫 You can keep in touch with me using email jade.cong@qq.com or jade.cong.me@gmail.com.
+
+[Know more about me](https://jadecong.github.io/)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong)
 
 <!---
 JadeCong/JadeCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
