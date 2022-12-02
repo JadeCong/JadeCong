@@ -9,6 +9,9 @@ Jingde (Jade) Cong
 
 [Know more about me](https://jadecong.github.io/)
 
+![Stars](https://img.shields.io/github/stars/JadeCong?affiliations=OWNER%2CCOLLABORATOR)
+![Followers](https://img.shields.io/github/followers/JadeCong?label=Follow)
+![Sponsors](https://img.shields.io/github/sponsors/JadeCong)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong)
 
 <!---
