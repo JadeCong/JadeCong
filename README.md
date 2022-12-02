@@ -31,6 +31,11 @@
 ![Language](https://img.shields.io/badge/Language-Go-yellow)
 ![Language](https://img.shields.io/badge/Language-Matlab-yellow)
 
+![Algorithm](https://img.shields.io/badge/Algorithm-OMPL-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-OpenCV-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-PCL-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-StableBaselines3-blue)
+
 ![Tool](https://img.shields.io/badge/Tool-Git-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-Docker-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-TensorFlow-brightgreen)
@@ -42,11 +47,6 @@
 ![Tool](https://img.shields.io/badge/Tool-UnrealEngine-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-Unity3D-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-SolidWorks-brightgreen)
-
-![Algorithm](https://img.shields.io/badge/Algorithm-OMPL-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-OpenCV-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-PCL-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-StableBaselines3-blue)
 
 
 ## Know More About Me
