@@ -1,4 +1,4 @@
-# Jingde (Jade) Cong  ![CN](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/32/China.png) ![Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f340.png?v8)
+# Jingde (Jade) Cong  ![Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f340.png?v8)
 
 - 👋 I'm a Robot Algorithm Engineer and AI Enthusiast.
 - 👀 I’m interested in robotics, artificial intelligence and robot learning.
