@@ -14,7 +14,7 @@
 ![Sponsors](https://img.shields.io/github/sponsors/JadeCong)
 ![License](https://img.shields.io/badge/License-Apache-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong.JadeCong)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong)
 
 
 ## Skills
