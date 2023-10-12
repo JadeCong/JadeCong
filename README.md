@@ -44,6 +44,8 @@
 ![Tool](https://img.shields.io/badge/Tool-ROS2-blue)
 ![Tool](https://img.shields.io/badge/Tool-Robosuite-blue)
 ![Tool](https://img.shields.io/badge/Tool-MuJoCo-blue)
+![Tool](https://img.shields.io/badge/Tool-Omniverse-blue)
+![Tool](https://img.shields.io/badge/Tool-IsaacSim-blue)
 ![Tool](https://img.shields.io/badge/Tool-UnrealEngine-blue)
 ![Tool](https://img.shields.io/badge/Tool-Unity3D-blue)
 ![Tool](https://img.shields.io/badge/Tool-SolidWorks-blue)
