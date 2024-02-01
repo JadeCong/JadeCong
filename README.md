@@ -6,16 +6,14 @@
 - 💞️ I’m looking to collaborate on humanoid robotics and machine intelligence for robot learning.
 - 📫 You can keep in touch with me using email jade.cong@qq.com or jade.cong.me@gmail.com.
 
-
 ## GitHub
 
-![Stars](https://img.shields.io/github/stars/JadeCong?affiliations=OWNER%2CCOLLABORATOR)
-![Followers](https://img.shields.io/github/followers/JadeCong?label=Follow)
-![Sponsors](https://img.shields.io/github/sponsors/JadeCong)
-![License](https://img.shields.io/badge/License-Apache-brightgreen)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://JadeCong.github.io)
+![Stars](https://img.shields.io/github/stars/JadeCong?label=Stars)
+![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers)
+![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors)
+![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JadeCong.github.io)
-
 
 ## Skills
 
@@ -50,11 +48,9 @@
 ![Tool](https://img.shields.io/badge/Tool-Unity3D-blue)
 ![Tool](https://img.shields.io/badge/Tool-SolidWorks-blue)
 
-
 ## Know More About Me
 
 [KnowMoreAboutMe](https://jadecong.github.io/)
-
 
 <!---
 JadeCong/JadeCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
