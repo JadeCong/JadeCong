@@ -8,9 +8,11 @@
 
 ## GitHub
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://JadeCong.github.io)
-![Stars](https://img.shields.io/github/stars/JadeCong?label=Stars)
-![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers)
+![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors)
+![Stars](https://img.shields.io/github/stars/JadeCong?style=social)
+![Forks](https://img.shields.io/github/forks/JadeCong/JadeCong?style=social)
+![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?style=social)
+![Followers](https://img.shields.io/github/followers/JadeCong?style=social)
 ![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors)
 ![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
