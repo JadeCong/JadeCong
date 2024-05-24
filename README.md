@@ -8,12 +8,12 @@
 
 ## GitHub
 
-![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors)
-![Stars](https://img.shields.io/github/stars/JadeCong?style=social)
-![Forks](https://img.shields.io/github/forks/JadeCong/JadeCong?style=social)
-![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?style=social)
-![Followers](https://img.shields.io/github/followers/JadeCong?style=social)
-![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors)
+![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors&style=default)
+![Stars](https://img.shields.io/github/stars/JadeCong?label=Stars&style=default)
+![Forks](https://img.shields.io/github/forks/JadeCong/JadeCong?label=Forks&style=default)
+![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?label=Watchers&style=default)
+![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers&style=default)
+![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors&style=default)
 ![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
 
