@@ -57,7 +57,9 @@
 
 ## Know More About Me
 
-[KnowMoreAboutMe](https://jadecong.github.io/)
+[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
+
+![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
 
 <!---
 JadeCong/JadeCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
