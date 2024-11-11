@@ -65,7 +65,7 @@
 
 ## Know More About Me
 
-<td><center>[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)</center></td>
+[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
 
 ![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
 
