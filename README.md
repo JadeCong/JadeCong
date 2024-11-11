@@ -22,8 +22,7 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
-
-![GitHub Contribution Snake](https://github.com/JadeCong/JadeCong/blob/output/github-contribution-grid-snake.gif)
+![GitHub Contribution Snake](https://github.com/JadeCong/JadeCong/blob/output/github-contribution-grid-snake.svg)
 
 ## Skills
 
