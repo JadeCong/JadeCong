@@ -12,19 +12,27 @@
 ![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers&style=default)
 ![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors&style=default)
 ![Stars](https://img.shields.io/github/stars/JadeCong?label=Stars&style=default)
-![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?label=Watchers&style=default)
 ![Forks](https://img.shields.io/github/forks/JadeCong/JadeCong?label=Forks&style=default)
+![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?label=Watchers&style=default)
 ![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 
 ## Skills
 
 ![Field](https://img.shields.io/badge/Field-Robotics-red)
 ![Field](https://img.shields.io/badge/Field-AI-red)
-![Field](https://img.shields.io/badge/Field-RobotLearning-red)
+![Field](https://img.shields.io/badge/Field-Robot_Learning-red)
 ![Field](https://img.shields.io/badge/Field-Metaverse-red)
-![Field](https://img.shields.io/badge/Field-LLM-red)
+![Field](https://img.shields.io/badge/Field-LLMs-red)
 ![Field](https://img.shields.io/badge/Field-Agents-red)
+![Field](https://img.shields.io/badge/Field-X_Technologies-red)
 
 ![Language](https://img.shields.io/badge/Language-C-yellow)
 ![Language](https://img.shields.io/badge/Language-C++-yellow)
@@ -57,9 +65,15 @@
 
 ## Know More About Me
 
+<center>
 [To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
+</center>
 
 ![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
+
+## Star History Graph
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JadeCong/JadeCong&type=Date&theme=dark)](https://star-history.com/#JadeCong/JadeCong&Date&theme=dark)
 
 <!---
 JadeCong/JadeCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
