@@ -23,6 +23,8 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 
+![](https://raw.githubusercontent.com/JadeCong/JadeCong/main/assets/github-contribution-grid-snake.svg)
+
 ## Skills
 
 ![Field](https://img.shields.io/badge/Field-Robotics-red)
