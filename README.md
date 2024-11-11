@@ -23,7 +23,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/JadeCong/JadeCong/main/assets/images/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/JadeCong/JadeCong/output/assets/images/github-contribution-grid-snake.svg)
 
 ## Skills
 
