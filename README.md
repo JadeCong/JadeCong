@@ -1,12 +1,14 @@
 # Jingde (Jade) Cong 🍀 🇨🇳
 
-- 👋 I'm a Robot Algorithm Engineer and AI Enthusiast.
+- 👋 I'm a **Robot Algorithm Engineer** and **AI Enthusiast**.
 - 👀 I’m interested in robotics, artificial intelligence, robot learning and metaverse.
-- 🌱 I’m currently working on LLM for developing personal agent.
-- 💞️ I’m looking forward to seeking cooperation on humanoid robots and embodied intelligence for robot learning.
+- 🌱 I’m currently working on **LLM** for developing personal **AI Agents**.
+- 💞️ I’m looking forward to seeking cooperations on **humanoid robots** and **embodied intelligence** for **robot learning**.
 - 📫 You can keep in touch with me via email jade.cong@qq.com or jade.cong.me@gmail.com.
 
-## GitHub
+---
+
+## GitHub Summaries
 
 ![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors&style=default)
 ![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers&style=default)
@@ -24,7 +26,9 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](https://github.com/JadeCong/JadeCong/blob/output/github-contribution-grid-snake.svg)
 
-## Skills
+---
+
+## Skill Stacks
 
 ![Field](https://img.shields.io/badge/Field-Robotics-red)
 ![Field](https://img.shields.io/badge/Field-AI-red)
@@ -63,15 +67,13 @@
 ![Tool](https://img.shields.io/badge/Tool-Blender-blue)
 ![Tool](https://img.shields.io/badge/Tool-AutodeskFusion-blue)
 
+---
+
 ## Know More About Me
 
 [To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
 
 ![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
-
-## Star History Graph
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JadeCong/JadeCong&type=Date&theme=dark)](https://star-history.com/#JadeCong/JadeCong&Date&theme=dark)
 
 <!---
 JadeCong/JadeCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
