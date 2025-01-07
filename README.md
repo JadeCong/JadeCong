@@ -1,4 +1,4 @@
-# Jingde (Jade) Cong 🍀 🇨🇳
+# <center> Jingde (Jade) Cong 🍀 🇨🇳
 
 - 👋 I'm a **Robot Algorithm Engineer** and **AI Enthusiast**.
 - 👀 I’m interested in robotics, artificial intelligence, robot learning and metaverse.
