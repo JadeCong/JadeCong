@@ -1,4 +1,4 @@
-# <center> Jingde (Jade) Cong 🍀 🇨🇳
+# Jingde (Jade) Cong 🍀 🇨🇳
 
 - 👋 I'm a **Robot Algorithm Engineer** and **AI Enthusiast**.
 - 👀 I’m interested in robotics, artificial intelligence, robot learning and metaverse.
@@ -65,7 +65,7 @@
 
 ## Know More About Me
 
-[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
+<center>[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
 
 ![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
 
