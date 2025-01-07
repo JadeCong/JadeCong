@@ -6,8 +6,6 @@
 - 💞️ I’m looking forward to seeking cooperations on **humanoid robots** and **embodied intelligence** for **robot learning**.
 - 📫 You can keep in touch with me via email jade.cong@qq.com or jade.cong.me@gmail.com.
 
----
-
 ## GitHub Summaries
 
 ![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors&style=default)
@@ -25,8 +23,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](https://github.com/JadeCong/JadeCong/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## Skill Stacks
 
@@ -66,8 +62,6 @@
 ![Tool](https://img.shields.io/badge/Tool-SolidWorks-blue)
 ![Tool](https://img.shields.io/badge/Tool-Blender-blue)
 ![Tool](https://img.shields.io/badge/Tool-AutodeskFusion-blue)
-
----
 
 ## Know More About Me
 
