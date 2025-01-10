@@ -34,7 +34,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
+#### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
 <!-- ### [Recent Projects](https://jadecong.github.io/contents/projects/) -->
 <!-- projects start -->
 * <a href='https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/' target='_blank'>End-to-end Teleoperation</a>
@@ -52,7 +52,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
+#### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
 <!-- ### [Recent Blogs](https://jadecong.github.io/contents/blogs/) -->
 <!-- blogs start -->
 * <a href='https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/' target='_blank'>New Ideas for Achieving AGI</a>
