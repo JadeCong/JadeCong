@@ -34,10 +34,10 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
-<!-- ### [Recent Projects](https://jadecong.github.io/contents/projects/) -->
+### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
+<!-- ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/) -->
 <!-- projects start -->
-* <a href='https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/' target='_blank'>End-to-end Teleoperation</a>
+* <a href='https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/' target='_blank'>End-to-end Teleoperation</a> - 2025-01-06
 * <a href='https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/' target='_blank'>Industrial Metaverse Platform</a>
 * <a href='https://jadecong.github.io/contents/projects/Tactile-Finger/' target='_blank'>Tactile Finger</a>
 * <a href='https://jadecong.github.io/contents/projects/Robot-Teleoperation/' target='_blank'>Robot Teleoperation</a>
@@ -52,11 +52,11 @@
 </td>
 <td valign="top" width="50%">
 
-#### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
-<!-- ### [Recent Blogs](https://jadecong.github.io/contents/blogs/) -->
+### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
+<!-- ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/) -->
 <!-- blogs start -->
-* <a href='https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/' target='_blank'>New Ideas for Achieving AGI</a>
-* <a href='https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/' target='_blank'>In Deep Reflections on Humanoid Robot and AI</a>
+* <a href='https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/' target='_blank'>New Ideas for Achieving AGI</a> - 2025-01-06
+* <a href='https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/' target='_blank'>In Deep Reflections on Humanoid Robot and AI</a> - 2025-01-06
 * <a href='https://jadecong.github.io/contents/blogs/2024-10-17-Thoughts-on-Embodied-Intelligence-and-AGI/' target='_blank'>Thoughts on Embodied Intelligence and AGI</a>
 * <a href='https://jadecong.github.io/contents/blogs/2019-08-09-Whats-AGI/' target='_blank'>What's AGI?</a>
 * <a href='https://jadecong.github.io/contents/blogs/2019-08-02-Goal-of-AGI/' target='_blank'>Goal of AGI</a>
