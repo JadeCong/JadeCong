@@ -35,7 +35,6 @@
 <td valign="top" width="480px">
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
----
 <!-- projects start -->
 - [End-to-end Teleoperation](https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/)
 - [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/)
@@ -48,7 +47,6 @@
 <td valign="top" width="480px">
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
----
 <!-- blogs start -->
 - [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/)
 - [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/)
