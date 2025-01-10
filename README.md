@@ -28,23 +28,41 @@
 - 🌱 I’m currently working on **LLM** for developing personal **AI Agents**.
 - 💞️ I’m looking forward to seeking cooperations on **humanoid robots** and **embodied intelligence** for **robot learning**.
 
-## GitHub Summaries
+## Latest Updates
 
-![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors&style=default)
-![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers&style=default)
-![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors&style=default)
-![Stars](https://img.shields.io/github/stars/JadeCong?label=Stars&style=default)
-![Forks](https://img.shields.io/github/forks/JadeCong/JadeCong?label=Forks&style=default)
-![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?label=Watchers&style=default)
-![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
-![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
+<table width="960px">
+<tr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+<td valign="top" width="50%">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
-![GitHub Contribution Snake](https://github.com/JadeCong/JadeCong/blob/output/github-contribution-grid-snake.svg)
+<!-- #### <a href="https://tw93.fun" target="_blank">Recent Projects</a> -->
+### [Recent Projects](https://jadecong.github.io/contents/projects/)
+<!-- projects start -->
+- [End-to-end Teleoperation](https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/)
+- [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/)
+- [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/)
+- [Robot Teleoperation](https://jadecong.github.io/contents/projects/Robot-Teleoperation/)
+- [Robotic Softbody Manipulation](https://jadecong.github.io/contents/projects/Robotic-Softbody-Manipulation/)
+<!-- projects end -->
+
+</td>
+
+<td valign="top" width="50%">
+
+<!-- #### <a href="https://weekly.tw93.fun" target="_blank">Recent Blogs</a> -->
+### [Recent Blogs](https://jadecong.github.io/contents/blogs/)
+<!-- blogs start -->
+- [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/)
+- [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/)
+- [Thoughts on Embodied Intelligence and AGI](https://jadecong.github.io/contents/blogs/2024-10-17-Thoughts-on-Embodied-Intelligence-and-AGI/)  
+- [What's AGI?](https://jadecong.github.io/contents/blogs/2019-08-09-Whats-AGI/)
+- [Goal of AGI](https://jadecong.github.io/contents/blogs/2019-08-02-Goal-of-AGI/)
+<!-- blogs end -->
+
+</td>
+
+</tr>
+</table>
 
 ## Skill Stacks
 
@@ -84,6 +102,24 @@
 ![Tool](https://img.shields.io/badge/Tool-SolidWorks-blue)
 ![Tool](https://img.shields.io/badge/Tool-Blender-blue)
 ![Tool](https://img.shields.io/badge/Tool-AutodeskFusion-blue)
+
+## GitHub Summaries
+
+![Visitors](https://komarev.com/ghpvc/?username=JadeCong&label=Visitors&style=default)
+![Followers](https://img.shields.io/github/followers/JadeCong?label=Followers&style=default)
+![Sponsors](https://img.shields.io/github/sponsors/JadeCong?label=Sponsors&style=default)
+![Stars](https://img.shields.io/github/stars/JadeCong?label=Stars&style=default)
+![Forks](https://img.shields.io/github/forks/JadeCong/JadeCong?label=Forks&style=default)
+![Watchers](https://img.shields.io/github/watchers/JadeCong/JadeCong?label=Watchers&style=default)
+![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
+![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
+![GitHub Contribution Snake](https://github.com/JadeCong/JadeCong/blob/output/github-contribution-grid-snake.svg)
 
 ## Know More About Me
 
