@@ -30,12 +30,12 @@
 
 ## Latest Updates
 
-<table width="960px">
+<table width="1000px">
 <tr>
 
 <td valign="top" width="50%">
 
-### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
+### 💼  <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
 <!-- ### [Recent Projects](https://jadecong.github.io/contents/projects/) -->
 <!-- projects start -->
 - [End-to-end Teleoperation](https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/)
@@ -49,7 +49,7 @@
 
 <td valign="top" width="50%">
 
-### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
+### 📔  <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
 <!-- ### [Recent Blogs](https://jadecong.github.io/contents/blogs/) -->
 <!-- blogs start -->
 - [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/)
