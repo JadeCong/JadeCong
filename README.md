@@ -1,10 +1,32 @@
-# Jingde (Jade) Cong 🍀 🇨🇳
+<!-- Title -->
+<h1 align="center" title="Welcome to my github homepage~ :)">Jingde (Jade) Cong 🍀 🇨🇳</h1>
+
+<!-- Contacts -->
+<p align="center">
+    <a href="mailto:jade.cong@qq.com" title="Email Address"><code>jade.cong@qq.com</code></a> │ <a href="./assets/images/wechat-public.jpg" title="WeChat Public"><code>AdvancedRobotics</code></a> │ <a href="https://jadecong.github.io" title="GitHub Pages"><code>jadecong.github.io</code></a>
+</p>
+
+<!-- Socials -->
+<p align="center">
+    <kbd>
+        <a href="https://www.linkedin.com/in/jade-cong" title="LinkedIn - Jingde Cong"><img src="https://img.shields.io/badge/-Jingde_Cong-2057B6?style=flat&logo=Linkedin&logoColor=white" /></a>
+        <a href="https://x.com/JadeCong26" title="X - @JadeCong26"><img src="https://img.shields.io/badge/-Jade_Cong-000000?style=flat&logo=X&logoColor=white" /></a>
+        <a href="https://huggingface.co/JadeCong" title="Hugging Face - JadeCong"><img src="https://img.shields.io/badge/-Jade_Cong-F9CF38?style=flat&logo=Huggingface&logoColor=white" /></a>
+        <a href="https://stackoverflow.com/users/11549484/jade-cong" title="StackOverflow - Jade Cong"><img src="https://img.shields.io/badge/-Jade_Cong-E67D2E?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+        <a href="https://www.reddit.com/user/JadeCong" title="Reddit - u/JadeCong"><img src="https://img.shields.io/badge/-Jade_Cong-EF4E1A?style=flat&logo=Reddit&logoColor=white" /></a>
+        <a href="https://www.zhihu.com/people/Jade_Cong" title="ZhiHu - JadeCong"><img src="https://img.shields.io/badge/-JadeCong-1953DC?style=flat&logo=Zhihu&logoColor=white" /></a>
+        <a href="https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg" title="YouTube - @jadecong"><img src="https://img.shields.io/badge/-Jade_Cong-EE0000?style=flat&logo=Youtube&logoColor=white" /></a>
+        <a href="https://space.bilibili.com/383666733" title="BiliBili - Jade_Cong"><img src="https://img.shields.io/badge/-Jade_Cong-F0648C?style=flat&logo=Bilibili&logoColor=white" /></a>
+        <a href="https://jadecong.com" title="Personal Website - jadecong.com"><img src="https://img.shields.io/badge/-jadecong.com-00CDCD?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+    </kbd>
+</p>
+
+## About Profiles
 
 - 👋 I'm a **Robot Algorithm Engineer** and **AI Enthusiast**.
 - 👀 I’m interested in robotics, artificial intelligence, robot learning and metaverse.
 - 🌱 I’m currently working on **LLM** for developing personal **AI Agents**.
 - 💞️ I’m looking forward to seeking cooperations on **humanoid robots** and **embodied intelligence** for **robot learning**.
-- 📫 You can keep in touch with me via email jade.cong@qq.com or jade.cong.me@gmail.com.
 
 ## GitHub Summaries
 
@@ -65,7 +87,7 @@
 
 ## Know More About Me
 
-[To My GitHub Pages, Here We Go~](https://jadecong.github.io/)
+[To My GitHub Pages, Here We Go~](https://jadecong.github.io)
 
 ![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
 
