@@ -32,7 +32,6 @@
 
 <table width="960px">
 <tr>
-
 <td valign="top" width="50%">
 
 ### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
@@ -51,7 +50,6 @@
 <!-- projects end -->
 
 </td>
-
 <td valign="top" width="50%">
 
 ### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
@@ -70,7 +68,6 @@
 <!-- blogs end -->
 
 </td>
-
 </tr>
 </table>
 
