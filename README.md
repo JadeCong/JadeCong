@@ -87,10 +87,7 @@
 
 ## Know More About Me
 
-<!-- [To My GitHub Pages, Here We Go~](https://jadecong.github.io) -->
-<p align="center">
-    <a href="https://jadecong.github.io" title="GitHub Pages"><code>To My GitHub Pages, Here We Go~</code></a>
-</p>
+[To My GitHub Pages, Here We Go~](https://jadecong.github.io)
 
 ![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
 
