@@ -35,8 +35,8 @@
 
 <td valign="top" width="50%">
 
-<!-- #### <a href="https://tw93.fun" target="_blank">Recent Projects</a> -->
-### [Recent Projects](https://jadecong.github.io/contents/projects/)
+### <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
+<!-- ### [Recent Projects](https://jadecong.github.io/contents/projects/) -->
 <!-- projects start -->
 - [End-to-end Teleoperation](https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/)
 - [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/)
@@ -49,8 +49,8 @@
 
 <td valign="top" width="50%">
 
-<!-- #### <a href="https://weekly.tw93.fun" target="_blank">Recent Blogs</a> -->
-### [Recent Blogs](https://jadecong.github.io/contents/blogs/)
+### <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
+<!-- ### [Recent Blogs](https://jadecong.github.io/contents/blogs/) -->
 <!-- blogs start -->
 - [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/)
 - [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/)
