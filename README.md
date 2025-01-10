@@ -32,7 +32,7 @@
 
 <table width="960px">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 ### 💼 <a href="https://jadecong.github.io/contents/projects/" target="_blank">Recent Projects</a>
 <!-- ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/) -->
@@ -50,7 +50,7 @@
 <!-- projects end -->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 ### 📔 <a href="https://jadecong.github.io/contents/blogs/" target="_blank">Recent Blogs</a>
 <!-- ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/) -->
