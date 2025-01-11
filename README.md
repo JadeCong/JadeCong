@@ -31,7 +31,7 @@
 ## Latest Posts
 
 <table width="960px">
-<tr valign="top">
+<tr>
 <td valign="top" width="480px">
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
