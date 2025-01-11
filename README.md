@@ -28,32 +28,32 @@
 - 🌱 I’m currently working on **LLM** for developing personal **AI Agents**.
 - 💞️ I’m looking forward to seeking cooperations on **humanoid robots** and **embodied intelligence** for **robot learning**.
 
-## Latest Updates
+## Latest Posts
 
 <table width="960px">
-<tr>
+<tr valign="top">
 <td valign="top" width="480px">
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
-<!-- projects start -->
+<!-- Recent-Project-List:Start -->
 - [End-to-end Teleoperation](https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/)
 - [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/)
 - [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/)
 - [Robot Teleoperation](https://jadecong.github.io/contents/projects/Robot-Teleoperation/)
 - [Robotic Softbody Manipulation](https://jadecong.github.io/contents/projects/Robotic-Softbody-Manipulation/)
-<!-- projects end -->
+<!-- Recent-Project-List:End -->
 
 </td>
 <td valign="top" width="480px">
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
-<!-- blogs start -->
+<!-- Recent-Blog-List:Start -->
 - [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/)
 - [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/)
 - [Thoughts on Embodied Intelligence and AGI](https://jadecong.github.io/contents/blogs/2024-10-17-Thoughts-on-Embodied-Intelligence-and-AGI/)
 - [What's AGI?](https://jadecong.github.io/contents/blogs/2019-08-09-Whats-AGI/)
 - [Goal of AGI](https://jadecong.github.io/contents/blogs/2019-08-02-Goal-of-AGI/)
-<!-- blogs end -->
+<!-- Recent-Blog-List:End -->
 
 </td>
 </tr>
