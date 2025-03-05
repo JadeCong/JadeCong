@@ -120,7 +120,7 @@
 
 [To My GitHub Pages, Here We Go~](https://jadecong.github.io)
 
-![GitHub-Pages-Cover](/assets/images/github-pages-cover.png)
+![GitHub Pages Cover](/assets/images/github-pages-cover.png)
 
 <!---
 JadeCong/JadeCong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
