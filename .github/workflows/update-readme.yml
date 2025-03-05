@@ -31,6 +31,11 @@ jobs:
       - name: Check out the repository to the runner
         uses: actions/checkout@v4
       
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      
       - name: Update readme
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
