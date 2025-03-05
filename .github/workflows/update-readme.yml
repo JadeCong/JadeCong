@@ -13,10 +13,10 @@ permissions:
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-# defaults:
-#   run:
-#     shell: python
-#     working-directory: ./scripts
+defaults:
+  run:
+    shell: bash
+    working-directory: ./scripts
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -41,7 +41,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 ./scripts/update-readme.py
+          python update-readme.py
           git status
           cat README.md
       
