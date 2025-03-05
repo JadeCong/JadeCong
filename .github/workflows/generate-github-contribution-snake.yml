@@ -1,0 +1,68 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate GitHub Contribution Snake
+
+run-name: Generate GitHub Contribution Snake
+
+# Controls when the action will run.
+on:
+  # This action runs every 12 hours.
+  schedule:
+    - cron: "0 */12 * * *"
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+permissions: 
+  contents: write
+
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+# The sequence of runs in this workflow.
+jobs:
+  # This workflow contains a single job called "generate-github-contribution-snake".
+  generate-github-contribution-snake:
+    name: Generate GitHub Contribution Snake
+    # The type of runner that the job will run on.
+    runs-on: ubuntu-latest
+    
+    # Steps represent a sequence of tasks that will be executed as part of the job.
+    steps:
+      # Check repos under $GITHUB_WORKSHOP, so your job can access it.
+      - name: Checkout the repository to the runner
+        uses: actions/checkout@v2.3.4
+      
+      # Generate the contribution snake.
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # These next 2 lines generate the files on the default branch called "main". This keeps the main branch from cluttering up.
+          outputs: |
+            ./assets/images/github-contribution-snake.gif?palette=github-dark
+            ./assets/images/github-contribution-snake.svg?palette=github-dark
+      
+      # Show the status of the build. Makes it easier for debugging (if there's any issues).
+      - name: Show Build Status
+        run: git status
+      
+      # Push the changes to GitHub.
+      - name: Push Changes to GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+      
+      # Deploy to GitHub Pages.
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # Use the main branch we mentioned above.
+          target_branch: main
+          build_dir: ./assets/images
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

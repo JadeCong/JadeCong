@@ -1,0 +1,53 @@
+name: Update Readme
+
+run-name: Update Readme
+
+on:
+  schedule:
+    - cron: "0 4 * * 1,4" # Run every monday and thursday at 4:00 AM
+  workflow_dispatch: # Manual dispatch
+
+permissions:
+  contents: write
+
+env:
+  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+defaults:
+  run:
+    shell: python
+    working-directory: ./scripts
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+    update-readme:
+        name: Update Readme
+        runs-on: ubuntu-latest
+        
+        steps:
+        - name: Check out the repository to the runner
+            uses: actions/checkout@v4
+        
+        - name: Configure git
+            run: |
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        - name: Run script update-readme
+            run: python update-readme.py
+            env:
+            GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        
+        - name: Commit changes
+            run: |
+            cd ..
+            git add .
+            git commit -m "Update Readme"
+        
+        - name: Push changes
+            run: git push
+            env:
+            GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
