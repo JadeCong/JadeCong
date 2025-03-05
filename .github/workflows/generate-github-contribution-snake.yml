@@ -54,7 +54,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[JadeCong-bot]"
           git config --global user.email "github-actions[JadeCong-bot]@users.noreply.github.com"
-          git commit -a -m "Generate gitHub contribution snake for JadeCong"
+          git commit -a -m "Generate github contribution snake for JadeCong"
       
       # Push the changes to GitHub.
       - name: Push Changes to GitHub
