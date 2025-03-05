@@ -16,7 +16,7 @@ env:
 defaults:
   run:
     shell: bash
-    working-directory: ./scripts
+    working-directory: ./
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -39,21 +39,21 @@ jobs:
       
       - name: Install Python dependencies
         run: |
-          python -m pip install -r requirements.txt
+          python -m pip install -r scripts/requirements.txt
       
       - name: Update readme
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python update-readme.py
+          python scripts/update-readme.py
           git status
-          cat ../README.md
+          cat README.md
       
       - name: Commit files
         run: |
           git config --global user.name "github-actions[JadeCong-bot]"
           git config --global user.email "github-actions[JadeCong-bot]@users.noreply.github.com"
-          git commit -a -m "Update readme for JadeCong"
+          git commit -a -m "Update readme for JadeCong" || exit 0
       
       - name: Push changes
         uses: ad-m/github-push-action@master
