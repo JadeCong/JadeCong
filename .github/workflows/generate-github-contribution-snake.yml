@@ -25,7 +25,7 @@ concurrency:
 jobs:
   # This workflow contains a single job called "generate-github-contribution-snake".
   generate-github-contribution-snake:
-    name: Generation for GitHub Contribution Snake
+    name: Generate GitHub Contribution Snake for JadeCong
     # The type of runner that the job will run on.
     runs-on: ubuntu-latest
     

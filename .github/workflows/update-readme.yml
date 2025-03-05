@@ -4,14 +4,14 @@ run-name: Update Readme
 
 on:
   schedule:
-    - cron: "0 4 * * 1,4" # Run every monday and thursday at 4:00 AM
+    - cron: "0 0 * * 1,4" # Run every monday and thursday at 0:00 AM
   workflow_dispatch: # Manual dispatch
 
 permissions:
   contents: write
 
 env:
-  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 defaults:
   run:
@@ -23,31 +23,30 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-    update-readme:
-        name: Update Readme
-        runs-on: ubuntu-latest
-        
-        steps:
-        - name: Check out the repository to the runner
-            uses: actions/checkout@v4
-        
-        - name: Configure git
-            run: |
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        - name: Run script update-readme
-            run: python update-readme.py
-            env:
-            GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        
-        - name: Commit changes
-            run: |
-            cd ..
-            git add .
-            git commit -m "Update Readme"
-        
-        - name: Push changes
-            run: git push
-            env:
-            GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+  update-readme:
+    name: Update Readme for JadeCong
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository to the runner
+        uses: actions/checkout@v4
+      
+      - name: Update readme
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python update-readme.py
+          git status
+          cat README.md
+      
+      - name: Commit files
+        run: |
+          git config --global user.name "github-actions[JadeCong-bot]"
+          git config --global user.email "github-actions[JadeCong-bot]@users.noreply.github.com"
+          git commit -a -m "Update readme for JadeCong"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
