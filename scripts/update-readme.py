@@ -24,7 +24,7 @@ def fetch_recent_blog_list(file_names):
     return recent_blog_list
 
 def replace_chunk(content, marker, chunk, inline=False):
-    pattern = re.compile(r"<!\-\- {}:Start \-\-!>.*?<!\-\- {}:End \-\-!>".format(marker), re.DOTALL)
+    pattern = re.compile(r"<!\-\- {}:Start \-\-!>.*?<!\-\- {}:End \-\-!>".format(marker, marker), re.DOTALL)
     if not inline:
         chunk = "\n{}\n".format(chunk)
     chunk = "<!-- {}:Start -->{}<!-- {}:End -->".format(marker, chunk, marker)
