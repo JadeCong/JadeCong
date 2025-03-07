@@ -36,7 +36,7 @@
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
-- [End-to-end Teleoperation](https://jadecong.github.io/contents/projects/End-To-End-Teleoperation/)
+- [End-to-End Teleoperation](https://jadecong.github.io/contents/projects/End-to-End-Teleoperation/)
 - [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/)
 - [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/)
 - [Robot Teleoperation](https://jadecong.github.io/contents/projects/Robot-Teleoperation/)

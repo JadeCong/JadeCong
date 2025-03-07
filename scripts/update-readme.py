@@ -66,5 +66,8 @@ if __name__ == '__main__':
     )
     readme_content = replace_chunk(readme_content, "Recent-Blog-List", recent_blogs_chunk)
     print("Updated Readme Content:\n", readme_content)
+    ## Update readme contents
     with open("README.md", 'w', encoding='utf-8') as file:
         file.write(readme_content)
+    
+    print("---------- Update readme for JadeCong ----------")
