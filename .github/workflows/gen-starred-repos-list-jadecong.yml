@@ -1,0 +1,53 @@
+name: Gen Starred Repos List - JadeCong
+
+run-name: Gen Starred Repos List - JadeCong
+
+on:
+  schedule:
+    - cron: "0 2 * * 1,4" # Run every monday and thursday at 2:00 AM
+  workflow_dispatch: # Manual dispatch
+
+permissions:
+  contents: write
+
+env:
+  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+defaults:
+  run:
+    shell: bash
+    working-directory: ./scripts
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  gen-starred-repos-list:
+    name: Gen Starred Repos List
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository to the runner
+        uses: actions/checkout@v4
+      
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[JadeCong-bot]"
+          git config --global user.email "github-actions[JadeCong-bot]@users.noreply.github.com"
+      
+      - name: Run script gen-starred-repos-list
+        run: echo "JadeCong" | ./gen-starred-repos-list.sh
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      
+      - name: Commit changes
+        run: |
+          cd ..
+          git add .
+          git commit -m "Update Starred Repos List for JadeCong" || exit 0
+      
+      - name: Push changes
+        run: git push
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

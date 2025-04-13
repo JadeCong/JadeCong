@@ -1,0 +1,53 @@
+name: Gen Followings List - JadeCong
+
+run-name: Gen Followings List - JadeCong
+
+on:
+  schedule:
+    - cron: "0 3 * * 1,4" # Run every monday and thursday at 3:00 AM
+  workflow_dispatch: # Manual dispatch
+
+permissions:
+  contents: write
+
+env:
+  GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+defaults:
+  run:
+    shell: bash
+    working-directory: ./scripts
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  gen-followings-list:
+    name: Gen Forks List
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository to the runner
+        uses: actions/checkout@v4
+      
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[JadeCong-bot]"
+          git config --global user.email "github-actions[JadeCong-bot]@users.noreply.github.com"
+      
+      - name: Run script gen-followings-list
+        run: echo "JadeCong" | ./gen-followings-list.sh
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      
+      - name: Commit changes
+        run: |
+          cd ..
+          git add .
+          git commit -m "Update Followings List for JadeCong" || exit 0
+        
+      - name: Push changes
+        run: git push
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
