@@ -67,12 +67,6 @@
 >
 > Result: assets/docs/Starred-Repos-List-JadeCong.md
 
-### (3) gen-forks-list-cloudenginehub
-
-> Goal: Generation of GitHub Repository Forks List for CloudEngineHub.
-> 
-> Result: assets/docs/Forks-List-CloudEngineHub.md
-
 ---
 
 ## References
