@@ -33,19 +33,25 @@
 > 
 > Run: sh ./scripts/pull-updates.sh
 
-### (4) gen-forks-list
+### (4) pull-all-updates
+
+> Goal: Pull updates for all existing repositories automatically with given local repository archive path.
+> 
+> Run: sh ./scripts/pull-all-updates.sh
+
+### (5) gen-forks-list
 
 > Goal: Generation for GitHub Repository Forks List with given owner(user or organization).
 >
 > Run: sh ./scripts/gen-forks-list.sh
 
-### (5) gen-starred-repos-list
+### (6) gen-starred-repos-list
 
 > Goal: Generation for GitHub Starred Repositories List with given owner(user or organization).
 >
 > Run: sh ./scripts/gen-starred-repos-list.sh
 
-### (6) gen-followings-list
+### (7) gen-followings-list
 
 > Goal: Generation for GitHub Followings List with given owner(user or organization).
 >
