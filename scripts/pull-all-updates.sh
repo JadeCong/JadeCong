@@ -20,7 +20,7 @@ for LOCAL_REPO_OWNER in $LOCAL_REPO_OWNER_LIST; do
         echo "-----"
     done
     echo "Done!"
-    echo "----- REPO_OWNER: $LOCAL_REPO_OWNER -----"
+    echo -e "----- REPO_OWNER: $LOCAL_REPO_OWNER -----\n"
 done
 echo -e "All done!\n"
 
