@@ -19,7 +19,7 @@ for LOCAL_REPO_OWNER in $LOCAL_REPO_OWNER_LIST; do
         git pull
         echo "-----"
     done
-    echo -e "Done!"
+    echo "Done!"
     echo "----- REPO_OWNER: $LOCAL_REPO_OWNER -----"
 done
 echo -e "All done!\n"
