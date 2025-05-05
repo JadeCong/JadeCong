@@ -9,7 +9,7 @@ echo -n "Please select the specific local owner path: "
 read LOCAL_OWNER_PATH 
 echo -n "Please select the specific repository owner(user or organization): "
 read REPO_OWNER && echo ""
-REPO_LOCAL_LIST=$(ls -l "$LOCAL_OWNER_PATH" | awk '/^d/ {print $NF}' | sort -f)
+REPO_LOCAL_LIST=$(ls -lA "$LOCAL_OWNER_PATH" | awk '/^d/ {print $NF}' | sort -f)
 for REPO_LOCAL in $REPO_LOCAL_LIST; do
     cd "$LOCAL_OWNER_PATH/$REPO_LOCAL"
     REPO_BRANCH=$(git branch --show-current)
