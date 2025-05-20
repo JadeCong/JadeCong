@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 env:
-  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GH_TOKEN: ${{ github.token }}
 
 defaults:
   run:
@@ -36,7 +36,7 @@ jobs:
         with:
           repository: JadeCong/JadeCong.github.io
           path: JadeCong.github.io
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -50,7 +50,7 @@ jobs:
       
       - name: Update readme
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           python scripts/update-readme.py
           git status
@@ -65,5 +65,5 @@ jobs:
       # - name: Push changes
       #   uses: ad-m/github-push-action@master
       #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     github_token: ${{ github.token }}
       #     branch: ${{ github.ref }}
