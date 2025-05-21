@@ -362,6 +362,7 @@ joaomdmoura: https://github.com/joaomdmoura
 jonyzhang2023: https://github.com/jonyzhang2023
 joschu: https://github.com/joschu
 jslee02: https://github.com/jslee02
+juliangarnier: https://github.com/juliangarnier
 junshengzhou: https://github.com/junshengzhou
 junyanz: https://github.com/junyanz
 justjavac: https://github.com/justjavac
