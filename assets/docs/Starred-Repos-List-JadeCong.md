@@ -60,6 +60,8 @@ AGI-Labs/manipulate-by-seeing[main]: https://github.com/AGI-Labs/manipulate-by-s
 AgibotTech/agibot_x1_hardware[main]: https://github.com/AgibotTech/agibot_x1_hardware.git
 AgibotTech/agibot_x1_infer[main]: https://github.com/AgibotTech/agibot_x1_infer.git
 AgibotTech/agibot_x1_train[main]: https://github.com/AgibotTech/agibot_x1_train.git
+AgibotTech/EnerVerse-AC[main]: https://github.com/AgibotTech/EnerVerse-AC.git
+AgibotTech/EWMBench[main]: https://github.com/AgibotTech/EWMBench.git
 AgibotTech/genie_sim[main]: https://github.com/AgibotTech/genie_sim.git
 AgileRobotsAG/RAFCON[develop]: https://github.com/AgileRobotsAG/RAFCON.git
 agiresearch/AIOS[main]: https://github.com/agiresearch/AIOS.git
@@ -137,7 +139,9 @@ allinssl/allinssl[1.0.3]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 als3453/Collection_TianYa[main]: https://github.com/als3453/Collection_TianYa.git
 alshedivat/al-folio[main]: https://github.com/alshedivat/al-folio.git
+AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
 alyssaq/hough_transform[master]: https://github.com/alyssaq/hough_transform.git
+alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
@@ -604,6 +608,7 @@ dingdingcai/GSPose[main]: https://github.com/dingdingcai/GSPose.git
 Dingry/BunnyVisionPro[main]: https://github.com/Dingry/BunnyVisionPro.git
 DingXiaoH/RepVGG[main]: https://github.com/DingXiaoH/RepVGG.git
 DingXiaoH/ResRep[master]: https://github.com/DingXiaoH/ResRep.git
+DINGYANB/MTVCrafter[main]: https://github.com/DINGYANB/MTVCrafter.git
 dingyiming0427/goalgail[master]: https://github.com/dingyiming0427/goalgail.git
 DioxusLabs/dioxus[main]: https://github.com/DioxusLabs/dioxus.git
 DirtyHarryLYL/HAKE[master]: https://github.com/DirtyHarryLYL/HAKE.git
@@ -1395,6 +1400,7 @@ jslee02/awesome-robotics-libraries[master]: https://github.com/jslee02/awesome-r
 jsonresume/registry-functions[master]: https://github.com/jsonresume/registry-functions.git
 jsupancic/deep_hand_pose[master]: https://github.com/jsupancic/deep_hand_pose.git
 jtoy/awesome-tensorflow[master]: https://github.com/jtoy/awesome-tensorflow.git
+juliangarnier/anime[master]: https://github.com/juliangarnier/anime.git
 julrog/nn_vis[master]: https://github.com/julrog/nn_vis.git
 JuncoJet/unlimited-landeng-for-win[master]: https://github.com/JuncoJet/unlimited-landeng-for-win.git
 Junda24/MonSter[main]: https://github.com/Junda24/MonSter.git
@@ -2451,7 +2457,7 @@ RokaeRobot/xCoreSDK-CPP[main]: https://github.com/RokaeRobot/xCoreSDK-CPP.git
 RokaeRobot/xCoreSDK-Python[main]: https://github.com/RokaeRobot/xCoreSDK-Python.git
 rolpotamias/WiLoR[main]: https://github.com/rolpotamias/WiLoR.git
 RoMeLaUCLA/robot-player[master]: https://github.com/RoMeLaUCLA/robot-player.git
-RooVetGit/Roo-Code[main]: https://github.com/RooVetGit/Roo-Code.git
+RooCodeInc/Roo-Code[main]: https://github.com/RooCodeInc/Roo-Code.git
 ros-agriculture/lawn_tractor[master]: https://github.com/ros-agriculture/lawn_tractor.git
 ros-agriculture/tractor_localization[master]: https://github.com/ros-agriculture/tractor_localization.git
 ros-drivers/rosserial[noetic-devel]: https://github.com/ros-drivers/rosserial.git
@@ -2727,6 +2733,8 @@ TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
+Tencent-Hunyuan/HunyuanVideo[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo.git
+Tencent-Hunyuan/InstantCharacter[main]: https://github.com/Tencent-Hunyuan/InstantCharacter.git
 Tencent-RoboticsX/lifelike-agility-and-play[master]: https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
 tencent-wechat/libco[master]: https://github.com/tencent-wechat/libco.git
 Tencent-YouTu/android_sdk[master]: https://github.com/Tencent-YouTu/android_sdk.git
@@ -2736,8 +2744,6 @@ Tencent/DepthCrafter[main]: https://github.com/Tencent/DepthCrafter.git
 Tencent/Hunyuan3D-1[main]: https://github.com/Tencent/Hunyuan3D-1.git
 Tencent/HunyuanCustom[main]: https://github.com/Tencent/HunyuanCustom.git
 Tencent/HunyuanDiT[main]: https://github.com/Tencent/HunyuanDiT.git
-Tencent/HunyuanVideo[main]: https://github.com/Tencent/HunyuanVideo.git
-Tencent/InstantCharacter[main]: https://github.com/Tencent/InstantCharacter.git
 Tencent/MimicMotion[main]: https://github.com/Tencent/MimicMotion.git
 Tencent/ncnn[master]: https://github.com/Tencent/ncnn.git
 Tencent/sluaunreal[master]: https://github.com/Tencent/sluaunreal.git
