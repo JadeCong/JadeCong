@@ -239,6 +239,8 @@ ARM-software/CMSIS-Zone[main]: https://github.com/ARM-software/CMSIS-Zone.git
 ARM-software/CMSIS_5[develop]: https://github.com/ARM-software/CMSIS_5.git
 ARM-software/ComputeLibrary[main]: https://github.com/ARM-software/ComputeLibrary.git
 ARM-software/Cortex_DFP[main]: https://github.com/ARM-software/Cortex_DFP.git
+armankhondker/awesome-ai-ml-resources[main]: https://github.com/armankhondker/awesome-ai-ml-resources.git
+armankhondker/best-system-design-resources[main]: https://github.com/armankhondker/best-system-design-resources.git
 ArmastusChen/inverse_painting[main]: https://github.com/ArmastusChen/inverse_painting.git
 arnold-benchmark/arnold[main]: https://github.com/arnold-benchmark/arnold.git
 ArtalkJS/Artalk[master]: https://github.com/ArtalkJS/Artalk.git
@@ -673,6 +675,7 @@ eclipse-paho/paho.mqtt.cpp[master]: https://github.com/eclipse-paho/paho.mqtt.cp
 eclipse-paho/paho.mqtt.m2mqtt[master]: https://github.com/eclipse-paho/paho.mqtt.m2mqtt.git
 eclipse-paho/paho.mqtt.python[master]: https://github.com/eclipse-paho/paho.mqtt.python.git
 eclipse-threadx/threadx[master]: https://github.com/eclipse-threadx/threadx.git
+ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
 elecfreaks/XGO-Rider[master]: https://github.com/elecfreaks/XGO-Rider.git
 electech6/ORB_SLAM2_detailed_comments[master]: https://github.com/electech6/ORB_SLAM2_detailed_comments.git
@@ -1141,6 +1144,7 @@ holistic-3d/awesome-holistic-3d[master]: https://github.com/holistic-3d/awesome-
 Holistic-Motion2D/Tender[main]: https://github.com/Holistic-Motion2D/Tender.git
 holman/dotfiles[master]: https://github.com/holman/dotfiles.git
 home-assistant/core[dev]: https://github.com/home-assistant/core.git
+hongsukchoi/VideoMimic[main]: https://github.com/hongsukchoi/VideoMimic.git
 hongtaoh/us-comm-phd[master]: https://github.com/hongtaoh/us-comm-phd.git
 honojs/hono[main]: https://github.com/honojs/hono.git
 Hopetree/izone[master]: https://github.com/Hopetree/izone.git
@@ -1208,6 +1212,7 @@ hustvl/YOLOS[main]: https://github.com/hustvl/YOLOS.git
 Huxpro/huxpro.github.io[master]: https://github.com/Huxpro/huxpro.github.io.git
 HVision-NKU/StoryDiffusion[main]: https://github.com/HVision-NKU/StoryDiffusion.git
 hwdsl2/setup-ipsec-vpn[master]: https://github.com/hwdsl2/setup-ipsec-vpn.git
+HybridRobotics/Berkeley-Humanoid-Lite[main]: https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
 hydecorp/hydejack[master]: https://github.com/hydecorp/hydejack.git
 hydecorp/hydejack-site[master]: https://github.com/hydecorp/hydejack-site.git
 hydecorp/hydejack-starter-kit[master]: https://github.com/hydecorp/hydejack-starter-kit.git
@@ -1809,6 +1814,7 @@ microsoft/UFO[main]: https://github.com/microsoft/UFO.git
 microsoft/vcpkg[master]: https://github.com/microsoft/vcpkg.git
 microsoft/vscode[main]: https://github.com/microsoft/vscode.git
 microsoft/Web-Dev-For-Beginners[main]: https://github.com/microsoft/Web-Dev-For-Beginners.git
+microsoft/WSL[master]: https://github.com/microsoft/WSL.git
 microsoft/xr-development-for-beginners[main]: https://github.com/microsoft/xr-development-for-beginners.git
 mihdalal/manipgen[master]: https://github.com/mihdalal/manipgen.git
 mihdalal/neuralmotionplanner[main]: https://github.com/mihdalal/neuralmotionplanner.git
@@ -2733,6 +2739,9 @@ TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
+Tencent-Hunyuan/Hunyuan3D-1[main]: https://github.com/Tencent-Hunyuan/Hunyuan3D-1.git
+Tencent-Hunyuan/HunyuanCustom[main]: https://github.com/Tencent-Hunyuan/HunyuanCustom.git
+Tencent-Hunyuan/HunyuanDiT[main]: https://github.com/Tencent-Hunyuan/HunyuanDiT.git
 Tencent-Hunyuan/HunyuanVideo[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo.git
 Tencent-Hunyuan/InstantCharacter[main]: https://github.com/Tencent-Hunyuan/InstantCharacter.git
 Tencent-RoboticsX/lifelike-agility-and-play[master]: https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
@@ -2741,9 +2750,6 @@ Tencent-YouTu/android_sdk[master]: https://github.com/Tencent-YouTu/android_sdk.
 Tencent-YouTu/Python_sdk[master]: https://github.com/Tencent-YouTu/Python_sdk.git
 Tencent/APIJSON[master]: https://github.com/Tencent/APIJSON.git
 Tencent/DepthCrafter[main]: https://github.com/Tencent/DepthCrafter.git
-Tencent/Hunyuan3D-1[main]: https://github.com/Tencent/Hunyuan3D-1.git
-Tencent/HunyuanCustom[main]: https://github.com/Tencent/HunyuanCustom.git
-Tencent/HunyuanDiT[main]: https://github.com/Tencent/HunyuanDiT.git
 Tencent/MimicMotion[main]: https://github.com/Tencent/MimicMotion.git
 Tencent/ncnn[master]: https://github.com/Tencent/ncnn.git
 Tencent/sluaunreal[master]: https://github.com/Tencent/sluaunreal.git
