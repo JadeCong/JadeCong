@@ -62,6 +62,7 @@ argusswift: https://github.com/argusswift
 ARISE-Initiative: https://github.com/ARISE-Initiative
 ARM-software: https://github.com/ARM-software
 arm-university: https://github.com/arm-university
+armankhondker: https://github.com/armankhondker
 ARMmbed: https://github.com/ARMmbed
 ashawkey: https://github.com/ashawkey
 ashish-kmr: https://github.com/ashish-kmr
@@ -302,6 +303,7 @@ HKUST-Aerial-Robotics: https://github.com/HKUST-Aerial-Robotics
 hmrishavbandy: https://github.com/hmrishavbandy
 hms-dbmi: https://github.com/hms-dbmi
 home-assistant: https://github.com/home-assistant
+hongsukchoi: https://github.com/hongsukchoi
 honojs: https://github.com/honojs
 Hopetree: https://github.com/Hopetree
 hoppscotch: https://github.com/hoppscotch
@@ -318,6 +320,7 @@ humaan-ai: https://github.com/humaan-ai
 HumaRobotics: https://github.com/HumaRobotics
 Huxpro: https://github.com/Huxpro
 HVision-NKU: https://github.com/HVision-NKU
+HybridRobotics: https://github.com/HybridRobotics
 hyfydy: https://github.com/hyfydy
 hyparxis: https://github.com/hyparxis
 hyperai: https://github.com/hyperai
