@@ -26,6 +26,7 @@ aimagelab: https://github.com/aimagelab
 AIRI-Institute: https://github.com/AIRI-Institute
 Akryum: https://github.com/Akryum
 AlaaLab: https://github.com/AlaaLab
+Alescontrela: https://github.com/Alescontrela
 alexandrebarachant: https://github.com/alexandrebarachant
 alexbers: https://github.com/alexbers
 AlexeyAB: https://github.com/AlexeyAB
@@ -283,6 +284,7 @@ Haiyang-W: https://github.com/Haiyang-W
 handayu: https://github.com/handayu
 hanliumaozhi: https://github.com/hanliumaozhi
 hanruihua: https://github.com/hanruihua
+haosulab: https://github.com/haosulab
 haotian-liu: https://github.com/haotian-liu
 harvard: https://github.com/harvard
 HazyResearch: https://github.com/HazyResearch
@@ -487,7 +489,6 @@ Mozilla-Ocho: https://github.com/Mozilla-Ocho
 mpaepper: https://github.com/mpaepper
 mrdbourke: https://github.com/mrdbourke
 MrTornado24: https://github.com/MrTornado24
-MULTI-ON: https://github.com/MULTI-ON
 mutableai: https://github.com/mutableai
 MVIG-SJTU: https://github.com/MVIG-SJTU
 MyoHub: https://github.com/MyoHub
@@ -545,6 +546,7 @@ OAI: https://github.com/OAI
 octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
 Oneflow-Inc: https://github.com/Oneflow-Inc
+OneStarRobotics: https://github.com/OneStarRobotics
 ONLYOFFICE: https://github.com/ONLYOFFICE
 onuratakan: https://github.com/onuratakan
 open-compass: https://github.com/open-compass
