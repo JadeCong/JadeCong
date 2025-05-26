@@ -104,6 +104,7 @@ akullpp/awesome-java[master]: https://github.com/akullpp/awesome-java.git
 Alamofire/Alamofire[master]: https://github.com/Alamofire/Alamofire.git
 AlbertSlam/Lee-SLAM-source[master]: https://github.com/AlbertSlam/Lee-SLAM-source.git
 alebcay/awesome-shell[master]: https://github.com/alebcay/awesome-shell.git
+Alescontrela/AMP_for_hardware[main]: https://github.com/Alescontrela/AMP_for_hardware.git
 alex-damian/pulse[master]: https://github.com/alex-damian/pulse.git
 AlexanderKoch-Koch/low_cost_robot[main]: https://github.com/AlexanderKoch-Koch/low_cost_robot.git
 AlexeyAB/darknet[master]: https://github.com/AlexeyAB/darknet.git
@@ -135,7 +136,7 @@ allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.0.3]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.0.4]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 als3453/Collection_TianYa[main]: https://github.com/als3453/Collection_TianYa.git
 alshedivat/al-folio[main]: https://github.com/alshedivat/al-folio.git
@@ -1087,6 +1088,7 @@ hanzhanggit/StackGAN-inception-model[master]: https://github.com/hanzhanggit/Sta
 hanzhanggit/StackGAN-Pytorch[master]: https://github.com/hanzhanggit/StackGAN-Pytorch.git
 hanzhanggit/StackGAN-v2[master]: https://github.com/hanzhanggit/StackGAN-v2.git
 haoel/leetcode[master]: https://github.com/haoel/leetcode.git
+haosulab/MPlib[main]: https://github.com/haosulab/MPlib.git
 haotian-liu/LLaVA[main]: https://github.com/haotian-liu/LLaVA.git
 haoyi-duan/WorldScore[main]: https://github.com/haoyi-duan/WorldScore.git
 HaoyiZhu/SPA[main]: https://github.com/HaoyiZhu/SPA.git
@@ -1399,6 +1401,7 @@ joonspk-research/generative_agents[main]: https://github.com/joonspk-research/ge
 joschu/trajopt[master]: https://github.com/joschu/trajopt.git
 josephmisiti/awesome-machine-learning[master]: https://github.com/josephmisiti/awesome-machine-learning.git
 joshua-wu/deepfakes_faceswap[master]: https://github.com/joshua-wu/deepfakes_faceswap.git
+JOY-MM/JoyGen[main]: https://github.com/JOY-MM/JoyGen.git
 jquery/jquery[main]: https://github.com/jquery/jquery.git
 Jrohy/trojan[master]: https://github.com/Jrohy/trojan.git
 jslee02/awesome-robotics-libraries[master]: https://github.com/jslee02/awesome-robotics-libraries.git
@@ -2073,6 +2076,7 @@ ollama/ollama[main]: https://github.com/ollama/ollama.git
 OmniSVG/OmniSVG[main]: https://github.com/OmniSVG/OmniSVG.git
 Oneflow-Inc/oneflow[master]: https://github.com/Oneflow-Inc/oneflow.git
 ONERAI/xTrimoPGLM[main]: https://github.com/ONERAI/xTrimoPGLM.git
+OneStarRobotics/FastUMI_Data[main]: https://github.com/OneStarRobotics/FastUMI_Data.git
 onlytailei/gym_ped_sim[public]: https://github.com/onlytailei/gym_ped_sim.git
 onnx/onnx[main]: https://github.com/onnx/onnx.git
 ooni/ooni.org[master]: https://github.com/ooni/ooni.org.git
@@ -2971,6 +2975,7 @@ uqfoundation/multiprocess[master]: https://github.com/uqfoundation/multiprocess.
 usebruno/bruno[main]: https://github.com/usebruno/bruno.git
 usefulsensors/moonshine[main]: https://github.com/usefulsensors/moonshine.git
 USTC3DV/PortraitGen-code[main]: https://github.com/USTC3DV/PortraitGen-code.git
+UT-Austin-RPL/deoxys_control[main]: https://github.com/UT-Austin-RPL/deoxys_control.git
 UT-Austin-RPL/GROOT[master]: https://github.com/UT-Austin-RPL/GROOT.git
 UT-Austin-RPL/TRILL[main]: https://github.com/UT-Austin-RPL/TRILL.git
 UT-HCRL/LEGATO[main]: https://github.com/UT-HCRL/LEGATO.git
@@ -3188,6 +3193,7 @@ youngwoo-yoon/Co-Speech_Gesture_Generation[master]: https://github.com/youngwoo-
 youyuge34/Poems_generator_Keras[master]: https://github.com/youyuge34/Poems_generator_Keras.git
 yrlu/irl-imitation[master]: https://github.com/yrlu/irl-imitation.git
 yt-dlp/yt-dlp[master]: https://github.com/yt-dlp/yt-dlp.git
+yuanfei-Wang/AdaManip[main]: https://github.com/yuanfei-Wang/AdaManip.git
 yuanshenli/roller-grasper-v3[main]: https://github.com/yuanshenli/roller-grasper-v3.git
 yuanshenli/RollerGrasperV2[master]: https://github.com/yuanshenli/RollerGrasperV2.git
 yuanshenli/Tactile-Reactive-Roller-Grasper[main]: https://github.com/yuanshenli/Tactile-Reactive-Roller-Grasper.git
@@ -3197,6 +3203,7 @@ yuchenlin/rebiber[main]: https://github.com/yuchenlin/rebiber.git
 yuechen0614/ET-SEED[main]: https://github.com/yuechen0614/ET-SEED.git
 YuelangX/Gaussian-Head-Avatar[main]: https://github.com/YuelangX/Gaussian-Head-Avatar.git
 yuelinxin/hello-algo-en[yuelinxin-en]: https://github.com/yuelinxin/hello-algo-en.git
+yufu-wang/PromptHMR[main]: https://github.com/yufu-wang/PromptHMR.git
 yuhaozhang7/NGD-SLAM[main]: https://github.com/yuhaozhang7/NGD-SLAM.git
 yukezhu/tensorflow-reinforce[master]: https://github.com/yukezhu/tensorflow-reinforce.git
 yukihiko/ThreeDPoseUnitySample[master]: https://github.com/yukihiko/ThreeDPoseUnitySample.git
@@ -3234,6 +3241,7 @@ Zheng-Chong/CatVTON[edited]: https://github.com/Zheng-Chong/CatVTON.git
 ZhengdiYu/Dyn-HaMR[main]: https://github.com/ZhengdiYu/Dyn-HaMR.git
 ZhengPeng7/BiRefNet[main]: https://github.com/ZhengPeng7/BiRefNet.git
 ZhengtongXu/UniT[main]: https://github.com/ZhengtongXu/UniT.git
+zhenyuwei2003/DRO-Grasp[master]: https://github.com/zhenyuwei2003/DRO-Grasp.git
 zhisheng17/flink-learning[master]: https://github.com/zhisheng17/flink-learning.git
 zhongleilz/Sketch2Anim[main]: https://github.com/zhongleilz/Sketch2Anim.git
 zhongyang219/TrafficMonitor[master]: https://github.com/zhongyang219/TrafficMonitor.git
