@@ -34,6 +34,7 @@ Abd-007/Switch-Emulators-Guide[main]: https://github.com/Abd-007/Switch-Emulator
 abdo-eldesokey/build-a-scene[main]: https://github.com/abdo-eldesokey/build-a-scene.git
 abhishekkrthakur/approachingalmost[master]: https://github.com/abhishekkrthakur/approachingalmost.git
 abi/screenshot-to-code[main]: https://github.com/abi/screenshot-to-code.git
+abliao/RoBridge[main]: https://github.com/abliao/RoBridge.git
 ac-rad/anyplace[main]: https://github.com/ac-rad/anyplace.git
 academicpages/academicpages.github.io[master]: https://github.com/academicpages/academicpages.github.io.git
 Accenture/AmpliGraph[develop]: https://github.com/Accenture/AmpliGraph.git
@@ -119,7 +120,7 @@ ali-vilab/UniAnimate[main]: https://github.com/ali-vilab/UniAnimate.git
 ali-vilab/VACE[main]: https://github.com/ali-vilab/VACE.git
 AliaksandrSiarohin/first-order-model[master]: https://github.com/AliaksandrSiarohin/first-order-model.git
 alibaba-developer/Alibaba-Interview-Skill[master]: https://github.com/alibaba-developer/Alibaba-Interview-Skill.git
-Alibaba-NLP/WebWalker[main]: https://github.com/Alibaba-NLP/WebWalker.git
+Alibaba-NLP/WebAgent[main]: https://github.com/Alibaba-NLP/WebAgent.git
 alibaba/acqdp[main]: https://github.com/alibaba/acqdp.git
 alibaba/AliOS-Things[master]: https://github.com/alibaba/AliOS-Things.git
 alibaba/druid[master]: https://github.com/alibaba/druid.git
@@ -327,6 +328,7 @@ benmahr/huaweimind[master]: https://github.com/benmahr/huaweimind.git
 benpry/why-think-step-by-step[main]: https://github.com/benpry/why-think-step-by-step.git
 BEPb/BEPb[main]: https://github.com/BEPb/BEPb.git
 BerkeleyAutomation/dex-net[master]: https://github.com/BerkeleyAutomation/dex-net.git
+BerkeleyAutomation/fog_x[main]: https://github.com/BerkeleyAutomation/fog_x.git
 BerkeleyAutomation/HIL-MT[master]: https://github.com/BerkeleyAutomation/HIL-MT.git
 berndporr/iir1[master]: https://github.com/berndporr/iir1.git
 BerriAI/litellm[main]: https://github.com/BerriAI/litellm.git
@@ -389,6 +391,7 @@ bytedance/pasa[main]: https://github.com/bytedance/pasa.git
 bytedance/sonic[main]: https://github.com/bytedance/sonic.git
 bytedance/UI-TARS[main]: https://github.com/bytedance/UI-TARS.git
 bytedance/UI-TARS-desktop[main]: https://github.com/bytedance/UI-TARS-desktop.git
+bytedance/WildDoc[master]: https://github.com/bytedance/WildDoc.git
 bytedance/X-Dyna[main]: https://github.com/bytedance/X-Dyna.git
 caddyserver/caddy[master]: https://github.com/caddyserver/caddy.git
 caelan/pybullet-planning[master]: https://github.com/caelan/pybullet-planning.git
@@ -646,6 +649,7 @@ dragonbook/V2V-PoseNet-pytorch[master]: https://github.com/dragonbook/V2V-PoseNe
 dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation.git
 dragonflydb/dragonfly[main]: https://github.com/dragonflydb/dragonfly.git
 Drassil/git-wiki[gh-pages]: https://github.com/Drassil/git-wiki.git
+DreamTechAI/Direct3D-S2[main]: https://github.com/DreamTechAI/Direct3D-S2.git
 Drexubery/ViewCrafter[main]: https://github.com/Drexubery/ViewCrafter.git
 droid-dataset/droid[main]: https://github.com/droid-dataset/droid.git
 droid-dataset/droid_policy_learning[master]: https://github.com/droid-dataset/droid_policy_learning.git
@@ -1493,7 +1497,7 @@ Kong/swrv[master]: https://github.com/Kong/swrv.git
 kortix-ai/suna[main]: https://github.com/kortix-ai/suna.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
 krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
-krillinai/KrillinAI[master]: https://github.com/krillinai/KrillinAI.git
+krillinai/KlicStudio[master]: https://github.com/krillinai/KlicStudio.git
 krishauser/Klampt[master]: https://github.com/krishauser/Klampt.git
 krishauser/Klampt-examples[master]: https://github.com/krishauser/Klampt-examples.git
 kristery/Awesome-Imitation-Learning[master]: https://github.com/kristery/Awesome-Imitation-Learning.git
@@ -2009,13 +2013,10 @@ NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_
 NVIDIA-Omniverse/deep-dive-into-microservices[main]: https://github.com/NVIDIA-Omniverse/deep-dive-into-microservices.git
 NVIDIA-Omniverse/iot-samples[main]: https://github.com/NVIDIA-Omniverse/iot-samples.git
 NVIDIA-Omniverse/kit-app-template[main]: https://github.com/NVIDIA-Omniverse/kit-app-template.git
-NVIDIA-Omniverse/kit-extension-sample-airoomgenerator[main]: https://github.com/NVIDIA-Omniverse/kit-extension-sample-airoomgenerator.git
 NVIDIA-Omniverse/kit-extension-sample-ui-scene[main]: https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-scene.git
 NVIDIA-Omniverse/kit-extension-sample-ui-window[main]: https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-window.git
-NVIDIA-Omniverse/kit-extension-template[main]: https://github.com/NVIDIA-Omniverse/kit-extension-template.git
 NVIDIA-Omniverse/kit-extension-template-cpp[main]: https://github.com/NVIDIA-Omniverse/kit-extension-template-cpp.git
 NVIDIA-Omniverse/kit-osc[main]: https://github.com/NVIDIA-Omniverse/kit-osc.git
-NVIDIA-Omniverse/kit-project-template[main]: https://github.com/NVIDIA-Omniverse/kit-project-template.git
 NVIDIA-Omniverse/OpenUSD-plugin-samples[main]: https://github.com/NVIDIA-Omniverse/OpenUSD-plugin-samples.git
 NVIDIA-Omniverse/PhysX[main]: https://github.com/NVIDIA-Omniverse/PhysX.git
 NVIDIA-Omniverse/synthetic-data-examples[main]: https://github.com/NVIDIA-Omniverse/synthetic-data-examples.git
@@ -2733,6 +2734,7 @@ TAMS-Group/TeachNet_Teleoperation[melodic]: https://github.com/TAMS-Group/TeachN
 TangYihe/unsup-affordance[main]: https://github.com/TangYihe/unsup-affordance.git
 Taokt/MT-ACT[main]: https://github.com/Taokt/MT-ACT.git
 tarm/serial[master]: https://github.com/tarm/serial.git
+tasl-lab/LaMMA-P[main]: https://github.com/tasl-lab/LaMMA-P.git
 tatsu-lab/stanford_alpaca[main]: https://github.com/tatsu-lab/stanford_alpaca.git
 tauri-apps/tauri[dev]: https://github.com/tauri-apps/tauri.git
 tavily-ai/tavily-python[master]: https://github.com/tavily-ai/tavily-python.git
@@ -2852,6 +2854,7 @@ TixiaoShan/LVI-SAM[master]: https://github.com/TixiaoShan/LVI-SAM.git
 TJU-Aerial-Robotics/YOPO[main]: https://github.com/TJU-Aerial-Robotics/YOPO.git
 tjy-gitnub/win12[main]: https://github.com/tjy-gitnub/win12.git
 tkarras/progressive_growing_of_gans[master]: https://github.com/tkarras/progressive_growing_of_gans.git
+TKJElectronics/KalmanFilter[master]: https://github.com/TKJElectronics/KalmanFilter.git
 tldr-pages/tldr[main]: https://github.com/tldr-pages/tldr.git
 tldraw/tldraw[main]: https://github.com/tldraw/tldraw.git
 TMElyralab/MusePose[main]: https://github.com/TMElyralab/MusePose.git
@@ -3018,6 +3021,7 @@ VIS4ROB-lab/covins[master]: https://github.com/VIS4ROB-lab/covins.git
 Vision-CAIR/LongVU[main]: https://github.com/Vision-CAIR/LongVU.git
 Vision-CAIR/MiniGPT-4[main]: https://github.com/Vision-CAIR/MiniGPT-4.git
 Vision-CAIR/MiniGPT4-video[main]: https://github.com/Vision-CAIR/MiniGPT4-video.git
+vision-tactile-manip/quest2_ros_msg[main]: https://github.com/vision-tactile-manip/quest2_ros_msg.git
 vision-x-nyu/thinking-in-space[main]: https://github.com/vision-x-nyu/thinking-in-space.git
 vlad-ds/whisper-keyboard[main]: https://github.com/vlad-ds/whisper-keyboard.git
 vlfeat/matconvnet[master]: https://github.com/vlfeat/matconvnet.git
