@@ -749,6 +749,7 @@ svpino: https://github.com/svpino
 SwanHubX: https://github.com/SwanHubX
 TairanHe: https://github.com/TairanHe
 TAMS-Group: https://github.com/TAMS-Group
+tasl-lab: https://github.com/tasl-lab
 tatsu-lab: https://github.com/tatsu-lab
 tauri-apps: https://github.com/tauri-apps
 tavily-ai: https://github.com/tavily-ai
