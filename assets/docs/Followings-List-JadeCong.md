@@ -444,6 +444,7 @@ MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
 magic-research: https://github.com/magic-research
 majacinka: https://github.com/majacinka
+MakeYourPet: https://github.com/MakeYourPet
 MandiZhao: https://github.com/MandiZhao
 ManimCommunity: https://github.com/ManimCommunity
 mannaandpoem: https://github.com/mannaandpoem
@@ -898,6 +899,7 @@ Yidadaa: https://github.com/Yidadaa
 yikaiw: https://github.com/yikaiw
 yiranran: https://github.com/yiranran
 YJango: https://github.com/YJango
+younggyoseo: https://github.com/younggyoseo
 yt-dlp: https://github.com/yt-dlp
 yuanwr: https://github.com/yuanwr
 yukezhu: https://github.com/yukezhu
