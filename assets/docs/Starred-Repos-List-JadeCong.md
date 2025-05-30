@@ -113,6 +113,7 @@ alexjc/neural-enhance[master]: https://github.com/alexjc/neural-enhance.git
 alexwu-bayarea/stereo-dso[master]: https://github.com/alexwu-bayarea/stereo-dso.git
 alfworld/alfworld[master]: https://github.com/alfworld/alfworld.git
 Algomancer/Bayesian-Flow-Networks[main]: https://github.com/Algomancer/Bayesian-Flow-Networks.git
+algorithm-visualizer/algorithm-visualizer[master]: https://github.com/algorithm-visualizer/algorithm-visualizer.git
 ali-vilab/In-Context-LoRA[main]: https://github.com/ali-vilab/In-Context-LoRA.git
 ali-vilab/MangaNinjia[main]: https://github.com/ali-vilab/MangaNinjia.git
 ali-vilab/MimicBrush[main]: https://github.com/ali-vilab/MimicBrush.git
@@ -417,6 +418,7 @@ cbfinn/maml_rl[master]: https://github.com/cbfinn/maml_rl.git
 cbfinn/rllab[master]: https://github.com/cbfinn/rllab.git
 cbh123/stickerbaker[main]: https://github.com/cbh123/stickerbaker.git
 cbsudux/awesome-human-pose-estimation[master]: https://github.com/cbsudux/awesome-human-pose-estimation.git
+cccedric/conrft[main]: https://github.com/cccedric/conrft.git
 ccyyycy/ycy[master]: https://github.com/ccyyycy/ycy.git
 cdevin/objectattention[master]: https://github.com/cdevin/objectattention.git
 cdjc/goto[master]: https://github.com/cdjc/goto.git
@@ -1203,6 +1205,7 @@ huggingface/transformers[main]: https://github.com/huggingface/transformers.git
 huggingface/transformers-bloom-inference[main]: https://github.com/huggingface/transformers-bloom-inference.git
 huggingface/transformers.js[main]: https://github.com/huggingface/transformers.js.git
 hujiecpp/PE3R[main]: https://github.com/hujiecpp/PE3R.git
+HuLaSpark/HuLa[master]: https://github.com/HuLaSpark/HuLa.git
 HumanAIGC/EMO[main]: https://github.com/HumanAIGC/EMO.git
 HumanAIGC/OutfitAnyone[main]: https://github.com/HumanAIGC/OutfitAnyone.git
 HumanAIGC/VividTalk[main]: https://github.com/HumanAIGC/VividTalk.git
@@ -1696,6 +1699,7 @@ MadcowD/ell[main]: https://github.com/MadcowD/ell.git
 MADEAPPS/newton-dynamics[master]: https://github.com/MADEAPPS/newton-dynamics.git
 MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
 magic-research/Sa2VA[main]: https://github.com/magic-research/Sa2VA.git
+MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
 ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
@@ -2805,6 +2809,8 @@ Theano/Theano[master]: https://github.com/Theano/Theano.git
 TheEngineRoom-UniGe/ARMOR_OWLOOP[master]: https://github.com/TheEngineRoom-UniGe/ARMOR_OWLOOP.git
 TheKingOfDuck/burpFakeIP[master]: https://github.com/TheKingOfDuck/burpFakeIP.git
 TheMistoAI/MistoLine[main]: https://github.com/TheMistoAI/MistoLine.git
+TheRobotStudio/HOPEJr[main]: https://github.com/TheRobotStudio/HOPEJr.git
+TheRobotStudio/SO-ARM100[main]: https://github.com/TheRobotStudio/SO-ARM100.git
 TheRobotStudio/V1.0-Dexhand[main]: https://github.com/TheRobotStudio/V1.0-Dexhand.git
 thoughtbot/dotfiles[main]: https://github.com/thoughtbot/dotfiles.git
 thu-coai/SafetyBench[main]: https://github.com/thu-coai/SafetyBench.git
@@ -3092,6 +3098,7 @@ wsdjeg/SpaceVim[master]: https://github.com/wsdjeg/SpaceVim.git
 wuhaoran996/openRobotics[master]: https://github.com/wuhaoran996/openRobotics.git
 wuphilipp/gello_software[main]: https://github.com/wuphilipp/gello_software.git
 wuyouzhuguli/SpringAll[master]: https://github.com/wuyouzhuguli/SpringAll.git
+wwsource/SceneTracker[main]: https://github.com/wwsource/SceneTracker.git
 wwxFromTju/awesome-reinforcement-learning-zh[master]: https://github.com/wwxFromTju/awesome-reinforcement-learning-zh.git
 wxflamy/siasun_ws[master]: https://github.com/wxflamy/siasun_ws.git
 wxmerkt/pinocchio_ros_example[master]: https://github.com/wxmerkt/pinocchio_ros_example.git
@@ -3193,6 +3200,7 @@ yoheinakajima/babyagi[main]: https://github.com/yoheinakajima/babyagi.git
 yoheinakajima/prettygraph[main]: https://github.com/yoheinakajima/prettygraph.git
 yoneken/rosserial_stm32[master]: https://github.com/yoneken/rosserial_stm32.git
 YouDream3D/YouDream[main]: https://github.com/YouDream3D/YouDream.git
+younggyoseo/FastTD3[main]: https://github.com/younggyoseo/FastTD3.git
 youngwoo-yoon/Co-Speech_Gesture_Generation[master]: https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation.git
 youyuge34/Poems_generator_Keras[master]: https://github.com/youyuge34/Poems_generator_Keras.git
 yrlu/irl-imitation[master]: https://github.com/yrlu/irl-imitation.git
