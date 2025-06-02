@@ -329,8 +329,8 @@ benmahr/huaweimind[master]: https://github.com/benmahr/huaweimind.git
 benpry/why-think-step-by-step[main]: https://github.com/benpry/why-think-step-by-step.git
 BEPb/BEPb[main]: https://github.com/BEPb/BEPb.git
 BerkeleyAutomation/dex-net[master]: https://github.com/BerkeleyAutomation/dex-net.git
-BerkeleyAutomation/fog_x[main]: https://github.com/BerkeleyAutomation/fog_x.git
 BerkeleyAutomation/HIL-MT[master]: https://github.com/BerkeleyAutomation/HIL-MT.git
+BerkeleyAutomation/robodm[main]: https://github.com/BerkeleyAutomation/robodm.git
 berndporr/iir1[master]: https://github.com/berndporr/iir1.git
 BerriAI/litellm[main]: https://github.com/BerriAI/litellm.git
 bharathgs/Awesome-pytorch-list[master]: https://github.com/bharathgs/Awesome-pytorch-list.git
@@ -824,6 +824,7 @@ Farama-Foundation/D4RL-Evaluations[master]: https://github.com/Farama-Foundation
 Farama-Foundation/Gymnasium[main]: https://github.com/Farama-Foundation/Gymnasium.git
 Farama-Foundation/Metaworld[master]: https://github.com/Farama-Foundation/Metaworld.git
 Farama-Foundation/Minigrid[master]: https://github.com/Farama-Foundation/Minigrid.git
+Farama-Foundation/MO-Gymnasium[main]: https://github.com/Farama-Foundation/MO-Gymnasium.git
 Farama-Foundation/ViZDoom[master]: https://github.com/Farama-Foundation/ViZDoom.git
 FareedKhan-dev/Building-llama3-from-scratch[main]: https://github.com/FareedKhan-dev/Building-llama3-from-scratch.git
 farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
@@ -1128,6 +1129,7 @@ heykeetae/Self-Attention-GAN[master]: https://github.com/heykeetae/Self-Attentio
 hezhangsprinter/ID-CGAN[master]: https://github.com/hezhangsprinter/ID-CGAN.git
 HFAiLab/OpenCastKit[master]: https://github.com/HFAiLab/OpenCastKit.git
 hhstore/awesome-buying-a-house[master]: https://github.com/hhstore/awesome-buying-a-house.git
+HiDream-ai/MotionPro[main]: https://github.com/HiDream-ai/MotionPro.git
 hieunc229/copilot-clone[master]: https://github.com/hieunc229/copilot-clone.git
 HigherOrderCO/Bend[main]: https://github.com/HigherOrderCO/Bend.git
 hill-a/stable-baselines[master]: https://github.com/hill-a/stable-baselines.git
@@ -1593,6 +1595,7 @@ lihanghang/NLP-Knowledge-Graph[master]: https://github.com/lihanghang/NLP-Knowle
 LiheYoung/Depth-Anything[main]: https://github.com/LiheYoung/Depth-Anything.git
 lihxxx/DisPose[main]: https://github.com/lihxxx/DisPose.git
 lijx10/uwb-localization[master]: https://github.com/lijx10/uwb-localization.git
+linchangyi1/LocoTouch[main]: https://github.com/linchangyi1/LocoTouch.git
 lingxiaomeng/VR_Teleoperation_Gen3[main]: https://github.com/lingxiaomeng/VR_Teleoperation_Gen3.git
 linkerbotai/human-dex[main]: https://github.com/linkerbotai/human-dex.git
 Linketic/CityGaussian[main]: https://github.com/Linketic/CityGaussian.git
@@ -1666,6 +1669,8 @@ lra/mackup[master]: https://github.com/lra/mackup.git
 lrxjason/Attention3DHumanPose[master]: https://github.com/lrxjason/Attention3DHumanPose.git
 luban-agi/Awesome-Domain-LLM[main]: https://github.com/luban-agi/Awesome-Domain-LLM.git
 Lucaria-Academy/Animate-X[main]: https://github.com/Lucaria-Academy/Animate-X.git
+LucasAlegre/morl-baselines[main]: https://github.com/LucasAlegre/morl-baselines.git
+LucasAlegre/sumo-rl[main]: https://github.com/LucasAlegre/sumo-rl.git
 lucasjinreal/faceswap_pytorch[master]: https://github.com/lucasjinreal/faceswap_pytorch.git
 lucasjinreal/yolov7_d2[main]: https://github.com/lucasjinreal/yolov7_d2.git
 luccachiang/robots-pretrain-robots[main]: https://github.com/luccachiang/robots-pretrain-robots.git
@@ -1699,6 +1704,7 @@ MadcowD/ell[main]: https://github.com/MadcowD/ell.git
 MADEAPPS/newton-dynamics[master]: https://github.com/MADEAPPS/newton-dynamics.git
 MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
 magic-research/Sa2VA[main]: https://github.com/magic-research/Sa2VA.git
+MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
@@ -1834,6 +1840,7 @@ mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
 mindsdb/mindsdb[main]: https://github.com/mindsdb/mindsdb.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
 mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_mujoco.git
+minghu0830/OphNet-3D[main]: https://github.com/minghu0830/OphNet-3D.git
 minghu0830/OphNet-benchmark[main]: https://github.com/minghu0830/OphNet-benchmark.git
 mingukkang/GigaGAN[main]: https://github.com/mingukkang/GigaGAN.git
 minqi/learning-to-communicate-pytorch[master]: https://github.com/minqi/learning-to-communicate-pytorch.git
@@ -2285,6 +2292,10 @@ Po-Jen/awesome-grasping[master]: https://github.com/Po-Jen/awesome-grasping.git
 Po-Jen/awesome-human-robot-interaction[master]: https://github.com/Po-Jen/awesome-human-robot-interaction.git
 pocketxjl/humanoid-control[main]: https://github.com/pocketxjl/humanoid-control.git
 Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
+pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
+pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
+pollen-robotics/reachy2-sdk[develop]: https://github.com/pollen-robotics/reachy2-sdk.git
+pollen-robotics/reachy_2023[develop]: https://github.com/pollen-robotics/reachy_2023.git
 poloclub/cnn-explainer[master]: https://github.com/poloclub/cnn-explainer.git
 poloclub/ganlab[master]: https://github.com/poloclub/ganlab.git
 poloclub/transformer-explainer[main]: https://github.com/poloclub/transformer-explainer.git
@@ -2605,6 +2616,7 @@ sime/morse-transmitter[main]: https://github.com/sime/morse-transmitter.git
 simoninithomas/Deep_reinforcement_learning_Course[master]: https://github.com/simoninithomas/Deep_reinforcement_learning_Course.git
 simontomaskarlsson/CycleGAN-Keras[master]: https://github.com/simontomaskarlsson/CycleGAN-Keras.git
 simonwan1980/A-flexible-new-technique-for-camera-calibration[master]: https://github.com/simonwan1980/A-flexible-new-technique-for-camera-calibration.git
+SimpleAutomationOrg/SimpleAutomation[main]: https://github.com/SimpleAutomationOrg/SimpleAutomation.git
 simular-ai/Agent-S[main]: https://github.com/simular-ai/Agent-S.git
 sinall/StrategyEase-Python-SDK[master]: https://github.com/sinall/StrategyEase-Python-SDK.git
 sinaptik-ai/pandas-ai[main]: https://github.com/sinaptik-ai/pandas-ai.git
@@ -2670,6 +2682,7 @@ stack-of-tasks/pinocchio[devel]: https://github.com/stack-of-tasks/pinocchio.git
 stackblitz/bolt.new[main]: https://github.com/stackblitz/bolt.new.git
 Standard-Intelligence/hertz-dev[main]: https://github.com/Standard-Intelligence/hertz-dev.git
 stanford-crfm/fmti[main]: https://github.com/stanford-crfm/fmti.git
+Stanford-ILIAD/openvla-mini[main]: https://github.com/Stanford-ILIAD/openvla-mini.git
 stanford-iprl-lab/multimodal_representation[master]: https://github.com/stanford-iprl-lab/multimodal_representation.git
 stanford-oval/storm[main]: https://github.com/stanford-oval/storm.git
 Stanford-TML/PDP[main]: https://github.com/Stanford-TML/PDP.git
@@ -2707,6 +2720,7 @@ sumuzhao/CycleGAN-Music-Style-Transfer[master]: https://github.com/sumuzhao/Cycl
 suno-ai/bark[main]: https://github.com/suno-ai/bark.git
 sunsmarterjie/yolov12[main]: https://github.com/sunsmarterjie/yolov12.git
 supergseg/supergseg[main]: https://github.com/supergseg/supergseg.git
+SuperManito/LinuxMirrors[main]: https://github.com/SuperManito/LinuxMirrors.git
 SuperMedIntel/Medical-SAM2[main]: https://github.com/SuperMedIntel/Medical-SAM2.git
 supermemoryai/supermemory[main]: https://github.com/supermemoryai/supermemory.git
 supertokens/supertokens-core[master]: https://github.com/supertokens/supertokens-core.git
@@ -2753,6 +2767,7 @@ Tencent-Hunyuan/Hunyuan3D-1[main]: https://github.com/Tencent-Hunyuan/Hunyuan3D-
 Tencent-Hunyuan/HunyuanCustom[main]: https://github.com/Tencent-Hunyuan/HunyuanCustom.git
 Tencent-Hunyuan/HunyuanDiT[main]: https://github.com/Tencent-Hunyuan/HunyuanDiT.git
 Tencent-Hunyuan/HunyuanVideo[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo.git
+Tencent-Hunyuan/HunyuanVideo-Avatar[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar.git
 Tencent-Hunyuan/InstantCharacter[main]: https://github.com/Tencent-Hunyuan/InstantCharacter.git
 Tencent-RoboticsX/lifelike-agility-and-play[master]: https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
 tencent-wechat/libco[master]: https://github.com/tencent-wechat/libco.git
