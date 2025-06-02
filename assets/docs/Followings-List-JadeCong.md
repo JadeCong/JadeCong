@@ -295,6 +295,7 @@ HengyiWang: https://github.com/HengyiWang
 hermanjakobsen: https://github.com/hermanjakobsen
 HeyGen-Official: https://github.com/HeyGen-Official
 HFAiLab: https://github.com/HFAiLab
+HiDream-ai: https://github.com/HiDream-ai
 higgsfield: https://github.com/higgsfield
 hiplot: https://github.com/hiplot
 hiroi-sora: https://github.com/hiroi-sora
@@ -435,6 +436,7 @@ locomanip-duet: https://github.com/locomanip-duet
 loggerhead: https://github.com/loggerhead
 loongOpen: https://github.com/loongOpen
 lowlighter: https://github.com/lowlighter
+LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
 lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
@@ -573,6 +575,7 @@ OpenSLAM: https://github.com/OpenSLAM
 OpenSPG: https://github.com/OpenSPG
 OpenTeleVision: https://github.com/OpenTeleVision
 opentiny: https://github.com/opentiny
+openvla: https://github.com/openvla
 openworm: https://github.com/openworm
 openxla: https://github.com/openxla
 oracle: https://github.com/oracle
@@ -606,6 +609,7 @@ pipecat-ai: https://github.com/pipecat-ai
 PKU-EPIC: https://github.com/PKU-EPIC
 PKU-MARL: https://github.com/PKU-MARL
 PKU-YuanGroup: https://github.com/PKU-YuanGroup
+pollen-robotics: https://github.com/pollen-robotics
 poloclub: https://github.com/poloclub
 PolymathicAI: https://github.com/PolymathicAI
 poppy-project: https://github.com/poppy-project
@@ -716,6 +720,7 @@ ShuoYangRobotics: https://github.com/ShuoYangRobotics
 Significant-Gravitas: https://github.com/Significant-Gravitas
 SIGRobotics-UIUC: https://github.com/SIGRobotics-UIUC
 sihyun-yu: https://github.com/sihyun-yu
+SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
 simular-ai: https://github.com/simular-ai
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
 SkyworkAI: https://github.com/SkyworkAI
@@ -734,6 +739,7 @@ squidfunk: https://github.com/squidfunk
 Stability-AI: https://github.com/Stability-AI
 stackblitz: https://github.com/stackblitz
 Standard-Intelligence: https://github.com/Standard-Intelligence
+Stanford-ILIAD: https://github.com/Stanford-ILIAD
 stanford-oval: https://github.com/stanford-oval
 stanfordnlp: https://github.com/stanfordnlp
 StanfordVL: https://github.com/StanfordVL
@@ -743,6 +749,7 @@ stephane: https://github.com/stephane
 streamlit: https://github.com/streamlit
 sunner: https://github.com/sunner
 suno-ai: https://github.com/suno-ai
+SuperManito: https://github.com/SuperManito
 supermemoryai: https://github.com/supermemoryai
 supertokens: https://github.com/supertokens
 svlevine: https://github.com/svlevine
@@ -757,6 +764,7 @@ tavily-ai: https://github.com/tavily-ai
 TEA-Lab: https://github.com/TEA-Lab
 Tencent: https://github.com/Tencent
 tencent-ailab: https://github.com/tencent-ailab
+Tencent-Hunyuan: https://github.com/Tencent-Hunyuan
 TencentARC: https://github.com/TencentARC
 TencentQQGYLab: https://github.com/TencentQQGYLab
 TencentYouTu: https://github.com/TencentYouTu
