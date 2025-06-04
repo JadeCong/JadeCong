@@ -381,6 +381,7 @@ BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 Byaidu/PDFMathTranslate[main]: https://github.com/Byaidu/PDFMathTranslate.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
+bytedance/ATI[main]: https://github.com/bytedance/ATI.git
 bytedance/deer-flow[main]: https://github.com/bytedance/deer-flow.git
 bytedance/GR-1[main]: https://github.com/bytedance/GR-1.git
 bytedance/GR-MG[main]: https://github.com/bytedance/GR-MG.git
@@ -695,6 +696,8 @@ Element-Research/rnn[master]: https://github.com/Element-Research/rnn.git
 EleutherAI/gpt-neo[master]: https://github.com/EleutherAI/gpt-neo.git
 EleutherAI/math-lm[main]: https://github.com/EleutherAI/math-lm.git
 Elin24/learning_pyTorch_with_SherlockLiao[master]: https://github.com/Elin24/learning_pyTorch_with_SherlockLiao.git
+Elite-Robots/Elite_Robots_CS_ROS2_Driver[main]: https://github.com/Elite-Robots/Elite_Robots_CS_ROS2_Driver.git
+Elite-Robots/Elite_Robots_CS_SDK[main]: https://github.com/Elite-Robots/Elite_Robots_CS_SDK.git
 Elite-Robots/ROS[master]: https://github.com/Elite-Robots/ROS.git
 eloialonso/diamond[main]: https://github.com/eloialonso/diamond.git
 ElricLiu/AutoGPT-Next-Web[main]: https://github.com/ElricLiu/AutoGPT-Next-Web.git
