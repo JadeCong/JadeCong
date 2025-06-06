@@ -271,12 +271,14 @@ gohugoio: https://github.com/gohugoio
 google: https://github.com/google
 google-ai-edge: https://github.com/google-ai-edge
 google-deepmind: https://github.com/google-deepmind
+google-gemini: https://github.com/google-gemini
 google-research: https://github.com/google-research
 gpt-engineer-org: https://github.com/gpt-engineer-org
 grantjenks: https://github.com/grantjenks
 graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
 Graylab: https://github.com/Graylab
+GrowingGit: https://github.com/GrowingGit
 grpc: https://github.com/grpc
 h2oai: https://github.com/h2oai
 hacksider: https://github.com/hacksider
@@ -874,6 +876,7 @@ weston-embedded: https://github.com/weston-embedded
 WHU-USI3DV: https://github.com/WHU-USI3DV
 win4r: https://github.com/win4r
 wkentaro: https://github.com/wkentaro
+wsakobe: https://github.com/wsakobe
 wuphilipp: https://github.com/wuphilipp
 wwj718: https://github.com/wwj718
 wxWidgets: https://github.com/wxWidgets
@@ -917,6 +920,7 @@ yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
 zealdocs: https://github.com/zealdocs
+zen-browser: https://github.com/zen-browser
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
 zia-ai: https://github.com/zia-ai
