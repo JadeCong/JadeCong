@@ -36,6 +36,7 @@ Alibaba-NLP: https://github.com/Alibaba-NLP
 AlibabaResearch: https://github.com/AlibabaResearch
 All-Hands-AI: https://github.com/All-Hands-AI
 allenai: https://github.com/allenai
+alphacep: https://github.com/alphacep
 amandlek: https://github.com/amandlek
 ambots3D: https://github.com/ambots3D
 amd: https://github.com/amd
@@ -193,6 +194,7 @@ dougsm: https://github.com/dougsm
 DrJimFan: https://github.com/DrJimFan
 droid-dataset: https://github.com/droid-dataset
 duixcom: https://github.com/duixcom
+duplicati: https://github.com/duplicati
 dusty-nv: https://github.com/dusty-nv
 dzhng: https://github.com/dzhng
 easychen: https://github.com/easychen
@@ -329,6 +331,7 @@ HybridRobotics: https://github.com/HybridRobotics
 hyfydy: https://github.com/hyfydy
 hyparxis: https://github.com/hyparxis
 hyperai: https://github.com/hyperai
+hyperbrowserai: https://github.com/hyperbrowserai
 ibab: https://github.com/ibab
 ICube-Robotics: https://github.com/ICube-Robotics
 IDEA-Research: https://github.com/IDEA-Research
@@ -378,6 +381,7 @@ jwasham: https://github.com/jwasham
 KaimingHe: https://github.com/KaimingHe
 Kaixhin: https://github.com/Kaixhin
 kaixindelele: https://github.com/kaixindelele
+karminski: https://github.com/karminski
 karpathy: https://github.com/karpathy
 kerrj: https://github.com/kerrj
 khoj-ai: https://github.com/khoj-ai
@@ -503,6 +507,7 @@ mysqljs: https://github.com/mysqljs
 n8n-io: https://github.com/n8n-io
 NaiboWang: https://github.com/NaiboWang
 naklecha: https://github.com/naklecha
+NapthaAI: https://github.com/NapthaAI
 nasa: https://github.com/nasa
 naver: https://github.com/naver
 nbfigueroa: https://github.com/nbfigueroa
@@ -512,6 +517,7 @@ neovim: https://github.com/neovim
 neuralinkcorp: https://github.com/neuralinkcorp
 neuralize-ai: https://github.com/neuralize-ai
 NeuronDance: https://github.com/NeuronDance
+newton-physics: https://github.com/newton-physics
 ngrok: https://github.com/ngrok
 ngxson: https://github.com/ngxson
 nhn: https://github.com/nhn
@@ -555,6 +561,7 @@ OneStarRobotics: https://github.com/OneStarRobotics
 ONLYOFFICE: https://github.com/ONLYOFFICE
 onuratakan: https://github.com/onuratakan
 open-compass: https://github.com/open-compass
+open-dynamic-robot-initiative: https://github.com/open-dynamic-robot-initiative
 open-mmlab: https://github.com/open-mmlab
 open-vela: https://github.com/open-vela
 open-webui: https://github.com/open-webui
@@ -593,6 +600,7 @@ overtake: https://github.com/overtake
 owainlewis: https://github.com/owainlewis
 p-christ: https://github.com/p-christ
 PacktPublishing: https://github.com/PacktPublishing
+pairlab: https://github.com/pairlab
 pallets: https://github.com/pallets
 pastelnetwork: https://github.com/pastelnetwork
 pathak22: https://github.com/pathak22
@@ -661,6 +669,7 @@ realpython: https://github.com/realpython
 reazon-research: https://github.com/reazon-research
 Red-Rabbit-Robotics: https://github.com/Red-Rabbit-Robotics
 redis: https://github.com/redis
+rednote-hilab: https://github.com/rednote-hilab
 redpanda-data: https://github.com/redpanda-data
 replit: https://github.com/replit
 requarks: https://github.com/requarks
@@ -764,6 +773,7 @@ tatsu-lab: https://github.com/tatsu-lab
 tauri-apps: https://github.com/tauri-apps
 tavily-ai: https://github.com/tavily-ai
 TEA-Lab: https://github.com/TEA-Lab
+TeamWiseFlow: https://github.com/TeamWiseFlow
 Tencent: https://github.com/Tencent
 tencent-ailab: https://github.com/tencent-ailab
 Tencent-Hunyuan: https://github.com/Tencent-Hunyuan
@@ -857,6 +867,7 @@ VIS4ROB-lab: https://github.com/VIS4ROB-lab
 Vision-CAIR: https://github.com/Vision-CAIR
 vision-x-nyu: https://github.com/vision-x-nyu
 vnpy: https://github.com/vnpy
+vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
 wanglin2: https://github.com/wanglin2
 WangRongsheng: https://github.com/WangRongsheng
@@ -899,6 +910,7 @@ xuebinqin: https://github.com/xuebinqin
 XueFuzhao: https://github.com/XueFuzhao
 xuhao1: https://github.com/xuhao1
 xupei0610: https://github.com/xupei0610
+xwmx: https://github.com/xwmx
 YaleUniversity: https://github.com/YaleUniversity
 yang-zj1026: https://github.com/yang-zj1026
 Yangqing: https://github.com/Yangqing
