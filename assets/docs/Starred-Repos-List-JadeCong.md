@@ -1,5 +1,6 @@
 01-ai/Yi[main]: https://github.com/01-ai/Yi.git
 0x2E/fusion[main]: https://github.com/0x2E/fusion.git
+0xKoda/drone-mcp[main]: https://github.com/0xKoda/drone-mcp.git
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
 1989Ryan/Semantic_SLAM[master]: https://github.com/1989Ryan/Semantic_SLAM.git
@@ -140,6 +141,7 @@ allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-trainin
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
 allinssl/allinssl[1.0.5]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
+alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
 als3453/Collection_TianYa[main]: https://github.com/als3453/Collection_TianYa.git
 alshedivat/al-folio[main]: https://github.com/alshedivat/al-folio.git
 AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
@@ -550,6 +552,8 @@ DarLiner/Algorithm_Interview_Notes-Chinese[master]: https://github.com/DarLiner/
 dartsim/dart[main]: https://github.com/dartsim/dart.git
 databricks/dbrx[main]: https://github.com/databricks/dbrx.git
 databricks/megablocks[main]: https://github.com/databricks/megablocks.git
+datalab-to/marker[master]: https://github.com/datalab-to/marker.git
+datalab-to/surya[master]: https://github.com/datalab-to/surya.git
 datasciencemasters/go[master]: https://github.com/datasciencemasters/go.git
 datawhalechina/competition-baseline[master]: https://github.com/datawhalechina/competition-baseline.git
 datawhalechina/easy-rl[master]: https://github.com/datawhalechina/easy-rl.git
@@ -663,10 +667,12 @@ DuGuQiuBai/Java[master]: https://github.com/DuGuQiuBai/Java.git
 duixcom/Duix.Heygem[main]: https://github.com/duixcom/Duix.Heygem.git
 duixcom/Duix.mobile[main]: https://github.com/duixcom/Duix.mobile.git
 duma-repo/ai_code_reader[master]: https://github.com/duma-repo/ai_code_reader.git
+duplicati/duplicati[master]: https://github.com/duplicati/duplicati.git
 dusty-nv/NanoLLM[main]: https://github.com/dusty-nv/NanoLLM.git
 duyipai/Allegro_Digit[main]: https://github.com/duyipai/Allegro_Digit.git
 dvlab-research/ControlNeXt[main]: https://github.com/dvlab-research/ControlNeXt.git
 dvlab-research/MagicMirror[main]: https://github.com/dvlab-research/MagicMirror.git
+dw-dengwei/daily-arXiv-ai-enhanced[main]: https://github.com/dw-dengwei/daily-arXiv-ai-enhanced.git
 dylanaraps/pure-bash-bible[master]: https://github.com/dylanaraps/pure-bash-bible.git
 dzhng/deep-research[main]: https://github.com/dzhng/deep-research.git
 e-271/awesome-few-shot-learning[master]: https://github.com/e-271/awesome-few-shot-learning.git
@@ -870,6 +876,8 @@ FlagOpen/FlagEmbedding[master]: https://github.com/FlagOpen/FlagEmbedding.git
 FlagOpen/FlagGems[master]: https://github.com/FlagOpen/FlagGems.git
 FlagOpen/FlagScale[main]: https://github.com/FlagOpen/FlagScale.git
 FlagOpen/RoboBrain[main]: https://github.com/FlagOpen/RoboBrain.git
+FlagOpen/RoboBrain2.0[main]: https://github.com/FlagOpen/RoboBrain2.0.git
+FlagOpen/RoboOS[main]: https://github.com/FlagOpen/RoboOS.git
 flexible-collision-library/fcl[master]: https://github.com/flexible-collision-library/fcl.git
 flexivrobotics/flexiv_aidk[main]: https://github.com/flexivrobotics/flexiv_aidk.git
 flexivrobotics/flexiv_rdk[main]: https://github.com/flexivrobotics/flexiv_rdk.git
@@ -1233,6 +1241,7 @@ hydecorp/hydejack[master]: https://github.com/hydecorp/hydejack.git
 hydecorp/hydejack-site[master]: https://github.com/hydecorp/hydejack-site.git
 hydecorp/hydejack-starter-kit[master]: https://github.com/hydecorp/hydejack-starter-kit.git
 hyperai/awesome-ai4s[master]: https://github.com/hyperai/awesome-ai4s.git
+hyperbrowserai/examples[main]: https://github.com/hyperbrowserai/examples.git
 hyperplane-lab/RGBManip[main]: https://github.com/hyperplane-lab/RGBManip.git
 hyz317/StdGEN[main]: https://github.com/hyz317/StdGEN.git
 iamhyc/Overleaf-Workshop[master]: https://github.com/iamhyc/Overleaf-Workshop.git
@@ -1453,6 +1462,7 @@ kangvcar/InfoSpider[master]: https://github.com/kangvcar/InfoSpider.git
 KanishkNavale/Robot-Physics-Engine[master]: https://github.com/KanishkNavale/Robot-Physics-Engine.git
 kanster/awesome-slam[master]: https://github.com/kanster/awesome-slam.git
 karfly/learnable-triangulation-pytorch[master]: https://github.com/karfly/learnable-triangulation-pytorch.git
+karminski/one-small-step[main]: https://github.com/karminski/one-small-step.git
 karpathy/char-rnn[master]: https://github.com/karpathy/char-rnn.git
 karpathy/llm.c[master]: https://github.com/karpathy/llm.c.git
 karpathy/LLM101n[master]: https://github.com/karpathy/LLM101n.git
@@ -1946,6 +1956,7 @@ n8n-io/n8n[master]: https://github.com/n8n-io/n8n.git
 NaiboWang/EasySpider[master]: https://github.com/NaiboWang/EasySpider.git
 naklecha/llama3-from-scratch[main]: https://github.com/naklecha/llama3-from-scratch.git
 nanobrowser/nanobrowser[master]: https://github.com/nanobrowser/nanobrowser.git
+NapthaAI/automcp[main]: https://github.com/NapthaAI/automcp.git
 naruya/tecnets-pytorch[master]: https://github.com/naruya/tecnets-pytorch.git
 nasa/fprime[devel]: https://github.com/nasa/fprime.git
 nasa/openmct[master]: https://github.com/nasa/openmct.git
@@ -1971,6 +1982,7 @@ NeuronDance/DeepRL[master]: https://github.com/NeuronDance/DeepRL.git
 Neverforgetlove/xmate_robot[main]: https://github.com/Neverforgetlove/xmate_robot.git
 Newmu/dcgan_code[master]: https://github.com/Newmu/dcgan_code.git
 Newmu/Theano-Tutorials[master]: https://github.com/Newmu/Theano-Tutorials.git
+newton-physics/newton[main]: https://github.com/newton-physics/newton.git
 ngxson/smolvlm-realtime-webcam[main]: https://github.com/ngxson/smolvlm-realtime-webcam.git
 nhn/tui.calendar[main]: https://github.com/nhn/tui.calendar.git
 nhn/tui.editor[master]: https://github.com/nhn/tui.editor.git
@@ -2103,6 +2115,7 @@ onnx/onnx[main]: https://github.com/onnx/onnx.git
 ooni/ooni.org[master]: https://github.com/ooni/ooni.org.git
 open-compass/opencompass[main]: https://github.com/open-compass/opencompass.git
 open-dynamic-robot-initiative/open_robot_actuator_hardware[master]: https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware.git
+open-dynamic-robot-initiative/trifinger_object_tracking[master]: https://github.com/open-dynamic-robot-initiative/trifinger_object_tracking.git
 open-mmlab/Amphion[main]: https://github.com/open-mmlab/Amphion.git
 open-mmlab/Live2Diff[main]: https://github.com/open-mmlab/Live2Diff.git
 open-mmlab/mmagic[main]: https://github.com/open-mmlab/mmagic.git
@@ -2230,6 +2243,7 @@ PaddlePaddle/Quantum[master]: https://github.com/PaddlePaddle/Quantum.git
 PaddlePaddle/Research[master]: https://github.com/PaddlePaddle/Research.git
 PaddlePaddle/VisualDL[develop]: https://github.com/PaddlePaddle/VisualDL.git
 pages-themes/hacker[master]: https://github.com/pages-themes/hacker.git
+pairlab/leibnizgym[master]: https://github.com/pairlab/leibnizgym.git
 pallets/flask[main]: https://github.com/pallets/flask.git
 pandas-dev/pandas[main]: https://github.com/pandas-dev/pandas.git
 PanJiaChen/vue-element-admin[master]: https://github.com/PanJiaChen/vue-element-admin.git
@@ -2373,6 +2387,7 @@ r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
 raidendotai/cofounder[main]: https://github.com/raidendotai/cofounder.git
+rail-berkeley/crossformer[main]: https://github.com/rail-berkeley/crossformer.git
 rail-berkeley/hil-serl[main]: https://github.com/rail-berkeley/hil-serl.git
 rail-berkeley/rlkit[master]: https://github.com/rail-berkeley/rlkit.git
 rail-berkeley/serl[main]: https://github.com/rail-berkeley/serl.git
@@ -2424,6 +2439,7 @@ Red-Rabbit-Robotics/rx1_servo_hardware[master]: https://github.com/Red-Rabbit-Ro
 RedAIGC/StoryMaker[main]: https://github.com/RedAIGC/StoryMaker.git
 redis/go-redis[master]: https://github.com/redis/go-redis.git
 redis/redis[unstable]: https://github.com/redis/redis.git
+rednote-hilab/dots.llm1[main]: https://github.com/rednote-hilab/dots.llm1.git
 redpanda-data/console[master]: https://github.com/redpanda-data/console.git
 reHackable/awesome-reMarkable[master]: https://github.com/reHackable/awesome-reMarkable.git
 reinforcement-learning-kr/lets-do-irl[master]: https://github.com/reinforcement-learning-kr/lets-do-irl.git
@@ -2985,6 +3001,7 @@ unified-field-theory-org/animations[main]: https://github.com/unified-field-theo
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unit-mesh/auto-dev[master]: https://github.com/unit-mesh/auto-dev.git
 unitreerobotics/avp_teleoperate[main]: https://github.com/unitreerobotics/avp_teleoperate.git
+unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
 unitreerobotics/unitree_mujoco[main]: https://github.com/unitreerobotics/unitree_mujoco.git
 unitreerobotics/unitree_rl_gym[main]: https://github.com/unitreerobotics/unitree_rl_gym.git
 unitreerobotics/unitree_ros[master]: https://github.com/unitreerobotics/unitree_ros.git
@@ -3042,8 +3059,6 @@ vibertthio/awesome-machine-learning-art[master]: https://github.com/vibertthio/a
 vidpanos/vidpanos.github.io[main]: https://github.com/vidpanos/vidpanos.github.io.git
 vietnh1009/ASCII-generator[master]: https://github.com/vietnh1009/ASCII-generator.git
 vijishmadhavan/SkinDeep[master]: https://github.com/vijishmadhavan/SkinDeep.git
-VikParuchuri/marker[master]: https://github.com/VikParuchuri/marker.git
-VikParuchuri/surya[master]: https://github.com/VikParuchuri/surya.git
 viliusle/miniPaint[master]: https://github.com/viliusle/miniPaint.git
 vim/vim[master]: https://github.com/vim/vim.git
 vimalabs/VIMA[main]: https://github.com/vimalabs/VIMA.git
@@ -3066,6 +3081,7 @@ VoxAct-B/voxactb[main]: https://github.com/VoxAct-B/voxactb.git
 VoxelPlugin/VoxelPluginFreeLegacy[master]: https://github.com/VoxelPlugin/VoxelPluginFreeLegacy.git
 vrm-c/UniVRM[master]: https://github.com/vrm-c/UniVRM.git
 vrpn/vrpn[master]: https://github.com/vrpn/vrpn.git
+vsislab/RoboTamer4Qmini[main]: https://github.com/vsislab/RoboTamer4Qmini.git
 vsouza/awesome-ios[master]: https://github.com/vsouza/awesome-ios.git
 vuejs/awesome-vue[master]: https://github.com/vuejs/awesome-vue.git
 vuejs/vitepress[main]: https://github.com/vuejs/vitepress.git
@@ -3180,6 +3196,7 @@ xuhao1/Unreal-ROS-Plugin[master]: https://github.com/xuhao1/Unreal-ROS-Plugin.gi
 xupei0610/guitar[main]: https://github.com/xupei0610/guitar.git
 xuxw98/ESAM[main]: https://github.com/xuxw98/ESAM.git
 XuyangBai/TransFusion[master]: https://github.com/XuyangBai/TransFusion.git
+xwmx/nb[master]: https://github.com/xwmx/nb.git
 XX-net/XX-Net[master]: https://github.com/XX-net/XX-Net.git
 xy02-05/ScoreHypo[main]: https://github.com/xy02-05/ScoreHypo.git
 yahoo/CaffeOnSpark[master]: https://github.com/yahoo/CaffeOnSpark.git
@@ -3288,6 +3305,7 @@ zhongyang219/TrafficMonitor[master]: https://github.com/zhongyang219/TrafficMoni
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
 ziadoz/awesome-php[master]: https://github.com/ziadoz/awesome-php.git
 zihangdai/xlnet[master]: https://github.com/zihangdai/xlnet.git
+zijie0/HumanSystemOptimization[main]: https://github.com/zijie0/HumanSystemOptimization.git
 zino-rs/zino[main]: https://github.com/zino-rs/zino.git
 Zipstack/unstract[main]: https://github.com/Zipstack/unstract.git
 ZiwenZhuang/parkour[main]: https://github.com/ZiwenZhuang/parkour.git
