@@ -255,6 +255,7 @@ FujiwaraChoki: https://github.com/FujiwaraChoki
 Future-House: https://github.com/Future-House
 FutureAIRobotics: https://github.com/FutureAIRobotics
 GAIR-NLP: https://github.com/GAIR-NLP
+GalaxyGeneralRobotics: https://github.com/GalaxyGeneralRobotics
 gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
 geekan: https://github.com/geekan
@@ -535,6 +536,7 @@ nomic-ai: https://github.com/nomic-ai
 NoNoid: https://github.com/NoNoid
 NousResearch: https://github.com/NousResearch
 NovaSky-AI: https://github.com/NovaSky-AI
+nubot-nudt: https://github.com/nubot-nudt
 Nuitka: https://github.com/Nuitka
 Nutlope: https://github.com/Nutlope
 nv-tlabs: https://github.com/nv-tlabs
