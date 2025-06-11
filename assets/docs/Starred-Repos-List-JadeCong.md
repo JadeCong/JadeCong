@@ -113,6 +113,7 @@ AlexeyAB/darknet[master]: https://github.com/AlexeyAB/darknet.git
 alexjc/neural-enhance[master]: https://github.com/alexjc/neural-enhance.git
 alexwu-bayarea/stereo-dso[master]: https://github.com/alexwu-bayarea/stereo-dso.git
 alfworld/alfworld[master]: https://github.com/alfworld/alfworld.git
+algerkong/AlgerMusicPlayer[main]: https://github.com/algerkong/AlgerMusicPlayer.git
 Algomancer/Bayesian-Flow-Networks[main]: https://github.com/Algomancer/Bayesian-Flow-Networks.git
 algorithm-visualizer/algorithm-visualizer[master]: https://github.com/algorithm-visualizer/algorithm-visualizer.git
 ali-vilab/In-Context-LoRA[main]: https://github.com/ali-vilab/In-Context-LoRA.git
@@ -121,6 +122,7 @@ ali-vilab/MimicBrush[main]: https://github.com/ali-vilab/MimicBrush.git
 ali-vilab/UniAnimate[main]: https://github.com/ali-vilab/UniAnimate.git
 ali-vilab/VACE[main]: https://github.com/ali-vilab/VACE.git
 AliaksandrSiarohin/first-order-model[master]: https://github.com/AliaksandrSiarohin/first-order-model.git
+alibaba-damo-academy/Uni3C[main]: https://github.com/alibaba-damo-academy/Uni3C.git
 alibaba-developer/Alibaba-Interview-Skill[master]: https://github.com/alibaba-developer/Alibaba-Interview-Skill.git
 Alibaba-NLP/WebAgent[main]: https://github.com/Alibaba-NLP/WebAgent.git
 alibaba/acqdp[main]: https://github.com/alibaba/acqdp.git
@@ -752,7 +754,6 @@ eureka-research/eurekaverse[main]: https://github.com/eureka-research/eurekavers
 eveningglow/multitask-CycleGAN[master]: https://github.com/eveningglow/multitask-CycleGAN.git
 evil-huawei/evil-huawei[master]: https://github.com/evil-huawei/evil-huawei.git
 evilsocket/cake[main]: https://github.com/evilsocket/cake.git
-ewrfcas/Uni3C[main]: https://github.com/ewrfcas/Uni3C.git
 ex3ndr/llama-coder[main]: https://github.com/ex3ndr/llama-coder.git
 exacity/deeplearningbook-chinese[master]: https://github.com/exacity/deeplearningbook-chinese.git
 excalidraw/excalidraw[master]: https://github.com/excalidraw/excalidraw.git
@@ -931,6 +932,7 @@ Future-House/paper-qa[main]: https://github.com/Future-House/paper-qa.git
 fz-lyu/modbuspp[master]: https://github.com/fz-lyu/modbuspp.git
 fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_driver.git
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
+GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
 gantFDT/icraft[main]: https://github.com/gantFDT/icraft.git
 gaoxiang12/faster-lio[main]: https://github.com/gaoxiang12/faster-lio.git
@@ -1437,6 +1439,7 @@ JuncoJet/unlimited-landeng-for-win[master]: https://github.com/JuncoJet/unlimite
 Junda24/MonSter[main]: https://github.com/Junda24/MonSter.git
 junhyukoh/deep-reinforcement-learning-papers[master]: https://github.com/junhyukoh/deep-reinforcement-learning-papers.git
 junhyukoh/self-imitation-learning[master]: https://github.com/junhyukoh/self-imitation-learning.git
+juniorrojas/morphology-adaptive[main]: https://github.com/juniorrojas/morphology-adaptive.git
 junyanz/CycleGAN[master]: https://github.com/junyanz/CycleGAN.git
 junyanz/iGAN[master]: https://github.com/junyanz/iGAN.git
 junyanz/pytorch-CycleGAN-and-pix2pix[master]: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
@@ -2282,6 +2285,7 @@ phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
+Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
 Picsart-AI-Research/StreamingT2V[main]: https://github.com/Picsart-AI-Research/StreamingT2V.git
 pika/pika[main]: https://github.com/pika/pika.git
 pinokiocomputer/pinokio[main]: https://github.com/pinokiocomputer/pinokio.git
@@ -2338,6 +2342,7 @@ primefaces/primevue[master]: https://github.com/primefaces/primevue.git
 PrimeIntellect-ai/prime[main]: https://github.com/PrimeIntellect-ai/prime.git
 princeton-vl/DROID-SLAM[main]: https://github.com/princeton-vl/DROID-SLAM.git
 princeton-vl/infinigen[main]: https://github.com/princeton-vl/infinigen.git
+priyasundaresan/homer[main]: https://github.com/priyasundaresan/homer.git
 programthink/books[master]: https://github.com/programthink/books.git
 programthink/opensource[master]: https://github.com/programthink/opensource.git
 programthink/zhao[master]: https://github.com/programthink/zhao.git
@@ -2523,6 +2528,7 @@ ros/pluginlib[rolling]: https://github.com/ros/pluginlib.git
 ros/ros[noetic-devel]: https://github.com/ros/ros.git
 ros/rosdistro[master]: https://github.com/ros/rosdistro.git
 ros/solidworks_urdf_exporter[master]: https://github.com/ros/solidworks_urdf_exporter.git
+ros2/example_interfaces[rolling]: https://github.com/ros2/example_interfaces.git
 ros2/ros1_bridge[master]: https://github.com/ros2/ros1_bridge.git
 ros2/ros2[rolling]: https://github.com/ros2/ros2.git
 ros2/ros2_documentation[rolling]: https://github.com/ros2/ros2_documentation.git
@@ -2926,6 +2932,7 @@ TonyRobotics/RoboWare-Studio[master]: https://github.com/TonyRobotics/RoboWare-S
 tonyzhaozh/act[main]: https://github.com/tonyzhaozh/act.git
 tonyzhaozh/aloha[main]: https://github.com/tonyzhaozh/aloha.git
 torch/torch7[master]: https://github.com/torch/torch7.git
+tormach/hal_ros_control[humble-devel]: https://github.com/tormach/hal_ros_control.git
 tornadomeet/ResNet[master]: https://github.com/tornadomeet/ResNet.git
 torne/Tiny-Tiny-RSS[master]: https://github.com/torne/Tiny-Tiny-RSS.git
 torphix/infini-attention[main]: https://github.com/torphix/infini-attention.git
@@ -3302,8 +3309,10 @@ zhenyuwei2003/DRO-Grasp[master]: https://github.com/zhenyuwei2003/DRO-Grasp.git
 zhisheng17/flink-learning[master]: https://github.com/zhisheng17/flink-learning.git
 zhongleilz/Sketch2Anim[main]: https://github.com/zhongleilz/Sketch2Anim.git
 zhongyang219/TrafficMonitor[master]: https://github.com/zhongyang219/TrafficMonitor.git
+Zhoues/RoboRefer[main]: https://github.com/Zhoues/RoboRefer.git
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
 ziadoz/awesome-php[master]: https://github.com/ziadoz/awesome-php.git
+zibojia/MiniMax-Remover[main]: https://github.com/zibojia/MiniMax-Remover.git
 zihangdai/xlnet[master]: https://github.com/zihangdai/xlnet.git
 zijie0/HumanSystemOptimization[main]: https://github.com/zijie0/HumanSystemOptimization.git
 zino-rs/zino[main]: https://github.com/zino-rs/zino.git
