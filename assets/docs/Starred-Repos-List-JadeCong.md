@@ -4,7 +4,7 @@
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
 1989Ryan/Semantic_SLAM[master]: https://github.com/1989Ryan/Semantic_SLAM.git
-1Panel-dev/1Panel[dev]: https://github.com/1Panel-dev/1Panel.git
+1Panel-dev/1Panel[dev-v2]: https://github.com/1Panel-dev/1Panel.git
 1Panel-dev/MaxKB[main]: https://github.com/1Panel-dev/MaxKB.git
 20tab/bvh-python[master]: https://github.com/20tab/bvh-python.git
 20tab/UnrealEnginePython[master]: https://github.com/20tab/UnrealEnginePython.git
@@ -182,6 +182,7 @@ ant-research/MagicQuill[main]: https://github.com/ant-research/MagicQuill.git
 antgroup/echomimic[main]: https://github.com/antgroup/echomimic.git
 antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
 anthropics/anthropic-cookbook[main]: https://github.com/anthropics/anthropic-cookbook.git
+antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
 antonkomarev/github-profile-views-counter[master]: https://github.com/antonkomarev/github-profile-views-counter.git
 AntonOsika/gpt-engineer[main]: https://github.com/AntonOsika/gpt-engineer.git
 AntreasAntoniou/HowToTrainYourMAMLPytorch[master]: https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch.git
@@ -327,6 +328,7 @@ bcmi/Light-A-Video[main]: https://github.com/bcmi/Light-A-Video.git
 bdaiinstitute/theia[main]: https://github.com/bdaiinstitute/theia.git
 behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs-algo.git
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
+BenBurgessLimerick/ManipulationOnTheMove[main]: https://github.com/BenBurgessLimerick/ManipulationOnTheMove.git
 benedekrozemberczki/awesome-graph-classification[master]: https://github.com/benedekrozemberczki/awesome-graph-classification.git
 benelot/pybullet-gym[master]: https://github.com/benelot/pybullet-gym.git
 benmahr/huaweimind[master]: https://github.com/benmahr/huaweimind.git
@@ -447,6 +449,7 @@ chatboxai/chatbox[main]: https://github.com/chatboxai/chatbox.git
 ChatGPTNextWeb/NextChat[main]: https://github.com/ChatGPTNextWeb/NextChat.git
 chathub-dev/chathub[main]: https://github.com/chathub-dev/chathub.git
 chatmcp/mcpso[main]: https://github.com/chatmcp/mcpso.git
+CHEN-H01/Fast-in-Slow[main]: https://github.com/CHEN-H01/Fast-in-Slow.git
 ChenglongChen/pytorch-DRL[master]: https://github.com/ChenglongChen/pytorch-DRL.git
 chenyuntc/pytorch-book[master]: https://github.com/chenyuntc/pytorch-book.git
 chinakook/Awesome-MXNet[master]: https://github.com/chinakook/Awesome-MXNet.git
@@ -791,6 +794,7 @@ facebookresearch/fastText[main]: https://github.com/facebookresearch/fastText.gi
 facebookresearch/home-robot[main]: https://github.com/facebookresearch/home-robot.git
 facebookresearch/House3D[master]: https://github.com/facebookresearch/House3D.git
 facebookresearch/hyperreel[main]: https://github.com/facebookresearch/hyperreel.git
+facebookresearch/IntPhys2[main]: https://github.com/facebookresearch/IntPhys2.git
 facebookresearch/locate-3d[main]: https://github.com/facebookresearch/locate-3d.git
 facebookresearch/MCC[main]: https://github.com/facebookresearch/MCC.git
 facebookresearch/metamotivo[main]: https://github.com/facebookresearch/metamotivo.git
@@ -812,6 +816,7 @@ facebookresearch/TransCoder[main]: https://github.com/facebookresearch/TransCode
 facebookresearch/vggt[main]: https://github.com/facebookresearch/vggt.git
 facebookresearch/VideoPose3D[main]: https://github.com/facebookresearch/VideoPose3D.git
 facebookresearch/videoseal[main]: https://github.com/facebookresearch/videoseal.git
+facebookresearch/vjepa2[main]: https://github.com/facebookresearch/vjepa2.git
 facefusion/facefusion[master]: https://github.com/facefusion/facefusion.git
 Faceunity/FUZegoLiveDemoDroid[master]: https://github.com/Faceunity/FUZegoLiveDemoDroid.git
 facontidavide/PlotJuggler[main]: https://github.com/facontidavide/PlotJuggler.git
@@ -932,6 +937,7 @@ Future-House/paper-qa[main]: https://github.com/Future-House/paper-qa.git
 fz-lyu/modbuspp[master]: https://github.com/fz-lyu/modbuspp.git
 fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_driver.git
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
+galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
 gantFDT/icraft[main]: https://github.com/gantFDT/icraft.git
@@ -1815,6 +1821,7 @@ microsoft/BitNet[main]: https://github.com/microsoft/BitNet.git
 microsoft/Bringing-Old-Photos-Back-to-Life[master]: https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git
 microsoft/c9-python-getting-started[master]: https://github.com/microsoft/c9-python-getting-started.git
 microsoft/CNTK[master]: https://github.com/microsoft/CNTK.git
+microsoft/CogACT[main]: https://github.com/microsoft/CogACT.git
 microsoft/Data-Science-For-Beginners[main]: https://github.com/microsoft/Data-Science-For-Beginners.git
 microsoft/FERPlus[master]: https://github.com/microsoft/FERPlus.git
 microsoft/folx[main]: https://github.com/microsoft/folx.git
@@ -2374,6 +2381,7 @@ Python3WebSpider/Python3WebSpider[master]: https://github.com/Python3WebSpider/P
 pytorch/examples[main]: https://github.com/pytorch/examples.git
 pytorch/pytorch[main]: https://github.com/pytorch/pytorch.git
 pytorch/torchchat[main]: https://github.com/pytorch/torchchat.git
+qcr/frankie_docs[master]: https://github.com/qcr/frankie_docs.git
 qizekun/SoFar[main]: https://github.com/qizekun/SoFar.git
 qq547276542/Agriculture_KnowledgeGraph[master]: https://github.com/qq547276542/Agriculture_KnowledgeGraph.git
 qqwweee/keras-yolo3[master]: https://github.com/qqwweee/keras-yolo3.git
@@ -2416,6 +2424,7 @@ RCHI-Lab/voicepilot[main]: https://github.com/RCHI-Lab/voicepilot.git
 rdiankov/openrave[master]: https://github.com/rdiankov/openrave.git
 ReactiveX/RxSwift[main]: https://github.com/ReactiveX/RxSwift.git
 ReactRobotics/DogBotV4[master]: https://github.com/ReactRobotics/DogBotV4.git
+real-stanford/DexUMI[main]: https://github.com/real-stanford/DexUMI.git
 real-stanford/dgdm[main]: https://github.com/real-stanford/dgdm.git
 real-stanford/diffusion_policy[main]: https://github.com/real-stanford/diffusion_policy.git
 real-stanford/get_zero[main]: https://github.com/real-stanford/get_zero.git
@@ -3127,6 +3136,7 @@ wenqsun/DimensionX[main]: https://github.com/wenqsun/DimensionX.git
 wesbos/JavaScript30[master]: https://github.com/wesbos/JavaScript30.git
 Westlake-AGI-Lab/AppAgentX[main]: https://github.com/Westlake-AGI-Lab/AppAgentX.git
 weston-embedded/uC-OS3[develop]: https://github.com/weston-embedded/uC-OS3.git
+wgsxm/PartCrafter[main]: https://github.com/wgsxm/PartCrafter.git
 wh200720041/intensity_slam[master]: https://github.com/wh200720041/intensity_slam.git
 whai362/PVT[v2]: https://github.com/whai362/PVT.git
 WHU-USI3DV/VistaDream[main]: https://github.com/WHU-USI3DV/VistaDream.git
@@ -3244,6 +3254,7 @@ YJango/Learning[master]: https://github.com/YJango/Learning.git
 YJango/Tensorflow-eager-execution[master]: https://github.com/YJango/Tensorflow-eager-execution.git
 YJango/tensorflow_basic_tutorial[master]: https://github.com/YJango/tensorflow_basic_tutorial.git
 yjy0625/equibot[main]: https://github.com/yjy0625/equibot.git
+yjy0625/mobipi[release]: https://github.com/yjy0625/mobipi.git
 yllhwa/RSSWorker[main]: https://github.com/yllhwa/RSSWorker.git
 ymcui/Chinese-BERT-wwm[master]: https://github.com/ymcui/Chinese-BERT-wwm.git
 ymcui/Chinese-XLNet[master]: https://github.com/ymcui/Chinese-XLNet.git
@@ -3270,6 +3281,7 @@ yufu-wang/PromptHMR[main]: https://github.com/yufu-wang/PromptHMR.git
 yuhaozhang7/NGD-SLAM[main]: https://github.com/yuhaozhang7/NGD-SLAM.git
 yukezhu/tensorflow-reinforce[master]: https://github.com/yukezhu/tensorflow-reinforce.git
 yukihiko/ThreeDPoseUnitySample[master]: https://github.com/yukihiko/ThreeDPoseUnitySample.git
+Yuliang-Liu/MonkeyOCR[main]: https://github.com/Yuliang-Liu/MonkeyOCR.git
 yuliangguo/OmniFusion[main]: https://github.com/yuliangguo/OmniFusion.git
 yuneming/DeepLearningTutorial[master]: https://github.com/yuneming/DeepLearningTutorial.git
 yunhaif/reflect-vlm[main]: https://github.com/yunhaif/reflect-vlm.git
