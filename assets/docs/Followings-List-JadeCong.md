@@ -255,6 +255,7 @@ FujiwaraChoki: https://github.com/FujiwaraChoki
 Future-House: https://github.com/Future-House
 FutureAIRobotics: https://github.com/FutureAIRobotics
 GAIR-NLP: https://github.com/GAIR-NLP
+galaxy-s10: https://github.com/galaxy-s10
 GalaxyGeneralRobotics: https://github.com/GalaxyGeneralRobotics
 gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
@@ -611,6 +612,7 @@ payloadcms: https://github.com/payloadcms
 peng-zhihui: https://github.com/peng-zhihui
 penrose: https://github.com/penrose
 pesser: https://github.com/pesser
+petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
 Physical-Intelligence: https://github.com/Physical-Intelligence
 Picsart-AI-Research: https://github.com/Picsart-AI-Research
@@ -924,11 +926,13 @@ Yidadaa: https://github.com/Yidadaa
 yikaiw: https://github.com/yikaiw
 yiranran: https://github.com/yiranran
 YJango: https://github.com/YJango
+yjy0625: https://github.com/yjy0625
 younggyoseo: https://github.com/younggyoseo
 yt-dlp: https://github.com/yt-dlp
 yuanwr: https://github.com/yuanwr
 yukezhu: https://github.com/yukezhu
 yukihiko: https://github.com/yukihiko
+Yuliang-Liu: https://github.com/Yuliang-Liu
 yuliangguo: https://github.com/yuliangguo
 yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
