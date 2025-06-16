@@ -180,6 +180,7 @@ DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
+Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
 DirtyHarryLYL: https://github.com/DirtyHarryLYL
 DIYgod: https://github.com/DIYgod
@@ -246,7 +247,7 @@ flow-diffusion: https://github.com/flow-diffusion
 flutter: https://github.com/flutter
 fmhy: https://github.com/fmhy
 FoundationVision: https://github.com/FoundationVision
-frankaemika: https://github.com/frankaemika
+frankarobotics: https://github.com/frankarobotics
 FreeRTOS: https://github.com/FreeRTOS
 FreshRSS: https://github.com/FreshRSS
 FuchsiaOS: https://github.com/FuchsiaOS
@@ -492,6 +493,7 @@ mlc-ai: https://github.com/mlc-ai
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
 mongodb: https://github.com/mongodb
+moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
 MorvanZhou: https://github.com/MorvanZhou
 mosaicml: https://github.com/mosaicml
@@ -657,6 +659,7 @@ pytorch: https://github.com/pytorch
 qboticslabs: https://github.com/qboticslabs
 qizekun: https://github.com/qizekun
 qt: https://github.com/qt
+quora: https://github.com/quora
 QwenLM: https://github.com/QwenLM
 qxiaofan: https://github.com/qxiaofan
 r-spacex: https://github.com/r-spacex
@@ -687,6 +690,7 @@ robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
 robopen: https://github.com/robopen
+Robot-VLAs: https://github.com/Robot-VLAs
 roboterax: https://github.com/roboterax
 robotlearning123: https://github.com/robotlearning123
 RobotLocomotion: https://github.com/RobotLocomotion
@@ -772,6 +776,7 @@ svpino: https://github.com/svpino
 SwanHubX: https://github.com/SwanHubX
 TairanHe: https://github.com/TairanHe
 TAMS-Group: https://github.com/TAMS-Group
+TapXWorld: https://github.com/TapXWorld
 tasl-lab: https://github.com/tasl-lab
 tatsu-lab: https://github.com/tatsu-lab
 tauri-apps: https://github.com/tauri-apps
@@ -850,7 +855,6 @@ unovue: https://github.com/unovue
 Unsigned-Long: https://github.com/Unsigned-Long
 upscayl: https://github.com/upscayl
 usebruno: https://github.com/usebruno
-usefulsensors: https://github.com/usefulsensors
 ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
@@ -889,6 +893,7 @@ WEIFENG2333: https://github.com/WEIFENG2333
 Westlake-AGI-Lab: https://github.com/Westlake-AGI-Lab
 weston-embedded: https://github.com/weston-embedded
 WHU-USI3DV: https://github.com/WHU-USI3DV
+wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
 wkentaro: https://github.com/wkentaro
 wsakobe: https://github.com/wsakobe
