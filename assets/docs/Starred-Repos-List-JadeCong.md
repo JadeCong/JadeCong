@@ -469,6 +469,7 @@ chvmp/champ[master]: https://github.com/chvmp/champ.git
 chvmp/robots[master]: https://github.com/chvmp/robots.git
 cirosantilli/awesome-reinforcement-learning-games[master]: https://github.com/cirosantilli/awesome-reinforcement-learning-games.git
 CiscoDevNet/wcae[master]: https://github.com/CiscoDevNet/wcae.git
+civilblur/mazanoke[main]: https://github.com/civilblur/mazanoke.git
 clauderic/dnd-kit[master]: https://github.com/clauderic/dnd-kit.git
 cli/cli[trunk]: https://github.com/cli/cli.git
 cline/cline[main]: https://github.com/cline/cline.git
@@ -622,6 +623,7 @@ dibyaghosh/dnc[master]: https://github.com/dibyaghosh/dnc.git
 Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_aided_ocr.git
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
 digital-standard/ThreeDPoseUnityBarracuda[master]: https://github.com/digital-standard/ThreeDPoseUnityBarracuda.git
+Dimillian/RedditOS[master]: https://github.com/Dimillian/RedditOS.git
 dingdingcai/GSPose[main]: https://github.com/dingdingcai/GSPose.git
 Dingry/BunnyVisionPro[main]: https://github.com/Dingry/BunnyVisionPro.git
 DingXiaoH/RepVGG[main]: https://github.com/DingXiaoH/RepVGG.git
@@ -911,11 +913,11 @@ FoundationVision/LlamaGen[main]: https://github.com/FoundationVision/LlamaGen.gi
 FoundationVision/VAR[main]: https://github.com/FoundationVision/VAR.git
 Francis-Rings/StableAnimator[main]: https://github.com/Francis-Rings/StableAnimator.git
 franciszzj/Leffa[main]: https://github.com/franciszzj/Leffa.git
-frankaemika/franka_ros[develop]: https://github.com/frankaemika/franka_ros.git
-frankaemika/franka_ros2[humble]: https://github.com/frankaemika/franka_ros2.git
-frankaemika/libfranka[main]: https://github.com/frankaemika/libfranka.git
-frankaemika/libfranka-release[master]: https://github.com/frankaemika/libfranka-release.git
-frankaemika/the_reference_platform[main]: https://github.com/frankaemika/the_reference_platform.git
+frankarobotics/franka_ros[develop]: https://github.com/frankarobotics/franka_ros.git
+frankarobotics/franka_ros2[humble]: https://github.com/frankarobotics/franka_ros2.git
+frankarobotics/libfranka[main]: https://github.com/frankarobotics/libfranka.git
+frankarobotics/libfranka-release[master]: https://github.com/frankarobotics/libfranka-release.git
+frankarobotics/the_reference_platform[main]: https://github.com/frankarobotics/the_reference_platform.git
 freeCodeCamp/freeCodeCamp[main]: https://github.com/freeCodeCamp/freeCodeCamp.git
 FreeRDP/FreeRDP[master]: https://github.com/FreeRDP/FreeRDP.git
 FreeRTOS/FreeRTOS[main]: https://github.com/FreeRTOS/FreeRTOS.git
@@ -1921,6 +1923,7 @@ modelscope/scepter[main]: https://github.com/modelscope/scepter.git
 modular/modular[main]: https://github.com/modular/modular.git
 momentum-robotics-lab/deformgs[main]: https://github.com/momentum-robotics-lab/deformgs.git
 mongodb/mongo[master]: https://github.com/mongodb/mongo.git
+moonshine-ai/moonshine[main]: https://github.com/moonshine-ai/moonshine.git
 MoonshotAI/Kimi-Audio[master]: https://github.com/MoonshotAI/Kimi-Audio.git
 MoonshotAI/Kimi-k1.5[main]: https://github.com/MoonshotAI/Kimi-k1.5.git
 Morizeyao/GPT2-Chinese[old_gpt_2_chinese_before_2021_4_22]: https://github.com/Morizeyao/GPT2-Chinese.git
@@ -2793,6 +2796,7 @@ TAMS-Group/mtc_pour[master]: https://github.com/TAMS-Group/mtc_pour.git
 TAMS-Group/TeachNet_Teleoperation[melodic]: https://github.com/TAMS-Group/TeachNet_Teleoperation.git
 TangYihe/unsup-affordance[main]: https://github.com/TangYihe/unsup-affordance.git
 Taokt/MT-ACT[main]: https://github.com/Taokt/MT-ACT.git
+TapXWorld/ChinaTextbook[master]: https://github.com/TapXWorld/ChinaTextbook.git
 tarm/serial[master]: https://github.com/tarm/serial.git
 tasl-lab/LaMMA-P[main]: https://github.com/tasl-lab/LaMMA-P.git
 tatsu-lab/stanford_alpaca[main]: https://github.com/tatsu-lab/stanford_alpaca.git
@@ -3041,7 +3045,6 @@ upscayl/upscayl[main]: https://github.com/upscayl/upscayl.git
 Upsonic/Upsonic[master]: https://github.com/Upsonic/Upsonic.git
 uqfoundation/multiprocess[master]: https://github.com/uqfoundation/multiprocess.git
 usebruno/bruno[main]: https://github.com/usebruno/bruno.git
-usefulsensors/moonshine[main]: https://github.com/usefulsensors/moonshine.git
 USTC3DV/PortraitGen-code[main]: https://github.com/USTC3DV/PortraitGen-code.git
 UT-Austin-RPL/deoxys_control[main]: https://github.com/UT-Austin-RPL/deoxys_control.git
 UT-Austin-RPL/GROOT[master]: https://github.com/UT-Austin-RPL/GROOT.git
@@ -3099,6 +3102,7 @@ vrm-c/UniVRM[master]: https://github.com/vrm-c/UniVRM.git
 vrpn/vrpn[master]: https://github.com/vrpn/vrpn.git
 vsislab/RoboTamer4Qmini[main]: https://github.com/vsislab/RoboTamer4Qmini.git
 vsouza/awesome-ios[master]: https://github.com/vsouza/awesome-ios.git
+vszhub/not-pure-poole[master]: https://github.com/vszhub/not-pure-poole.git
 vuejs/awesome-vue[master]: https://github.com/vuejs/awesome-vue.git
 vuejs/vitepress[main]: https://github.com/vuejs/vitepress.git
 vuejs/vue[main]: https://github.com/vuejs/vue.git
