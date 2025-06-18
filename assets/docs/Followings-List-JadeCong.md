@@ -183,6 +183,7 @@ dgtlmoon: https://github.com/dgtlmoon
 Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
 DirtyHarryLYL: https://github.com/DirtyHarryLYL
+disneyresearch: https://github.com/disneyresearch
 DIYgod: https://github.com/DIYgod
 django: https://github.com/django
 DLR-RM: https://github.com/DLR-RM
@@ -518,6 +519,7 @@ nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
 NeoVertex1: https://github.com/NeoVertex1
 neovim: https://github.com/neovim
+netbirdio: https://github.com/netbirdio
 neuralinkcorp: https://github.com/neuralinkcorp
 neuralize-ai: https://github.com/neuralize-ai
 NeuronDance: https://github.com/NeuronDance
@@ -563,6 +565,7 @@ octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
 Oneflow-Inc: https://github.com/Oneflow-Inc
 OneStarRobotics: https://github.com/OneStarRobotics
+onlook-dev: https://github.com/onlook-dev
 ONLYOFFICE: https://github.com/ONLYOFFICE
 onuratakan: https://github.com/onuratakan
 open-compass: https://github.com/open-compass
@@ -874,6 +877,7 @@ virattt: https://github.com/virattt
 VIS4ROB-lab: https://github.com/VIS4ROB-lab
 Vision-CAIR: https://github.com/Vision-CAIR
 vision-x-nyu: https://github.com/vision-x-nyu
+vivoCameraResearch: https://github.com/vivoCameraResearch
 vnpy: https://github.com/vnpy
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
