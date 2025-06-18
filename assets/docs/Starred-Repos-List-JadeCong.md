@@ -1084,6 +1084,7 @@ greedying/tctip[master]: https://github.com/greedying/tctip.git
 grisoon/DreamActor-M1[main]: https://github.com/grisoon/DreamActor-M1.git
 GrowingGit/GitHub-Chinese-Top-Charts[master]: https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git
 grpc/grpc[master]: https://github.com/grpc/grpc.git
+gsa-tts-archived/ai.gov[main]: https://github.com/gsa-tts-archived/ai.gov.git
 guanguans/music-dl[master]: https://github.com/guanguans/music-dl.git
 guilk/KAT[main]: https://github.com/guilk/KAT.git
 guillaume-chevalier/LSTM-Human-Activity-Recognition[master]: https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition.git
@@ -1646,6 +1647,7 @@ LiteOS/LiteOS[master]: https://github.com/LiteOS/LiteOS.git
 LiteOS/LiteOS.github.io2[master]: https://github.com/LiteOS/LiteOS.github.io2.git
 LiteOS/LiteOS_Lab[iot-device-sdk-tiny]: https://github.com/LiteOS/LiteOS_Lab.git
 LiteOS/LiteOS_Partner_Development_Kits[master]: https://github.com/LiteOS/LiteOS_Partner_Development_Kits.git
+Little-Podi/AdaWorld[main]: https://github.com/Little-Podi/AdaWorld.git
 liuff19/Make-Your-3D[main]: https://github.com/liuff19/Make-Your-3D.git
 liuff19/ReconX[main]: https://github.com/liuff19/ReconX.git
 liuhuanyong/QASystemOnMedicalKG[master]: https://github.com/liuhuanyong/QASystemOnMedicalKG.git
@@ -1874,6 +1876,7 @@ mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_muj
 minghu0830/OphNet-3D[main]: https://github.com/minghu0830/OphNet-3D.git
 minghu0830/OphNet-benchmark[main]: https://github.com/minghu0830/OphNet-benchmark.git
 mingukkang/GigaGAN[main]: https://github.com/mingukkang/GigaGAN.git
+Minidoracat/mcp-feedback-enhanced[main]: https://github.com/Minidoracat/mcp-feedback-enhanced.git
 minqi/learning-to-communicate-pytorch[master]: https://github.com/minqi/learning-to-communicate-pytorch.git
 mint-lab/awesome-robotics-datasets[master]: https://github.com/mint-lab/awesome-robotics-datasets.git
 mintar/mimic_joint_gazebo_tutorial[kinetic]: https://github.com/mintar/mimic_joint_gazebo_tutorial.git
@@ -1985,6 +1988,7 @@ NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
 nepfaff/scalable-real2sim[main]: https://github.com/nepfaff/scalable-real2sim.git
 NervJS/taro[main]: https://github.com/NervJS/taro.git
+netbirdio/netbird[main]: https://github.com/netbirdio/netbird.git
 netease-youdao/QAnything[qanything-v2]: https://github.com/netease-youdao/QAnything.git
 neukg/TechGPT[main]: https://github.com/neukg/TechGPT.git
 neukg/TechGPT-2.0[main]: https://github.com/neukg/TechGPT-2.0.git
@@ -2123,6 +2127,7 @@ ollama/ollama[main]: https://github.com/ollama/ollama.git
 OmniSVG/OmniSVG[main]: https://github.com/OmniSVG/OmniSVG.git
 Oneflow-Inc/oneflow[master]: https://github.com/Oneflow-Inc/oneflow.git
 ONERAI/xTrimoPGLM[main]: https://github.com/ONERAI/xTrimoPGLM.git
+onlook-dev/onlook[main]: https://github.com/onlook-dev/onlook.git
 onlytailei/gym_ped_sim[public]: https://github.com/onlytailei/gym_ped_sim.git
 onnx/onnx[main]: https://github.com/onnx/onnx.git
 ooni/ooni.org[master]: https://github.com/ooni/ooni.org.git
@@ -2918,7 +2923,7 @@ titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
 TixiaoShan/LVI-SAM[master]: https://github.com/TixiaoShan/LVI-SAM.git
-TJU-Aerial-Robotics/YOPO[main]: https://github.com/TJU-Aerial-Robotics/YOPO.git
+TJU-Aerial-Robotics/YOPO[YOPO-Simple]: https://github.com/TJU-Aerial-Robotics/YOPO.git
 tjy-gitnub/win12[main]: https://github.com/tjy-gitnub/win12.git
 tkarras/progressive_growing_of_gans[master]: https://github.com/tkarras/progressive_growing_of_gans.git
 TKJElectronics/KalmanFilter[master]: https://github.com/TKJElectronics/KalmanFilter.git
@@ -3089,6 +3094,7 @@ Vision-CAIR/MiniGPT-4[main]: https://github.com/Vision-CAIR/MiniGPT-4.git
 Vision-CAIR/MiniGPT4-video[main]: https://github.com/Vision-CAIR/MiniGPT4-video.git
 vision-tactile-manip/quest2_ros_msg[main]: https://github.com/vision-tactile-manip/quest2_ros_msg.git
 vision-x-nyu/thinking-in-space[main]: https://github.com/vision-x-nyu/thinking-in-space.git
+vivoCameraResearch/Magic-TryOn[main]: https://github.com/vivoCameraResearch/Magic-TryOn.git
 vlad-ds/whisper-keyboard[main]: https://github.com/vlad-ds/whisper-keyboard.git
 vlfeat/matconvnet[master]: https://github.com/vlfeat/matconvnet.git
 vllm-project/vllm[main]: https://github.com/vllm-project/vllm.git
