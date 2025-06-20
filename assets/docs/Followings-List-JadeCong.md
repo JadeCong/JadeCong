@@ -7,6 +7,7 @@ aaedmusa: https://github.com/aaedmusa
 abhishekkrthakur: https://github.com/abhishekkrthakur
 abi: https://github.com/abi
 ac-rad: https://github.com/ac-rad
+ACETeleop: https://github.com/ACETeleop
 acheong08: https://github.com/acheong08
 adobe: https://github.com/adobe
 ag-ui-protocol: https://github.com/ag-ui-protocol
@@ -841,6 +842,7 @@ tylerlum: https://github.com/tylerlum
 ubuntu: https://github.com/ubuntu
 Ucas-HaoranWei: https://github.com/Ucas-HaoranWei
 ucla: https://github.com/ucla
+ucla-mobility: https://github.com/ucla-mobility
 UCLA-VAST: https://github.com/UCLA-VAST
 udecode: https://github.com/udecode
 UFund-Me: https://github.com/UFund-Me
@@ -905,6 +907,7 @@ wuphilipp: https://github.com/wuphilipp
 wwj718: https://github.com/wwj718
 wxWidgets: https://github.com/wxWidgets
 wzzheng: https://github.com/wzzheng
+x-humanoid-robomind: https://github.com/x-humanoid-robomind
 X-lab2017: https://github.com/X-lab2017
 X-PLUG: https://github.com/X-PLUG
 x1xhlol: https://github.com/x1xhlol
