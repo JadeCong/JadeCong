@@ -142,7 +142,7 @@ allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.0.5]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.0.6]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
 als3453/Collection_TianYa[main]: https://github.com/als3453/Collection_TianYa.git
@@ -719,6 +719,7 @@ ElricLiu/AutoGPT-Next-Web[main]: https://github.com/ElricLiu/AutoGPT-Next-Web.gi
 ElricLiu/Awesome-One-Click-Deployment[main]: https://github.com/ElricLiu/Awesome-One-Click-Deployment.git
 ematvey/tensorflow-seq2seq-tutorials[master]: https://github.com/ematvey/tensorflow-seq2seq-tutorials.git
 embodied-generalist/embodied-generalist[main]: https://github.com/embodied-generalist/embodied-generalist.git
+Embodied-Web-Agent/Embodied-Web-Agent[main]: https://github.com/Embodied-Web-Agent/Embodied-Web-Agent.git
 emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
 emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screenshot-to-code.git
@@ -871,6 +872,7 @@ FFTAI/Wiki-GRx-Deploy[FourierN1]: https://github.com/FFTAI/Wiki-GRx-Deploy.git
 FFTAI/Wiki-GRx-Gym[FourierN1]: https://github.com/FFTAI/Wiki-GRx-Gym.git
 fighting41love/funNLP[master]: https://github.com/fighting41love/funNLP.git
 finegrain-ai/refiners[main]: https://github.com/finegrain-ai/refiners.git
+FinGeniusAPP/FinGeniusAPP[main]: https://github.com/FinGeniusAPP/FinGeniusAPP.git
 fingerprintjs/fingerprintjs[master]: https://github.com/fingerprintjs/fingerprintjs.git
 finos/perspective[master]: https://github.com/finos/perspective.git
 fireflyprotocol/bluefin-v2-client-python[main]: https://github.com/fireflyprotocol/bluefin-v2-client-python.git
@@ -907,6 +909,7 @@ FoloUp/FoloUp[main]: https://github.com/FoloUp/FoloUp.git
 forezp/SpringCloudLearning[master]: https://github.com/forezp/SpringCloudLearning.git
 formulahendry/944.Life[master]: https://github.com/formulahendry/944.Life.git
 formulahendry/955.WLB[master]: https://github.com/formulahendry/955.WLB.git
+Fosowl/agenticSeek[main]: https://github.com/Fosowl/agenticSeek.git
 FoundationAgents/awesome-foundation-agents[main]: https://github.com/FoundationAgents/awesome-foundation-agents.git
 FoundationAgents/MetaGPT[main]: https://github.com/FoundationAgents/MetaGPT.git
 FoundationAgents/OpenManus[main]: https://github.com/FoundationAgents/OpenManus.git
@@ -1124,6 +1127,7 @@ haosulab/MPlib[main]: https://github.com/haosulab/MPlib.git
 haotian-liu/LLaVA[main]: https://github.com/haotian-liu/LLaVA.git
 haoyi-duan/WorldScore[main]: https://github.com/haoyi-duan/WorldScore.git
 HaoyiZhu/SPA[main]: https://github.com/HaoyiZhu/SPA.git
+haoyu-x/vision-in-action[main]: https://github.com/haoyu-x/vision-in-action.git
 haoz19/MagicPose4D[main]: https://github.com/haoz19/MagicPose4D.git
 hardikbansal/CycleGAN[master]: https://github.com/hardikbansal/CycleGAN.git
 haritheja-e/robot-utility-models[main]: https://github.com/haritheja-e/robot-utility-models.git
@@ -1256,6 +1260,7 @@ hyperai/awesome-ai4s[master]: https://github.com/hyperai/awesome-ai4s.git
 hyperbrowserai/examples[main]: https://github.com/hyperbrowserai/examples.git
 hyperplane-lab/RGBManip[main]: https://github.com/hyperplane-lab/RGBManip.git
 hyz317/StdGEN[main]: https://github.com/hyz317/StdGEN.git
+iamgio/quarkdown[main]: https://github.com/iamgio/quarkdown.git
 iamhyc/Overleaf-Workshop[master]: https://github.com/iamhyc/Overleaf-Workshop.git
 iawia002/lux[master]: https://github.com/iawia002/lux.git
 ibab/tensorflow-wavenet[master]: https://github.com/ibab/tensorflow-wavenet.git
@@ -1556,6 +1561,7 @@ kyegomez/RoboCAT[master]: https://github.com/kyegomez/RoboCAT.git
 kyegomez/RT-2[main]: https://github.com/kyegomez/RT-2.git
 Kyubyong/transformer[master]: https://github.com/Kyubyong/transformer.git
 Kyushik/DRL[master]: https://github.com/Kyushik/DRL.git
+kywind/pgnd[main]: https://github.com/kywind/pgnd.git
 kyzhouhzau/BERT-NER[master]: https://github.com/kyzhouhzau/BERT-NER.git
 labmlai/annotated_deep_learning_paper_implementations[master]: https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
 labring/FastGPT[main]: https://github.com/labring/FastGPT.git
@@ -1594,6 +1600,7 @@ LeCAR-Lab/SoFTA[main]: https://github.com/LeCAR-Lab/SoFTA.git
 ledgetech/lua-resty-http[master]: https://github.com/ledgetech/lua-resty-http.git
 Leemu0822/MQTT_Unity[master]: https://github.com/Leemu0822/MQTT_Unity.git
 leggedrobotics/darknet_ros[master]: https://github.com/leggedrobotics/darknet_ros.git
+leggedrobotics/fdm[main]: https://github.com/leggedrobotics/fdm.git
 leggedrobotics/free_gait[master]: https://github.com/leggedrobotics/free_gait.git
 leggedrobotics/icp_localization[master]: https://github.com/leggedrobotics/icp_localization.git
 leggedrobotics/legged_gym[master]: https://github.com/leggedrobotics/legged_gym.git
@@ -2023,6 +2030,7 @@ nikrich/UnrealAssets[master]: https://github.com/nikrich/UnrealAssets.git
 nilsherzig/LLocalSearch[main]: https://github.com/nilsherzig/LLocalSearch.git
 NilsIrl/dockerc[trunk]: https://github.com/NilsIrl/dockerc.git
 ningshuliang/1-2-1-MNVTON[main]: https://github.com/ningshuliang/1-2-1-MNVTON.git
+NirDiamant/agents-towards-production[main]: https://github.com/NirDiamant/agents-towards-production.git
 NiteshBharadwaj/part-affinity[master]: https://github.com/NiteshBharadwaj/part-affinity.git
 niuzaisheng/ScreenAgent[main]: https://github.com/niuzaisheng/ScreenAgent.git
 NJU-PCALab/STAR[main]: https://github.com/NJU-PCALab/STAR.git
@@ -2522,6 +2530,7 @@ RobotLocomotion/drake[master]: https://github.com/RobotLocomotion/drake.git
 RobotLocomotion/gcs-science-robotics[main]: https://github.com/RobotLocomotion/gcs-science-robotics.git
 robotron2084/animation-retargeting[master]: https://github.com/robotron2084/animation-retargeting.git
 RoboTurk-Platform/roboturk_real_dataset[master]: https://github.com/RoboTurk-Platform/roboturk_real_dataset.git
+RoboTwin-Platform/RoboTwin[main]: https://github.com/RoboTwin-Platform/RoboTwin.git
 RoboVerseOrg/RoboVerse[main]: https://github.com/RoboVerseOrg/RoboVerse.git
 RobustFieldAutonomyLab/LeGO-LOAM[master]: https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git
 RobustNLP/CipherChat[main]: https://github.com/RobustNLP/CipherChat.git
@@ -2917,7 +2926,6 @@ tianheyu927/mopo[master]: https://github.com/tianheyu927/mopo.git
 TianhongDai/google-football-pytorch[master]: https://github.com/TianhongDai/google-football-pytorch.git
 Tianxiaomo/pytorch-YOLOv4[master]: https://github.com/Tianxiaomo/pytorch-YOLOv4.git
 TianxingChen/Embodied-AI-Guide[main]: https://github.com/TianxingChen/Embodied-AI-Guide.git
-TianxingChen/RoboTwin[main]: https://github.com/TianxingChen/RoboTwin.git
 tianyakk/tianya_kkndme[main]: https://github.com/tianyakk/tianya_kkndme.git
 timdorr/tesla-api[master]: https://github.com/timdorr/tesla-api.git
 timqian/bambot[main]: https://github.com/timqian/bambot.git
@@ -3105,6 +3113,7 @@ vlfeat/matconvnet[master]: https://github.com/vlfeat/matconvnet.git
 vllm-project/vllm[main]: https://github.com/vllm-project/vllm.git
 vnpy/vnpy[master]: https://github.com/vnpy/vnpy.git
 vnpy/vnpy_ctp[main]: https://github.com/vnpy/vnpy_ctp.git
+voideditor/void[main]: https://github.com/voideditor/void.git
 voidfiles/awesome-rss[master]: https://github.com/voidfiles/awesome-rss.git
 vovacooper/Unity3d_MQTT[master]: https://github.com/vovacooper/Unity3d_MQTT.git
 VoxAct-B/voxactb[main]: https://github.com/VoxAct-B/voxactb.git
@@ -3368,6 +3377,7 @@ zsh-users/zsh-autosuggestions[master]: https://github.com/zsh-users/zsh-autosugg
 zsh-users/zsh-completions[master]: https://github.com/zsh-users/zsh-completions.git
 zsh-users/zsh-history-substring-search[master]: https://github.com/zsh-users/zsh-history-substring-search.git
 zsh-users/zsh-syntax-highlighting[master]: https://github.com/zsh-users/zsh-syntax-highlighting.git
+zst1406217/VR-Robo[main]: https://github.com/zst1406217/VR-Robo.git
 zuoxingdong/VIN_PyTorch_Visdom[master]: https://github.com/zuoxingdong/VIN_PyTorch_Visdom.git
 zuoym15/craves.ai[master]: https://github.com/zuoym15/craves.ai.git
 zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.git
