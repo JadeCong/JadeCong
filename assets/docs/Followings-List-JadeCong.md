@@ -206,6 +206,7 @@ elecfreaks: https://github.com/elecfreaks
 electech6: https://github.com/electech6
 electron: https://github.com/electron
 Elite-Robots: https://github.com/Elite-Robots
+Embodied-Web-Agent: https://github.com/Embodied-Web-Agent
 emidan19: https://github.com/emidan19
 engineai-robotics: https://github.com/engineai-robotics
 EnVision-Research: https://github.com/EnVision-Research
@@ -534,6 +535,7 @@ nihalsid: https://github.com/nihalsid
 nihui: https://github.com/nihui
 nikepupu: https://github.com/nikepupu
 nikhilbarhate99: https://github.com/nikhilbarhate99
+NirDiamant: https://github.com/NirDiamant
 NJU-PCALab: https://github.com/NJU-PCALab
 nltk: https://github.com/nltk
 nocodb: https://github.com/nocodb
@@ -698,6 +700,7 @@ Robot-VLAs: https://github.com/Robot-VLAs
 roboterax: https://github.com/roboterax
 robotlearning123: https://github.com/robotlearning123
 RobotLocomotion: https://github.com/RobotLocomotion
+RoboTwin-Platform: https://github.com/RoboTwin-Platform
 RoboVerseOrg: https://github.com/RoboVerseOrg
 RobustFieldAutonomyLab: https://github.com/RobustFieldAutonomyLab
 RockChinQ: https://github.com/RockChinQ
@@ -881,6 +884,7 @@ Vision-CAIR: https://github.com/Vision-CAIR
 vision-x-nyu: https://github.com/vision-x-nyu
 vivoCameraResearch: https://github.com/vivoCameraResearch
 vnpy: https://github.com/vnpy
+voideditor: https://github.com/voideditor
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
 wanglin2: https://github.com/wanglin2
