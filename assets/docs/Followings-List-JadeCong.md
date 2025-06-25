@@ -181,6 +181,7 @@ DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
+diankun-wu: https://github.com/diankun-wu
 Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
 DirtyHarryLYL: https://github.com/DirtyHarryLYL
@@ -496,6 +497,7 @@ mlc-ai: https://github.com/mlc-ai
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
 mongodb: https://github.com/mongodb
+moojink: https://github.com/moojink
 moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
 MorvanZhou: https://github.com/MorvanZhou
@@ -805,6 +807,7 @@ TheAlgorithms: https://github.com/TheAlgorithms
 TheKingOfDuck: https://github.com/TheKingOfDuck
 TheRobotStudio: https://github.com/TheRobotStudio
 ThingPulse: https://github.com/ThingPulse
+thkkk: https://github.com/thkkk
 thu-coai: https://github.com/thu-coai
 thu-ml: https://github.com/thu-ml
 THUDM: https://github.com/THUDM
