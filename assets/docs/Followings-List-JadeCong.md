@@ -803,6 +803,7 @@ tensorflow: https://github.com/tensorflow
 teslamate-org: https://github.com/teslamate-org
 teslamotors: https://github.com/teslamotors
 tgeijten: https://github.com/tgeijten
+The-Pocket: https://github.com/The-Pocket
 TheAlgorithms: https://github.com/TheAlgorithms
 TheKingOfDuck: https://github.com/TheKingOfDuck
 TheRobotStudio: https://github.com/TheRobotStudio
