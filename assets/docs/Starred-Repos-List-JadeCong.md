@@ -22,6 +22,7 @@
 6174/comflowy[main]: https://github.com/6174/comflowy.git
 78/xiaozhi-esp32[main]: https://github.com/78/xiaozhi-esp32.git
 996icu/996.ICU[master]: https://github.com/996icu/996.ICU.git
+A-embodied/A0[master]: https://github.com/A-embodied/A0.git
 a1600012888/PhysDreamer[main]: https://github.com/a1600012888/PhysDreamer.git
 a16z-infra/ai-town[main]: https://github.com/a16z-infra/ai-town.git
 aaedmusa/3D-Printed-Robot-Dog[main]: https://github.com/aaedmusa/3D-Printed-Robot-Dog.git
@@ -346,6 +347,7 @@ bhaskatripathi/Text2Diagram[main]: https://github.com/bhaskatripathi/Text2Diagra
 BICLab/SpikeYOLO[main]: https://github.com/BICLab/SpikeYOLO.git
 bilibili/ailab[main]: https://github.com/bilibili/ailab.git
 binary-husky/gpt_academic[master]: https://github.com/binary-husky/gpt_academic.git
+BinaryDex/DexHub[main]: https://github.com/BinaryDex/DexHub.git
 Binyr/NormalCrafter[main]: https://github.com/Binyr/NormalCrafter.git
 biomejs/biome[main]: https://github.com/biomejs/biome.git
 bionicdl-sustech/DeepClawBenchmark[master]: https://github.com/bionicdl-sustech/DeepClawBenchmark.git
@@ -622,6 +624,7 @@ devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
 DexRobot/dexrobot_python_sdk[main]: https://github.com/DexRobot/dexrobot_python_sdk.git
 dfaker/df[master]: https://github.com/dfaker/df.git
+diankun-wu/Spatial-MLLM[master]: https://github.com/diankun-wu/Spatial-MLLM.git
 dibyaghosh/dnc[master]: https://github.com/dibyaghosh/dnc.git
 Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_aided_ocr.git
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
@@ -700,6 +703,7 @@ eclipse-paho/paho.mqtt.cpp[master]: https://github.com/eclipse-paho/paho.mqtt.cp
 eclipse-paho/paho.mqtt.m2mqtt[master]: https://github.com/eclipse-paho/paho.mqtt.m2mqtt.git
 eclipse-paho/paho.mqtt.python[master]: https://github.com/eclipse-paho/paho.mqtt.python.git
 eclipse-threadx/threadx[master]: https://github.com/eclipse-threadx/threadx.git
+EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
 elecfreaks/XGO-Rider[master]: https://github.com/elecfreaks/XGO-Rider.git
@@ -1047,6 +1051,7 @@ google-deepmind/sonnet[v2]: https://github.com/google-deepmind/sonnet.git
 google-deepmind/spriteworld[master]: https://github.com/google-deepmind/spriteworld.git
 google-deepmind/trfl[master]: https://github.com/google-deepmind/trfl.git
 google-gemini/cookbook[main]: https://github.com/google-gemini/cookbook.git
+google-gemini/gemini-cli[main]: https://github.com/google-gemini/gemini-cli.git
 google-gemini/gemini-fullstack-langgraph-quickstart[main]: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart.git
 google-research/bert[master]: https://github.com/google-research/bert.git
 google-research/circuit_training[main]: https://github.com/google-research/circuit_training.git
@@ -1392,6 +1397,7 @@ jax-ml/jax[main]: https://github.com/jax-ml/jax.git
 jayparks/transformer[master]: https://github.com/jayparks/transformer.git
 jaywcjlove/awesome-mac[master]: https://github.com/jaywcjlove/awesome-mac.git
 jbeder/yaml-cpp[master]: https://github.com/jbeder/yaml-cpp.git
+jbiaojerry/ebook-treasure-chest[main]: https://github.com/jbiaojerry/ebook-treasure-chest.git
 jcjohnson/fast-neural-style[master]: https://github.com/jcjohnson/fast-neural-style.git
 jcjohnson/neural-style[master]: https://github.com/jcjohnson/neural-style.git
 jcjohnson/torch-rnn[master]: https://github.com/jcjohnson/torch-rnn.git
@@ -2181,6 +2187,7 @@ openai/mlsh[master]: https://github.com/openai/mlsh.git
 openai/mujoco-py[master]: https://github.com/openai/mujoco-py.git
 openai/mujoco-worldgen[master]: https://github.com/openai/mujoco-worldgen.git
 openai/openai-cookbook[main]: https://github.com/openai/openai-cookbook.git
+openai/openai-cs-agents-demo[main]: https://github.com/openai/openai-cs-agents-demo.git
 openai/openai-python[main]: https://github.com/openai/openai-python.git
 openai/openai-realtime-agents[main]: https://github.com/openai/openai-realtime-agents.git
 openai/retro[master]: https://github.com/openai/retro.git
@@ -2882,6 +2889,7 @@ testerSunshine/12306[master]: https://github.com/testerSunshine/12306.git
 Textualize/rich[master]: https://github.com/Textualize/rich.git
 tflearn/tflearn[master]: https://github.com/tflearn/tflearn.git
 tgeijten/sconegym[main]: https://github.com/tgeijten/sconegym.git
+The-Pocket/PocketFlow[main]: https://github.com/The-Pocket/PocketFlow.git
 TheAlgorithms/C[master]: https://github.com/TheAlgorithms/C.git
 TheAlgorithms/C-Plus-Plus[master]: https://github.com/TheAlgorithms/C-Plus-Plus.git
 TheAlgorithms/C-Sharp[master]: https://github.com/TheAlgorithms/C-Sharp.git
@@ -3098,6 +3106,7 @@ VAST-AI-Research/TripoSR[main]: https://github.com/VAST-AI-Research/TripoSR.git
 vchoutas/smplx[main]: https://github.com/vchoutas/smplx.git
 Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
 VectorSpaceLab/OmniGen[main]: https://github.com/VectorSpaceLab/OmniGen.git
+VectorSpaceLab/OmniGen2[main]: https://github.com/VectorSpaceLab/OmniGen2.git
 velipso/sndfilter[master]: https://github.com/velipso/sndfilter.git
 vercel/ai[main]: https://github.com/vercel/ai.git
 vercel/hyper[canary]: https://github.com/vercel/hyper.git
