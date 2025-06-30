@@ -326,6 +326,8 @@ bbussolino/Q-CapsNets[master]: https://github.com/bbussolino/Q-CapsNets.git
 bbycroft/llm-viz[main]: https://github.com/bbycroft/llm-viz.git
 bcicen/ctop[master]: https://github.com/bcicen/ctop.git
 bcmi/Light-A-Video[main]: https://github.com/bcmi/Light-A-Video.git
+bdaiinstitute/judo[main]: https://github.com/bdaiinstitute/judo.git
+bdaiinstitute/spot_ros2[main]: https://github.com/bdaiinstitute/spot_ros2.git
 bdaiinstitute/theia[main]: https://github.com/bdaiinstitute/theia.git
 behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs-algo.git
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
@@ -580,6 +582,7 @@ datawhalechina/tiny-universe[main]: https://github.com/datawhalechina/tiny-unive
 datitran/face2face-demo[master]: https://github.com/datitran/face2face-demo.git
 dauparas/ProteinMPNN[main]: https://github.com/dauparas/ProteinMPNN.git
 dav/word2vec[master]: https://github.com/dav/word2vec.git
+DavidHDev/react-bits[main]: https://github.com/DavidHDev/react-bits.git
 davidmalawey/OpenArm[main]: https://github.com/davidmalawey/OpenArm.git
 davidtellez/contrastive-predictive-coding[master]: https://github.com/davidtellez/contrastive-predictive-coding.git
 dbalatero/monster_mash[master]: https://github.com/dbalatero/monster_mash.git
@@ -611,6 +614,7 @@ deepseek-ai/Janus[main]: https://github.com/deepseek-ai/Janus.git
 deepspeedai/DeepSpeed[master]: https://github.com/deepspeedai/DeepSpeed.git
 deezer/spleeter[master]: https://github.com/deezer/spleeter.git
 defunkt/gist[master]: https://github.com/defunkt/gist.git
+demodiffusion/demodiffusion[main]: https://github.com/demodiffusion/demodiffusion.git
 Dene33/video_to_bvh[master]: https://github.com/Dene33/video_to_bvh.git
 deniscerri/ytdlnis[main]: https://github.com/deniscerri/ytdlnis.git
 dennybritz/chatbot-retrieval[master]: https://github.com/dennybritz/chatbot-retrieval.git
@@ -1101,6 +1105,7 @@ guanguans/music-dl[master]: https://github.com/guanguans/music-dl.git
 guilk/KAT[main]: https://github.com/guilk/KAT.git
 guillaume-chevalier/LSTM-Human-Activity-Recognition[master]: https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition.git
 gulvarol/bodynet[master]: https://github.com/gulvarol/bodynet.git
+Guobin-Zhu/MARL-LLM[master]: https://github.com/Guobin-Zhu/MARL-LLM.git
 GuyTevet/CLoSD[main]: https://github.com/GuyTevet/CLoSD.git
 gwtaylor/theano-rnn[master]: https://github.com/gwtaylor/theano-rnn.git
 GWxuan/TSP3D[main]: https://github.com/GWxuan/TSP3D.git
@@ -2312,7 +2317,7 @@ Peterande/D-FINE[master]: https://github.com/Peterande/D-FINE.git
 petercorke/robotics-toolbox-python[master]: https://github.com/petercorke/robotics-toolbox-python.git
 PeterH0323/Streamer-Sales[main]: https://github.com/PeterH0323/Streamer-Sales.git
 PeterL1n/BackgroundMattingV2[master]: https://github.com/PeterL1n/BackgroundMattingV2.git
-PetoiCamp/OpenCat[main]: https://github.com/PetoiCamp/OpenCat.git
+PetoiCamp/OpenCat-Quadruped-Robot[main]: https://github.com/PetoiCamp/OpenCat-Quadruped-Robot.git
 Phantom-video/Phantom[main]: https://github.com/Phantom-video/Phantom.git
 philc/vimium[master]: https://github.com/philc/vimium.git
 philipperemy/keras-attention[master]: https://github.com/philipperemy/keras-attention.git
@@ -2786,6 +2791,7 @@ stevenlsw/physgen[main]: https://github.com/stevenlsw/physgen.git
 Stirling-Tools/Stirling-PDF[main]: https://github.com/Stirling-Tools/Stirling-PDF.git
 StockSharp/StockSharp[master]: https://github.com/StockSharp/StockSharp.git
 straight-tamago/misakaX[main]: https://github.com/straight-tamago/misakaX.git
+strands-agents/tools[main]: https://github.com/strands-agents/tools.git
 streadway/amqp[master]: https://github.com/streadway/amqp.git
 streamlit/streamlit[develop]: https://github.com/streamlit/streamlit.git
 stylefeng/Guns[master]: https://github.com/stylefeng/Guns.git
@@ -3081,6 +3087,7 @@ upscayl/upscayl[main]: https://github.com/upscayl/upscayl.git
 Upsonic/Upsonic[master]: https://github.com/Upsonic/Upsonic.git
 uqfoundation/multiprocess[master]: https://github.com/uqfoundation/multiprocess.git
 usebruno/bruno[main]: https://github.com/usebruno/bruno.git
+USMizuki/NexusGS[main]: https://github.com/USMizuki/NexusGS.git
 USTC3DV/PortraitGen-code[main]: https://github.com/USTC3DV/PortraitGen-code.git
 ustcwhy/BitVLA[main]: https://github.com/ustcwhy/BitVLA.git
 UT-Austin-RPL/deoxys_control[main]: https://github.com/UT-Austin-RPL/deoxys_control.git
@@ -3108,7 +3115,7 @@ Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
 VectorSpaceLab/OmniGen[main]: https://github.com/VectorSpaceLab/OmniGen.git
 VectorSpaceLab/OmniGen2[main]: https://github.com/VectorSpaceLab/OmniGen2.git
 velipso/sndfilter[master]: https://github.com/velipso/sndfilter.git
-vercel/ai[main]: https://github.com/vercel/ai.git
+vercel/ai[v5]: https://github.com/vercel/ai.git
 vercel/hyper[canary]: https://github.com/vercel/hyper.git
 vercel/next.js[canary]: https://github.com/vercel/next.js.git
 verigak/progress[master]: https://github.com/verigak/progress.git
@@ -3365,6 +3372,10 @@ Zheng-Chong/CatVTON[edited]: https://github.com/Zheng-Chong/CatVTON.git
 ZhengdiYu/Dyn-HaMR[main]: https://github.com/ZhengdiYu/Dyn-HaMR.git
 ZhengPeng7/BiRefNet[main]: https://github.com/ZhengPeng7/BiRefNet.git
 ZhengtongXu/UniT[main]: https://github.com/ZhengtongXu/UniT.git
+ZhengyiLuo/Omnigrasp[master]: https://github.com/ZhengyiLuo/Omnigrasp.git
+ZhengyiLuo/PHC[master]: https://github.com/ZhengyiLuo/PHC.git
+ZhengyiLuo/PULSE[master]: https://github.com/ZhengyiLuo/PULSE.git
+ZhengyiLuo/UHC[master]: https://github.com/ZhengyiLuo/UHC.git
 zhenyuwei2003/DRO-Grasp[master]: https://github.com/zhenyuwei2003/DRO-Grasp.git
 zhisheng17/flink-learning[master]: https://github.com/zhisheng17/flink-learning.git
 zhongleilz/Sketch2Anim[main]: https://github.com/zhongleilz/Sketch2Anim.git
