@@ -91,6 +91,7 @@ barryclark: https://github.com/barryclark
 bbfamily: https://github.com/bbfamily
 bbycroft: https://github.com/bbycroft
 bcmi: https://github.com/bcmi
+bdaiinstitute: https://github.com/bdaiinstitute
 bearpaw: https://github.com/bearpaw
 behavior-robot-suite: https://github.com/behavior-robot-suite
 BEPb: https://github.com/BEPb
@@ -170,6 +171,7 @@ danijar: https://github.com/danijar
 Dao-AILab: https://github.com/Dao-AILab
 databricks: https://github.com/databricks
 datawhalechina: https://github.com/datawhalechina
+DavidHDev: https://github.com/DavidHDev
 davidmalawey: https://github.com/davidmalawey
 ddbourgin: https://github.com/ddbourgin
 DeeLMind: https://github.com/DeeLMind
@@ -774,6 +776,7 @@ StanfordVL: https://github.com/StanfordVL
 staruml: https://github.com/staruml
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
+strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
 sunner: https://github.com/sunner
 suno-ai: https://github.com/suno-ai
@@ -961,6 +964,7 @@ zealdocs: https://github.com/zealdocs
 zen-browser: https://github.com/zen-browser
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
+ZhengyiLuo: https://github.com/ZhengyiLuo
 zia-ai: https://github.com/zia-ai
 Zipstack: https://github.com/Zipstack
 zju3dv: https://github.com/zju3dv
