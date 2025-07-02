@@ -33,6 +33,7 @@ alexbers: https://github.com/alexbers
 AlexeyAB: https://github.com/AlexeyAB
 ali-vilab: https://github.com/ali-vilab
 alibaba: https://github.com/alibaba
+alibaba-damo-academy: https://github.com/alibaba-damo-academy
 Alibaba-NLP: https://github.com/Alibaba-NLP
 AlibabaResearch: https://github.com/AlibabaResearch
 All-Hands-AI: https://github.com/All-Hands-AI
@@ -118,6 +119,7 @@ canonical: https://github.com/canonical
 Capri2014: https://github.com/Capri2014
 carbon-language: https://github.com/carbon-language
 cbfinn: https://github.com/cbfinn
+chaidiscovery: https://github.com/chaidiscovery
 Chainlit: https://github.com/Chainlit
 Chaphlagical: https://github.com/Chaphlagical
 Charmve: https://github.com/Charmve
@@ -239,6 +241,7 @@ fatedier: https://github.com/fatedier
 FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
 FengQuanLi: https://github.com/FengQuanLi
+FestingerVault: https://github.com/FestingerVault
 FFTAI: https://github.com/FFTAI
 finos: https://github.com/finos
 fireflyprotocol: https://github.com/fireflyprotocol
@@ -367,6 +370,7 @@ isocpp: https://github.com/isocpp
 j96w: https://github.com/j96w
 janishar: https://github.com/janishar
 jart: https://github.com/jart
+jbiaojerry: https://github.com/jbiaojerry
 jcjohnson: https://github.com/jcjohnson
 JenniferBuehler: https://github.com/JenniferBuehler
 jesseduffield: https://github.com/jesseduffield
@@ -457,6 +461,7 @@ lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
 lumalabs: https://github.com/lumalabs
 lutris: https://github.com/lutris
+lyswhut: https://github.com/lyswhut
 MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
 magic-research: https://github.com/magic-research
@@ -792,6 +797,7 @@ TapXWorld: https://github.com/TapXWorld
 tasl-lab: https://github.com/tasl-lab
 tatsu-lab: https://github.com/tatsu-lab
 tauri-apps: https://github.com/tauri-apps
+TauricResearch: https://github.com/TauricResearch
 tavily-ai: https://github.com/tavily-ai
 TEA-Lab: https://github.com/TEA-Lab
 TeamWiseFlow: https://github.com/TeamWiseFlow
@@ -869,6 +875,7 @@ UniversalRobots: https://github.com/UniversalRobots
 unovue: https://github.com/unovue
 Unsigned-Long: https://github.com/Unsigned-Long
 upscayl: https://github.com/upscayl
+upstash: https://github.com/upstash
 usebruno: https://github.com/usebruno
 ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
