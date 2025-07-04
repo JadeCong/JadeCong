@@ -381,6 +381,7 @@ BridgeVLA/BridgeVLA[main]: https://github.com/BridgeVLA/BridgeVLA.git
 brightmart/bert_language_understanding[master]: https://github.com/brightmart/bert_language_understanding.git
 brilam/remove-bg[master]: https://github.com/brilam/remove-bg.git
 browser-use/browser-use[main]: https://github.com/browser-use/browser-use.git
+browser-use/workflow-use[main]: https://github.com/browser-use/workflow-use.git
 browserbase/stagehand[main]: https://github.com/browserbase/stagehand.git
 Brummi/MonoRec[main]: https://github.com/Brummi/MonoRec.git
 brunokeymolen/hough[master]: https://github.com/brunokeymolen/hough.git
@@ -501,6 +502,7 @@ CodedotAl/gpt-code-clippy[camera-ready]: https://github.com/CodedotAl/gpt-code-c
 CodePhiliaX/Chat2DB[main]: https://github.com/CodePhiliaX/Chat2DB.git
 coder/code-server[main]: https://github.com/coder/code-server.git
 codertimo/BERT-pytorch[master]: https://github.com/codertimo/BERT-pytorch.git
+codexu/note-gen[dev]: https://github.com/codexu/note-gen.git
 cohere-ai/cohere-toolkit[main]: https://github.com/cohere-ai/cohere-toolkit.git
 coleam00/Archon[main]: https://github.com/coleam00/Archon.git
 coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/dynamic-gaussian-marbles.git
@@ -574,6 +576,7 @@ datalab-to/surya[master]: https://github.com/datalab-to/surya.git
 datasciencemasters/go[master]: https://github.com/datasciencemasters/go.git
 datawhalechina/competition-baseline[master]: https://github.com/datawhalechina/competition-baseline.git
 datawhalechina/easy-rl[master]: https://github.com/datawhalechina/easy-rl.git
+datawhalechina/happy-llm[main]: https://github.com/datawhalechina/happy-llm.git
 datawhalechina/hugging-llm[main]: https://github.com/datawhalechina/hugging-llm.git
 datawhalechina/learn-nlp-with-transformers[main]: https://github.com/datawhalechina/learn-nlp-with-transformers.git
 datawhalechina/leedl-tutorial[master]: https://github.com/datawhalechina/leedl-tutorial.git
@@ -672,6 +675,7 @@ Doubiiu/ToonCrafter[main]: https://github.com/Doubiiu/ToonCrafter.git
 dougsm/ggcnn[master]: https://github.com/dougsm/ggcnn.git
 dougsm/ggcnn_kinova_grasping[master]: https://github.com/dougsm/ggcnn_kinova_grasping.git
 dougsm/mvp_grasp[master]: https://github.com/dougsm/mvp_grasp.git
+doxygen/doxygen[master]: https://github.com/doxygen/doxygen.git
 dragen1860/awesome-meta-learning[master]: https://github.com/dragen1860/awesome-meta-learning.git
 dragen1860/MAML-Pytorch[master]: https://github.com/dragen1860/MAML-Pytorch.git
 dragonbook/V2V-PoseNet-pytorch[master]: https://github.com/dragonbook/V2V-PoseNet-pytorch.git
@@ -737,6 +741,7 @@ Embodied-Web-Agent/Embodied-Web-Agent[main]: https://github.com/Embodied-Web-Age
 emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
 emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screenshot-to-code.git
+empriselab/feeding-deployment[main]: https://github.com/empriselab/feeding-deployment.git
 emqx/emqx[master]: https://github.com/emqx/emqx.git
 enaqx/awesome-react[master]: https://github.com/enaqx/awesome-react.git
 endymecy/awesome-deeplearning-resources[master]: https://github.com/endymecy/awesome-deeplearning-resources.git
@@ -1094,6 +1099,7 @@ google/skywater-pdk[main]: https://github.com/google/skywater-pdk.git
 googleapis/googleapis[master]: https://github.com/googleapis/googleapis.git
 googlesamples/google-services[master]: https://github.com/googlesamples/google-services.git
 gpt-omni/mini-omni[main]: https://github.com/gpt-omni/mini-omni.git
+grablab/openhand-hardware[master]: https://github.com/grablab/openhand-hardware.git
 grantjenks/free-python-games[master]: https://github.com/grantjenks/free-python-games.git
 graphdeco-inria/gaussian-splatting[main]: https://github.com/graphdeco-inria/gaussian-splatting.git
 graphific/DeepDreamVideo[master]: https://github.com/graphific/DeepDreamVideo.git
@@ -1407,6 +1413,7 @@ jamesmawm/High-Frequency-Trading-Model-with-IB[master]: https://github.com/james
 jamiemcg/Remarkable[master]: https://github.com/jamiemcg/Remarkable.git
 jason5ng32/MyIP[main]: https://github.com/jason5ng32/MyIP.git
 jason718/awesome-self-supervised-learning[master]: https://github.com/jason718/awesome-self-supervised-learning.git
+JasonJZLiu/FACTR_Hardware[main]: https://github.com/JasonJZLiu/FACTR_Hardware.git
 jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction[master]: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction.git
 jax-ml/jax[main]: https://github.com/jax-ml/jax.git
 jayparks/transformer[master]: https://github.com/jayparks/transformer.git
@@ -2455,6 +2462,8 @@ rail-berkeley/serl[main]: https://github.com/rail-berkeley/serl.git
 rail-berkeley/serl_franka_controllers[main]: https://github.com/rail-berkeley/serl_franka_controllers.git
 rail-berkeley/softlearning[master]: https://github.com/rail-berkeley/softlearning.git
 rainbow979/robodreamer[main]: https://github.com/rainbow979/robodreamer.git
+RaindragonD/FACTR[main]: https://github.com/RaindragonD/FACTR.git
+RaindragonD/FACTR_Teleop[main]: https://github.com/RaindragonD/FACTR_Teleop.git
 RainerKuemmerle/g2o[master]: https://github.com/RainerKuemmerle/g2o.git
 raisimTech/raisimLib[master]: https://github.com/raisimTech/raisimLib.git
 raj111samant/Model-based-control-of-4-DOF-Barrett-Wam[master]: https://github.com/raj111samant/Model-based-control-of-4-DOF-Barrett-Wam.git
@@ -2723,6 +2732,7 @@ skindhu/Build-A-Large-Language-Model-CN[main]: https://github.com/skindhu/Build-
 sksq96/pytorch-summary[master]: https://github.com/sksq96/pytorch-summary.git
 skwp/dotfiles[master]: https://github.com/skwp/dotfiles.git
 Skyvern-AI/skyvern[main]: https://github.com/Skyvern-AI/skyvern.git
+skywind3000/preserve-cd[master]: https://github.com/skywind3000/preserve-cd.git
 SkyworkAI/SkyReels-V1[main]: https://github.com/SkyworkAI/SkyReels-V1.git
 SMPLCap/SMPLer-X[main]: https://github.com/SMPLCap/SMPLer-X.git
 SMPLOlympics/SMPLOlympics[master]: https://github.com/SMPLOlympics/SMPLOlympics.git
@@ -3130,7 +3140,7 @@ Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
 VectorSpaceLab/OmniGen[main]: https://github.com/VectorSpaceLab/OmniGen.git
 VectorSpaceLab/OmniGen2[main]: https://github.com/VectorSpaceLab/OmniGen2.git
 velipso/sndfilter[master]: https://github.com/velipso/sndfilter.git
-vercel/ai[v5]: https://github.com/vercel/ai.git
+vercel/ai[main]: https://github.com/vercel/ai.git
 vercel/hyper[canary]: https://github.com/vercel/hyper.git
 vercel/next.js[canary]: https://github.com/vercel/next.js.git
 verigak/progress[master]: https://github.com/verigak/progress.git
@@ -3348,6 +3358,7 @@ yueen-ma/Awesome-VLA[main]: https://github.com/yueen-ma/Awesome-VLA.git
 YuelangX/Gaussian-Head-Avatar[main]: https://github.com/YuelangX/Gaussian-Head-Avatar.git
 yuelinxin/hello-algo-en[yuelinxin-en]: https://github.com/yuelinxin/hello-algo-en.git
 yufu-wang/PromptHMR[main]: https://github.com/yufu-wang/PromptHMR.git
+yuhaoliu7456/Shape-for-Motion[main]: https://github.com/yuhaoliu7456/Shape-for-Motion.git
 yuhaozhang7/NGD-SLAM[main]: https://github.com/yuhaozhang7/NGD-SLAM.git
 yukezhu/tensorflow-reinforce[master]: https://github.com/yukezhu/tensorflow-reinforce.git
 yukihiko/ThreeDPoseUnitySample[master]: https://github.com/yukihiko/ThreeDPoseUnitySample.git
@@ -3429,5 +3440,6 @@ zst1406217/VR-Robo[main]: https://github.com/zst1406217/VR-Robo.git
 zuoxingdong/VIN_PyTorch_Visdom[master]: https://github.com/zuoxingdong/VIN_PyTorch_Visdom.git
 zuoym15/craves.ai[master]: https://github.com/zuoym15/craves.ai.git
 zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.git
+ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
 zyedidia/micro[master]: https://github.com/zyedidia/micro.git
