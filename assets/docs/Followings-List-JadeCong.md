@@ -130,6 +130,7 @@ chatmcp: https://github.com/chatmcp
 chrisalbon: https://github.com/chrisalbon
 chrislgarry: https://github.com/chrislgarry
 ChrisTitusTech: https://github.com/ChrisTitusTech
+chrisyrniu: https://github.com/chrisyrniu
 chuanqi305: https://github.com/chuanqi305
 chvmp: https://github.com/chvmp
 CiscoDevNet: https://github.com/CiscoDevNet
@@ -199,6 +200,7 @@ docmost: https://github.com/docmost
 dog-qiuqiu: https://github.com/dog-qiuqiu
 donnemartin: https://github.com/donnemartin
 dougsm: https://github.com/dougsm
+doxygen: https://github.com/doxygen
 DrJimFan: https://github.com/DrJimFan
 droid-dataset: https://github.com/droid-dataset
 duixcom: https://github.com/duixcom
@@ -288,6 +290,7 @@ google-deepmind: https://github.com/google-deepmind
 google-gemini: https://github.com/google-gemini
 google-research: https://github.com/google-research
 gpt-engineer-org: https://github.com/gpt-engineer-org
+grablab: https://github.com/grablab
 grantjenks: https://github.com/grantjenks
 graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
@@ -370,6 +373,7 @@ isocpp: https://github.com/isocpp
 j96w: https://github.com/j96w
 janishar: https://github.com/janishar
 jart: https://github.com/jart
+JasonJZLiu: https://github.com/JasonJZLiu
 jbiaojerry: https://github.com/jbiaojerry
 jcjohnson: https://github.com/jcjohnson
 JenniferBuehler: https://github.com/JenniferBuehler
@@ -758,6 +762,7 @@ sihyun-yu: https://github.com/sihyun-yu
 SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
 simular-ai: https://github.com/simular-ai
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
+skywind3000: https://github.com/skywind3000
 SkyworkAI: https://github.com/SkyworkAI
 sniekum: https://github.com/sniekum
 snuvclab: https://github.com/snuvclab
@@ -977,4 +982,5 @@ Zipstack: https://github.com/Zipstack
 zju3dv: https://github.com/zju3dv
 zmh-program: https://github.com/zmh-program
 zsh-users: https://github.com/zsh-users
+ZXP-S-works: https://github.com/ZXP-S-works
 zyedidia: https://github.com/zyedidia
