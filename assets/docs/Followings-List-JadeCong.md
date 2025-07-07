@@ -1,5 +1,6 @@
 01-ai: https://github.com/01-ai
 1Panel-dev: https://github.com/1Panel-dev
+21st-dev: https://github.com/21st-dev
 3b1b: https://github.com/3b1b
 78: https://github.com/78
 996icu: https://github.com/996icu
@@ -163,11 +164,13 @@ crewAIInc: https://github.com/crewAIInc
 cuhk-eda: https://github.com/cuhk-eda
 cvg: https://github.com/cvg
 cweijan: https://github.com/cweijan
+cyberbotics: https://github.com/cyberbotics
 CyberGrandChallenge: https://github.com/CyberGrandChallenge
 d2l-ai: https://github.com/d2l-ai
 daattali: https://github.com/daattali
 DaiLuyaoME: https://github.com/DaiLuyaoME
 dair-ai: https://github.com/dair-ai
+DAIRLab: https://github.com/DAIRLab
 DAMO-NLP-SG: https://github.com/DAMO-NLP-SG
 DanielTakeshi: https://github.com/DanielTakeshi
 danijar: https://github.com/danijar
@@ -329,6 +332,7 @@ hongsukchoi: https://github.com/hongsukchoi
 honojs: https://github.com/honojs
 Hopetree: https://github.com/Hopetree
 hoppscotch: https://github.com/hoppscotch
+HorizonRobotics: https://github.com/HorizonRobotics
 hpcaitech: https://github.com/hpcaitech
 HRI-EU: https://github.com/HRI-EU
 HRNet: https://github.com/HRNet
@@ -387,6 +391,7 @@ jina-ai: https://github.com/jina-ai
 jingweiz: https://github.com/jingweiz
 jingyaogong: https://github.com/jingyaogong
 joaomdmoura: https://github.com/joaomdmoura
+jobbole: https://github.com/jobbole
 jonyzhang2023: https://github.com/jonyzhang2023
 joschu: https://github.com/joschu
 jslee02: https://github.com/jslee02
@@ -450,6 +455,7 @@ linkerbotai: https://github.com/linkerbotai
 liruiw: https://github.com/liruiw
 Lissy93: https://github.com/Lissy93
 LiteOS: https://github.com/LiteOS
+liuff19: https://github.com/liuff19
 lllyasviel: https://github.com/lllyasviel
 llvm: https://github.com/llvm
 lmstudio-ai: https://github.com/lmstudio-ai
@@ -505,6 +511,7 @@ mistralai: https://github.com/mistralai
 mit-biomimetics: https://github.com/mit-biomimetics
 mit-han-lab: https://github.com/mit-han-lab
 mlc-ai: https://github.com/mlc-ai
+mmatl: https://github.com/mmatl
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
 mongodb: https://github.com/mongodb
@@ -776,6 +783,7 @@ SpectacularAI: https://github.com/SpectacularAI
 sphinx-doc: https://github.com/sphinx-doc
 spring-projects: https://github.com/spring-projects
 squidfunk: https://github.com/squidfunk
+sst: https://github.com/sst
 Stability-AI: https://github.com/Stability-AI
 stackblitz: https://github.com/stackblitz
 Standard-Intelligence: https://github.com/Standard-Intelligence
@@ -915,6 +923,7 @@ wasp-lang: https://github.com/wasp-lang
 wavetermdev: https://github.com/wavetermdev
 waylau: https://github.com/waylau
 wazuh: https://github.com/wazuh
+WCHSoftGroup: https://github.com/WCHSoftGroup
 webfansplz: https://github.com/webfansplz
 webpro: https://github.com/webpro
 weiaicunzai: https://github.com/weiaicunzai
@@ -977,6 +986,7 @@ zen-browser: https://github.com/zen-browser
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
 ZhengyiLuo: https://github.com/ZhengyiLuo
+zhouzypaul: https://github.com/zhouzypaul
 zia-ai: https://github.com/zia-ai
 Zipstack: https://github.com/Zipstack
 zju3dv: https://github.com/zju3dv
