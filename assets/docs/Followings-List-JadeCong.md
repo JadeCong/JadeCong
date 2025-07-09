@@ -122,6 +122,7 @@ carbon-language: https://github.com/carbon-language
 cbfinn: https://github.com/cbfinn
 chaidiscovery: https://github.com/chaidiscovery
 Chainlit: https://github.com/Chainlit
+chaitin: https://github.com/chaitin
 Chaphlagical: https://github.com/Chaphlagical
 Charmve: https://github.com/Charmve
 chatanywhere: https://github.com/chatanywhere
@@ -314,6 +315,7 @@ hehao98: https://github.com/hehao98
 HeliXonProtein: https://github.com/HeliXonProtein
 hellojixian: https://github.com/hellojixian
 HengyiWang: https://github.com/HengyiWang
+henry123-boy: https://github.com/henry123-boy
 hermanjakobsen: https://github.com/hermanjakobsen
 HeyGen-Official: https://github.com/HeyGen-Official
 HFAiLab: https://github.com/HFAiLab
@@ -890,6 +892,7 @@ Unsigned-Long: https://github.com/Unsigned-Long
 upscayl: https://github.com/upscayl
 upstash: https://github.com/upstash
 usebruno: https://github.com/usebruno
+usememos: https://github.com/usememos
 ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
@@ -930,6 +933,7 @@ weiaicunzai: https://github.com/weiaicunzai
 WEIFENG2333: https://github.com/WEIFENG2333
 Westlake-AGI-Lab: https://github.com/Westlake-AGI-Lab
 weston-embedded: https://github.com/weston-embedded
+wheelos: https://github.com/wheelos
 WHU-USI3DV: https://github.com/WHU-USI3DV
 wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
