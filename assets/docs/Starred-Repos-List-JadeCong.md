@@ -509,6 +509,7 @@ codertimo/BERT-pytorch[master]: https://github.com/codertimo/BERT-pytorch.git
 codexu/note-gen[dev]: https://github.com/codexu/note-gen.git
 cohere-ai/cohere-toolkit[main]: https://github.com/cohere-ai/cohere-toolkit.git
 coleam00/Archon[main]: https://github.com/coleam00/Archon.git
+ColinQiyangLi/qc[main]: https://github.com/ColinQiyangLi/qc.git
 coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/dynamic-gaussian-marbles.git
 comfyanonymous/ComfyUI[master]: https://github.com/comfyanonymous/ComfyUI.git
 commaai/neo[master]: https://github.com/commaai/neo.git
@@ -750,6 +751,7 @@ emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screensho
 empriselab/feeding-deployment[main]: https://github.com/empriselab/feeding-deployment.git
 emqx/emqx[master]: https://github.com/emqx/emqx.git
 enactic/openarm[main]: https://github.com/enactic/openarm.git
+enactic/openarm_ros2[main]: https://github.com/enactic/openarm_ros2.git
 enaqx/awesome-react[master]: https://github.com/enaqx/awesome-react.git
 endymecy/awesome-deeplearning-resources[master]: https://github.com/endymecy/awesome-deeplearning-resources.git
 engineai-robotics/engineai_humanoid[master]: https://github.com/engineai-robotics/engineai_humanoid.git
@@ -1164,6 +1166,7 @@ haoyi-duan/WorldScore[main]: https://github.com/haoyi-duan/WorldScore.git
 HaoyiZhu/SPA[main]: https://github.com/HaoyiZhu/SPA.git
 haoyu-x/vision-in-action[main]: https://github.com/haoyu-x/vision-in-action.git
 haoz19/MagicPose4D[main]: https://github.com/haoz19/MagicPose4D.git
+haoz19/PhysRig[main]: https://github.com/haoz19/PhysRig.git
 hardikbansal/CycleGAN[master]: https://github.com/hardikbansal/CycleGAN.git
 haritheja-e/robot-utility-models[main]: https://github.com/haritheja-e/robot-utility-models.git
 harlanhong/ACTalker[master]: https://github.com/harlanhong/ACTalker.git
@@ -1291,6 +1294,7 @@ Huxpro/huxpro.github.io[master]: https://github.com/Huxpro/huxpro.github.io.git
 HVision-NKU/StoryDiffusion[main]: https://github.com/HVision-NKU/StoryDiffusion.git
 hwdsl2/setup-ipsec-vpn[master]: https://github.com/hwdsl2/setup-ipsec-vpn.git
 HybridRobotics/Berkeley-Humanoid-Lite[main]: https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
+HybridRobotics/isaac_berkeley_humanoid[main]: https://github.com/HybridRobotics/isaac_berkeley_humanoid.git
 hydecorp/hydejack[master]: https://github.com/hydecorp/hydejack.git
 hydecorp/hydejack-site[master]: https://github.com/hydecorp/hydejack-site.git
 hydecorp/hydejack-starter-kit[master]: https://github.com/hydecorp/hydejack-starter-kit.git
@@ -1861,6 +1865,8 @@ menyifang/MIMO[main]: https://github.com/menyifang/MIMO.git
 Meowuu7/DexTrack[main]: https://github.com/Meowuu7/DexTrack.git
 merge-lab/FORTE[main]: https://github.com/merge-lab/FORTE.git
 mermaid-js/mermaid[develop]: https://github.com/mermaid-js/mermaid.git
+Meshcapade/smpl-rs[main]: https://github.com/Meshcapade/smpl-rs.git
+Meshcapade/SMPL_blender_addon[main]: https://github.com/Meshcapade/SMPL_blender_addon.git
 meshcat-dev/meshcat-python[master]: https://github.com/meshcat-dev/meshcat-python.git
 MeshFormer/MeshFormer[master]: https://github.com/MeshFormer/MeshFormer.git
 meta-llama/codellama[main]: https://github.com/meta-llama/codellama.git
@@ -2445,6 +2451,7 @@ public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
 punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
+putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
 PX4/PX4-Autopilot[main]: https://github.com/PX4/PX4-Autopilot.git
 pybind/pybind11[master]: https://github.com/pybind/pybind11.git
@@ -2524,7 +2531,6 @@ RealManRobot/visual-servo[main]: https://github.com/RealManRobot/visual-servo.gi
 RealManRobot/yolo-rgbd[main]: https://github.com/RealManRobot/yolo-rgbd.git
 realpython/materials[master]: https://github.com/realpython/materials.git
 realpython/python-guide[master]: https://github.com/realpython/python-guide.git
-reazon-research/openarm_ros2[main]: https://github.com/reazon-research/openarm_ros2.git
 reazon-research/ReazonSpeech[master]: https://github.com/reazon-research/ReazonSpeech.git
 recastnavigation/recastnavigation[main]: https://github.com/recastnavigation/recastnavigation.git
 Red-Rabbit-Robotics/rx1[master]: https://github.com/Red-Rabbit-Robotics/rx1.git
@@ -2747,6 +2753,7 @@ sinall/StrategyEase-Python-SDK[master]: https://github.com/sinall/StrategyEase-P
 sinaptik-ai/pandas-ai[main]: https://github.com/sinaptik-ai/pandas-ai.git
 sindresorhus/awesome[main]: https://github.com/sindresorhus/awesome.git
 sindresorhus/awesome-nodejs[main]: https://github.com/sindresorhus/awesome-nodejs.git
+sinoyou/GaVS[main]: https://github.com/sinoyou/GaVS.git
 SizheAn/PanoHead[main]: https://github.com/SizheAn/PanoHead.git
 sizmailov/pybind11-stubgen[master]: https://github.com/sizmailov/pybind11-stubgen.git
 SJTU-ViSYS/Ground-Fusion[main]: https://github.com/SJTU-ViSYS/Ground-Fusion.git
@@ -3057,6 +3064,7 @@ trimstray/the-book-of-secret-knowledge[master]: https://github.com/trimstray/the
 trimstray/the-practical-linux-hardening-guide[master]: https://github.com/trimstray/the-practical-linux-hardening-guide.git
 tristandeleu/pytorch-maml-rl[master]: https://github.com/tristandeleu/pytorch-maml-rl.git
 trojan-gfw/trojan[master]: https://github.com/trojan-gfw/trojan.git
+tsinghua-fib-lab/RoboScape[main]: https://github.com/tsinghua-fib-lab/RoboScape.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
 tub-rip/ES-PTAM[main]: https://github.com/tub-rip/ES-PTAM.git
@@ -3475,4 +3483,4 @@ zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.gi
 ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
 zyedidia/micro[master]: https://github.com/zyedidia/micro.git
-zyronon/typing-word[master]: https://github.com/zyronon/typing-word.git
+zyronon/TypeWords[master]: https://github.com/zyronon/TypeWords.git
