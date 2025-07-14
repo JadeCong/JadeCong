@@ -676,6 +676,7 @@ Psi-Robot: https://github.com/Psi-Robot
 ptrblck: https://github.com/ptrblck
 pulibrary: https://github.com/pulibrary
 punkpeye: https://github.com/punkpeye
+putyy: https://github.com/putyy
 pybind: https://github.com/pybind
 pygame: https://github.com/pygame
 pymodbus-dev: https://github.com/pymodbus-dev
@@ -770,6 +771,7 @@ SIGRobotics-UIUC: https://github.com/SIGRobotics-UIUC
 sihyun-yu: https://github.com/sihyun-yu
 SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
 simular-ai: https://github.com/simular-ai
+sinoyou: https://github.com/sinoyou
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
 skywind3000: https://github.com/skywind3000
 SkyworkAI: https://github.com/SkyworkAI
@@ -860,6 +862,7 @@ torvalds: https://github.com/torvalds
 TradeMaster-NTU: https://github.com/TradeMaster-NTU
 TRI-ML: https://github.com/TRI-ML
 trimstray: https://github.com/trimstray
+tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
 tud-amr: https://github.com/tud-amr
 tum-phoenix: https://github.com/tum-phoenix
 tum-vision: https://github.com/tum-vision
