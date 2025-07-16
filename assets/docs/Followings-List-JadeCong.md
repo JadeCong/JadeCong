@@ -454,6 +454,7 @@ Ligo-Biosciences: https://github.com/Ligo-Biosciences
 liguodongiot: https://github.com/liguodongiot
 lingxiaomeng: https://github.com/lingxiaomeng
 linkerbotai: https://github.com/linkerbotai
+liruilong940607: https://github.com/liruilong940607
 liruiw: https://github.com/liruiw
 Lissy93: https://github.com/Lissy93
 LiteOS: https://github.com/LiteOS
@@ -608,7 +609,7 @@ opendatalab: https://github.com/opendatalab
 OpenDriveLab: https://github.com/OpenDriveLab
 OpenGVLab: https://github.com/OpenGVLab
 openharmony: https://github.com/openharmony
-OpenInterpreter: https://github.com/OpenInterpreter
+openinterpreter: https://github.com/openinterpreter
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRobotLab: https://github.com/OpenRobotLab
 OpenRouterTeam: https://github.com/OpenRouterTeam
@@ -840,6 +841,7 @@ thu-ml: https://github.com/thu-ml
 THUDM: https://github.com/THUDM
 thunlp: https://github.com/thunlp
 tianheyu927: https://github.com/tianheyu927
+TianHuiLab: https://github.com/TianHuiLab
 Tianxiaomo: https://github.com/Tianxiaomo
 TianxingChen: https://github.com/TianxingChen
 tiiuae: https://github.com/tiiuae
