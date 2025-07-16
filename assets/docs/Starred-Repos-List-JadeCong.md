@@ -136,6 +136,7 @@ alibaba/fastjson[master]: https://github.com/alibaba/fastjson.git
 alibaba/p3c[master]: https://github.com/alibaba/p3c.git
 alibaba/spring-cloud-alibaba[2023.x]: https://github.com/alibaba/spring-cloud-alibaba.git
 alibaba/Tora[main]: https://github.com/alibaba/Tora.git
+alibaba/x-render[master]: https://github.com/alibaba/x-render.git
 alimohammadiamirhossein/smite[main]: https://github.com/alimohammadiamirhossein/smite.git
 aliyun/aliyun-openapi-java-sdk[master]: https://github.com/aliyun/aliyun-openapi-java-sdk.git
 All-Hands-AI/OpenHands[main]: https://github.com/All-Hands-AI/OpenHands.git
@@ -697,8 +698,8 @@ droidrun/droidrun[main]: https://github.com/droidrun/droidrun.git
 DrSleep/tensorflow-deeplab-resnet[master]: https://github.com/DrSleep/tensorflow-deeplab-resnet.git
 dstotijn/hetty[main]: https://github.com/dstotijn/hetty.git
 DuGuQiuBai/Java[master]: https://github.com/DuGuQiuBai/Java.git
+duixcom/Duix-Mobile[main]: https://github.com/duixcom/Duix-Mobile.git
 duixcom/Duix.Heygem[main]: https://github.com/duixcom/Duix.Heygem.git
-duixcom/Duix.mobile[main]: https://github.com/duixcom/Duix.mobile.git
 duma-repo/ai_code_reader[master]: https://github.com/duma-repo/ai_code_reader.git
 duplicati/duplicati[master]: https://github.com/duplicati/duplicati.git
 dusty-nv/NanoLLM[main]: https://github.com/dusty-nv/NanoLLM.git
@@ -1121,6 +1122,7 @@ Graylab/IgFold[main]: https://github.com/Graylab/IgFold.git
 greedying/tctip[master]: https://github.com/greedying/tctip.git
 grisoon/DreamActor-M1[main]: https://github.com/grisoon/DreamActor-M1.git
 GrowingGit/GitHub-Chinese-Top-Charts[master]: https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git
+GrowingGit/GitHub-English-Top-Charts[main]: https://github.com/GrowingGit/GitHub-English-Top-Charts.git
 grpc/grpc[master]: https://github.com/grpc/grpc.git
 gsa-tts-archived/ai.gov[main]: https://github.com/gsa-tts-archived/ai.gov.git
 guanguans/music-dl[master]: https://github.com/guanguans/music-dl.git
@@ -1647,6 +1649,7 @@ LeCAR-Lab/ABS[main]: https://github.com/LeCAR-Lab/ABS.git
 LeCAR-Lab/anycar[main]: https://github.com/LeCAR-Lab/anycar.git
 LeCAR-Lab/ASAP[main]: https://github.com/LeCAR-Lab/ASAP.git
 LeCAR-Lab/dial-mpc[main]: https://github.com/LeCAR-Lab/dial-mpc.git
+LeCAR-Lab/FALCON[main]: https://github.com/LeCAR-Lab/FALCON.git
 LeCAR-Lab/human2humanoid[main]: https://github.com/LeCAR-Lab/human2humanoid.git
 LeCAR-Lab/SoFTA[main]: https://github.com/LeCAR-Lab/SoFTA.git
 ledgetech/lua-resty-http[master]: https://github.com/ledgetech/lua-resty-http.git
@@ -1691,10 +1694,11 @@ linkerbotai/human-dex[main]: https://github.com/linkerbotai/human-dex.git
 Linketic/CityGaussian[main]: https://github.com/Linketic/CityGaussian.git
 Linketic/StableMoFusion[master]: https://github.com/Linketic/StableMoFusion.git
 linoytsaban/semantic-sliders[main]: https://github.com/linoytsaban/semantic-sliders.git
-linshenkx/prompt-optimizer[master]: https://github.com/linshenkx/prompt-optimizer.git
+linshenkx/prompt-optimizer[develop]: https://github.com/linshenkx/prompt-optimizer.git
 linyqh/NarratoAI[main]: https://github.com/linyqh/NarratoAI.git
 LinZhekai/X-Oscar[main]: https://github.com/LinZhekai/X-Oscar.git
 lipku/LiveTalking[main]: https://github.com/lipku/LiveTalking.git
+liruilong940607/prope[main]: https://github.com/liruilong940607/prope.git
 liruiw/GenSim[main]: https://github.com/liruiw/GenSim.git
 liruiw/HPT[main]: https://github.com/liruiw/HPT.git
 liruiw/OMG-Planner[master]: https://github.com/liruiw/OMG-Planner.git
@@ -2271,7 +2275,7 @@ OpenGVLab/Ask-Anything[main]: https://github.com/OpenGVLab/Ask-Anything.git
 OpenGVLab/Diffree[main]: https://github.com/OpenGVLab/Diffree.git
 OpenGVLab/InternVideo[main]: https://github.com/OpenGVLab/InternVideo.git
 OpenGVLab/InternVL[main]: https://github.com/OpenGVLab/InternVL.git
-OpenInterpreter/open-interpreter[main]: https://github.com/OpenInterpreter/open-interpreter.git
+openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRobotLab/Aether[main]: https://github.com/OpenRobotLab/Aether.git
 OpenRobotLab/EmbodiedScan[main]: https://github.com/OpenRobotLab/EmbodiedScan.git
@@ -2350,6 +2354,7 @@ paperswithcode/sotabench-eval[master]: https://github.com/paperswithcode/sotaben
 paperswithcode/torchbench[master]: https://github.com/paperswithcode/torchbench.git
 parai/dms[master]: https://github.com/parai/dms.git
 pastelnetwork/pastel[master]: https://github.com/pastelnetwork/pastel.git
+patchy631/ai-engineering-hub[main]: https://github.com/patchy631/ai-engineering-hub.git
 pathak22/zeroshot-imitation[master]: https://github.com/pathak22/zeroshot-imitation.git
 paulengstler/invisible-stitch[main]: https://github.com/paulengstler/invisible-stitch.git
 paulengstler/syncity[main]: https://github.com/paulengstler/syncity.git
@@ -2411,6 +2416,7 @@ Po-Jen/awesome-grasping[master]: https://github.com/Po-Jen/awesome-grasping.git
 Po-Jen/awesome-human-robot-interaction[master]: https://github.com/Po-Jen/awesome-human-robot-interaction.git
 pocketxjl/humanoid-control[main]: https://github.com/pocketxjl/humanoid-control.git
 Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
+pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
 pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
 pollen-robotics/reachy2-sdk[develop]: https://github.com/pollen-robotics/reachy2-sdk.git
@@ -2543,6 +2549,7 @@ rednote-hilab/dots.llm1[main]: https://github.com/rednote-hilab/dots.llm1.git
 redpanda-data/console[master]: https://github.com/redpanda-data/console.git
 reHackable/awesome-reMarkable[master]: https://github.com/reHackable/awesome-reMarkable.git
 reinforcement-learning-kr/lets-do-irl[master]: https://github.com/reinforcement-learning-kr/lets-do-irl.git
+RenzKa/simlingo[main]: https://github.com/RenzKa/simlingo.git
 reorproject/reor[main]: https://github.com/reorproject/reor.git
 Replicable-MARL/MARLlib[master]: https://github.com/Replicable-MARL/MARLlib.git
 requarks/wiki[main]: https://github.com/requarks/wiki.git
@@ -3005,6 +3012,7 @@ tianheyu927/maml[master]: https://github.com/tianheyu927/maml.git
 tianheyu927/mil[master]: https://github.com/tianheyu927/mil.git
 tianheyu927/mopo[master]: https://github.com/tianheyu927/mopo.git
 TianhongDai/google-football-pytorch[master]: https://github.com/TianhongDai/google-football-pytorch.git
+TianHuiLab/Falcon[main]: https://github.com/TianHuiLab/Falcon.git
 Tianxiaomo/pytorch-YOLOv4[master]: https://github.com/Tianxiaomo/pytorch-YOLOv4.git
 TianxingChen/Embodied-AI-Guide[main]: https://github.com/TianxingChen/Embodied-AI-Guide.git
 tianyakk/tianya_kkndme[main]: https://github.com/tianyakk/tianya_kkndme.git
