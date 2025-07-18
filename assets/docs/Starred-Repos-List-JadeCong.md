@@ -5,7 +5,7 @@
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
 1989Ryan/Semantic_SLAM[master]: https://github.com/1989Ryan/Semantic_SLAM.git
 1Panel-dev/1Panel[dev-v2]: https://github.com/1Panel-dev/1Panel.git
-1Panel-dev/MaxKB[main]: https://github.com/1Panel-dev/MaxKB.git
+1Panel-dev/MaxKB[v2]: https://github.com/1Panel-dev/MaxKB.git
 20tab/bvh-python[master]: https://github.com/20tab/bvh-python.git
 20tab/UnrealEnginePython[master]: https://github.com/20tab/UnrealEnginePython.git
 21st-dev/magic-mcp[main]: https://github.com/21st-dev/magic-mcp.git
@@ -211,6 +211,7 @@ apollographql/apollo-client[main]: https://github.com/apollographql/apollo-clien
 apollographql/apollo-server[main]: https://github.com/apollographql/apollo-server.git
 apollographql/react-apollo[master]: https://github.com/apollographql/react-apollo.git
 apple/axlearn[main]: https://github.com/apple/axlearn.git
+apple/container[main]: https://github.com/apple/container.git
 apple/corenet[main]: https://github.com/apple/corenet.git
 apple/ml-depth-pro[main]: https://github.com/apple/ml-depth-pro.git
 apple/ml-fastvlm[main]: https://github.com/apple/ml-fastvlm.git
@@ -838,6 +839,7 @@ facebookresearch/modem[main]: https://github.com/facebookresearch/modem.git
 facebookresearch/neuralfeels[main]: https://github.com/facebookresearch/neuralfeels.git
 facebookresearch/pifuhd[main]: https://github.com/facebookresearch/pifuhd.git
 facebookresearch/pippo[main]: https://github.com/facebookresearch/pippo.git
+facebookresearch/projectaria_tools[main]: https://github.com/facebookresearch/projectaria_tools.git
 facebookresearch/pyrobot[main]: https://github.com/facebookresearch/pyrobot.git
 facebookresearch/PyTorch-BigGraph[main]: https://github.com/facebookresearch/PyTorch-BigGraph.git
 facebookresearch/PyTouch[main]: https://github.com/facebookresearch/PyTouch.git
@@ -1021,6 +1023,7 @@ ggml-org/llama.cpp[master]: https://github.com/ggml-org/llama.cpp.git
 ggml-org/whisper.cpp[master]: https://github.com/ggml-org/whisper.cpp.git
 gicheonkang/prograsp[master]: https://github.com/gicheonkang/prograsp.git
 GigaAI-research/DriveDreamer4D[main]: https://github.com/GigaAI-research/DriveDreamer4D.git
+GigaAI-research/EmbodieDreamer[main]: https://github.com/GigaAI-research/EmbodieDreamer.git
 git-lfs/git-lfs[main]: https://github.com/git-lfs/git-lfs.git
 gitblit-org/gitblit[master]: https://github.com/gitblit-org/gitblit.git
 GitbookIO/gitbook[main]: https://github.com/GitbookIO/gitbook.git
@@ -1180,6 +1183,9 @@ harvardnlp/seq2seq-attn[master]: https://github.com/harvardnlp/seq2seq-attn.git
 hasanavi/OpenCV-Unity3D-Object-Tracking[master]: https://github.com/hasanavi/OpenCV-Unity3D-Object-Tracking.git
 HazyResearch/lolcats[main]: https://github.com/HazyResearch/lolcats.git
 hbb1/2d-gaussian-splatting[main]: https://github.com/hbb1/2d-gaussian-splatting.git
+HCPLab-SYSU/Book-of-MLM[main]: https://github.com/HCPLab-SYSU/Book-of-MLM.git
+HCPLab-SYSU/CausalVLR[main]: https://github.com/HCPLab-SYSU/CausalVLR.git
+HCPLab-SYSU/Embodied_AI_Paper_List[main]: https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List.git
 hehao98/StarScout[main]: https://github.com/hehao98/StarScout.git
 HeLiangHIT/house_price[master]: https://github.com/HeLiangHIT/house_price.git
 HeliXonProtein/OmegaFold[main]: https://github.com/HeliXonProtein/OmegaFold.git
@@ -1366,6 +1372,7 @@ ipader/SwiftGuide[master]: https://github.com/ipader/SwiftGuide.git
 iperov/DeepFaceLive[master]: https://github.com/iperov/DeepFaceLive.git
 ir-lab/Diff-Control[main]: https://github.com/ir-lab/Diff-Control.git
 ir-lab/LanguagePolicies[main]: https://github.com/ir-lab/LanguagePolicies.git
+IrisRainbowNeko/HCP-Diffusion[neko]: https://github.com/IrisRainbowNeko/HCP-Diffusion.git
 irom-princeton/dppo[main]: https://github.com/irom-princeton/dppo.git
 irom-princeton/PAC-Imitation[master]: https://github.com/irom-princeton/PAC-Imitation.git
 Ironclad/rivet[main]: https://github.com/Ironclad/rivet.git
@@ -2513,6 +2520,7 @@ raulmur/ORB_SLAM[master]: https://github.com/raulmur/ORB_SLAM.git
 raulmur/ORB_SLAM2[master]: https://github.com/raulmur/ORB_SLAM2.git
 raviriley/agency-jekyll-theme[master]: https://github.com/raviriley/agency-jekyll-theme.git
 ray-project/ray[master]: https://github.com/ray-project/ray.git
+raymin0223/mixture_of_recursions[main]: https://github.com/raymin0223/mixture_of_recursions.git
 RayVentura/ShortGPT[stable]: https://github.com/RayVentura/ShortGPT.git
 RCHI-Lab/voicepilot[main]: https://github.com/RCHI-Lab/voicepilot.git
 rdiankov/openrave[master]: https://github.com/rdiankov/openrave.git
@@ -2549,6 +2557,7 @@ rednote-hilab/dots.llm1[main]: https://github.com/rednote-hilab/dots.llm1.git
 redpanda-data/console[master]: https://github.com/redpanda-data/console.git
 reHackable/awesome-reMarkable[master]: https://github.com/reHackable/awesome-reMarkable.git
 reinforcement-learning-kr/lets-do-irl[master]: https://github.com/reinforcement-learning-kr/lets-do-irl.git
+remoteintech/remote-jobs[main]: https://github.com/remoteintech/remote-jobs.git
 RenzKa/simlingo[main]: https://github.com/RenzKa/simlingo.git
 reorproject/reor[main]: https://github.com/reorproject/reor.git
 Replicable-MARL/MARLlib[master]: https://github.com/Replicable-MARL/MARLlib.git
@@ -2592,6 +2601,7 @@ robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
 Robot-MA/manipulate-anything[main]: https://github.com/Robot-MA/manipulate-anything.git
 Robot-VLAs/RoboVLMs[main]: https://github.com/Robot-VLAs/RoboVLMs.git
+robotdrummer/robotdrummer.github.io[main]: https://github.com/robotdrummer/robotdrummer.github.io.git
 roboterax/humanoid-gym[main]: https://github.com/roboterax/humanoid-gym.git
 roboterax/video-prediction-policy[main]: https://github.com/roboterax/video-prediction-policy.git
 roboticsgroup/roboticsgroup_gazebo_plugins[master]: https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git
@@ -2825,6 +2835,7 @@ Stable-Baselines-Team/stable-baselines[master]: https://github.com/Stable-Baseli
 Stable-X/StableNormal[main]: https://github.com/Stable-X/StableNormal.git
 stack-of-tasks/pinocchio[devel]: https://github.com/stack-of-tasks/pinocchio.git
 stackblitz/bolt.new[main]: https://github.com/stackblitz/bolt.new.git
+stagewise-io/stagewise[main]: https://github.com/stagewise-io/stagewise.git
 Standard-Intelligence/hertz-dev[main]: https://github.com/Standard-Intelligence/hertz-dev.git
 stanford-crfm/fmti[main]: https://github.com/stanford-crfm/fmti.git
 Stanford-ILIAD/openvla-mini[main]: https://github.com/Stanford-ILIAD/openvla-mini.git
@@ -3488,6 +3499,7 @@ zst1406217/VR-Robo[main]: https://github.com/zst1406217/VR-Robo.git
 zuoxingdong/VIN_PyTorch_Visdom[master]: https://github.com/zuoxingdong/VIN_PyTorch_Visdom.git
 zuoym15/craves.ai[master]: https://github.com/zuoym15/craves.ai.git
 zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.git
+ZXP-S-works/SE2-equivariant-grasp-learning[main]: https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning.git
 ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
 zyedidia/micro[master]: https://github.com/zyedidia/micro.git
