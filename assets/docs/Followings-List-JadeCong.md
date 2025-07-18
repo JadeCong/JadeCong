@@ -283,6 +283,7 @@ getomni-ai: https://github.com/getomni-ai
 getzep: https://github.com/getzep
 GeWu-Lab: https://github.com/GeWu-Lab
 gggliuye: https://github.com/gggliuye
+GigaAI-research: https://github.com/GigaAI-research
 github: https://github.com/github
 githubnext: https://github.com/githubnext
 glenn-jocher: https://github.com/glenn-jocher
@@ -311,6 +312,7 @@ haosulab: https://github.com/haosulab
 haotian-liu: https://github.com/haotian-liu
 harvard: https://github.com/harvard
 HazyResearch: https://github.com/HazyResearch
+HCPLab-SYSU: https://github.com/HCPLab-SYSU
 hehao98: https://github.com/hehao98
 HeliXonProtein: https://github.com/HeliXonProtein
 hellojixian: https://github.com/hellojixian
@@ -698,6 +700,7 @@ raidendotai: https://github.com/raidendotai
 rail-berkeley: https://github.com/rail-berkeley
 raminmh: https://github.com/raminmh
 rasbt: https://github.com/rasbt
+raymin0223: https://github.com/raymin0223
 RCHI-Lab: https://github.com/RCHI-Lab
 ReactRobotics: https://github.com/ReactRobotics
 real-stanford: https://github.com/real-stanford
@@ -708,6 +711,7 @@ Red-Rabbit-Robotics: https://github.com/Red-Rabbit-Robotics
 redis: https://github.com/redis
 rednote-hilab: https://github.com/rednote-hilab
 redpanda-data: https://github.com/redpanda-data
+remoteintech: https://github.com/remoteintech
 replit: https://github.com/replit
 requarks: https://github.com/requarks
 RethinkRobotics: https://github.com/RethinkRobotics
