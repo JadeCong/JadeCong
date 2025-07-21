@@ -273,6 +273,7 @@ FutureAIRobotics: https://github.com/FutureAIRobotics
 GAIR-NLP: https://github.com/GAIR-NLP
 galaxy-s10: https://github.com/galaxy-s10
 GalaxyGeneralRobotics: https://github.com/GalaxyGeneralRobotics
+GaTech-RL2: https://github.com/GaTech-RL2
 gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
 geekan: https://github.com/geekan
@@ -803,6 +804,7 @@ StanfordVL: https://github.com/StanfordVL
 staruml: https://github.com/staruml
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
+Stirling-Tools: https://github.com/Stirling-Tools
 strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
 sunner: https://github.com/sunner
