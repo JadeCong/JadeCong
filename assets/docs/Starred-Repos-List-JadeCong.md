@@ -989,12 +989,14 @@ gaoxiang12/slambook2[master]: https://github.com/gaoxiang12/slambook2.git
 GaParmar/img2img-turbo[main]: https://github.com/GaParmar/img2img-turbo.git
 GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
+GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
 GaussianCube/GaussianCube[main]: https://github.com/GaussianCube/GaussianCube.git
 gaussic/text-classification-cnn-rnn[master]: https://github.com/gaussic/text-classification-cnn-rnn.git
 gautamkrishnar/blog-post-workflow[master]: https://github.com/gautamkrishnar/blog-post-workflow.git
 gazebosim/gz-mujoco[main]: https://github.com/gazebosim/gz-mujoco.git
 gbeced/pyalgotrade[master]: https://github.com/gbeced/pyalgotrade.git
 gbmhunter/CppLinuxSerial[master]: https://github.com/gbmhunter/CppLinuxSerial.git
+geekan/HowToLiveLonger[main]: https://github.com/geekan/HowToLiveLonger.git
 geekcomputers/Python[master]: https://github.com/geekcomputers/Python.git
 geektown/raspberry-xunfei[master]: https://github.com/geektown/raspberry-xunfei.git
 geekywrites/datascience[main]: https://github.com/geekywrites/datascience.git
@@ -1225,6 +1227,7 @@ HKUST-Aerial-Robotics/VINS-Mobile[master]: https://github.com/HKUST-Aerial-Robot
 HKUST-Aerial-Robotics/VINS-Mono[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git
 hmrishavbandy/FlipSketch[main]: https://github.com/hmrishavbandy/FlipSketch.git
 hms-dbmi/CHIEF[main]: https://github.com/hms-dbmi/CHIEF.git
+Ho-lab-jaist/protac[main]: https://github.com/Ho-lab-jaist/protac.git
 hoangminhle/hierarchical_IL_RL[master]: https://github.com/hoangminhle/hierarchical_IL_RL.git
 holistic-3d/awesome-holistic-3d[master]: https://github.com/holistic-3d/awesome-holistic-3d.git
 Holistic-Motion2D/Tender[main]: https://github.com/Holistic-Motion2D/Tender.git
@@ -1338,6 +1341,7 @@ immense/Remotely[master]: https://github.com/immense/Remotely.git
 immich-app/immich[main]: https://github.com/immich-app/immich.git
 Improbable-AI/learning-compliance[main]: https://github.com/Improbable-AI/learning-compliance.git
 Improbable-AI/VisionProTeleop[main]: https://github.com/Improbable-AI/VisionProTeleop.git
+Improbable-AI/walk-these-ways[master]: https://github.com/Improbable-AI/walk-these-ways.git
 imputnet/cobalt[main]: https://github.com/imputnet/cobalt.git
 inarikami/keras-rl2[master]: https://github.com/inarikami/keras-rl2.git
 Inception3D/Easi3R[main]: https://github.com/Inception3D/Easi3R.git
@@ -2022,7 +2026,7 @@ MorvanZhou/tutorials[master]: https://github.com/MorvanZhou/tutorials.git
 mosaicml/composer[main]: https://github.com/mosaicml/composer.git
 moses-palmer/pynput[master]: https://github.com/moses-palmer/pynput.git
 motiondivision/motion[main]: https://github.com/motiondivision/motion.git
-mountain-loop/yaak[master]: https://github.com/mountain-loop/yaak.git
+mountain-loop/yaak[main]: https://github.com/mountain-loop/yaak.git
 moveit/moveit2[main]: https://github.com/moveit/moveit2.git
 moveit/moveit2_tutorials[main]: https://github.com/moveit/moveit2_tutorials.git
 moveit/moveit_task_constructor[master]: https://github.com/moveit/moveit_task_constructor.git
@@ -3096,7 +3100,7 @@ tum-vision/tandem[master]: https://github.com/tum-vision/tandem.git
 TUMFTM/orbslam-map-saving-extension[master]: https://github.com/TUMFTM/orbslam-map-saving-extension.git
 TUMFTM/ORB_SLAM3_RGBL[rgbl]: https://github.com/TUMFTM/ORB_SLAM3_RGBL.git
 TuragaLab/flybody[main]: https://github.com/TuragaLab/flybody.git
-tw93/MiaoYan[master]: https://github.com/tw93/MiaoYan.git
+tw93/MiaoYan[main]: https://github.com/tw93/MiaoYan.git
 tw93/Pake[main]: https://github.com/tw93/Pake.git
 tw93/tw93[master]: https://github.com/tw93/tw93.git
 tw93/tw93.github.io[main]: https://github.com/tw93/tw93.github.io.git
@@ -3358,7 +3362,7 @@ Yam-cn/pyalgotrade-cn[master]: https://github.com/Yam-cn/pyalgotrade-cn.git
 yandex/faster-rnnlm[master]: https://github.com/yandex/faster-rnnlm.git
 yandexdataschool/Practical_RL[master]: https://github.com/yandexdataschool/Practical_RL.git
 yang-zj1026/legged-loco[main]: https://github.com/yang-zj1026/legged-loco.git
-yang-zj1026/VLN-CE-Isaac[main]: https://github.com/yang-zj1026/VLN-CE-Isaac.git
+yang-zj1026/NaVILA-Bench[main]: https://github.com/yang-zj1026/NaVILA-Bench.git
 yang991178/fluent-reader[master]: https://github.com/yang991178/fluent-reader.git
 yangchris11/samurai[master]: https://github.com/yangchris11/samurai.git
 Yanghao0506/A-lightweight-prosthetic-hand[main]: https://github.com/Yanghao0506/A-lightweight-prosthetic-hand.git
@@ -3397,6 +3401,7 @@ ymcui/Chinese-BERT-wwm[master]: https://github.com/ymcui/Chinese-BERT-wwm.git
 ymcui/Chinese-XLNet[master]: https://github.com/ymcui/Chinese-XLNet.git
 yoheinakajima/babyagi[main]: https://github.com/yoheinakajima/babyagi.git
 yoheinakajima/prettygraph[main]: https://github.com/yoheinakajima/prettygraph.git
+YolandaXinyueZhu/touch_in_the_wild[main]: https://github.com/YolandaXinyueZhu/touch_in_the_wild.git
 yoneken/rosserial_stm32[master]: https://github.com/yoneken/rosserial_stm32.git
 YouDream3D/YouDream[main]: https://github.com/YouDream3D/YouDream.git
 younggyoseo/FastTD3[main]: https://github.com/younggyoseo/FastTD3.git
