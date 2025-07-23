@@ -2161,6 +2161,7 @@ NVIDIA-Omniverse/PhysX[main]: https://github.com/NVIDIA-Omniverse/PhysX.git
 NVIDIA-Omniverse/synthetic-data-examples[main]: https://github.com/NVIDIA-Omniverse/synthetic-data-examples.git
 NVIDIA-Omniverse/USD-Tutorials-And-Examples[main]: https://github.com/NVIDIA-Omniverse/USD-Tutorials-And-Examples.git
 NVIDIA/Cosmos[main]: https://github.com/NVIDIA/Cosmos.git
+NVIDIA/FasterTransformer[main]: https://github.com/NVIDIA/FasterTransformer.git
 NVIDIA/FastPhotoStyle[master]: https://github.com/NVIDIA/FastPhotoStyle.git
 NVIDIA/Isaac-GR00T[main]: https://github.com/NVIDIA/Isaac-GR00T.git
 NVIDIA/MDL-SDK[master]: https://github.com/NVIDIA/MDL-SDK.git
@@ -2170,6 +2171,7 @@ NVIDIA/NeMo-Framework-Launcher[main]: https://github.com/NVIDIA/NeMo-Framework-L
 NVIDIA/nvidia-docker[main]: https://github.com/NVIDIA/nvidia-docker.git
 NVIDIA/pix2pixHD[master]: https://github.com/NVIDIA/pix2pixHD.git
 NVIDIA/tao_pytorch_backend[main]: https://github.com/NVIDIA/tao_pytorch_backend.git
+NVIDIA/TensorRT[main]: https://github.com/NVIDIA/TensorRT.git
 NVIDIAGameWorks/Blast[master]: https://github.com/NVIDIAGameWorks/Blast.git
 NVIDIAGameWorks/FleX[master]: https://github.com/NVIDIAGameWorks/FleX.git
 NVIDIAGameWorks/Flow[master]: https://github.com/NVIDIAGameWorks/Flow.git
@@ -2495,10 +2497,10 @@ quantopian/zipline[master]: https://github.com/quantopian/zipline.git
 QuivrHQ/quivr[main]: https://github.com/QuivrHQ/quivr.git
 qusers/Q6[master]: https://github.com/qusers/Q6.git
 QwenLM/Qwen-VL[master]: https://github.com/QwenLM/Qwen-VL.git
-QwenLM/Qwen2.5-Coder[main]: https://github.com/QwenLM/Qwen2.5-Coder.git
 QwenLM/Qwen2.5-Omni[main]: https://github.com/QwenLM/Qwen2.5-Omni.git
 QwenLM/Qwen2.5-VL[main]: https://github.com/QwenLM/Qwen2.5-VL.git
 QwenLM/Qwen3[main]: https://github.com/QwenLM/Qwen3.git
+QwenLM/Qwen3-Coder[main]: https://github.com/QwenLM/Qwen3-Coder.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
@@ -3474,6 +3476,7 @@ zhouzypaul/wsrl[main]: https://github.com/zhouzypaul/wsrl.git
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
 ziadoz/awesome-php[master]: https://github.com/ziadoz/awesome-php.git
 zibojia/MiniMax-Remover[main]: https://github.com/zibojia/MiniMax-Remover.git
+Zie619/n8n-workflows[main]: https://github.com/Zie619/n8n-workflows.git
 zihangdai/xlnet[master]: https://github.com/zihangdai/xlnet.git
 zijie0/HumanSystemOptimization[main]: https://github.com/zijie0/HumanSystemOptimization.git
 zino-rs/zino[main]: https://github.com/zino-rs/zino.git
