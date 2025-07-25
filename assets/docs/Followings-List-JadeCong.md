@@ -119,6 +119,7 @@ Canner: https://github.com/Canner
 canonical: https://github.com/canonical
 Capri2014: https://github.com/Capri2014
 carbon-language: https://github.com/carbon-language
+catachiii: https://github.com/catachiii
 cbfinn: https://github.com/cbfinn
 chaidiscovery: https://github.com/chaidiscovery
 Chainlit: https://github.com/Chainlit
@@ -372,6 +373,7 @@ instructor-ai: https://github.com/instructor-ai
 intel: https://github.com/intel
 intelligent-control-lab: https://github.com/intelligent-control-lab
 IntelRealSense: https://github.com/IntelRealSense
+InternRobotics: https://github.com/InternRobotics
 iotdesignshop: https://github.com/iotdesignshop
 irom-princeton: https://github.com/irom-princeton
 Ironclad: https://github.com/Ironclad
@@ -614,7 +616,6 @@ OpenGVLab: https://github.com/OpenGVLab
 openharmony: https://github.com/openharmony
 openinterpreter: https://github.com/openinterpreter
 OpenRL-Lab: https://github.com/OpenRL-Lab
-OpenRobotLab: https://github.com/OpenRobotLab
 OpenRouterTeam: https://github.com/OpenRouterTeam
 opensim-org: https://github.com/opensim-org
 OpenSLAM: https://github.com/OpenSLAM
