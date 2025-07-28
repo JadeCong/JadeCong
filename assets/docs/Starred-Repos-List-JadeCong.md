@@ -2230,6 +2230,7 @@ ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
 Oldpan/Faceswap-Deepfake-Pytorch[master]: https://github.com/Oldpan/Faceswap-Deepfake-Pytorch.git
 ollama/ollama[main]: https://github.com/ollama/ollama.git
 OmniSVG/OmniSVG[main]: https://github.com/OmniSVG/OmniSVG.git
+ompl/ompl[main]: https://github.com/ompl/ompl.git
 Oneflow-Inc/oneflow[master]: https://github.com/Oneflow-Inc/oneflow.git
 ONERAI/xTrimoPGLM[main]: https://github.com/ONERAI/xTrimoPGLM.git
 onlook-dev/onlook[main]: https://github.com/onlook-dev/onlook.git
@@ -2437,6 +2438,7 @@ pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHan
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
 pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
 pollen-robotics/reachy2-sdk[develop]: https://github.com/pollen-robotics/reachy2-sdk.git
+pollen-robotics/Reachy2-UnityDigitalTwin[master]: https://github.com/pollen-robotics/Reachy2-UnityDigitalTwin.git
 pollen-robotics/reachy_2023[develop]: https://github.com/pollen-robotics/reachy_2023.git
 poloclub/cnn-explainer[master]: https://github.com/poloclub/cnn-explainer.git
 poloclub/ganlab[master]: https://github.com/poloclub/ganlab.git
@@ -2740,6 +2742,7 @@ shadowsocks/shadowsocks-windows[v4]: https://github.com/shadowsocks/shadowsocks-
 shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/ShadowsocksX-NG.git
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
+shareAI-lab/analysis_claude_code[main]: https://github.com/shareAI-lab/analysis_claude_code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
