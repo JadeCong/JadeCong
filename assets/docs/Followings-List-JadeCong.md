@@ -768,6 +768,7 @@ serpapi: https://github.com/serpapi
 SesameAILabs: https://github.com/SesameAILabs
 shadowsocks: https://github.com/shadowsocks
 ShangtongZhang: https://github.com/ShangtongZhang
+shareAI-lab: https://github.com/shareAI-lab
 SHI-Labs: https://github.com/SHI-Labs
 shidenggui: https://github.com/shidenggui
 showlab: https://github.com/showlab
