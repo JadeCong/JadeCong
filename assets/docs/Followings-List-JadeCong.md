@@ -523,6 +523,7 @@ mmatl: https://github.com/mmatl
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
 mongodb: https://github.com/mongodb
+MonitorControl: https://github.com/MonitorControl
 moojink: https://github.com/moojink
 moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
@@ -549,6 +550,7 @@ nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
 NeoVertex1: https://github.com/NeoVertex1
 neovim: https://github.com/neovim
+nerfstudio-project: https://github.com/nerfstudio-project
 netbirdio: https://github.com/netbirdio
 neuralinkcorp: https://github.com/neuralinkcorp
 neuralize-ai: https://github.com/neuralize-ai
@@ -801,6 +803,7 @@ stackblitz: https://github.com/stackblitz
 Standard-Intelligence: https://github.com/Standard-Intelligence
 Stanford-ILIAD: https://github.com/Stanford-ILIAD
 stanford-oval: https://github.com/stanford-oval
+StanfordASL: https://github.com/StanfordASL
 stanfordnlp: https://github.com/stanfordnlp
 StanfordVL: https://github.com/StanfordVL
 staruml: https://github.com/staruml
