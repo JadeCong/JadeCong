@@ -567,6 +567,7 @@ damo-cv/TransReID[main]: https://github.com/damo-cv/TransReID.git
 DAMO-NLP-SG/CoI-Agent[main]: https://github.com/DAMO-NLP-SG/CoI-Agent.git
 dani-carbonell/loam_back_and_forth[master]: https://github.com/dani-carbonell/loam_back_and_forth.git
 danielfrg/word2vec[main]: https://github.com/danielfrg/word2vec.git
+danielpmorton/cbfpy[main]: https://github.com/danielpmorton/cbfpy.git
 DanielTakeshi/deformable-ravens[master]: https://github.com/DanielTakeshi/deformable-ravens.git
 DanielTakeshi/fast_grasp_detect[master]: https://github.com/DanielTakeshi/fast_grasp_detect.git
 Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch[master]: https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch.git
@@ -1142,6 +1143,7 @@ gwtaylor/theano-rnn[master]: https://github.com/gwtaylor/theano-rnn.git
 GWxuan/TSP3D[main]: https://github.com/GWxuan/TSP3D.git
 Gynjn/selfsplat[main]: https://github.com/Gynjn/selfsplat.git
 gypified/libmpg123[master]: https://github.com/gypified/libmpg123.git
+GZWSAMA/OnePoseviaGen[main]: https://github.com/GZWSAMA/OnePoseviaGen.git
 h2oai/h2o-3[master]: https://github.com/h2oai/h2o-3.git
 h2oai/h2o-llmstudio[main]: https://github.com/h2oai/h2o-llmstudio.git
 haarnoja/sac[master]: https://github.com/haarnoja/sac.git
@@ -2024,6 +2026,7 @@ modelscope/scepter[main]: https://github.com/modelscope/scepter.git
 modular/modular[main]: https://github.com/modular/modular.git
 momentum-robotics-lab/deformgs[main]: https://github.com/momentum-robotics-lab/deformgs.git
 mongodb/mongo[master]: https://github.com/mongodb/mongo.git
+MonitorControl/MonitorControl[main]: https://github.com/MonitorControl/MonitorControl.git
 moojink/openvla-oft[main]: https://github.com/moojink/openvla-oft.git
 moonshine-ai/moonshine[main]: https://github.com/moonshine-ai/moonshine.git
 MoonshotAI/Kimi-Audio[master]: https://github.com/MoonshotAI/Kimi-Audio.git
@@ -2086,6 +2089,7 @@ neon-izm/EasyMotionRecorder[master]: https://github.com/neon-izm/EasyMotionRecor
 NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
 nepfaff/scalable-real2sim[main]: https://github.com/nepfaff/scalable-real2sim.git
+nerfstudio-project/viser[main]: https://github.com/nerfstudio-project/viser.git
 NervJS/taro[main]: https://github.com/NervJS/taro.git
 netbirdio/netbird[main]: https://github.com/netbirdio/netbird.git
 netease-youdao/QAnything[qanything-v2]: https://github.com/netease-youdao/QAnything.git
@@ -2854,6 +2858,8 @@ Stanford-ILIAD/openvla-mini[main]: https://github.com/Stanford-ILIAD/openvla-min
 stanford-iprl-lab/multimodal_representation[master]: https://github.com/stanford-iprl-lab/multimodal_representation.git
 stanford-oval/storm[main]: https://github.com/stanford-oval/storm.git
 Stanford-TML/PDP[main]: https://github.com/Stanford-TML/PDP.git
+StanfordASL/oscbf[main]: https://github.com/StanfordASL/oscbf.git
+StanfordASL/rompc[master]: https://github.com/StanfordASL/rompc.git
 StanfordASL/Trajectron[master]: https://github.com/StanfordASL/Trajectron.git
 stanfordnlp/dspy[main]: https://github.com/stanfordnlp/dspy.git
 stanfordnmbl/osim-rl[master]: https://github.com/stanfordnmbl/osim-rl.git
