@@ -164,6 +164,7 @@ corbt: https://github.com/corbt
 cremebrule: https://github.com/cremebrule
 crewAIInc: https://github.com/crewAIInc
 cuhk-eda: https://github.com/cuhk-eda
+CursorTouch: https://github.com/CursorTouch
 cvg: https://github.com/cvg
 cweijan: https://github.com/cweijan
 cyberbotics: https://github.com/cyberbotics
