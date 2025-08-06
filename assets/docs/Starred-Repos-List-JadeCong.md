@@ -544,6 +544,9 @@ cuemacro/finmarketpy[master]: https://github.com/cuemacro/finmarketpy.git
 cuixueshe/earthworm[main]: https://github.com/cuixueshe/earthworm.git
 cumulo-autumn/StreamDiffusion[main]: https://github.com/cumulo-autumn/StreamDiffusion.git
 cursor/cursor[main]: https://github.com/cursor/cursor.git
+CursorTouch/Android-MCP[master]: https://github.com/CursorTouch/Android-MCP.git
+CursorTouch/Windows-MCP[main]: https://github.com/CursorTouch/Windows-MCP.git
+CursorTouch/Windows-Use[main]: https://github.com/CursorTouch/Windows-Use.git
 cvg/mpsfm[main]: https://github.com/cvg/mpsfm.git
 cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
@@ -804,7 +807,7 @@ exo-explore/exo[main]: https://github.com/exo-explore/exo.git
 exo-explore/llama98.c[win98]: https://github.com/exo-explore/llama98.c.git
 exo-explore/mlx-bitnet[main]: https://github.com/exo-explore/mlx-bitnet.git
 exodrifter/unity-python[master]: https://github.com/exodrifter/unity-python.git
-Eyeline-Research/Go-with-the-Flow[main]: https://github.com/Eyeline-Research/Go-with-the-Flow.git
+Eyeline-Labs/Go-with-the-Flow[main]: https://github.com/Eyeline-Labs/Go-with-the-Flow.git
 eyyub/tensorflow-pix2pix[master]: https://github.com/eyyub/tensorflow-pix2pix.git
 Ezharjan/AcademicGPT[master]: https://github.com/Ezharjan/AcademicGPT.git
 f/awesome-chatgpt-prompts[main]: https://github.com/f/awesome-chatgpt-prompts.git
@@ -1159,6 +1162,7 @@ Haiyang-W/TokenFormer[main]: https://github.com/Haiyang-W/TokenFormer.git
 Halbmond/r2_sim[master]: https://github.com/Halbmond/r2_sim.git
 Hanbo-Cheng/DAWN-pytorch[main]: https://github.com/Hanbo-Cheng/DAWN-pytorch.git
 HandsOnLLM/Hands-On-Large-Language-Models[main]: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models.git
+hangwin/mcp-chrome[master]: https://github.com/hangwin/mcp-chrome.git
 hanmekim/SceneLib2[master]: https://github.com/hanmekim/SceneLib2.git
 Hannibal046/Awesome-LLM[main]: https://github.com/Hannibal046/Awesome-LLM.git
 hanruihua/NeuPAN[main]: https://github.com/hanruihua/NeuPAN.git
@@ -1297,6 +1301,7 @@ HumanAIGC/OutfitAnyone[main]: https://github.com/HumanAIGC/OutfitAnyone.git
 HumanAIGC/VividTalk[main]: https://github.com/HumanAIGC/VividTalk.git
 HumanCompatibleAI/imitation[master]: https://github.com/HumanCompatibleAI/imitation.git
 humanloop/awesome-chatgpt[main]: https://github.com/humanloop/awesome-chatgpt.git
+humanoid-clone/CLONE[main]: https://github.com/humanoid-clone/CLONE.git
 HumanoidAgents/HumanoidAgents[main]: https://github.com/HumanoidAgents/HumanoidAgents.git
 HumanSignal/labelImg[master]: https://github.com/HumanSignal/labelImg.git
 HumaRobotics/modbus[master]: https://github.com/HumaRobotics/modbus.git
@@ -1481,6 +1486,7 @@ jhoffman/lsda[master]: https://github.com/jhoffman/lsda.git
 jhu-lcsr/costar_plan[master]: https://github.com/jhu-lcsr/costar_plan.git
 jhu-saw/sawForceDimensionSDK[main]: https://github.com/jhu-saw/sawForceDimensionSDK.git
 Ji4chenLi/t2v-turbo[main]: https://github.com/Ji4chenLi/t2v-turbo.git
+jiachengliu3/WBC_Deploy[master]: https://github.com/jiachengliu3/WBC_Deploy.git
 jiah-cloud/Align3R[main]: https://github.com/jiah-cloud/Align3R.git
 jiahao-shao1/ChronoDepth[main]: https://github.com/jiahao-shao1/ChronoDepth.git
 Jiakui/awesome-bert[master]: https://github.com/Jiakui/awesome-bert.git
@@ -2268,8 +2274,10 @@ openai/finetune-transformer-lm[master]: https://github.com/openai/finetune-trans
 openai/glide-text2im[main]: https://github.com/openai/glide-text2im.git
 openai/gpt-2[master]: https://github.com/openai/gpt-2.git
 openai/gpt-3[master]: https://github.com/openai/gpt-3.git
+openai/gpt-oss[main]: https://github.com/openai/gpt-oss.git
 openai/grok[main]: https://github.com/openai/grok.git
 openai/gym[master]: https://github.com/openai/gym.git
+openai/harmony[main]: https://github.com/openai/harmony.git
 openai/human-eval[master]: https://github.com/openai/human-eval.git
 openai/imitation[master]: https://github.com/openai/imitation.git
 openai/mlsh[master]: https://github.com/openai/mlsh.git
@@ -3372,6 +3380,7 @@ YangLing0818/EditWorld[main]: https://github.com/YangLing0818/EditWorld.git
 yangqy1110/NC-SDEdit[main]: https://github.com/yangqy1110/NC-SDEdit.git
 yangxue0827/RotationDetection[main]: https://github.com/yangxue0827/RotationDetection.git
 YanjieZe/3D-Diffusion-Policy[master]: https://github.com/YanjieZe/3D-Diffusion-Policy.git
+YanjieZe/GMR[master]: https://github.com/YanjieZe/GMR.git
 YanjieZe/Humanoid-Teleoperation[main]: https://github.com/YanjieZe/Humanoid-Teleoperation.git
 YanjieZe/Improved-3D-Diffusion-Policy[main]: https://github.com/YanjieZe/Improved-3D-Diffusion-Policy.git
 YanjieZe/TWIST[main]: https://github.com/YanjieZe/TWIST.git
