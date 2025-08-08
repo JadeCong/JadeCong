@@ -892,6 +892,7 @@ fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
 febert/visual_mpc[master]: https://github.com/febert/visual_mpc.git
+feel-the-force-ftf/feel-the-force[main]: https://github.com/feel-the-force-ftf/feel-the-force.git
 felixendres/rgbdslam_v2[kinetic]: https://github.com/felixendres/rgbdslam_v2.git
 FellouAI/eko[main]: https://github.com/FellouAI/eko.git
 fengdu78/Coursera-ML-AndrewNg-Notes[master]: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes.git
@@ -1172,7 +1173,7 @@ hanzhanggit/StackGAN[master]: https://github.com/hanzhanggit/StackGAN.git
 hanzhanggit/StackGAN-inception-model[master]: https://github.com/hanzhanggit/StackGAN-inception-model.git
 hanzhanggit/StackGAN-Pytorch[master]: https://github.com/hanzhanggit/StackGAN-Pytorch.git
 hanzhanggit/StackGAN-v2[master]: https://github.com/hanzhanggit/StackGAN-v2.git
-HanzhiC/vidbot[main]: https://github.com/HanzhiC/vidbot.git
+HanzhiC/VidBot[main]: https://github.com/HanzhiC/VidBot.git
 haoel/leetcode[master]: https://github.com/haoel/leetcode.git
 haosulab/MPlib[main]: https://github.com/haosulab/MPlib.git
 haosulab/SAPIEN[master]: https://github.com/haosulab/SAPIEN.git
@@ -1875,6 +1876,7 @@ maudzung/Complex-YOLOv4-Pytorch[master]: https://github.com/maudzung/Complex-YOL
 Max-Fu/icrt[main]: https://github.com/Max-Fu/icrt.git
 maxin-cn/Cinemo[main]: https://github.com/maxin-cn/Cinemo.git
 maxjcohen/transformer[master]: https://github.com/maxjcohen/transformer.git
+maybe-finance/maybe[main]: https://github.com/maybe-finance/maybe.git
 mbortolon97/6dgs[main]: https://github.com/mbortolon97/6dgs.git
 MC-E/ReVideo[main]: https://github.com/MC-E/ReVideo.git
 mcfletch/pyopengl[master]: https://github.com/mcfletch/pyopengl.git
@@ -2079,6 +2081,7 @@ mysqljs/mysql[master]: https://github.com/mysqljs/mysql.git
 n8n-io/n8n[master]: https://github.com/n8n-io/n8n.git
 NaiboWang/EasySpider[master]: https://github.com/NaiboWang/EasySpider.git
 naklecha/llama3-from-scratch[main]: https://github.com/naklecha/llama3-from-scratch.git
+NanmiCoder/MediaCrawler[main]: https://github.com/NanmiCoder/MediaCrawler.git
 nanobrowser/nanobrowser[master]: https://github.com/nanobrowser/nanobrowser.git
 NapthaAI/automcp[main]: https://github.com/NapthaAI/automcp.git
 naruya/tecnets-pytorch[master]: https://github.com/naruya/tecnets-pytorch.git
