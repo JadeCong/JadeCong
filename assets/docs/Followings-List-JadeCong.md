@@ -498,6 +498,7 @@ MARS-EAI: https://github.com/MARS-EAI
 massgravel: https://github.com/massgravel
 matplotlib: https://github.com/matplotlib
 matthew-brett: https://github.com/matthew-brett
+maybe-finance: https://github.com/maybe-finance
 mediar-ai: https://github.com/mediar-ai
 mega-sam: https://github.com/mega-sam
 Megvii-BaseDetection: https://github.com/Megvii-BaseDetection
@@ -544,6 +545,7 @@ mysqljs: https://github.com/mysqljs
 n8n-io: https://github.com/n8n-io
 NaiboWang: https://github.com/NaiboWang
 naklecha: https://github.com/naklecha
+NanmiCoder: https://github.com/NanmiCoder
 NapthaAI: https://github.com/NapthaAI
 nasa: https://github.com/nasa
 naver: https://github.com/naver
