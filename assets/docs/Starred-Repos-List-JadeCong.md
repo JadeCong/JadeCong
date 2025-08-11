@@ -3221,6 +3221,7 @@ vidpanos/vidpanos.github.io[main]: https://github.com/vidpanos/vidpanos.github.i
 vietnh1009/ASCII-generator[master]: https://github.com/vietnh1009/ASCII-generator.git
 vijishmadhavan/SkinDeep[master]: https://github.com/vijishmadhavan/SkinDeep.git
 viliusle/miniPaint[master]: https://github.com/viliusle/miniPaint.git
+villekuosmanen/rewACT[main]: https://github.com/villekuosmanen/rewACT.git
 vim/vim[master]: https://github.com/vim/vim.git
 vimalabs/VIMA[main]: https://github.com/vimalabs/VIMA.git
 vinta/awesome-python[master]: https://github.com/vinta/awesome-python.git
