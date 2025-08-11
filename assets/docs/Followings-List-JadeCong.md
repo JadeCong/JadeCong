@@ -926,6 +926,7 @@ vellum-ai: https://github.com/vellum-ai
 vercel: https://github.com/vercel
 vikashplus: https://github.com/vikashplus
 viliusle: https://github.com/viliusle
+villekuosmanen: https://github.com/villekuosmanen
 vinjn: https://github.com/vinjn
 virattt: https://github.com/virattt
 VIS4ROB-lab: https://github.com/VIS4ROB-lab
