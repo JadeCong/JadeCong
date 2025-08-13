@@ -514,6 +514,7 @@ mindsdb: https://github.com/mindsdb
 MineDojo: https://github.com/MineDojo
 mingukkang: https://github.com/mingukkang
 Mintplex-Labs: https://github.com/Mintplex-Labs
+MiroMindAI: https://github.com/MiroMindAI
 MisaZhu: https://github.com/MisaZhu
 mishmanners: https://github.com/mishmanners
 MISTLab: https://github.com/MISTLab
@@ -997,6 +998,7 @@ YJango: https://github.com/YJango
 yjy0625: https://github.com/yjy0625
 younggyoseo: https://github.com/younggyoseo
 yt-dlp: https://github.com/yt-dlp
+yuanmingqi: https://github.com/yuanmingqi
 yuanwr: https://github.com/yuanwr
 yukezhu: https://github.com/yukezhu
 yukihiko: https://github.com/yukihiko
