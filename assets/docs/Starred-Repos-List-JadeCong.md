@@ -986,6 +986,7 @@ fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/f
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
+game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
 gantFDT/icraft[main]: https://github.com/gantFDT/icraft.git
 gaoxiang12/faster-lio[main]: https://github.com/gaoxiang12/faster-lio.git
@@ -1897,6 +1898,7 @@ mementum/backtrader[master]: https://github.com/mementum/backtrader.git
 memoavatar/memo[main]: https://github.com/memoavatar/memo.git
 MemTensor/MemOS[main]: https://github.com/MemTensor/MemOS.git
 mendableai/firecrawl[main]: https://github.com/mendableai/firecrawl.git
+mendableai/open-lovable[main]: https://github.com/mendableai/open-lovable.git
 menloresearch/ichigo[main]: https://github.com/menloresearch/ichigo.git
 menyifang/MIMO[main]: https://github.com/menyifang/MIMO.git
 Meowuu7/DexTrack[main]: https://github.com/Meowuu7/DexTrack.git
@@ -1991,6 +1993,10 @@ mintasca/ros_gluon[master]: https://github.com/mintasca/ros_gluon.git
 mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
+MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
+MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
+MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
+MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
 MisaZhu/ewokos[master]: https://github.com/MisaZhu/ewokos.git
 MisterBooo/LeetCodeAnimation[master]: https://github.com/MisterBooo/LeetCodeAnimation.git
 MISTLab/DOOR-SLAM[master]: https://github.com/MISTLab/DOOR-SLAM.git
@@ -3424,6 +3430,7 @@ youyuge34/Poems_generator_Keras[master]: https://github.com/youyuge34/Poems_gene
 yrlu/irl-imitation[master]: https://github.com/yrlu/irl-imitation.git
 yt-dlp/yt-dlp[master]: https://github.com/yt-dlp/yt-dlp.git
 yuanfei-Wang/AdaManip[main]: https://github.com/yuanfei-Wang/AdaManip.git
+yuanmingqi/awesome-bfm-papers[main]: https://github.com/yuanmingqi/awesome-bfm-papers.git
 yuanshenli/roller-grasper-v3[main]: https://github.com/yuanshenli/roller-grasper-v3.git
 yuanshenli/RollerGrasperV2[master]: https://github.com/yuanshenli/RollerGrasperV2.git
 yuanshenli/Tactile-Reactive-Roller-Grasper[main]: https://github.com/yuanshenli/Tactile-Reactive-Roller-Grasper.git
