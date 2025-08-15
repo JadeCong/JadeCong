@@ -60,6 +60,7 @@ agalwood/Motrix[master]: https://github.com/agalwood/Motrix.git
 ageitgey/face_recognition[master]: https://github.com/ageitgey/face_recognition.git
 agent-husky/Husky-v1[main]: https://github.com/agent-husky/Husky-v1.git
 AgentEra/Agently[main]: https://github.com/AgentEra/Agently.git
+agentscope-ai/agentscope[main]: https://github.com/agentscope-ai/agentscope.git
 ageron/handson-ml[master]: https://github.com/ageron/handson-ml.git
 AGI-Labs/manipulate-by-seeing[main]: https://github.com/AGI-Labs/manipulate-by-seeing.git
 AgibotTech/agibot_x1_hardware[main]: https://github.com/AgibotTech/agibot_x1_hardware.git
@@ -143,10 +144,12 @@ All-Hands-AI/OpenHands[main]: https://github.com/All-Hands-AI/OpenHands.git
 all-in-aigc/chatgpt-webapi[main]: https://github.com/all-in-aigc/chatgpt-webapi.git
 all-in-aigc/gpts-works[main]: https://github.com/all-in-aigc/gpts-works.git
 allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
+allenai/molmo[main]: https://github.com/allenai/molmo.git
+allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.0.7]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.1.0]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
 als3453/Collection_TianYa[main]: https://github.com/als3453/Collection_TianYa.git
@@ -661,6 +664,7 @@ DingXiaoH/RepVGG[main]: https://github.com/DingXiaoH/RepVGG.git
 DingXiaoH/ResRep[master]: https://github.com/DingXiaoH/ResRep.git
 DINGYANB/MTVCrafter[main]: https://github.com/DINGYANB/MTVCrafter.git
 dingyiming0427/goalgail[master]: https://github.com/dingyiming0427/goalgail.git
+dingyufei615/ai-goofish-monitor[master]: https://github.com/dingyufei615/ai-goofish-monitor.git
 DioxusLabs/dioxus[main]: https://github.com/DioxusLabs/dioxus.git
 DirtyHarryLYL/HAKE[master]: https://github.com/DirtyHarryLYL/HAKE.git
 DIYgod/RSSHub[master]: https://github.com/DIYgod/RSSHub.git
@@ -1317,6 +1321,7 @@ HVision-NKU/StoryDiffusion[main]: https://github.com/HVision-NKU/StoryDiffusion.
 hwdsl2/setup-ipsec-vpn[master]: https://github.com/hwdsl2/setup-ipsec-vpn.git
 HybridRobotics/Berkeley-Humanoid-Lite[main]: https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
 HybridRobotics/isaac_berkeley_humanoid[main]: https://github.com/HybridRobotics/isaac_berkeley_humanoid.git
+HybridRobotics/whole_body_tracking[main]: https://github.com/HybridRobotics/whole_body_tracking.git
 hydecorp/hydejack[master]: https://github.com/hydecorp/hydejack.git
 hydecorp/hydejack-site[master]: https://github.com/hydecorp/hydejack-site.git
 hydecorp/hydejack-starter-kit[master]: https://github.com/hydecorp/hydejack-starter-kit.git
@@ -1379,6 +1384,7 @@ InternRobotics/Aether[main]: https://github.com/InternRobotics/Aether.git
 InternRobotics/EmbodiedScan[main]: https://github.com/InternRobotics/EmbodiedScan.git
 InternRobotics/HIMLoco[main]: https://github.com/InternRobotics/HIMLoco.git
 InternRobotics/Infinite-Mobility[main]: https://github.com/InternRobotics/Infinite-Mobility.git
+InternRobotics/InternScenes[main]: https://github.com/InternRobotics/InternScenes.git
 InternRobotics/InternUtopia[main]: https://github.com/InternRobotics/InternUtopia.git
 InternRobotics/OpenHomie[main]: https://github.com/InternRobotics/OpenHomie.git
 InternRobotics/PointLLM[master]: https://github.com/InternRobotics/PointLLM.git
@@ -1728,6 +1734,7 @@ Linketic/CityGaussian[main]: https://github.com/Linketic/CityGaussian.git
 Linketic/StableMoFusion[master]: https://github.com/Linketic/StableMoFusion.git
 linoytsaban/semantic-sliders[main]: https://github.com/linoytsaban/semantic-sliders.git
 linshenkx/prompt-optimizer[develop]: https://github.com/linshenkx/prompt-optimizer.git
+linsun449/GeoVLA[main]: https://github.com/linsun449/GeoVLA.git
 linyqh/NarratoAI[main]: https://github.com/linyqh/NarratoAI.git
 LinZhekai/X-Oscar[main]: https://github.com/LinZhekai/X-Oscar.git
 lipku/LiveTalking[main]: https://github.com/lipku/LiveTalking.git
@@ -2028,7 +2035,6 @@ MobiusLqm/MoDGS[main]: https://github.com/MobiusLqm/MoDGS.git
 modelcontextprotocol/python-sdk[main]: https://github.com/modelcontextprotocol/python-sdk.git
 modelcontextprotocol/servers[main]: https://github.com/modelcontextprotocol/servers.git
 modelcontextprotocol/typescript-sdk[main]: https://github.com/modelcontextprotocol/typescript-sdk.git
-modelscope/agentscope[main]: https://github.com/modelscope/agentscope.git
 modelscope/ClearerVoice-Studio[main]: https://github.com/modelscope/ClearerVoice-Studio.git
 modelscope/DiffSynth-Studio[main]: https://github.com/modelscope/DiffSynth-Studio.git
 modelscope/facechain[main]: https://github.com/modelscope/facechain.git
