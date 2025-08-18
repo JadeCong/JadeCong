@@ -537,6 +537,7 @@ Mozilla-Ocho: https://github.com/Mozilla-Ocho
 mpaepper: https://github.com/mpaepper
 mrdbourke: https://github.com/mrdbourke
 MrTornado24: https://github.com/MrTornado24
+mshoe: https://github.com/mshoe
 mutableai: https://github.com/mutableai
 MVIG-SJTU: https://github.com/MVIG-SJTU
 MyoHub: https://github.com/MyoHub
