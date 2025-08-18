@@ -479,7 +479,6 @@ chrislgarry/Apollo-11[master]: https://github.com/chrislgarry/Apollo-11.git
 chrisrhymes/bulma-clean-theme[master]: https://github.com/chrisrhymes/bulma-clean-theme.git
 ChrisTitusTech/winutil[main]: https://github.com/ChrisTitusTech/winutil.git
 ChristosChristofidis/awesome-deep-learning[master]: https://github.com/ChristosChristofidis/awesome-deep-learning.git
-ChrisWu1997/DeepCAD[master]: https://github.com/ChrisWu1997/DeepCAD.git
 chrisyrniu/Human2LocoMan[main]: https://github.com/chrisyrniu/Human2LocoMan.git
 chromalock/TI-32[main]: https://github.com/chromalock/TI-32.git
 chrxh/alien[develop]: https://github.com/chrxh/alien.git
@@ -709,7 +708,7 @@ DrSleep/tensorflow-deeplab-resnet[master]: https://github.com/DrSleep/tensorflow
 dstotijn/hetty[main]: https://github.com/dstotijn/hetty.git
 DuGuQiuBai/Java[master]: https://github.com/DuGuQiuBai/Java.git
 duixcom/Duix-Mobile[main]: https://github.com/duixcom/Duix-Mobile.git
-duixcom/Duix.Heygem[main]: https://github.com/duixcom/Duix.Heygem.git
+duixcom/Duix.Avatar[main]: https://github.com/duixcom/Duix.Avatar.git
 duma-repo/ai_code_reader[master]: https://github.com/duma-repo/ai_code_reader.git
 duplicati/duplicati[master]: https://github.com/duplicati/duplicati.git
 dusty-nv/NanoLLM[main]: https://github.com/dusty-nv/NanoLLM.git
@@ -832,6 +831,7 @@ facebookresearch/detectron2[main]: https://github.com/facebookresearch/detectron
 facebookresearch/detr[main]: https://github.com/facebookresearch/detr.git
 facebookresearch/digit-design[main]: https://github.com/facebookresearch/digit-design.git
 facebookresearch/digit-interface[main]: https://github.com/facebookresearch/digit-interface.git
+facebookresearch/dinov3[main]: https://github.com/facebookresearch/dinov3.git
 facebookresearch/DiT[main]: https://github.com/facebookresearch/DiT.git
 facebookresearch/ELF[main]: https://github.com/facebookresearch/ELF.git
 facebookresearch/esm[main]: https://github.com/facebookresearch/esm.git
@@ -1306,6 +1306,7 @@ HumanAIGC/EMO[main]: https://github.com/HumanAIGC/EMO.git
 HumanAIGC/OutfitAnyone[main]: https://github.com/HumanAIGC/OutfitAnyone.git
 HumanAIGC/VividTalk[main]: https://github.com/HumanAIGC/VividTalk.git
 HumanCompatibleAI/imitation[master]: https://github.com/HumanCompatibleAI/imitation.git
+humancomputerlab/LeLamp[master]: https://github.com/humancomputerlab/LeLamp.git
 humanloop/awesome-chatgpt[main]: https://github.com/humanloop/awesome-chatgpt.git
 humanoid-clone/CLONE[main]: https://github.com/humanoid-clone/CLONE.git
 HumanoidAgents/HumanoidAgents[main]: https://github.com/HumanoidAgents/HumanoidAgents.git
@@ -1553,6 +1554,7 @@ junyanz/pytorch-CycleGAN-and-pix2pix[master]: https://github.com/junyanz/pytorch
 Junyi42/monst3r[main]: https://github.com/Junyi42/monst3r.git
 JunzheJosephZhu/DenseMatcher[master]: https://github.com/JunzheJosephZhu/DenseMatcher.git
 JunzheJosephZhu/see_hear_feel[master]: https://github.com/JunzheJosephZhu/see_hear_feel.git
+jurmy24/mechaverse[main]: https://github.com/jurmy24/mechaverse.git
 just-the-docs/just-the-docs[main]: https://github.com/just-the-docs/just-the-docs.git
 justinjfu/inverse_rl[master]: https://github.com/justinjfu/inverse_rl.git
 justinzm/gopup[master]: https://github.com/justinzm/gopup.git
@@ -1631,6 +1633,7 @@ krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
 krillinai/KlicStudio[master]: https://github.com/krillinai/KlicStudio.git
 krishauser/Klampt[master]: https://github.com/krishauser/Klampt.git
 krishauser/Klampt-examples[master]: https://github.com/krishauser/Klampt-examples.git
+KrishKrosh/TrackWeight[main]: https://github.com/KrishKrosh/TrackWeight.git
 kristery/Awesome-Imitation-Learning[master]: https://github.com/kristery/Awesome-Imitation-Learning.git
 KRTirtho/spotube[master]: https://github.com/KRTirtho/spotube.git
 kscalelabs/evla[main]: https://github.com/kscalelabs/evla.git
@@ -2016,6 +2019,7 @@ mit-biomimetics/fld[main]: https://github.com/mit-biomimetics/fld.git
 mit-han-lab/smoothquant[main]: https://github.com/mit-han-lab/smoothquant.git
 mit-han-lab/streaming-llm[main]: https://github.com/mit-han-lab/streaming-llm.git
 mit-pdos/xv6-riscv[riscv]: https://github.com/mit-pdos/xv6-riscv.git
+MizuhoAOKI/nullspace_mpc[main]: https://github.com/MizuhoAOKI/nullspace_mpc.git
 mjyc/awesome-robotics-projects[master]: https://github.com/mjyc/awesome-robotics-projects.git
 mkatliar/modbus-cpp[main]: https://github.com/mkatliar/modbus-cpp.git
 mks0601/3DMPPE_POSENET_RELEASE[master]: https://github.com/mks0601/3DMPPE_POSENET_RELEASE.git
@@ -2075,6 +2079,7 @@ mrgloom/awesome-semantic-segmentation[master]: https://github.com/mrgloom/awesom
 MrTornado24/DreamCraft3D_Plus[main]: https://github.com/MrTornado24/DreamCraft3D_Plus.git
 msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-weekly-robotics.git
 msgpack-rpc/msgpack-rpc[master]: https://github.com/msgpack-rpc/msgpack-rpc.git
+mshoe/PARC[main]: https://github.com/mshoe/PARC.git
 MSiam/motion_adaptation[master]: https://github.com/MSiam/motion_adaptation.git
 muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
@@ -2176,6 +2181,7 @@ Nutlope/llamatutor[main]: https://github.com/Nutlope/llamatutor.git
 Nutlope/napkins[main]: https://github.com/Nutlope/napkins.git
 Nutlope/picMenu[main]: https://github.com/Nutlope/picMenu.git
 nv-tlabs/ASE[main]: https://github.com/nv-tlabs/ASE.git
+nv-tlabs/vipe[main]: https://github.com/nv-tlabs/vipe.git
 nvbn/thefuck[master]: https://github.com/nvbn/thefuck.git
 NVIDIA-AI-IOT/jetbot[master]: https://github.com/NVIDIA-AI-IOT/jetbot.git
 NVIDIA-AI-IOT/remembr[main]: https://github.com/NVIDIA-AI-IOT/remembr.git
@@ -2477,6 +2483,7 @@ posquit0/Awesome-CV[master]: https://github.com/posquit0/Awesome-CV.git
 potpie-ai/potpie[main]: https://github.com/potpie-ai/potpie.git
 PowerHouseMan/ComfyUI-AdvancedLivePortrait[main]: https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait.git
 PowerShell/AIShell[main]: https://github.com/PowerShell/AIShell.git
+pqoqubbw/icons[main]: https://github.com/pqoqubbw/icons.git
 practical-tutorials/project-based-learning[master]: https://github.com/practical-tutorials/project-based-learning.git
 prathimacode-hub/Ezy-Parking[main]: https://github.com/prathimacode-hub/Ezy-Parking.git
 PRBonn/kiss-icp[main]: https://github.com/PRBonn/kiss-icp.git
@@ -2699,7 +2706,9 @@ RT-Thread/rt-thread[master]: https://github.com/RT-Thread/rt-thread.git
 ruanyf/free-books[master]: https://github.com/ruanyf/free-books.git
 RUCAIBox/LLMSurvey[main]: https://github.com/RUCAIBox/LLMSurvey.git
 RuiningLi/puppet-master[main]: https://github.com/RuiningLi/puppet-master.git
+ruka-hand/RUKA[main]: https://github.com/ruka-hand/RUKA.git
 run-llama/llama_index[main]: https://github.com/run-llama/llama_index.git
+rundiwu/DeepCAD[master]: https://github.com/rundiwu/DeepCAD.git
 Runixe786/MD3-Windows[main]: https://github.com/Runixe786/MD3-Windows.git
 runtipi/runtipi[develop]: https://github.com/runtipi/runtipi.git
 rust-lang/rust[master]: https://github.com/rust-lang/rust.git
