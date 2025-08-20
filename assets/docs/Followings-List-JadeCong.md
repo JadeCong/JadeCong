@@ -252,6 +252,7 @@ FengQuanLi: https://github.com/FengQuanLi
 FestingerVault: https://github.com/FestingerVault
 FFTAI: https://github.com/FFTAI
 finos: https://github.com/finos
+firecrawl: https://github.com/firecrawl
 fireflyprotocol: https://github.com/fireflyprotocol
 Firmament-Autopilot: https://github.com/Firmament-Autopilot
 fjwillemsen: https://github.com/fjwillemsen
@@ -422,6 +423,7 @@ KindXiaoming: https://github.com/KindXiaoming
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
 Kong: https://github.com/Kong
+KOREATECH-IRIMLab: https://github.com/KOREATECH-IRIMLab
 kortix-ai: https://github.com/kortix-ai
 krahets: https://github.com/krahets
 krea-ai: https://github.com/krea-ai
@@ -505,7 +507,6 @@ Megvii-BaseDetection: https://github.com/Megvii-BaseDetection
 megvii-model: https://github.com/megvii-model
 meituan: https://github.com/meituan
 mem0ai: https://github.com/mem0ai
-mendableai: https://github.com/mendableai
 Meshcapade: https://github.com/Meshcapade
 meta-llama: https://github.com/meta-llama
 metadriverse: https://github.com/metadriverse
@@ -538,7 +539,6 @@ mpaepper: https://github.com/mpaepper
 mrdbourke: https://github.com/mrdbourke
 MrTornado24: https://github.com/MrTornado24
 mshoe: https://github.com/mshoe
-mutableai: https://github.com/mutableai
 MVIG-SJTU: https://github.com/MVIG-SJTU
 MyoHub: https://github.com/MyoHub
 myshell-ai: https://github.com/myshell-ai
@@ -808,6 +808,7 @@ stackblitz: https://github.com/stackblitz
 Standard-Intelligence: https://github.com/Standard-Intelligence
 Stanford-ILIAD: https://github.com/Stanford-ILIAD
 stanford-oval: https://github.com/stanford-oval
+Stanford-TML: https://github.com/Stanford-TML
 StanfordASL: https://github.com/StanfordASL
 stanfordnlp: https://github.com/stanfordnlp
 StanfordVL: https://github.com/StanfordVL
