@@ -145,6 +145,7 @@ all-in-aigc/chatgpt-webapi[main]: https://github.com/all-in-aigc/chatgpt-webapi.
 all-in-aigc/gpts-works[main]: https://github.com/all-in-aigc/gpts-works.git
 allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
 allenai/molmo[main]: https://github.com/allenai/molmo.git
+allenai/MolmoAct[main]: https://github.com/allenai/MolmoAct.git
 allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
@@ -919,6 +920,8 @@ finegrain-ai/refiners[main]: https://github.com/finegrain-ai/refiners.git
 FinGeniusAPP/FinGeniusAPP[main]: https://github.com/FinGeniusAPP/FinGeniusAPP.git
 fingerprintjs/fingerprintjs[master]: https://github.com/fingerprintjs/fingerprintjs.git
 finos/perspective[master]: https://github.com/finos/perspective.git
+firecrawl/firecrawl[main]: https://github.com/firecrawl/firecrawl.git
+firecrawl/open-lovable[main]: https://github.com/firecrawl/open-lovable.git
 fireflyprotocol/bluefin-v2-client-python[main]: https://github.com/fireflyprotocol/bluefin-v2-client-python.git
 firework8/Awesome-Skeleton-based-Action-Recognition[main]: https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition.git
 Firmament-Autopilot/FMT-Firmware[master]: https://github.com/Firmament-Autopilot/FMT-Firmware.git
@@ -1907,8 +1910,6 @@ mem0ai/mem0[main]: https://github.com/mem0ai/mem0.git
 mementum/backtrader[master]: https://github.com/mementum/backtrader.git
 memoavatar/memo[main]: https://github.com/memoavatar/memo.git
 MemTensor/MemOS[main]: https://github.com/MemTensor/MemOS.git
-mendableai/firecrawl[main]: https://github.com/mendableai/firecrawl.git
-mendableai/open-lovable[main]: https://github.com/mendableai/open-lovable.git
 menloresearch/ichigo[main]: https://github.com/menloresearch/ichigo.git
 menyifang/MIMO[main]: https://github.com/menyifang/MIMO.git
 Meowuu7/DexTrack[main]: https://github.com/Meowuu7/DexTrack.git
@@ -2003,6 +2004,7 @@ mintasca/ros_gluon[master]: https://github.com/mintasca/ros_gluon.git
 mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
+Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
 MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
@@ -2889,6 +2891,7 @@ stanford-crfm/fmti[main]: https://github.com/stanford-crfm/fmti.git
 Stanford-ILIAD/openvla-mini[main]: https://github.com/Stanford-ILIAD/openvla-mini.git
 stanford-iprl-lab/multimodal_representation[master]: https://github.com/stanford-iprl-lab/multimodal_representation.git
 stanford-oval/storm[main]: https://github.com/stanford-oval/storm.git
+Stanford-TML/HEAD_release[main]: https://github.com/Stanford-TML/HEAD_release.git
 Stanford-TML/PDP[main]: https://github.com/Stanford-TML/PDP.git
 StanfordASL/oscbf[main]: https://github.com/StanfordASL/oscbf.git
 StanfordASL/rompc[master]: https://github.com/StanfordASL/rompc.git
