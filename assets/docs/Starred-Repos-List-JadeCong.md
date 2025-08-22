@@ -145,7 +145,7 @@ all-in-aigc/chatgpt-webapi[main]: https://github.com/all-in-aigc/chatgpt-webapi.
 all-in-aigc/gpts-works[main]: https://github.com/all-in-aigc/gpts-works.git
 allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
 allenai/molmo[main]: https://github.com/allenai/molmo.git
-allenai/MolmoAct[main]: https://github.com/allenai/MolmoAct.git
+allenai/molmoact[main]: https://github.com/allenai/molmoact.git
 allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
@@ -1275,6 +1275,7 @@ HRNet/HRNet-Image-Classification[master]: https://github.com/HRNet/HRNet-Image-C
 HRNet/HRNet-Semantic-Segmentation[HRNet-OCR]: https://github.com/HRNet/HRNet-Semantic-Segmentation.git
 HRNet/Lite-HRNet[hrnet]: https://github.com/HRNet/Lite-HRNet.git
 hshi74/toddlerbot[main]: https://github.com/hshi74/toddlerbot.git
+hsp-iit/HannesImitation[main]: https://github.com/hsp-iit/HannesImitation.git
 httpie/cli[master]: https://github.com/httpie/cli.git
 HuangCongQing/3D-Point-Clouds[main]: https://github.com/HuangCongQing/3D-Point-Clouds.git
 HuangCongQing/Algorithms_MathModels[master]: https://github.com/HuangCongQing/Algorithms_MathModels.git
@@ -1304,6 +1305,7 @@ huggingface/transformers-bloom-inference[main]: https://github.com/huggingface/t
 huggingface/transformers.js[main]: https://github.com/huggingface/transformers.js.git
 Huibq/keep-alive[master]: https://github.com/Huibq/keep-alive.git
 hujiecpp/PE3R[main]: https://github.com/hujiecpp/PE3R.git
+hukz18/Robot-Trains-Robot[main]: https://github.com/hukz18/Robot-Trains-Robot.git
 HuLaSpark/HuLa[master]: https://github.com/HuLaSpark/HuLa.git
 HumanAIGC/EMO[main]: https://github.com/HumanAIGC/EMO.git
 HumanAIGC/OutfitAnyone[main]: https://github.com/HumanAIGC/OutfitAnyone.git
@@ -2286,6 +2288,7 @@ open-source-parsers/jsoncpp[master]: https://github.com/open-source-parsers/json
 open-vela/nuttx[dev]: https://github.com/open-vela/nuttx.git
 open-webui/mcpo[main]: https://github.com/open-webui/mcpo.git
 open-webui/open-webui[main]: https://github.com/open-webui/open-webui.git
+Open-X-Humanoid/Humanoid-Occupancy[main]: https://github.com/Open-X-Humanoid/Humanoid-Occupancy.git
 OpenAgentPlatform/Dive[main]: https://github.com/OpenAgentPlatform/Dive.git
 openai/baselines[master]: https://github.com/openai/baselines.git
 openai/CLIP[main]: https://github.com/openai/CLIP.git
@@ -2718,6 +2721,7 @@ rust-lang/rustlings[main]: https://github.com/rust-lang/rustlings.git
 rust-unofficial/awesome-rust[main]: https://github.com/rust-unofficial/awesome-rust.git
 rustdesk/doc.rustdesk.com[master]: https://github.com/rustdesk/doc.rustdesk.com.git
 rustdesk/rustdesk[master]: https://github.com/rustdesk/rustdesk.git
+rustdesk/rustdesk-server[master]: https://github.com/rustdesk/rustdesk-server.git
 RVC-Boss/GPT-SoVITS[main]: https://github.com/RVC-Boss/GPT-SoVITS.git
 rverst/stargazer[main]: https://github.com/rverst/stargazer.git
 ry/tensorflow-resnet[master]: https://github.com/ry/tensorflow-resnet.git
@@ -2730,7 +2734,7 @@ Saiyan-World/goku[main]: https://github.com/Saiyan-World/goku.git
 SakanaAI/AI-Scientist[main]: https://github.com/SakanaAI/AI-Scientist.git
 SakanaAI/asal[main]: https://github.com/SakanaAI/asal.git
 salesforce/awd-lstm-lm[master]: https://github.com/salesforce/awd-lstm-lm.git
-sam2act/SAM2Act[main]: https://github.com/sam2act/SAM2Act.git
+sam2act/sam2act[main]: https://github.com/sam2act/sam2act.git
 samarth-robo/contactdb_prediction[diversenet]: https://github.com/samarth-robo/contactdb_prediction.git
 SamLynnEvans/Transformer[master]: https://github.com/SamLynnEvans/Transformer.git
 sammcj/superprompter[main]: https://github.com/sammcj/superprompter.git
@@ -2781,6 +2785,7 @@ shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/Shadowsocks
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
 shareAI-lab/analysis_claude_code[main]: https://github.com/shareAI-lab/analysis_claude_code.git
+shareAI-lab/Kode[main]: https://github.com/shareAI-lab/Kode.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
@@ -2886,6 +2891,7 @@ Stable-X/StableNormal[main]: https://github.com/Stable-X/StableNormal.git
 stack-of-tasks/pinocchio[devel]: https://github.com/stack-of-tasks/pinocchio.git
 stackblitz/bolt.new[main]: https://github.com/stackblitz/bolt.new.git
 stagewise-io/stagewise[main]: https://github.com/stagewise-io/stagewise.git
+stan-smith/FossFLOW[master]: https://github.com/stan-smith/FossFLOW.git
 Standard-Intelligence/hertz-dev[main]: https://github.com/Standard-Intelligence/hertz-dev.git
 stanford-crfm/fmti[main]: https://github.com/stanford-crfm/fmti.git
 Stanford-ILIAD/openvla-mini[main]: https://github.com/Stanford-ILIAD/openvla-mini.git
