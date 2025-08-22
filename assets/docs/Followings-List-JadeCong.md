@@ -345,6 +345,7 @@ hpcaitech: https://github.com/hpcaitech
 HRI-EU: https://github.com/HRI-EU
 HRNet: https://github.com/HRNet
 hshi74: https://github.com/hshi74
+hsp-iit: https://github.com/hsp-iit
 httpie: https://github.com/httpie
 HuangCongQing: https://github.com/HuangCongQing
 huangwl18: https://github.com/huangwl18
@@ -611,6 +612,7 @@ open-dynamic-robot-initiative: https://github.com/open-dynamic-robot-initiative
 open-mmlab: https://github.com/open-mmlab
 open-vela: https://github.com/open-vela
 open-webui: https://github.com/open-webui
+Open-X-Humanoid: https://github.com/Open-X-Humanoid
 OpenAgentPlatform: https://github.com/OpenAgentPlatform
 openai: https://github.com/openai
 OpenAPITools: https://github.com/OpenAPITools
