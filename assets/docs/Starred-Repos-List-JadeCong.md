@@ -232,6 +232,7 @@ ArcInstitute/evo2[main]: https://github.com/ArcInstitute/evo2.git
 arduino/Arduino[master]: https://github.com/arduino/Arduino.git
 arduino/arduino-ide[main]: https://github.com/arduino/arduino-ide.git
 argusswift/YOLOv4-pytorch[master]: https://github.com/argusswift/YOLOv4-pytorch.git
+Ariostgx/ript-vla[main]: https://github.com/Ariostgx/ript-vla.git
 ARISE-Initiative/robomimic[master]: https://github.com/ARISE-Initiative/robomimic.git
 ARISE-Initiative/robosuite[master]: https://github.com/ARISE-Initiative/robosuite.git
 ARISE-Initiative/robosuite-benchmark[master]: https://github.com/ARISE-Initiative/robosuite-benchmark.git
@@ -606,6 +607,7 @@ datawhalechina/tiny-universe[main]: https://github.com/datawhalechina/tiny-unive
 datitran/face2face-demo[master]: https://github.com/datitran/face2face-demo.git
 dauparas/ProteinMPNN[main]: https://github.com/dauparas/ProteinMPNN.git
 dav/word2vec[master]: https://github.com/dav/word2vec.git
+davideuler/architecture.of.internet-product[master]: https://github.com/davideuler/architecture.of.internet-product.git
 DavidHDev/react-bits[main]: https://github.com/DavidHDev/react-bits.git
 davidmalawey/OpenArm[main]: https://github.com/davidmalawey/OpenArm.git
 davidtellez/contrastive-predictive-coding[master]: https://github.com/davidtellez/contrastive-predictive-coding.git
@@ -1145,6 +1147,7 @@ GrowingGit/GitHub-English-Top-Charts[main]: https://github.com/GrowingGit/GitHub
 grpc/grpc[master]: https://github.com/grpc/grpc.git
 gsa-tts-archived/ai.gov[main]: https://github.com/gsa-tts-archived/ai.gov.git
 guanguans/music-dl[master]: https://github.com/guanguans/music-dl.git
+GuanxingLu/vlarl[main]: https://github.com/GuanxingLu/vlarl.git
 guilk/KAT[main]: https://github.com/guilk/KAT.git
 guillaume-chevalier/LSTM-Human-Activity-Recognition[master]: https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition.git
 gulvarol/bodynet[master]: https://github.com/gulvarol/bodynet.git
@@ -3379,6 +3382,7 @@ xinghaochen/TinySAM[main]: https://github.com/xinghaochen/TinySAM.git
 xinglie/report-designer[master]: https://github.com/xinglie/report-designer.git
 xingyizhou/CenterNet2[master]: https://github.com/xingyizhou/CenterNet2.git
 xiph/libao[master]: https://github.com/xiph/libao.git
+xixu-me/Xget[main]: https://github.com/xixu-me/Xget.git
 xlite-dev/lite.ai.toolkit[main]: https://github.com/xlite-dev/lite.ai.toolkit.git
 xming521/WeClone[master]: https://github.com/xming521/WeClone.git
 xmppjs/xmpp.js[main]: https://github.com/xmppjs/xmpp.js.git
