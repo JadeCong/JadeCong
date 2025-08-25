@@ -121,6 +121,7 @@ Capri2014: https://github.com/Capri2014
 carbon-language: https://github.com/carbon-language
 catachiii: https://github.com/catachiii
 cbfinn: https://github.com/cbfinn
+cdzombak: https://github.com/cdzombak
 chaidiscovery: https://github.com/chaidiscovery
 Chainlit: https://github.com/Chainlit
 chaitin: https://github.com/chaitin
@@ -180,6 +181,7 @@ danijar: https://github.com/danijar
 Dao-AILab: https://github.com/Dao-AILab
 databricks: https://github.com/databricks
 datawhalechina: https://github.com/datawhalechina
+davideuler: https://github.com/davideuler
 DavidHDev: https://github.com/DavidHDev
 davidmalawey: https://github.com/davidmalawey
 ddbourgin: https://github.com/ddbourgin
@@ -306,6 +308,7 @@ graspnet: https://github.com/graspnet
 Graylab: https://github.com/Graylab
 GrowingGit: https://github.com/GrowingGit
 grpc: https://github.com/grpc
+GuanxingLu: https://github.com/GuanxingLu
 h2oai: https://github.com/h2oai
 hacksider: https://github.com/hacksider
 Haiyang-W: https://github.com/Haiyang-W
@@ -978,6 +981,7 @@ xenova: https://github.com/xenova
 XiaoMi: https://github.com/XiaoMi
 xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
+xixu-me: https://github.com/xixu-me
 xming521: https://github.com/xming521
 xpipe-io: https://github.com/xpipe-io
 xpqiu: https://github.com/xpqiu
