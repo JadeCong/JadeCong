@@ -110,7 +110,6 @@ akullpp/awesome-java[master]: https://github.com/akullpp/awesome-java.git
 Alamofire/Alamofire[master]: https://github.com/Alamofire/Alamofire.git
 AlbertSlam/Lee-SLAM-source[master]: https://github.com/AlbertSlam/Lee-SLAM-source.git
 alebcay/awesome-shell[master]: https://github.com/alebcay/awesome-shell.git
-Alescontrela/AMP_for_hardware[main]: https://github.com/Alescontrela/AMP_for_hardware.git
 alex-damian/pulse[master]: https://github.com/alex-damian/pulse.git
 AlexanderKoch-Koch/low_cost_robot[main]: https://github.com/AlexanderKoch-Koch/low_cost_robot.git
 AlexeyAB/darknet[master]: https://github.com/AlexeyAB/darknet.git
@@ -319,7 +318,6 @@ baidubce/app-builder[master]: https://github.com/baidubce/app-builder.git
 BaiShuanghao/Awesome-Robotics-Manipulation[main]: https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation.git
 balancap/SSD-Tensorflow[master]: https://github.com/balancap/SSD-Tensorflow.git
 bamos/dcgan-completion.tensorflow[master]: https://github.com/bamos/dcgan-completion.tensorflow.git
-BaowenZ/RaDe-GS[main]: https://github.com/BaowenZ/RaDe-GS.git
 barats/RepoStats[main]: https://github.com/barats/RepoStats.git
 barry-ran/QtScrcpy[dev]: https://github.com/barry-ran/QtScrcpy.git
 barryclark/jekyll-now[master]: https://github.com/barryclark/jekyll-now.git
@@ -784,6 +782,7 @@ eriklindernoren/PyTorch-YOLOv3[master]: https://github.com/eriklindernoren/PyTor
 ErlichLiu/DeepClaude[main]: https://github.com/ErlichLiu/DeepClaude.git
 ErlichLiu/Whisper-Input[main]: https://github.com/ErlichLiu/Whisper-Input.git
 erwincoumans/motion_imitation[master]: https://github.com/erwincoumans/motion_imitation.git
+escontra/AMP_for_hardware[main]: https://github.com/escontra/AMP_for_hardware.git
 eseckel/ai-for-grant-writing[main]: https://github.com/eseckel/ai-for-grant-writing.git
 etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
@@ -1245,6 +1244,7 @@ HKUST-Aerial-Robotics/MIND[main]: https://github.com/HKUST-Aerial-Robotics/MIND.
 HKUST-Aerial-Robotics/VINS-Fusion[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git
 HKUST-Aerial-Robotics/VINS-Mobile[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Mobile.git
 HKUST-Aerial-Robotics/VINS-Mono[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git
+HKUST-SAIL/RaDe-GS[main]: https://github.com/HKUST-SAIL/RaDe-GS.git
 hmrishavbandy/FlipSketch[main]: https://github.com/hmrishavbandy/FlipSketch.git
 hms-dbmi/CHIEF[main]: https://github.com/hms-dbmi/CHIEF.git
 Ho-lab-jaist/protac[main]: https://github.com/Ho-lab-jaist/protac.git
@@ -2804,6 +2804,7 @@ shiftkey/desktop[linux]: https://github.com/shiftkey/desktop.git
 shihenw/convolutional-pose-machines-release[master]: https://github.com/shihenw/convolutional-pose-machines-release.git
 ShiqiYu/libfacedetection[master]: https://github.com/ShiqiYu/libfacedetection.git
 shiyi-zh0408/FlexiAct[main]: https://github.com/shiyi-zh0408/FlexiAct.git
+shiyu-coder/Kronos[master]: https://github.com/shiyu-coder/Kronos.git
 Shopify/shopify.github.com[main]: https://github.com/Shopify/shopify.github.com.git
 shoumenchougou/RWKV-Wiki-CN[main]: https://github.com/shoumenchougou/RWKV-Wiki-CN.git
 Shubhamsaboo/awesome-llm-apps[main]: https://github.com/Shubhamsaboo/awesome-llm-apps.git
@@ -3541,6 +3542,7 @@ zihangdai/xlnet[master]: https://github.com/zihangdai/xlnet.git
 zijie0/HumanSystemOptimization[main]: https://github.com/zijie0/HumanSystemOptimization.git
 zino-rs/zino[main]: https://github.com/zino-rs/zino.git
 Zipstack/unstract[main]: https://github.com/Zipstack/unstract.git
+ZiqiaoPeng/SyncTalk[main]: https://github.com/ZiqiaoPeng/SyncTalk.git
 ZiwenZhuang/parkour[main]: https://github.com/ZiwenZhuang/parkour.git
 zixuan417/humanoid-general-motion-tracking[master]: https://github.com/zixuan417/humanoid-general-motion-tracking.git
 zixuan417/smooth-humanoid-locomotion[main]: https://github.com/zixuan417/smooth-humanoid-locomotion.git
@@ -3572,3 +3574,5 @@ ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
 zyedidia/micro[master]: https://github.com/zyedidia/micro.git
 zyronon/TypeWords[master]: https://github.com/zyronon/TypeWords.git
+ZZongzheng0918/Morpheus-Hardware[main]: https://github.com/ZZongzheng0918/Morpheus-Hardware.git
+ZZongzheng0918/Morpheus-Software[main]: https://github.com/ZZongzheng0918/Morpheus-Software.git
