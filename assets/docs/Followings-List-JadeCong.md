@@ -28,7 +28,6 @@ aimagelab: https://github.com/aimagelab
 AIRI-Institute: https://github.com/AIRI-Institute
 Akryum: https://github.com/Akryum
 AlaaLab: https://github.com/AlaaLab
-Alescontrela: https://github.com/Alescontrela
 alexandrebarachant: https://github.com/alexandrebarachant
 alexbers: https://github.com/alexbers
 AlexeyAB: https://github.com/AlexeyAB
@@ -231,6 +230,7 @@ EpicGames: https://github.com/EpicGames
 epoch-research: https://github.com/epoch-research
 Ericcsr: https://github.com/Ericcsr
 erwincoumans: https://github.com/erwincoumans
+escontra: https://github.com/escontra
 etched-ai: https://github.com/etched-ai
 eth-sri: https://github.com/eth-sri
 EtherDream: https://github.com/EtherDream
@@ -1024,8 +1024,10 @@ zhouzypaul: https://github.com/zhouzypaul
 zia-ai: https://github.com/zia-ai
 Zie619: https://github.com/Zie619
 Zipstack: https://github.com/Zipstack
+ZiqiaoPeng: https://github.com/ZiqiaoPeng
 zju3dv: https://github.com/zju3dv
 zmh-program: https://github.com/zmh-program
 zsh-users: https://github.com/zsh-users
 ZXP-S-works: https://github.com/ZXP-S-works
 zyedidia: https://github.com/zyedidia
+ZZongzheng0918: https://github.com/ZZongzheng0918
