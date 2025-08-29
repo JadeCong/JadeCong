@@ -289,7 +289,6 @@ getomni-ai: https://github.com/getomni-ai
 getzep: https://github.com/getzep
 GeWu-Lab: https://github.com/GeWu-Lab
 gggliuye: https://github.com/gggliuye
-GigaAI-research: https://github.com/GigaAI-research
 github: https://github.com/github
 githubnext: https://github.com/githubnext
 glenn-jocher: https://github.com/glenn-jocher
@@ -317,6 +316,7 @@ hanliumaozhi: https://github.com/hanliumaozhi
 hanruihua: https://github.com/hanruihua
 haosulab: https://github.com/haosulab
 haotian-liu: https://github.com/haotian-liu
+haraduka: https://github.com/haraduka
 harvard: https://github.com/harvard
 HazyResearch: https://github.com/HazyResearch
 HCPLab-SYSU: https://github.com/HCPLab-SYSU
@@ -790,6 +790,7 @@ Significant-Gravitas: https://github.com/Significant-Gravitas
 SIGRobotics-UIUC: https://github.com/SIGRobotics-UIUC
 sihyun-yu: https://github.com/sihyun-yu
 SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
+simstudioai: https://github.com/simstudioai
 simular-ai: https://github.com/simular-ai
 sinoyou: https://github.com/sinoyou
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
@@ -967,6 +968,7 @@ wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
 wkentaro: https://github.com/wkentaro
 wsakobe: https://github.com/wsakobe
+wshobson: https://github.com/wshobson
 wuphilipp: https://github.com/wuphilipp
 wwj718: https://github.com/wwj718
 wxWidgets: https://github.com/wxWidgets
