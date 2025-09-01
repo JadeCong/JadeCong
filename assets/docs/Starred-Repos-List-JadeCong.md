@@ -276,7 +276,7 @@ assimon/dujiaoka[master]: https://github.com/assimon/dujiaoka.git
 astooke/rlpyt[master]: https://github.com/astooke/rlpyt.git
 AstroHiro/ncm[master]: https://github.com/AstroHiro/ncm.git
 asweigart/pyautogui[master]: https://github.com/asweigart/pyautogui.git
-atiilla/geospy[main]: https://github.com/atiilla/geospy.git
+atiilla/GeoIntel[main]: https://github.com/atiilla/GeoIntel.git
 AuboRobot/aubo_robot[Noetic]: https://github.com/AuboRobot/aubo_robot.git
 AuboRobot/aubo_ros2_driver[main]: https://github.com/AuboRobot/aubo_ros2_driver.git
 AuboRobot/aubo_ros_driver[main]: https://github.com/AuboRobot/aubo_ros_driver.git
@@ -861,6 +861,7 @@ facebookresearch/ReAgent[main]: https://github.com/facebookresearch/ReAgent.git
 facebookresearch/sam2[main]: https://github.com/facebookresearch/sam2.git
 facebookresearch/seamless_communication[main]: https://github.com/facebookresearch/seamless_communication.git
 facebookresearch/segment-anything[main]: https://github.com/facebookresearch/segment-anything.git
+facebookresearch/sparsh-multisensory-touch[main]: https://github.com/facebookresearch/sparsh-multisensory-touch.git
 facebookresearch/tacto[main]: https://github.com/facebookresearch/tacto.git
 facebookresearch/TimeSformer[main]: https://github.com/facebookresearch/TimeSformer.git
 facebookresearch/torchbeast[main]: https://github.com/facebookresearch/torchbeast.git
@@ -1749,7 +1750,7 @@ lihxxx/DisPose[main]: https://github.com/lihxxx/DisPose.git
 lijx10/uwb-localization[master]: https://github.com/lijx10/uwb-localization.git
 linchangyi1/LocoTouch[main]: https://github.com/linchangyi1/LocoTouch.git
 lingxiaomeng/VR_Teleoperation_Gen3[main]: https://github.com/lingxiaomeng/VR_Teleoperation_Gen3.git
-linkerbotai/human-dex[main]: https://github.com/linkerbotai/human-dex.git
+linker-bot/human-dex[main]: https://github.com/linker-bot/human-dex.git
 Linketic/CityGaussian[main]: https://github.com/Linketic/CityGaussian.git
 Linketic/StableMoFusion[master]: https://github.com/Linketic/StableMoFusion.git
 linoytsaban/semantic-sliders[main]: https://github.com/linoytsaban/semantic-sliders.git
@@ -1997,6 +1998,7 @@ microsoft/terminal[main]: https://github.com/microsoft/terminal.git
 microsoft/TextWorld[main]: https://github.com/microsoft/TextWorld.git
 microsoft/UFO[main]: https://github.com/microsoft/UFO.git
 microsoft/vcpkg[master]: https://github.com/microsoft/vcpkg.git
+microsoft/VibeVoice[main]: https://github.com/microsoft/VibeVoice.git
 microsoft/vscode[main]: https://github.com/microsoft/vscode.git
 microsoft/Web-Dev-For-Beginners[main]: https://github.com/microsoft/Web-Dev-For-Beginners.git
 microsoft/WSL[master]: https://github.com/microsoft/WSL.git
