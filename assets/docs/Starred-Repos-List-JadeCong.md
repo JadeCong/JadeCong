@@ -358,11 +358,17 @@ bharatm11/Geomagic_Touch_ROS_Drivers[hydro-devel]: https://github.com/bharatm11/
 bhaskatripathi/Text2Diagram[main]: https://github.com/bhaskatripathi/Text2Diagram.git
 BICLab/SpikeYOLO[main]: https://github.com/BICLab/SpikeYOLO.git
 bilibili/ailab[main]: https://github.com/bilibili/ailab.git
+binance/binance-api-postman[master]: https://github.com/binance/binance-api-postman.git
+binance/binance-connector-python[master]: https://github.com/binance/binance-connector-python.git
+binance/binance-public-data[master]: https://github.com/binance/binance-public-data.git
+binance/binance-spot-api-docs[master]: https://github.com/binance/binance-spot-api-docs.git
 binary-husky/gpt_academic[master]: https://github.com/binary-husky/gpt_academic.git
 BinaryDex/DexHub[main]: https://github.com/BinaryDex/DexHub.git
 Binyr/NormalCrafter[main]: https://github.com/Binyr/NormalCrafter.git
 biomejs/biome[main]: https://github.com/biomejs/biome.git
 bionicdl-sustech/DeepClawBenchmark[master]: https://github.com/bionicdl-sustech/DeepClawBenchmark.git
+bitcoin/bips[master]: https://github.com/bitcoin/bips.git
+bitcoin/bitcoin[master]: https://github.com/bitcoin/bitcoin.git
 bitcoinbook/bitcoinbook[develop]: https://github.com/bitcoinbook/bitcoinbook.git
 bitmeal/ros-modbus-device-driver[master]: https://github.com/bitmeal/ros-modbus-device-driver.git
 bitzhangcy/Neural-PDE-Solver[main]: https://github.com/bitzhangcy/Neural-PDE-Solver.git
@@ -516,6 +522,7 @@ coder/code-server[main]: https://github.com/coder/code-server.git
 codertimo/BERT-pytorch[master]: https://github.com/codertimo/BERT-pytorch.git
 codexu/note-gen[dev]: https://github.com/codexu/note-gen.git
 cohere-ai/cohere-toolkit[main]: https://github.com/cohere-ai/cohere-toolkit.git
+coinbase/coinbase-wallet-sdk[master]: https://github.com/coinbase/coinbase-wallet-sdk.git
 coleam00/Archon[main]: https://github.com/coleam00/Archon.git
 ColinQiyangLi/qc[main]: https://github.com/ColinQiyangLi/qc.git
 coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/dynamic-gaussian-marbles.git
@@ -793,6 +800,7 @@ eth-ait/MultiPly[main]: https://github.com/eth-ait/MultiPly.git
 ethan-li-coding/PatchMatchStereo[master]: https://github.com/ethan-li-coding/PatchMatchStereo.git
 EtherDream/headphone-morse-transmitter[main]: https://github.com/EtherDream/headphone-morse-transmitter.git
 ethereon/caffe-tensorflow[master]: https://github.com/ethereon/caffe-tensorflow.git
+ethereum/ethereum-org-website[dev]: https://github.com/ethereum/ethereum-org-website.git
 ethereum/go-ethereum[master]: https://github.com/ethereum/go-ethereum.git
 EthicalML/xai[master]: https://github.com/EthicalML/xai.git
 ethz-adrl/control-toolbox[v3.0.2]: https://github.com/ethz-adrl/control-toolbox.git
@@ -1942,6 +1950,8 @@ meta-llama/llama-models[main]: https://github.com/meta-llama/llama-models.git
 meta-llama/llama3[main]: https://github.com/meta-llama/llama3.git
 meta-prompting/meta-prompting[main]: https://github.com/meta-prompting/meta-prompting.git
 metadriverse/metaurban[main]: https://github.com/metadriverse/metaurban.git
+MetaMask/metamask-extension[main]: https://github.com/MetaMask/metamask-extension.git
+MetaMask/metamask-sdk[main]: https://github.com/MetaMask/metamask-sdk.git
 metauto-ai/agent-as-a-judge[main]: https://github.com/metauto-ai/agent-as-a-judge.git
 meyerls/FruitNeRF[main]: https://github.com/meyerls/FruitNeRF.git
 mhutchie/vscode-git-graph[develop]: https://github.com/mhutchie/vscode-git-graph.git
@@ -2455,6 +2465,7 @@ phodal/github[gh-pages]: https://github.com/phodal/github.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
+pickxiguapi/Embodied-R1[main]: https://github.com/pickxiguapi/Embodied-R1.git
 Picsart-AI-Research/StreamingT2V[main]: https://github.com/Picsart-AI-Research/StreamingT2V.git
 pika/pika[main]: https://github.com/pika/pika.git
 pinokiocomputer/pinokio[main]: https://github.com/pinokiocomputer/pinokio.git
@@ -3354,6 +3365,7 @@ wmjordan/PDFPatcher[master]: https://github.com/wmjordan/PDFPatcher.git
 WongKinYiu/yolov7[main]: https://github.com/WongKinYiu/yolov7.git
 WooQi57/Helpful-Doggybot[main]: https://github.com/WooQi57/Helpful-Doggybot.git
 WordPress/WordPress[master]: https://github.com/WordPress/WordPress.git
+worldcoin/idkit-js[main]: https://github.com/worldcoin/idkit-js.git
 WorldModelBench-Team/WorldModelBench[main]: https://github.com/WorldModelBench-Team/WorldModelBench.git
 WPI-AIM/ros_geomagic[master]: https://github.com/WPI-AIM/ros_geomagic.git
 wsakobe/TrackVLA[main]: https://github.com/wsakobe/TrackVLA.git
