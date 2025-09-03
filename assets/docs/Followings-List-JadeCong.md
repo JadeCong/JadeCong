@@ -97,8 +97,10 @@ bearpaw: https://github.com/bearpaw
 behavior-robot-suite: https://github.com/behavior-robot-suite
 BEPb: https://github.com/BEPb
 BerkeleyAutomation: https://github.com/BerkeleyAutomation
+binance: https://github.com/binance
 binary-husky: https://github.com/binary-husky
 biomejs: https://github.com/biomejs
+bitcoin: https://github.com/bitcoin
 BlinkDL: https://github.com/BlinkDL
 BlueOrigin: https://github.com/BlueOrigin
 bmild: https://github.com/bmild
@@ -147,6 +149,7 @@ CodePhiliaX: https://github.com/CodePhiliaX
 coder: https://github.com/coder
 coderabbitai: https://github.com/coderabbitai
 cohere-ai: https://github.com/cohere-ai
+coinbase: https://github.com/coinbase
 colcon: https://github.com/colcon
 coleam00: https://github.com/coleam00
 comfyanonymous: https://github.com/comfyanonymous
@@ -234,6 +237,7 @@ escontra: https://github.com/escontra
 etched-ai: https://github.com/etched-ai
 eth-sri: https://github.com/eth-sri
 EtherDream: https://github.com/EtherDream
+ethereum: https://github.com/ethereum
 ethz-adrl: https://github.com/ethz-adrl
 eureka-research: https://github.com/eureka-research
 exelban: https://github.com/exelban
@@ -514,6 +518,7 @@ mem0ai: https://github.com/mem0ai
 Meshcapade: https://github.com/Meshcapade
 meta-llama: https://github.com/meta-llama
 metadriverse: https://github.com/metadriverse
+MetaMask: https://github.com/MetaMask
 microsoft: https://github.com/microsoft
 mindsdb: https://github.com/mindsdb
 MineDojo: https://github.com/MineDojo
@@ -656,6 +661,7 @@ pastelnetwork: https://github.com/pastelnetwork
 pathak22: https://github.com/pathak22
 paul-gauthier: https://github.com/paul-gauthier
 payloadcms: https://github.com/payloadcms
+paypal: https://github.com/paypal
 peng-zhihui: https://github.com/peng-zhihui
 penrose: https://github.com/penrose
 pesser: https://github.com/pesser
@@ -967,6 +973,7 @@ WHU-USI3DV: https://github.com/WHU-USI3DV
 wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
 wkentaro: https://github.com/wkentaro
+worldcoin: https://github.com/worldcoin
 wsakobe: https://github.com/wsakobe
 wshobson: https://github.com/wshobson
 wuphilipp: https://github.com/wuphilipp
