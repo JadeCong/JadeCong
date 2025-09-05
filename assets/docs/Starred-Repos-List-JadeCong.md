@@ -89,6 +89,7 @@ AI4Finance-Foundation/FinRL-Trading[master]: https://github.com/AI4Finance-Found
 AI4Finance-Foundation/FinRobot[master]: https://github.com/AI4Finance-Foundation/FinRobot.git
 ai4r/Co-Speech-Gesture-Generation[master]: https://github.com/ai4r/Co-Speech-Gesture-Generation.git
 AidanRocke/Free_Energy_experiments[master]: https://github.com/AidanRocke/Free_Energy_experiments.git
+AIDC-AI/Pixelle-MCP[main]: https://github.com/AIDC-AI/Pixelle-MCP.git
 aidenybai/million[main]: https://github.com/aidenybai/million.git
 Aider-AI/aider[main]: https://github.com/Aider-AI/aider.git
 aigc-apps/EasyAnimate[main]: https://github.com/aigc-apps/EasyAnimate.git
@@ -411,6 +412,7 @@ BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 Byaidu/PDFMathTranslate[main]: https://github.com/Byaidu/PDFMathTranslate.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
+bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
 bytedance/ATI[main]: https://github.com/bytedance/ATI.git
 bytedance/deer-flow[main]: https://github.com/bytedance/deer-flow.git
 bytedance/GR-1[main]: https://github.com/bytedance/GR-1.git
@@ -907,6 +909,7 @@ farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
 fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
+fastrepl/hyprnote[main]: https://github.com/fastrepl/hyprnote.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
 febert/visual_mpc[master]: https://github.com/febert/visual_mpc.git
@@ -1551,6 +1554,7 @@ jobbole/awesome-javascript-cn[master]: https://github.com/jobbole/awesome-javasc
 jobbole/awesome-programming-books[master]: https://github.com/jobbole/awesome-programming-books.git
 jobbole/awesome-python-cn[master]: https://github.com/jobbole/awesome-python-cn.git
 joeddav/devol[master]: https://github.com/joeddav/devol.git
+Johnserf-Seed/f2[main]: https://github.com/Johnserf-Seed/f2.git
 jonschlinkert/remarkable[master]: https://github.com/jonschlinkert/remarkable.git
 jonyzhang2023/awesome-embodied-vla-va-vln[main]: https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln.git
 joonspk-research/generative_agents[main]: https://github.com/joonspk-research/generative_agents.git
@@ -1904,6 +1908,7 @@ mathiasbynens/dotfiles[main]: https://github.com/mathiasbynens/dotfiles.git
 Mathpix/mathpix-markdown-it[master]: https://github.com/Mathpix/mathpix-markdown-it.git
 matlab2tikz/matlab2tikz[master]: https://github.com/matlab2tikz/matlab2tikz.git
 matplotlib/matplotlib[main]: https://github.com/matplotlib/matplotlib.git
+MatrixSeven/file-transfer-go[main]: https://github.com/MatrixSeven/file-transfer-go.git
 matteocrippa/awesome-swift[master]: https://github.com/matteocrippa/awesome-swift.git
 matthew-brett/transforms3d[main]: https://github.com/matthew-brett/transforms3d.git
 mattstauffer/Torch[master]: https://github.com/mattstauffer/Torch.git
@@ -2008,7 +2013,6 @@ microsoft/terminal[main]: https://github.com/microsoft/terminal.git
 microsoft/TextWorld[main]: https://github.com/microsoft/TextWorld.git
 microsoft/UFO[main]: https://github.com/microsoft/UFO.git
 microsoft/vcpkg[master]: https://github.com/microsoft/vcpkg.git
-microsoft/VibeVoice[main]: https://github.com/microsoft/VibeVoice.git
 microsoft/vscode[main]: https://github.com/microsoft/vscode.git
 microsoft/Web-Dev-For-Beginners[main]: https://github.com/microsoft/Web-Dev-For-Beginners.git
 microsoft/WSL[master]: https://github.com/microsoft/WSL.git
@@ -2362,6 +2366,7 @@ opendilab/GoBigger[main]: https://github.com/opendilab/GoBigger.git
 OpenDriveLab/AgiBot-World[main]: https://github.com/OpenDriveLab/AgiBot-World.git
 OpenDriveLab/OpenScene[main]: https://github.com/OpenDriveLab/OpenScene.git
 OpenEtherCATsociety/SOEM[master]: https://github.com/OpenEtherCATsociety/SOEM.git
+OpenGalaxea/G0[main]: https://github.com/OpenGalaxea/G0.git
 OpenGVLab/Ask-Anything[main]: https://github.com/OpenGVLab/Ask-Anything.git
 OpenGVLab/Diffree[main]: https://github.com/OpenGVLab/Diffree.git
 OpenGVLab/InternVideo[main]: https://github.com/OpenGVLab/InternVideo.git
@@ -3145,6 +3150,7 @@ tornadomeet/ResNet[master]: https://github.com/tornadomeet/ResNet.git
 torne/Tiny-Tiny-RSS[master]: https://github.com/torne/Tiny-Tiny-RSS.git
 torphix/infini-attention[main]: https://github.com/torphix/infini-attention.git
 torproject/tor[main]: https://github.com/torproject/tor.git
+torvalds/linux[master]: https://github.com/torvalds/linux.git
 toto222/DICE-Talk[main]: https://github.com/toto222/DICE-Talk.git
 tqdm/tqdm[master]: https://github.com/tqdm/tqdm.git
 TQTQliu/MVSGaussian[main]: https://github.com/TQTQliu/MVSGaussian.git
