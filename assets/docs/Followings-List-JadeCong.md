@@ -21,6 +21,7 @@ agno-agi: https://github.com/agno-agi
 ai-in-pm: https://github.com/ai-in-pm
 ai4ce: https://github.com/ai4ce
 AI4Finance-Foundation: https://github.com/AI4Finance-Foundation
+AIDC-AI: https://github.com/AIDC-AI
 aidenybai: https://github.com/aidenybai
 aigc3d: https://github.com/aigc3d
 AILab-CVC: https://github.com/AILab-CVC
@@ -629,6 +630,7 @@ OpenBMB: https://github.com/OpenBMB
 opencv: https://github.com/opencv
 opendatalab: https://github.com/opendatalab
 OpenDriveLab: https://github.com/OpenDriveLab
+OpenGalaxea: https://github.com/OpenGalaxea
 OpenGVLab: https://github.com/OpenGVLab
 openharmony: https://github.com/openharmony
 openinterpreter: https://github.com/openinterpreter
@@ -680,6 +682,7 @@ pollen-robotics: https://github.com/pollen-robotics
 poloclub: https://github.com/poloclub
 PolymathicAI: https://github.com/PolymathicAI
 poppy-project: https://github.com/poppy-project
+postmanlabs: https://github.com/postmanlabs
 potpie-ai: https://github.com/potpie-ai
 PowerShell: https://github.com/PowerShell
 prathimacode-hub: https://github.com/prathimacode-hub
