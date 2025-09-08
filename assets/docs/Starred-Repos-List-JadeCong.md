@@ -1051,6 +1051,7 @@ GetStream/Winds[master]: https://github.com/GetStream/Winds.git
 getumbrel/llama-gpt[master]: https://github.com/getumbrel/llama-gpt.git
 getzep/graphiti[main]: https://github.com/getzep/graphiti.git
 GeWu-Lab/AnyTouch[main]: https://github.com/GeWu-Lab/AnyTouch.git
+geyan21/ManiFlow_Policy[main]: https://github.com/geyan21/ManiFlow_Policy.git
 ggerganov/ggwave[master]: https://github.com/ggerganov/ggwave.git
 ggml-org/llama.cpp[master]: https://github.com/ggml-org/llama.cpp.git
 ggml-org/whisper.cpp[master]: https://github.com/ggml-org/whisper.cpp.git
@@ -1382,6 +1383,7 @@ ImagineAILab/ai-by-hand-excel[main]: https://github.com/ImagineAILab/ai-by-hand-
 iman-sharifi-ghb/Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Reinforcement-Learning[main]: https://github.com/iman-sharifi-ghb/Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Reinforcement-Learning.git
 immense/Remotely[master]: https://github.com/immense/Remotely.git
 immich-app/immich[main]: https://github.com/immich-app/immich.git
+ImprintLab/Medical-SAM2[main]: https://github.com/ImprintLab/Medical-SAM2.git
 Improbable-AI/learning-compliance[main]: https://github.com/Improbable-AI/learning-compliance.git
 Improbable-AI/VisionProTeleop[main]: https://github.com/Improbable-AI/VisionProTeleop.git
 Improbable-AI/walk-these-ways[master]: https://github.com/Improbable-AI/walk-these-ways.git
@@ -2974,7 +2976,6 @@ suno-ai/bark[main]: https://github.com/suno-ai/bark.git
 sunsmarterjie/yolov12[main]: https://github.com/sunsmarterjie/yolov12.git
 supergseg/supergseg[main]: https://github.com/supergseg/supergseg.git
 SuperManito/LinuxMirrors[main]: https://github.com/SuperManito/LinuxMirrors.git
-SuperMedIntel/Medical-SAM2[main]: https://github.com/SuperMedIntel/Medical-SAM2.git
 supermemoryai/supermemory[main]: https://github.com/supermemoryai/supermemory.git
 supertokens/supertokens-core[master]: https://github.com/supertokens/supertokens-core.git
 SurrealAI/surreal[master]: https://github.com/SurrealAI/surreal.git
