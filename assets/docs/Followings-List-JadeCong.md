@@ -741,6 +741,7 @@ RethinkRobotics: https://github.com/RethinkRobotics
 rhgao: https://github.com/rhgao
 rhymes-ai: https://github.com/rhymes-ai
 richards199999: https://github.com/richards199999
+RIVeR-Lab: https://github.com/RIVeR-Lab
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
 robocomp: https://github.com/robocomp
