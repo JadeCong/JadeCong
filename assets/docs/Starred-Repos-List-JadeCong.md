@@ -653,6 +653,7 @@ defunkt/gist[master]: https://github.com/defunkt/gist.git
 demodiffusion/demodiffusion[main]: https://github.com/demodiffusion/demodiffusion.git
 Dene33/video_to_bvh[master]: https://github.com/Dene33/video_to_bvh.git
 deniscerri/ytdlnis[main]: https://github.com/deniscerri/ytdlnis.git
+denizsafak/abogen[main]: https://github.com/denizsafak/abogen.git
 dennybritz/chatbot-retrieval[master]: https://github.com/dennybritz/chatbot-retrieval.git
 dennybritz/reinforcement-learning[master]: https://github.com/dennybritz/reinforcement-learning.git
 dennybritz/rnn-tutorial-rnnlm[master]: https://github.com/dennybritz/rnn-tutorial-rnnlm.git
@@ -1497,6 +1498,7 @@ jamiemcg/Remarkable[master]: https://github.com/jamiemcg/Remarkable.git
 jason5ng32/MyIP[main]: https://github.com/jason5ng32/MyIP.git
 jason718/awesome-self-supervised-learning[master]: https://github.com/jason718/awesome-self-supervised-learning.git
 JasonJZLiu/FACTR_Hardware[main]: https://github.com/JasonJZLiu/FACTR_Hardware.git
+JasonJZLiu/FACTR_Teleop[main]: https://github.com/JasonJZLiu/FACTR_Teleop.git
 jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction[master]: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction.git
 jax-ml/jax[main]: https://github.com/jax-ml/jax.git
 jayparks/transformer[master]: https://github.com/jayparks/transformer.git
@@ -1874,6 +1876,7 @@ LynnHo/CycleGAN-Tensorflow-2[master]: https://github.com/LynnHo/CycleGAN-Tensorf
 lyswhut/lx-music-desktop[master]: https://github.com/lyswhut/lx-music-desktop.git
 lyswhut/lx-music-mobile[master]: https://github.com/lyswhut/lx-music-mobile.git
 lyswhut/lx-music-sync-server[master]: https://github.com/lyswhut/lx-music-sync-server.git
+m-damien/VisualStoryWriting[main]: https://github.com/m-damien/VisualStoryWriting.git
 Ma-Lab-Berkeley/ReduNet[master]: https://github.com/Ma-Lab-Berkeley/ReduNet.git
 macanv/BERT-BiLSTM-CRF-NER[master]: https://github.com/macanv/BERT-BiLSTM-CRF-NER.git
 machines-in-motion/mim_robots[main]: https://github.com/machines-in-motion/mim_robots.git
@@ -2015,6 +2018,7 @@ microsoft/terminal[main]: https://github.com/microsoft/terminal.git
 microsoft/TextWorld[main]: https://github.com/microsoft/TextWorld.git
 microsoft/UFO[main]: https://github.com/microsoft/UFO.git
 microsoft/vcpkg[master]: https://github.com/microsoft/vcpkg.git
+microsoft/VibeVoice[main]: https://github.com/microsoft/VibeVoice.git
 microsoft/vscode[main]: https://github.com/microsoft/vscode.git
 microsoft/Web-Dev-For-Beginners[main]: https://github.com/microsoft/Web-Dev-For-Beginners.git
 microsoft/WSL[master]: https://github.com/microsoft/WSL.git
@@ -2160,6 +2164,7 @@ neukg/TechGPT-2.0[main]: https://github.com/neukg/TechGPT-2.0.git
 neuralgcm/neuralgcm[main]: https://github.com/neuralgcm/neuralgcm.git
 neuralize-ai/edgerunner[main]: https://github.com/neuralize-ai/edgerunner.git
 NeuralSamurAI/Comfyui-Superprompt-Unofficial[main]: https://github.com/NeuralSamurAI/Comfyui-Superprompt-Unofficial.git
+neuralsvcd/PointObjRep[main]: https://github.com/neuralsvcd/PointObjRep.git
 NeuronDance/DeepRL[master]: https://github.com/NeuronDance/DeepRL.git
 Neverforgetlove/xmate_robot[main]: https://github.com/Neverforgetlove/xmate_robot.git
 Newmu/dcgan_code[master]: https://github.com/Newmu/dcgan_code.git
@@ -2594,7 +2599,6 @@ rail-berkeley/serl_franka_controllers[main]: https://github.com/rail-berkeley/se
 rail-berkeley/softlearning[master]: https://github.com/rail-berkeley/softlearning.git
 rainbow979/robodreamer[main]: https://github.com/rainbow979/robodreamer.git
 RaindragonD/FACTR[main]: https://github.com/RaindragonD/FACTR.git
-RaindragonD/FACTR_Teleop[main]: https://github.com/RaindragonD/FACTR_Teleop.git
 RainerKuemmerle/g2o[master]: https://github.com/RainerKuemmerle/g2o.git
 raisimTech/raisimLib[master]: https://github.com/raisimTech/raisimLib.git
 raj111samant/Model-based-control-of-4-DOF-Barrett-Wam[master]: https://github.com/raj111samant/Model-based-control-of-4-DOF-Barrett-Wam.git
@@ -2662,6 +2666,7 @@ richards199999/Thinking-Claude[main]: https://github.com/richards199999/Thinking
 ricmua/ros_force_dimension[main]: https://github.com/ricmua/ros_force_dimension.git
 ripienaar/free-for-dev[master]: https://github.com/ripienaar/free-for-dev.git
 riscv/riscv-isa-manual[main]: https://github.com/riscv/riscv-isa-manual.git
+RIVeR-Lab/mobiman[main]: https://github.com/RIVeR-Lab/mobiman.git
 rlabbe/filterpy[master]: https://github.com/rlabbe/filterpy.git
 rlabbe/Kalman-and-Bayesian-Filters-in-Python[master]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python.git
 rlcode/reinforcement-learning[master]: https://github.com/rlcode/reinforcement-learning.git
@@ -3321,6 +3326,7 @@ vuejs/awesome-vue[master]: https://github.com/vuejs/awesome-vue.git
 vuejs/vitepress[main]: https://github.com/vuejs/vitepress.git
 vuejs/vue[main]: https://github.com/vuejs/vue.git
 VVeiCao/Motion2VecSets[main]: https://github.com/VVeiCao/Motion2VecSets.git
+vybhav-ibr/genesis_ros[main]: https://github.com/vybhav-ibr/genesis_ros.git
 vye16/shape-of-motion[main]: https://github.com/vye16/shape-of-motion.git
 waditu/tushare[master]: https://github.com/waditu/tushare.git
 wanglin2/mind-map[main]: https://github.com/wanglin2/mind-map.git
@@ -3610,6 +3616,7 @@ ZXP-S-works/SE2-equivariant-grasp-learning[main]: https://github.com/ZXP-S-works
 ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
 zyedidia/micro[master]: https://github.com/zyedidia/micro.git
+ZyperWave/ZyperWinOptimize[main]: https://github.com/ZyperWave/ZyperWinOptimize.git
 zyronon/TypeWords[master]: https://github.com/zyronon/TypeWords.git
 ZZongzheng0918/Morpheus-Hardware[main]: https://github.com/ZZongzheng0918/Morpheus-Hardware.git
 ZZongzheng0918/Morpheus-Software[main]: https://github.com/ZZongzheng0918/Morpheus-Software.git
