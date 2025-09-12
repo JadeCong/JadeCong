@@ -108,6 +108,7 @@ bmild: https://github.com/bmild
 BoosterRobotics: https://github.com/BoosterRobotics
 Borda: https://github.com/Borda
 bowang-lab: https://github.com/bowang-lab
+box2ai-robotics: https://github.com/box2ai-robotics
 BrainCoTech: https://github.com/BrainCoTech
 browser-use: https://github.com/browser-use
 browserbase: https://github.com/browserbase
@@ -524,6 +525,7 @@ microsoft: https://github.com/microsoft
 mindsdb: https://github.com/mindsdb
 MineDojo: https://github.com/MineDojo
 mingukkang: https://github.com/mingukkang
+MINT-SJTU: https://github.com/MINT-SJTU
 Mintplex-Labs: https://github.com/Mintplex-Labs
 MiroMindAI: https://github.com/MiroMindAI
 MisaZhu: https://github.com/MisaZhu
@@ -613,6 +615,7 @@ octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
 Oneflow-Inc: https://github.com/Oneflow-Inc
 OneStarRobotics: https://github.com/OneStarRobotics
+onevcat: https://github.com/onevcat
 onlook-dev: https://github.com/onlook-dev
 ONLYOFFICE: https://github.com/ONLYOFFICE
 onuratakan: https://github.com/onuratakan
@@ -654,6 +657,7 @@ OS-Copilot: https://github.com/OS-Copilot
 ourongxing: https://github.com/ourongxing
 overleaf: https://github.com/overleaf
 overtake: https://github.com/overtake
+Ovilia: https://github.com/Ovilia
 owainlewis: https://github.com/owainlewis
 p-christ: https://github.com/p-christ
 PacktPublishing: https://github.com/PacktPublishing
@@ -812,6 +816,7 @@ SocialAI-tianji: https://github.com/SocialAI-tianji
 soedinglab: https://github.com/soedinglab
 soimort: https://github.com/soimort
 solid: https://github.com/solid
+sorrycc: https://github.com/sorrycc
 soskek: https://github.com/soskek
 soybeanjs: https://github.com/soybeanjs
 SpectacularAI: https://github.com/SpectacularAI
@@ -852,6 +857,7 @@ TauricResearch: https://github.com/TauricResearch
 tavily-ai: https://github.com/tavily-ai
 TEA-Lab: https://github.com/TEA-Lab
 TeamWiseFlow: https://github.com/TeamWiseFlow
+TeleHuman: https://github.com/TeleHuman
 Tencent: https://github.com/Tencent
 tencent-ailab: https://github.com/tencent-ailab
 Tencent-Hunyuan: https://github.com/Tencent-Hunyuan
