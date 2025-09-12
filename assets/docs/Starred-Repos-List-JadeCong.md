@@ -357,6 +357,7 @@ bestony/logoly[master]: https://github.com/bestony/logoly.git
 bharathgs/Awesome-pytorch-list[master]: https://github.com/bharathgs/Awesome-pytorch-list.git
 bharatm11/Geomagic_Touch_ROS_Drivers[hydro-devel]: https://github.com/bharatm11/Geomagic_Touch_ROS_Drivers.git
 bhaskatripathi/Text2Diagram[main]: https://github.com/bhaskatripathi/Text2Diagram.git
+bheijden/bubblify[master]: https://github.com/bheijden/bubblify.git
 BICLab/SpikeYOLO[main]: https://github.com/BICLab/SpikeYOLO.git
 bilibili/ailab[main]: https://github.com/bilibili/ailab.git
 binance/binance-api-postman[master]: https://github.com/binance/binance-api-postman.git
@@ -388,6 +389,7 @@ borglab/gtsam[develop]: https://github.com/borglab/gtsam.git
 BOTAsys/force_torque_tools[kinetic]: https://github.com/BOTAsys/force_torque_tools.git
 boto/boto3[develop]: https://github.com/boto/boto3.git
 bowang-lab/MedSAM[main]: https://github.com/bowang-lab/MedSAM.git
+box2ai-robotics/joycon-robotics[master]: https://github.com/box2ai-robotics/joycon-robotics.git
 BoyuanChen/visual-selfmodeling[main]: https://github.com/BoyuanChen/visual-selfmodeling.git
 brain-research/self-attention-gan[master]: https://github.com/brain-research/self-attention-gan.git
 brangerbriz/docker-StackGAN[master]: https://github.com/brangerbriz/docker-StackGAN.git
@@ -725,6 +727,7 @@ duixcom/Duix-Mobile[main]: https://github.com/duixcom/Duix-Mobile.git
 duixcom/Duix.Avatar[main]: https://github.com/duixcom/Duix.Avatar.git
 duma-repo/ai_code_reader[master]: https://github.com/duma-repo/ai_code_reader.git
 duplicati/duplicati[master]: https://github.com/duplicati/duplicati.git
+dusty-nv/jetson-containers[master]: https://github.com/dusty-nv/jetson-containers.git
 dusty-nv/NanoLLM[main]: https://github.com/dusty-nv/NanoLLM.git
 duyipai/Allegro_Digit[main]: https://github.com/duyipai/Allegro_Digit.git
 dvlab-research/ControlNeXt[main]: https://github.com/dvlab-research/ControlNeXt.git
@@ -746,6 +749,7 @@ eclipse-paho/paho.mqtt.cpp[master]: https://github.com/eclipse-paho/paho.mqtt.cp
 eclipse-paho/paho.mqtt.m2mqtt[master]: https://github.com/eclipse-paho/paho.mqtt.m2mqtt.git
 eclipse-paho/paho.mqtt.python[master]: https://github.com/eclipse-paho/paho.mqtt.python.git
 eclipse-threadx/threadx[master]: https://github.com/eclipse-threadx/threadx.git
+ecomfe/awesome-echarts[master]: https://github.com/ecomfe/awesome-echarts.git
 EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
@@ -1965,6 +1969,7 @@ MetaMask/metamask-sdk[main]: https://github.com/MetaMask/metamask-sdk.git
 metauto-ai/agent-as-a-judge[main]: https://github.com/metauto-ai/agent-as-a-judge.git
 meyerls/FruitNeRF[main]: https://github.com/meyerls/FruitNeRF.git
 mhutchie/vscode-git-graph[develop]: https://github.com/mhutchie/vscode-git-graph.git
+Michael-A-Kuykendall/shimmy[main]: https://github.com/Michael-A-Kuykendall/shimmy.git
 michaellin/OmniGrip[master]: https://github.com/michaellin/OmniGrip.git
 Michaelszj/pro-tracker[new]: https://github.com/Michaelszj/pro-tracker.git
 michalfaber/keras_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation.git
@@ -1977,6 +1982,7 @@ microsoft/AirSim[main]: https://github.com/microsoft/AirSim.git
 microsoft/AirSim-Drone-Racing-VAE-Imitation[master]: https://github.com/microsoft/AirSim-Drone-Racing-VAE-Imitation.git
 microsoft/autogen[main]: https://github.com/microsoft/autogen.git
 microsoft/AutonomousDrivingCookbook[master]: https://github.com/microsoft/AutonomousDrivingCookbook.git
+microsoft/BASIC-M6502[main]: https://github.com/microsoft/BASIC-M6502.git
 microsoft/BitNet[main]: https://github.com/microsoft/BitNet.git
 microsoft/Bringing-Old-Photos-Back-to-Life[master]: https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git
 microsoft/c9-python-getting-started[master]: https://github.com/microsoft/c9-python-getting-started.git
@@ -2008,6 +2014,7 @@ microsoft/qlib[main]: https://github.com/microsoft/qlib.git
 microsoft/Quantum[main]: https://github.com/microsoft/Quantum.git
 microsoft/QuantumKatas[main]: https://github.com/microsoft/QuantumKatas.git
 microsoft/RecAI[main]: https://github.com/microsoft/RecAI.git
+microsoft/renderformer[main]: https://github.com/microsoft/renderformer.git
 microsoft/Security-101[main]: https://github.com/microsoft/Security-101.git
 microsoft/sql-server-samples[master]: https://github.com/microsoft/sql-server-samples.git
 microsoft/Swin-Transformer[main]: https://github.com/microsoft/Swin-Transformer.git
@@ -2036,6 +2043,7 @@ mingukkang/GigaGAN[main]: https://github.com/mingukkang/GigaGAN.git
 Minidoracat/mcp-feedback-enhanced[main]: https://github.com/Minidoracat/mcp-feedback-enhanced.git
 minqi/learning-to-communicate-pytorch[master]: https://github.com/minqi/learning-to-communicate-pytorch.git
 mint-lab/awesome-robotics-datasets[master]: https://github.com/mint-lab/awesome-robotics-datasets.git
+MINT-SJTU/LeRobot-Anything-U-Arm[main]: https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm.git
 mintar/mimic_joint_gazebo_tutorial[kinetic]: https://github.com/mintar/mimic_joint_gazebo_tutorial.git
 mintasca/ros_gluon[master]: https://github.com/mintasca/ros_gluon.git
 mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
@@ -2691,6 +2699,7 @@ RoboHow/robohow_common_msgs[master]: https://github.com/RoboHow/robohow_common_m
 robomechanics/MiniRHex[main]: https://github.com/robomechanics/MiniRHex.git
 robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
+robot-learning-co/trlc-dk1[main]: https://github.com/robot-learning-co/trlc-dk1.git
 Robot-MA/manipulate-anything[main]: https://github.com/Robot-MA/manipulate-anything.git
 Robot-VLAs/RoboVLMs[main]: https://github.com/Robot-VLAs/RoboVLMs.git
 robotdrummer/robotdrummer.github.io[main]: https://github.com/robotdrummer/robotdrummer.github.io.git
@@ -3024,6 +3033,7 @@ team-openpm/workgpt[master]: https://github.com/team-openpm/workgpt.git
 TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
+TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
 Tencent-Hunyuan/Hunyuan3D-1[main]: https://github.com/Tencent-Hunyuan/Hunyuan3D-1.git
 Tencent-Hunyuan/HunyuanCustom[main]: https://github.com/Tencent-Hunyuan/HunyuanCustom.git
