@@ -358,6 +358,7 @@ hsp-iit: https://github.com/hsp-iit
 httpie: https://github.com/httpie
 HuangCongQing: https://github.com/HuangCongQing
 huangwl18: https://github.com/huangwl18
+hucebot: https://github.com/hucebot
 huchunxu: https://github.com/huchunxu
 huggingface: https://github.com/huggingface
 humaan-ai: https://github.com/humaan-ai
@@ -378,6 +379,7 @@ immich-app: https://github.com/immich-app
 Improbable-AI: https://github.com/Improbable-AI
 imputnet: https://github.com/imputnet
 Inception3D: https://github.com/Inception3D
+index-tts: https://github.com/index-tts
 infiniflow: https://github.com/infiniflow
 initialneil: https://github.com/initialneil
 InsightAGI: https://github.com/InsightAGI
@@ -960,6 +962,7 @@ vision-x-nyu: https://github.com/vision-x-nyu
 vivoCameraResearch: https://github.com/vivoCameraResearch
 vnpy: https://github.com/vnpy
 voideditor: https://github.com/voideditor
+volcengine: https://github.com/volcengine
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
 wanglin2: https://github.com/wanglin2
