@@ -864,6 +864,7 @@ facebookresearch/IntPhys2[main]: https://github.com/facebookresearch/IntPhys2.gi
 facebookresearch/locate-3d[main]: https://github.com/facebookresearch/locate-3d.git
 facebookresearch/MCC[main]: https://github.com/facebookresearch/MCC.git
 facebookresearch/metamotivo[main]: https://github.com/facebookresearch/metamotivo.git
+facebookresearch/MobileLLM[main]: https://github.com/facebookresearch/MobileLLM.git
 facebookresearch/modem[main]: https://github.com/facebookresearch/modem.git
 facebookresearch/neuralfeels[main]: https://github.com/facebookresearch/neuralfeels.git
 facebookresearch/pifuhd[main]: https://github.com/facebookresearch/pifuhd.git
@@ -1089,7 +1090,7 @@ gohar-malik/InterMask[main]: https://github.com/gohar-malik/InterMask.git
 gohugoio/hugo[master]: https://github.com/gohugoio/hugo.git
 golang/go[master]: https://github.com/golang/go.git
 golang/vscode-go[master]: https://github.com/golang/vscode-go.git
-gomzyakov/achievements[main]: https://github.com/gomzyakov/achievements.git
+gomzyakov/github-achievements[main]: https://github.com/gomzyakov/github-achievements.git
 goodfeli/theano_exercises[master]: https://github.com/goodfeli/theano_exercises.git
 google-ai-edge/mediapipe[master]: https://github.com/google-ai-edge/mediapipe.git
 google-deepmind/acme[master]: https://github.com/google-deepmind/acme.git
@@ -1260,6 +1261,7 @@ hiyouga/LLaMA-Factory[main]: https://github.com/hiyouga/LLaMA-Factory.git
 hku-mars/FAST-LIVO[main]: https://github.com/hku-mars/FAST-LIVO.git
 hku-mars/FAST-LIVO2[main]: https://github.com/hku-mars/FAST-LIVO2.git
 hku-mars/FAST_LIO[main]: https://github.com/hku-mars/FAST_LIO.git
+hku-mars/IKFoM[main]: https://github.com/hku-mars/IKFoM.git
 hku-mars/loam_livox[master]: https://github.com/hku-mars/loam_livox.git
 hku-mars/M2Mapping[main]: https://github.com/hku-mars/M2Mapping.git
 HKUDS/MiniRAG[main]: https://github.com/HKUDS/MiniRAG.git
@@ -1320,6 +1322,7 @@ Huanshere/VideoLingo[main]: https://github.com/Huanshere/VideoLingo.git
 huawei-noah/Pretrained-Language-Model[master]: https://github.com/huawei-noah/Pretrained-Language-Model.git
 Huawei/Huawei_LiteOS_Kernel[master]: https://github.com/Huawei/Huawei_LiteOS_Kernel.git
 hubotio/hubot[main]: https://github.com/hubotio/hubot.git
+hucebot/ahmp[main]: https://github.com/hucebot/ahmp.git
 huchunxu/ros_blog_sources[master]: https://github.com/huchunxu/ros_blog_sources.git
 huggingface/accelerate[main]: https://github.com/huggingface/accelerate.git
 huggingface/diffusers[main]: https://github.com/huggingface/diffusers.git
@@ -1397,6 +1400,7 @@ inarikami/keras-rl2[master]: https://github.com/inarikami/keras-rl2.git
 Inception3D/Easi3R[main]: https://github.com/Inception3D/Easi3R.git
 Inception3D/GenFusion[main]: https://github.com/Inception3D/GenFusion.git
 inconshreveable/ngrok[master]: https://github.com/inconshreveable/ngrok.git
+index-tts/index-tts[main]: https://github.com/index-tts/index-tts.git
 IndieSmiths/nodezator[main]: https://github.com/IndieSmiths/nodezator.git
 infiniflow/ragflow[main]: https://github.com/infiniflow/ragflow.git
 ingyamilmolinar/doctorgpt[master]: https://github.com/ingyamilmolinar/doctorgpt.git
@@ -1667,7 +1671,7 @@ Kong/swrv[master]: https://github.com/Kong/swrv.git
 kortix-ai/suna[main]: https://github.com/kortix-ai/suna.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
 krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
-krillinai/KlicStudio[master]: https://github.com/krillinai/KlicStudio.git
+krillinai/KrillinAI[master]: https://github.com/krillinai/KrillinAI.git
 krishauser/Klampt[master]: https://github.com/krishauser/Klampt.git
 krishauser/Klampt-examples[master]: https://github.com/krishauser/Klampt-examples.git
 KrishKrosh/TrackWeight[main]: https://github.com/KrishKrosh/TrackWeight.git
@@ -2050,7 +2054,7 @@ mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
 Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
-MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
+MiroMindAI/MiroFlow[miroflow-v0.3]: https://github.com/MiroMindAI/MiroFlow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
 MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
@@ -2542,6 +2546,7 @@ prathimacode-hub/Ezy-Parking[main]: https://github.com/prathimacode-hub/Ezy-Park
 PRBonn/kiss-icp[main]: https://github.com/PRBonn/kiss-icp.git
 premake/premake-core[master]: https://github.com/premake/premake-core.git
 PRIME-RL/PRIME[main]: https://github.com/PRIME-RL/PRIME.git
+PRIME-RL/SimpleVLA-RL[main]: https://github.com/PRIME-RL/SimpleVLA-RL.git
 primefaces/primevue[master]: https://github.com/primefaces/primevue.git
 PrimeIntellect-ai/prime[main]: https://github.com/PrimeIntellect-ai/prime.git
 princeton-vl/DROID-SLAM[main]: https://github.com/princeton-vl/DROID-SLAM.git
@@ -2678,6 +2683,7 @@ RIVeR-Lab/mobiman[main]: https://github.com/RIVeR-Lab/mobiman.git
 rlabbe/filterpy[master]: https://github.com/rlabbe/filterpy.git
 rlabbe/Kalman-and-Bayesian-Filters-in-Python[master]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python.git
 rlcode/reinforcement-learning[master]: https://github.com/rlcode/reinforcement-learning.git
+RLinf/RLinf[main]: https://github.com/RLinf/RLinf.git
 rll/rllab[master]: https://github.com/rll/rllab.git
 rlpy/rlpy[master]: https://github.com/rlpy/rlpy.git
 rmsalinas/DBow3[master]: https://github.com/rmsalinas/DBow3.git
@@ -3324,6 +3330,7 @@ vnpy/vnpy[master]: https://github.com/vnpy/vnpy.git
 vnpy/vnpy_ctp[main]: https://github.com/vnpy/vnpy_ctp.git
 voideditor/void[main]: https://github.com/voideditor/void.git
 voidfiles/awesome-rss[master]: https://github.com/voidfiles/awesome-rss.git
+volcengine/verl[main]: https://github.com/volcengine/verl.git
 vovacooper/Unity3d_MQTT[master]: https://github.com/vovacooper/Unity3d_MQTT.git
 VoxAct-B/voxactb[main]: https://github.com/VoxAct-B/voxactb.git
 VoxelPlugin/VoxelPluginFreeLegacy[master]: https://github.com/VoxelPlugin/VoxelPluginFreeLegacy.git
