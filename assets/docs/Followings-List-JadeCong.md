@@ -401,6 +401,7 @@ jart: https://github.com/jart
 JasonJZLiu: https://github.com/JasonJZLiu
 jbiaojerry: https://github.com/jbiaojerry
 jcjohnson: https://github.com/jcjohnson
+jeecgboot: https://github.com/jeecgboot
 JenniferBuehler: https://github.com/JenniferBuehler
 jesseduffield: https://github.com/jesseduffield
 jhu-lcsr: https://github.com/jhu-lcsr
@@ -1038,6 +1039,7 @@ yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
 zealdocs: https://github.com/zealdocs
+zed-industries: https://github.com/zed-industries
 zen-browser: https://github.com/zen-browser
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
