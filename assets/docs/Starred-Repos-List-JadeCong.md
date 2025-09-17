@@ -129,7 +129,7 @@ AliaksandrSiarohin/first-order-model[master]: https://github.com/AliaksandrSiaro
 alibaba-damo-academy/Uni3C[main]: https://github.com/alibaba-damo-academy/Uni3C.git
 alibaba-damo-academy/WorldVLA[main]: https://github.com/alibaba-damo-academy/WorldVLA.git
 alibaba-developer/Alibaba-Interview-Skill[master]: https://github.com/alibaba-developer/Alibaba-Interview-Skill.git
-Alibaba-NLP/WebAgent[main]: https://github.com/Alibaba-NLP/WebAgent.git
+Alibaba-NLP/DeepResearch[main]: https://github.com/Alibaba-NLP/DeepResearch.git
 alibaba/acqdp[main]: https://github.com/alibaba/acqdp.git
 alibaba/AliOS-Things[master]: https://github.com/alibaba/AliOS-Things.git
 alibaba/druid[master]: https://github.com/alibaba/druid.git
@@ -190,6 +190,7 @@ ant-research/LeviTor[main]: https://github.com/ant-research/LeviTor.git
 ant-research/MagicQuill[main]: https://github.com/ant-research/MagicQuill.git
 antgroup/echomimic[main]: https://github.com/antgroup/echomimic.git
 antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
+antgroup/llm-oss-landscape[main]: https://github.com/antgroup/llm-oss-landscape.git
 anthropics/anthropic-cookbook[main]: https://github.com/anthropics/anthropic-cookbook.git
 anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
@@ -209,6 +210,7 @@ apache/mxnet[master]: https://github.com/apache/mxnet.git
 apache/predictionio[develop]: https://github.com/apache/predictionio.git
 apache/spark[master]: https://github.com/apache/spark.git
 apache/storm[master]: https://github.com/apache/storm.git
+apache/tika[main]: https://github.com/apache/tika.git
 apirrone/Open_Duck_Mini[v2]: https://github.com/apirrone/Open_Duck_Mini.git
 apirrone/Open_Duck_Playground[main]: https://github.com/apirrone/Open_Duck_Playground.git
 ApolloAuto/apollo[master]: https://github.com/ApolloAuto/apollo.git
@@ -556,6 +558,7 @@ crewAIInc/crewAI[main]: https://github.com/crewAIInc/crewAI.git
 crewAIInc/crewAI-tools[main]: https://github.com/crewAIInc/crewAI-tools.git
 crigroup/openrave-installation[master]: https://github.com/crigroup/openrave-installation.git
 cryer/D.Silver_RL_Course[master]: https://github.com/cryer/D.Silver_RL_Course.git
+cryxnet/DeepMCPAgent[main]: https://github.com/cryxnet/DeepMCPAgent.git
 cuemacro/finmarketpy[master]: https://github.com/cuemacro/finmarketpy.git
 cuixueshe/earthworm[main]: https://github.com/cuixueshe/earthworm.git
 cumulo-autumn/StreamDiffusion[main]: https://github.com/cumulo-autumn/StreamDiffusion.git
@@ -1520,6 +1523,7 @@ jdh-algo/JoyHallo[main]: https://github.com/jdh-algo/JoyHallo.git
 jdh-algo/JoyVASA[main]: https://github.com/jdh-algo/JoyVASA.git
 jdrew1303/ros_geomagic_touch_phantom_omni[master]: https://github.com/jdrew1303/ros_geomagic_touch_phantom_omni.git
 je-suis-tm/quant-trading[master]: https://github.com/je-suis-tm/quant-trading.git
+jeecgboot/JeecgBoot[springboot3]: https://github.com/jeecgboot/JeecgBoot.git
 Jeff-LiangF/streamv2v[main]: https://github.com/Jeff-LiangF/streamv2v.git
 JefferyHcool/BiliNote[master]: https://github.com/JefferyHcool/BiliNote.git
 jeffgerickson/algorithms[master]: https://github.com/jeffgerickson/algorithms.git
@@ -1899,6 +1903,7 @@ MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
 ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
+manipulate-in-dream/MinD[main]: https://github.com/manipulate-in-dream/MinD.git
 manycore-research/SpatialLM[main]: https://github.com/manycore-research/SpatialLM.git
 maplezzz/NTU_ML2017_Hung-yi-Lee_HW[master]: https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW.git
 marcelo-earth/generative-manim[main]: https://github.com/marcelo-earth/generative-manim.git
@@ -2135,6 +2140,7 @@ mshoe/PARC[main]: https://github.com/mshoe/PARC.git
 MSiam/motion_adaptation[master]: https://github.com/MSiam/motion_adaptation.git
 muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
+Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
 mustafa-qamaruddin/age-cgan[master]: https://github.com/mustafa-qamaruddin/age-cgan.git
 mut-ex/gligen-gui[main]: https://github.com/mut-ex/gligen-gui.git
 muzishen/IMAGDressing[main]: https://github.com/muzishen/IMAGDressing.git
@@ -2412,8 +2418,8 @@ openworm/OpenWorm[master]: https://github.com/openworm/OpenWorm.git
 openwsn-berkeley/coap[develop]: https://github.com/openwsn-berkeley/coap.git
 openxla/xla[main]: https://github.com/openxla/xla.git
 oracle-samples/oracle-db-examples[main]: https://github.com/oracle-samples/oracle-db-examples.git
-orbbec/OrbbecSDK_ROS1[main]: https://github.com/orbbec/OrbbecSDK_ROS1.git
-orbbec/OrbbecSDK_ROS2[main]: https://github.com/orbbec/OrbbecSDK_ROS2.git
+orbbec/OrbbecSDK_ROS1[v2-main]: https://github.com/orbbec/OrbbecSDK_ROS1.git
+orbbec/OrbbecSDK_ROS2[v2-main]: https://github.com/orbbec/OrbbecSDK_ROS2.git
 orbbec/OrbbecSDK_v2[main]: https://github.com/orbbec/OrbbecSDK_v2.git
 orcahand/orcahand_description[main]: https://github.com/orcahand/orcahand_description.git
 orcahand/orca_core[main]: https://github.com/orcahand/orca_core.git
@@ -3248,6 +3254,7 @@ unified-field-theory-org/animations[main]: https://github.com/unified-field-theo
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unit-mesh/auto-dev[master]: https://github.com/unit-mesh/auto-dev.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
+unitreerobotics/unifolm-world-model-action[main]: https://github.com/unitreerobotics/unifolm-world-model-action.git
 unitreerobotics/unitree_mujoco[main]: https://github.com/unitreerobotics/unitree_mujoco.git
 unitreerobotics/unitree_rl_gym[main]: https://github.com/unitreerobotics/unitree_rl_gym.git
 unitreerobotics/unitree_ros[master]: https://github.com/unitreerobotics/unitree_ros.git
@@ -3564,6 +3571,7 @@ zai-org/GLM-4-Voice[main]: https://github.com/zai-org/GLM-4-Voice.git
 zbw001/TAPIP3D[main]: https://github.com/zbw001/TAPIP3D.git
 zdchan/RobustDexGrasp[main]: https://github.com/zdchan/RobustDexGrasp.git
 zealdocs/zeal[main]: https://github.com/zealdocs/zeal.git
+zed-industries/zed[main]: https://github.com/zed-industries/zed.git
 Zejun-Yang/AniPortrait[main]: https://github.com/Zejun-Yang/AniPortrait.git
 zekunqian/BEVSee[master]: https://github.com/zekunqian/BEVSee.git
 zen-browser/desktop[dev]: https://github.com/zen-browser/desktop.git
