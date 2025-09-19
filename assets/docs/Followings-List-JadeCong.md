@@ -45,6 +45,7 @@ ambots3D: https://github.com/ambots3D
 amd: https://github.com/amd
 amdegroot: https://github.com/amdegroot
 amzn: https://github.com/amzn
+anaconda: https://github.com/anaconda
 andrewyng: https://github.com/andrewyng
 android10: https://github.com/android10
 andyzeng: https://github.com/andyzeng
@@ -284,6 +285,7 @@ FutureAIRobotics: https://github.com/FutureAIRobotics
 GAIR-NLP: https://github.com/GAIR-NLP
 galaxy-s10: https://github.com/galaxy-s10
 GalaxyGeneralRobotics: https://github.com/GalaxyGeneralRobotics
+Gar-b-age: https://github.com/Gar-b-age
 GaTech-RL2: https://github.com/GaTech-RL2
 gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
@@ -693,6 +695,7 @@ postmanlabs: https://github.com/postmanlabs
 potpie-ai: https://github.com/potpie-ai
 PowerShell: https://github.com/PowerShell
 prathimacode-hub: https://github.com/prathimacode-hub
+prefix-dev: https://github.com/prefix-dev
 premake: https://github.com/premake
 PRIME-RL: https://github.com/PRIME-RL
 PrimeIntellect-ai: https://github.com/PrimeIntellect-ai
