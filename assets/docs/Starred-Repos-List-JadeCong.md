@@ -162,6 +162,7 @@ amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
 amplab/SparkNet[master]: https://github.com/amplab/SparkNet.git
+anaconda/docker-images[main]: https://github.com/anaconda/docker-images.git
 anandpawara/Real_Time_Image_Animation[master]: https://github.com/anandpawara/Real_Time_Image_Animation.git
 andreasBihlmaier/pysdf[master]: https://github.com/andreasBihlmaier/pysdf.git
 andrewyng/aisuite[main]: https://github.com/andrewyng/aisuite.git
@@ -191,8 +192,8 @@ ant-research/MagicQuill[main]: https://github.com/ant-research/MagicQuill.git
 antgroup/echomimic[main]: https://github.com/antgroup/echomimic.git
 antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
 antgroup/llm-oss-landscape[main]: https://github.com/antgroup/llm-oss-landscape.git
-anthropics/anthropic-cookbook[main]: https://github.com/anthropics/anthropic-cookbook.git
 anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
+anthropics/claude-cookbooks[main]: https://github.com/anthropics/claude-cookbooks.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
 antonkomarev/github-profile-views-counter[master]: https://github.com/antonkomarev/github-profile-views-counter.git
 AntonOsika/gpt-engineer[main]: https://github.com/AntonOsika/gpt-engineer.git
@@ -917,6 +918,7 @@ FareedKhan-dev/Building-llama3-from-scratch[main]: https://github.com/FareedKhan
 farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
+FastbuildAI/FastbuildAI[master]: https://github.com/FastbuildAI/FastbuildAI.git
 fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
 fastrepl/hyprnote[main]: https://github.com/fastrepl/hyprnote.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
@@ -1027,6 +1029,7 @@ gaoxiang12/ORBSLAM2_with_pointcloud_map[master]: https://github.com/gaoxiang12/O
 gaoxiang12/slambook[master]: https://github.com/gaoxiang12/slambook.git
 gaoxiang12/slambook2[master]: https://github.com/gaoxiang12/slambook2.git
 GaParmar/img2img-turbo[main]: https://github.com/GaParmar/img2img-turbo.git
+Gar-b-age/CookLikeHOC[main]: https://github.com/Gar-b-age/CookLikeHOC.git
 GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
 GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
@@ -1451,6 +1454,7 @@ Ironclad/rivet[main]: https://github.com/Ironclad/rivet.git
 IRVLUTD/HO-Cap[main]: https://github.com/IRVLUTD/HO-Cap.git
 isaac-sim/IsaacGymEnvs[main]: https://github.com/isaac-sim/IsaacGymEnvs.git
 isaac-sim/IsaacLab[main]: https://github.com/isaac-sim/IsaacLab.git
+isaac-sim/IsaacSim[main]: https://github.com/isaac-sim/IsaacSim.git
 isaac-sim/IsaacSim-ros_workspaces[main]: https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
 isaac-sim/OmniIsaacGymEnvs[main]: https://github.com/isaac-sim/OmniIsaacGymEnvs.git
 isarandi/nlf[main]: https://github.com/isarandi/nlf.git
@@ -2206,7 +2210,7 @@ niedev/RTranslator[v2.00]: https://github.com/niedev/RTranslator.git
 Nightmare-n/DepthAnyVideo[main]: https://github.com/Nightmare-n/DepthAnyVideo.git
 nihui/opencv-mobile[master]: https://github.com/nihui/opencv-mobile.git
 nikhilbarhate99/PPO-PyTorch[master]: https://github.com/nikhilbarhate99/PPO-PyTorch.git
-nikrich/UnrealAssets[master]: https://github.com/nikrich/UnrealAssets.git
+nikrich/unreal-assets[master]: https://github.com/nikrich/unreal-assets.git
 nilsherzig/LLocalSearch[main]: https://github.com/nilsherzig/LLocalSearch.git
 NilsIrl/dockerc[trunk]: https://github.com/NilsIrl/dockerc.git
 ningshuliang/1-2-1-MNVTON[main]: https://github.com/ningshuliang/1-2-1-MNVTON.git
@@ -2550,6 +2554,7 @@ pqoqubbw/icons[main]: https://github.com/pqoqubbw/icons.git
 practical-tutorials/project-based-learning[master]: https://github.com/practical-tutorials/project-based-learning.git
 prathimacode-hub/Ezy-Parking[main]: https://github.com/prathimacode-hub/Ezy-Parking.git
 PRBonn/kiss-icp[main]: https://github.com/PRBonn/kiss-icp.git
+prefix-dev/pixi[main]: https://github.com/prefix-dev/pixi.git
 premake/premake-core[master]: https://github.com/premake/premake-core.git
 PRIME-RL/PRIME[main]: https://github.com/PRIME-RL/PRIME.git
 PRIME-RL/SimpleVLA-RL[main]: https://github.com/PRIME-RL/SimpleVLA-RL.git
