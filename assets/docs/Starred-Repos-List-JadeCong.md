@@ -271,6 +271,7 @@ artemsheludko/lokmont[master]: https://github.com/artemsheludko/lokmont.git
 artsy/eigen[main]: https://github.com/artsy/eigen.git
 asgeirtj/system_prompts_leaks[main]: https://github.com/asgeirtj/system_prompts_leaks.git
 ashawkey/Segment-Anything-NeRF[main]: https://github.com/ashawkey/Segment-Anything-NeRF.git
+ashishpatel26/500-AI-Agents-Projects[main]: https://github.com/ashishpatel26/500-AI-Agents-Projects.git
 Ashutosh00710/github-readme-activity-graph[main]: https://github.com/Ashutosh00710/github-readme-activity-graph.git
 askforalfred/alfred[master]: https://github.com/askforalfred/alfred.git
 askmike/gekko[develop]: https://github.com/askmike/gekko.git
@@ -372,6 +373,7 @@ BinaryDex/DexHub[main]: https://github.com/BinaryDex/DexHub.git
 Binyr/NormalCrafter[main]: https://github.com/Binyr/NormalCrafter.git
 biomejs/biome[main]: https://github.com/biomejs/biome.git
 bionicdl-sustech/DeepClawBenchmark[master]: https://github.com/bionicdl-sustech/DeepClawBenchmark.git
+BIT-DYN/omnimap[master]: https://github.com/BIT-DYN/omnimap.git
 bitcoin/bips[master]: https://github.com/bitcoin/bips.git
 bitcoin/bitcoin[master]: https://github.com/bitcoin/bitcoin.git
 bitcoinbook/bitcoinbook[develop]: https://github.com/bitcoinbook/bitcoinbook.git
@@ -1080,6 +1082,7 @@ github/github-mcp-server[main]: https://github.com/github/github-mcp-server.git
 github/government.github.com[gh-pages]: https://github.com/github/government.github.com.git
 github/markup[master]: https://github.com/github/markup.git
 github/putty[master]: https://github.com/github/putty.git
+github/spec-kit[main]: https://github.com/github/spec-kit.git
 GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese[main]: https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese.git
 GitHubDaily/GitHubDaily[master]: https://github.com/GitHubDaily/GitHubDaily.git
 githubnext/copilot-workspace-user-manual[main]: https://github.com/githubnext/copilot-workspace-user-manual.git
@@ -1541,6 +1544,7 @@ jhoffman/lsda[master]: https://github.com/jhoffman/lsda.git
 jhu-lcsr/costar_plan[master]: https://github.com/jhu-lcsr/costar_plan.git
 jhu-saw/sawForceDimensionSDK[main]: https://github.com/jhu-saw/sawForceDimensionSDK.git
 Ji4chenLi/t2v-turbo[main]: https://github.com/Ji4chenLi/t2v-turbo.git
+jiachengliu3/OpenTrajBooster[main]: https://github.com/jiachengliu3/OpenTrajBooster.git
 jiachengliu3/WBC_Deploy[master]: https://github.com/jiachengliu3/WBC_Deploy.git
 jiah-cloud/Align3R[main]: https://github.com/jiah-cloud/Align3R.git
 jiahao-shao1/ChronoDepth[main]: https://github.com/jiahao-shao1/ChronoDepth.git
@@ -2716,6 +2720,11 @@ RoboHow/robohow_common_msgs[master]: https://github.com/RoboHow/robohow_common_m
 robomechanics/MiniRHex[main]: https://github.com/robomechanics/MiniRHex.git
 robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
+RoboStack/jupyter-ros[main]: https://github.com/RoboStack/jupyter-ros.git
+RoboStack/jupyterlab-ros[master]: https://github.com/RoboStack/jupyterlab-ros.git
+RoboStack/ros-humble[main]: https://github.com/RoboStack/ros-humble.git
+RoboStack/ros-jazzy[main]: https://github.com/RoboStack/ros-jazzy.git
+RoboStack/ros-noetic[main]: https://github.com/RoboStack/ros-noetic.git
 robot-learning-co/trlc-dk1[main]: https://github.com/robot-learning-co/trlc-dk1.git
 Robot-MA/manipulate-anything[main]: https://github.com/Robot-MA/manipulate-anything.git
 Robot-VLAs/RoboVLMs[main]: https://github.com/Robot-VLAs/RoboVLMs.git
@@ -3051,6 +3060,7 @@ TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
 TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
+TEN-framework/ten-framework[main]: https://github.com/TEN-framework/ten-framework.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
 Tencent-Hunyuan/Hunyuan3D-1[main]: https://github.com/Tencent-Hunyuan/Hunyuan3D-1.git
 Tencent-Hunyuan/HunyuanCustom[main]: https://github.com/Tencent-Hunyuan/HunyuanCustom.git
@@ -3486,6 +3496,7 @@ yang-zj1026/NaVILA-Bench[main]: https://github.com/yang-zj1026/NaVILA-Bench.git
 yang991178/fluent-reader[master]: https://github.com/yang991178/fluent-reader.git
 yangchris11/samurai[master]: https://github.com/yangchris11/samurai.git
 Yanghao0506/A-lightweight-prosthetic-hand[main]: https://github.com/Yanghao0506/A-lightweight-prosthetic-hand.git
+YangLing0818/buffer-of-thought-llm[main]: https://github.com/YangLing0818/buffer-of-thought-llm.git
 YangLing0818/buffer-of-thought-llm[main]: https://github.com/YangLing0818/buffer-of-thought-llm.git
 YangLing0818/EditWorld[main]: https://github.com/YangLing0818/EditWorld.git
 yangqy1110/NC-SDEdit[main]: https://github.com/yangqy1110/NC-SDEdit.git
