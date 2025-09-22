@@ -73,6 +73,7 @@ ARMmbed: https://github.com/ARMmbed
 ashawkey: https://github.com/ashawkey
 ashish-kmr: https://github.com/ashish-kmr
 ashishkumar30: https://github.com/ashishkumar30
+ashishpatel26: https://github.com/ashishpatel26
 asweigart: https://github.com/asweigart
 atenpas: https://github.com/atenpas
 AuboRobot: https://github.com/AuboRobot
@@ -758,6 +759,7 @@ robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
 robopen: https://github.com/robopen
+RoboStack: https://github.com/RoboStack
 Robot-VLAs: https://github.com/Robot-VLAs
 roboterax: https://github.com/roboterax
 robotlearning123: https://github.com/robotlearning123
@@ -796,6 +798,7 @@ scrapy: https://github.com/scrapy
 ScriptEcho-ai: https://github.com/ScriptEcho-ai
 scutan90: https://github.com/scutan90
 Sense-X: https://github.com/Sense-X
+sentient-agi: https://github.com/sentient-agi
 serpapi: https://github.com/serpapi
 SesameAILabs: https://github.com/SesameAILabs
 shadowsocks: https://github.com/shadowsocks
@@ -939,6 +942,7 @@ Unity-Technologies: https://github.com/Unity-Technologies
 UniversalRobots: https://github.com/UniversalRobots
 unovue: https://github.com/unovue
 Unsigned-Long: https://github.com/Unsigned-Long
+unslothai: https://github.com/unslothai
 upscayl: https://github.com/upscayl
 upstash: https://github.com/upstash
 usebruno: https://github.com/usebruno
