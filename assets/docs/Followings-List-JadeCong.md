@@ -217,6 +217,7 @@ dougsm: https://github.com/dougsm
 doxygen: https://github.com/doxygen
 DrJimFan: https://github.com/DrJimFan
 droid-dataset: https://github.com/droid-dataset
+dtyq: https://github.com/dtyq
 duixcom: https://github.com/duixcom
 duplicati: https://github.com/duplicati
 dusty-nv: https://github.com/dusty-nv
@@ -431,6 +432,7 @@ kaixindelele: https://github.com/kaixindelele
 karminski: https://github.com/karminski
 karpathy: https://github.com/karpathy
 kerrj: https://github.com/kerrj
+kevinzakka: https://github.com/kevinzakka
 khoj-ai: https://github.com/khoj-ai
 Khrylx: https://github.com/Khrylx
 khyu: https://github.com/khyu
@@ -724,6 +726,7 @@ Python-Repository-Hub: https://github.com/Python-Repository-Hub
 pytorch: https://github.com/pytorch
 qboticslabs: https://github.com/qboticslabs
 qizekun: https://github.com/qizekun
+qpsolvers: https://github.com/qpsolvers
 qt: https://github.com/qt
 quora: https://github.com/quora
 QwenLM: https://github.com/QwenLM
@@ -973,6 +976,7 @@ voideditor: https://github.com/voideditor
 volcengine: https://github.com/volcengine
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
+Wan-Video: https://github.com/Wan-Video
 wanglin2: https://github.com/wanglin2
 WangRongsheng: https://github.com/WangRongsheng
 wangruohui: https://github.com/wangruohui
