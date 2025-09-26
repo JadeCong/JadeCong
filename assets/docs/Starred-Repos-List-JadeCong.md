@@ -429,6 +429,7 @@ bytedance/LatentSync[main]: https://github.com/bytedance/LatentSync.git
 bytedance/MegaTTS3[main]: https://github.com/bytedance/MegaTTS3.git
 bytedance/monoio[master]: https://github.com/bytedance/monoio.git
 bytedance/pasa[main]: https://github.com/bytedance/pasa.git
+bytedance/Sa2VA[main]: https://github.com/bytedance/Sa2VA.git
 bytedance/sonic[main]: https://github.com/bytedance/sonic.git
 bytedance/UI-TARS[main]: https://github.com/bytedance/UI-TARS.git
 bytedance/UI-TARS-desktop[main]: https://github.com/bytedance/UI-TARS-desktop.git
@@ -851,6 +852,7 @@ facebookarchive/UETorch[master]: https://github.com/facebookarchive/UETorch.git
 facebookresearch/AnimatedDrawings[main]: https://github.com/facebookresearch/AnimatedDrawings.git
 facebookresearch/blt[main]: https://github.com/facebookresearch/blt.git
 facebookresearch/co-tracker[main]: https://github.com/facebookresearch/co-tracker.git
+facebookresearch/cwm[main]: https://github.com/facebookresearch/cwm.git
 facebookresearch/DensePose[main]: https://github.com/facebookresearch/DensePose.git
 facebookresearch/Detectron[main]: https://github.com/facebookresearch/Detectron.git
 facebookresearch/detectron2[main]: https://github.com/facebookresearch/detectron2.git
@@ -1906,7 +1908,7 @@ machines-in-motion/mim_robots[main]: https://github.com/machines-in-motion/mim_r
 MadcowD/ell[main]: https://github.com/MadcowD/ell.git
 MADEAPPS/newton-dynamics[master]: https://github.com/MADEAPPS/newton-dynamics.git
 MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
-magic-research/Sa2VA[main]: https://github.com/magic-research/Sa2VA.git
+MagicMirrorOrg/MagicMirror[master]: https://github.com/MagicMirrorOrg/MagicMirror.git
 MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
@@ -2614,6 +2616,7 @@ quantopian/zipline[master]: https://github.com/quantopian/zipline.git
 QuentinFuxa/WhisperLiveKit[main]: https://github.com/QuentinFuxa/WhisperLiveKit.git
 QuivrHQ/quivr[main]: https://github.com/QuivrHQ/quivr.git
 qusers/Q6[master]: https://github.com/qusers/Q6.git
+QwenLM/Qwen-Image[main]: https://github.com/QwenLM/Qwen-Image.git
 QwenLM/Qwen-VL[master]: https://github.com/QwenLM/Qwen-VL.git
 QwenLM/Qwen2.5-Omni[main]: https://github.com/QwenLM/Qwen2.5-Omni.git
 QwenLM/Qwen3[main]: https://github.com/QwenLM/Qwen3.git
@@ -3327,7 +3330,6 @@ VAST-AI-Research/TripoSR[main]: https://github.com/VAST-AI-Research/TripoSR.git
 vchoutas/smplx[main]: https://github.com/vchoutas/smplx.git
 Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
 VectorSpaceLab/OmniGen[main]: https://github.com/VectorSpaceLab/OmniGen.git
-VectorSpaceLab/OmniGen2[main]: https://github.com/VectorSpaceLab/OmniGen2.git
 velipso/sndfilter[master]: https://github.com/velipso/sndfilter.git
 vercel/ai[main]: https://github.com/vercel/ai.git
 vercel/hyper[canary]: https://github.com/vercel/hyper.git
