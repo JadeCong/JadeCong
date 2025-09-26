@@ -504,6 +504,7 @@ lyswhut: https://github.com/lyswhut
 MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
 magic-research: https://github.com/magic-research
+MagicMirrorOrg: https://github.com/MagicMirrorOrg
 majacinka: https://github.com/majacinka
 MakeYourPet: https://github.com/MakeYourPet
 MandiZhao: https://github.com/MandiZhao
