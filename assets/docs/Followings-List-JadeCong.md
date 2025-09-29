@@ -39,6 +39,7 @@ Alibaba-NLP: https://github.com/Alibaba-NLP
 AlibabaResearch: https://github.com/AlibabaResearch
 All-Hands-AI: https://github.com/All-Hands-AI
 allenai: https://github.com/allenai
+Alpha-VLLM: https://github.com/Alpha-VLLM
 alphacep: https://github.com/alphacep
 amandlek: https://github.com/amandlek
 ambots3D: https://github.com/ambots3D
@@ -140,6 +141,7 @@ chrisalbon: https://github.com/chrisalbon
 chrislgarry: https://github.com/chrislgarry
 ChrisTitusTech: https://github.com/ChrisTitusTech
 chrisyrniu: https://github.com/chrisyrniu
+ChromeDevTools: https://github.com/ChromeDevTools
 chuanqi305: https://github.com/chuanqi305
 chvmp: https://github.com/chvmp
 CiscoDevNet: https://github.com/CiscoDevNet
@@ -224,6 +226,7 @@ dusty-nv: https://github.com/dusty-nv
 dzhng: https://github.com/dzhng
 easychen: https://github.com/easychen
 EbookFoundation: https://github.com/EbookFoundation
+eclipse-zenoh: https://github.com/eclipse-zenoh
 elecfreaks: https://github.com/elecfreaks
 electech6: https://github.com/electech6
 electron: https://github.com/electron
@@ -276,6 +279,7 @@ flow-diffusion: https://github.com/flow-diffusion
 flutter: https://github.com/flutter
 fmhy: https://github.com/fmhy
 FoundationVision: https://github.com/FoundationVision
+foxglove: https://github.com/foxglove
 frankarobotics: https://github.com/frankarobotics
 FreeRTOS: https://github.com/FreeRTOS
 FreshRSS: https://github.com/FreshRSS
@@ -312,6 +316,7 @@ google-research: https://github.com/google-research
 gpt-engineer-org: https://github.com/gpt-engineer-org
 grablab: https://github.com/grablab
 grantjenks: https://github.com/grantjenks
+graphdeco-inria: https://github.com/graphdeco-inria
 graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
 Graylab: https://github.com/Graylab
@@ -329,6 +334,7 @@ haotian-liu: https://github.com/haotian-liu
 haraduka: https://github.com/haraduka
 harvard: https://github.com/harvard
 HazyResearch: https://github.com/HazyResearch
+hbb1: https://github.com/hbb1
 HCPLab-SYSU: https://github.com/HCPLab-SYSU
 hehao98: https://github.com/hehao98
 HeliXonProtein: https://github.com/HeliXonProtein
@@ -722,6 +728,7 @@ pygame: https://github.com/pygame
 pymodbus-dev: https://github.com/pymodbus-dev
 pyserial: https://github.com/pyserial
 PySpur-Dev: https://github.com/PySpur-Dev
+Pythagora-io: https://github.com/Pythagora-io
 python: https://github.com/python
 Python-Repository-Hub: https://github.com/Python-Repository-Hub
 pytorch: https://github.com/pytorch
@@ -752,6 +759,7 @@ redpanda-data: https://github.com/redpanda-data
 remoteintech: https://github.com/remoteintech
 replit: https://github.com/replit
 requarks: https://github.com/requarks
+rerun-io: https://github.com/rerun-io
 RethinkRobotics: https://github.com/RethinkRobotics
 rhgao: https://github.com/rhgao
 rhymes-ai: https://github.com/rhymes-ai
