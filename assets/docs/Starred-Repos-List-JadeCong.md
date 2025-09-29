@@ -152,6 +152,7 @@ allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-trainin
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
 allinssl/allinssl[1.1.0]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
+Alpha-VLLM/Lumina-mGPT[main]: https://github.com/Alpha-VLLM/Lumina-mGPT.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
 als3453/Collection_TianYa[main]: https://github.com/als3453/Collection_TianYa.git
 alshedivat/al-folio[main]: https://github.com/alshedivat/al-folio.git
@@ -224,6 +225,7 @@ apple/corenet[main]: https://github.com/apple/corenet.git
 apple/ml-depth-pro[main]: https://github.com/apple/ml-depth-pro.git
 apple/ml-fastvlm[main]: https://github.com/apple/ml-fastvlm.git
 apple/ml-matrix3d[main]: https://github.com/apple/ml-matrix3d.git
+apple/ml-simplefold[main]: https://github.com/apple/ml-simplefold.git
 applied-ai-lab/genesis[master]: https://github.com/applied-ai-lab/genesis.git
 AppliedDataSciencePartners/DeepReinforcementLearning[master]: https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning.git
 appwrite/appwrite[main]: https://github.com/appwrite/appwrite.git
@@ -346,6 +348,7 @@ bdaiinstitute/spot_ros2[main]: https://github.com/bdaiinstitute/spot_ros2.git
 bdaiinstitute/theia[main]: https://github.com/bdaiinstitute/theia.git
 behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs-algo.git
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
+BeingBeyond/BumbleBee[main]: https://github.com/BeingBeyond/BumbleBee.git
 BenBurgessLimerick/ManipulationOnTheMove[main]: https://github.com/BenBurgessLimerick/ManipulationOnTheMove.git
 benedekrozemberczki/awesome-graph-classification[master]: https://github.com/benedekrozemberczki/awesome-graph-classification.git
 benelot/pybullet-gym[master]: https://github.com/benelot/pybullet-gym.git
@@ -499,6 +502,7 @@ ChrisTitusTech/winutil[main]: https://github.com/ChrisTitusTech/winutil.git
 ChristosChristofidis/awesome-deep-learning[master]: https://github.com/ChristosChristofidis/awesome-deep-learning.git
 chrisyrniu/Human2LocoMan[main]: https://github.com/chrisyrniu/Human2LocoMan.git
 chromalock/TI-32[main]: https://github.com/chromalock/TI-32.git
+ChromeDevTools/chrome-devtools-mcp[main]: https://github.com/ChromeDevTools/chrome-devtools-mcp.git
 chrxh/alien[develop]: https://github.com/chrxh/alien.git
 chuanqi305/MobileNet-SSD[master]: https://github.com/chuanqi305/MobileNet-SSD.git
 chungmin99/pyroki[main]: https://github.com/chungmin99/pyroki.git
@@ -756,6 +760,11 @@ eclipse-paho/paho.mqtt.cpp[master]: https://github.com/eclipse-paho/paho.mqtt.cp
 eclipse-paho/paho.mqtt.m2mqtt[master]: https://github.com/eclipse-paho/paho.mqtt.m2mqtt.git
 eclipse-paho/paho.mqtt.python[master]: https://github.com/eclipse-paho/paho.mqtt.python.git
 eclipse-threadx/threadx[master]: https://github.com/eclipse-threadx/threadx.git
+eclipse-zenoh/zenoh[main]: https://github.com/eclipse-zenoh/zenoh.git
+eclipse-zenoh/zenoh-c[main]: https://github.com/eclipse-zenoh/zenoh-c.git
+eclipse-zenoh/zenoh-plugin-dds[main]: https://github.com/eclipse-zenoh/zenoh-plugin-dds.git
+eclipse-zenoh/zenoh-plugin-ros2dds[main]: https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds.git
+eclipse-zenoh/zenoh-python[main]: https://github.com/eclipse-zenoh/zenoh-python.git
 ecomfe/awesome-echarts[master]: https://github.com/ecomfe/awesome-echarts.git
 EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
@@ -851,6 +860,7 @@ facebookarchive/react-360[master]: https://github.com/facebookarchive/react-360.
 facebookarchive/UETorch[master]: https://github.com/facebookarchive/UETorch.git
 facebookresearch/AnimatedDrawings[main]: https://github.com/facebookresearch/AnimatedDrawings.git
 facebookresearch/blt[main]: https://github.com/facebookresearch/blt.git
+facebookresearch/chameleon[main]: https://github.com/facebookresearch/chameleon.git
 facebookresearch/co-tracker[main]: https://github.com/facebookresearch/co-tracker.git
 facebookresearch/cwm[main]: https://github.com/facebookresearch/cwm.git
 facebookresearch/DensePose[main]: https://github.com/facebookresearch/DensePose.git
@@ -996,6 +1006,8 @@ FoundationAgents/OpenManus[main]: https://github.com/FoundationAgents/OpenManus.
 FoundationVision/GLEE[main]: https://github.com/FoundationVision/GLEE.git
 FoundationVision/LlamaGen[main]: https://github.com/FoundationVision/LlamaGen.git
 FoundationVision/VAR[main]: https://github.com/FoundationVision/VAR.git
+foxglove/foxglove-sdk[main]: https://github.com/foxglove/foxglove-sdk.git
+foxglove/mcap[main]: https://github.com/foxglove/mcap.git
 Francis-Rings/StableAnimator[main]: https://github.com/Francis-Rings/StableAnimator.git
 franciszzj/Leffa[main]: https://github.com/franciszzj/Leffa.git
 frankarobotics/franka_ros[develop]: https://github.com/frankarobotics/franka_ros.git
@@ -1025,6 +1037,7 @@ fz-lyu/modbuspp[master]: https://github.com/fz-lyu/modbuspp.git
 fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_driver.git
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
+GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
 game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
@@ -1121,11 +1134,13 @@ google-deepmind/deepmind-research[master]: https://github.com/google-deepmind/de
 google-deepmind/dm_alchemy[master]: https://github.com/google-deepmind/dm_alchemy.git
 google-deepmind/dm_control[main]: https://github.com/google-deepmind/dm_control.git
 google-deepmind/funsearch[main]: https://github.com/google-deepmind/funsearch.git
+google-deepmind/gemini-robotics-sdk[main]: https://github.com/google-deepmind/gemini-robotics-sdk.git
 google-deepmind/gemma[main]: https://github.com/google-deepmind/gemma.git
 google-deepmind/ithaca[main]: https://github.com/google-deepmind/ithaca.git
 google-deepmind/mujoco[main]: https://github.com/google-deepmind/mujoco.git
 google-deepmind/mujoco_mpc[main]: https://github.com/google-deepmind/mujoco_mpc.git
 google-deepmind/mujoco_playground[main]: https://github.com/google-deepmind/mujoco_playground.git
+google-deepmind/mujoco_warp[main]: https://github.com/google-deepmind/mujoco_warp.git
 google-deepmind/open_spiel[master]: https://github.com/google-deepmind/open_spiel.git
 google-deepmind/open_x_embodiment[main]: https://github.com/google-deepmind/open_x_embodiment.git
 google-deepmind/scalable_agent[master]: https://github.com/google-deepmind/scalable_agent.git
@@ -1252,6 +1267,7 @@ heng-hw/V2A-Mapper[main]: https://github.com/heng-hw/V2A-Mapper.git
 HengyiWang/spann3r[main]: https://github.com/HengyiWang/spann3r.git
 henry123-boy/SpaTracker[main]: https://github.com/henry123-boy/SpaTracker.git
 henry123-boy/SpaTrackerV2[main]: https://github.com/henry123-boy/SpaTrackerV2.git
+henryhcliu/robodex_vlm[main]: https://github.com/henryhcliu/robodex_vlm.git
 HenryQW/Awesome-TTRSS[main]: https://github.com/HenryQW/Awesome-TTRSS.git
 hermanjakobsen/robotic-ultrasound-imaging[master]: https://github.com/hermanjakobsen/robotic-ultrasound-imaging.git
 HerXayah/road-to-yuzu-without-switch[slave]: https://github.com/HerXayah/road-to-yuzu-without-switch.git
@@ -2252,6 +2268,7 @@ Nutlope/llamacoder[main]: https://github.com/Nutlope/llamacoder.git
 Nutlope/llamatutor[main]: https://github.com/Nutlope/llamatutor.git
 Nutlope/napkins[main]: https://github.com/Nutlope/napkins.git
 Nutlope/picMenu[main]: https://github.com/Nutlope/picMenu.git
+nv-tlabs/3dgrut[main]: https://github.com/nv-tlabs/3dgrut.git
 nv-tlabs/ASE[main]: https://github.com/nv-tlabs/ASE.git
 nv-tlabs/vipe[main]: https://github.com/nv-tlabs/vipe.git
 nvbn/thefuck[master]: https://github.com/nvbn/thefuck.git
@@ -2687,6 +2704,7 @@ RenzKa/simlingo[main]: https://github.com/RenzKa/simlingo.git
 reorproject/reor[main]: https://github.com/reorproject/reor.git
 Replicable-MARL/MARLlib[master]: https://github.com/Replicable-MARL/MARLlib.git
 requarks/wiki[main]: https://github.com/requarks/wiki.git
+rerun-io/rerun[main]: https://github.com/rerun-io/rerun.git
 rese1f/StableVideo[master]: https://github.com/rese1f/StableVideo.git
 restsharp/RestSharp[dev]: https://github.com/restsharp/RestSharp.git
 RethinkRobotics/sawyer_robot[master]: https://github.com/RethinkRobotics/sawyer_robot.git
@@ -3139,6 +3157,7 @@ thkkk/manibox[main]: https://github.com/thkkk/manibox.git
 thoughtbot/dotfiles[main]: https://github.com/thoughtbot/dotfiles.git
 thu-coai/SafetyBench[main]: https://github.com/thu-coai/SafetyBench.git
 THU-MIG/yolov10[main]: https://github.com/THU-MIG/yolov10.git
+thu-ml/RDT2[main]: https://github.com/thu-ml/RDT2.git
 thu-ml/RoboticsDiffusionTransformer[main]: https://github.com/thu-ml/RoboticsDiffusionTransformer.git
 thu-ml/tianshou[master]: https://github.com/thu-ml/tianshou.git
 THUDM/AgentBench[main]: https://github.com/THUDM/AgentBench.git
@@ -3330,6 +3349,7 @@ VAST-AI-Research/TripoSR[main]: https://github.com/VAST-AI-Research/TripoSR.git
 vchoutas/smplx[main]: https://github.com/vchoutas/smplx.git
 Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
 VectorSpaceLab/OmniGen[main]: https://github.com/VectorSpaceLab/OmniGen.git
+VectorSpaceLab/OmniGen2[main]: https://github.com/VectorSpaceLab/OmniGen2.git
 velipso/sndfilter[master]: https://github.com/velipso/sndfilter.git
 vercel/ai[main]: https://github.com/vercel/ai.git
 vercel/hyper[canary]: https://github.com/vercel/hyper.git
