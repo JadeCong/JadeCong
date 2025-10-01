@@ -59,6 +59,7 @@ ag2ai/ag2[main]: https://github.com/ag2ai/ag2.git
 agalwood/Motrix[master]: https://github.com/agalwood/Motrix.git
 ageitgey/face_recognition[master]: https://github.com/ageitgey/face_recognition.git
 agent-husky/Husky-v1[main]: https://github.com/agent-husky/Husky-v1.git
+agent0ai/agent-zero[main]: https://github.com/agent0ai/agent-zero.git
 AgentEra/Agently[main]: https://github.com/AgentEra/Agently.git
 agentscope-ai/agentscope[main]: https://github.com/agentscope-ai/agentscope.git
 ageron/handson-ml[master]: https://github.com/ageron/handson-ml.git
@@ -162,6 +163,7 @@ alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
+ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub[main]: https://github.com/ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub.git
 amplab/SparkNet[master]: https://github.com/amplab/SparkNet.git
 anaconda/docker-images[main]: https://github.com/anaconda/docker-images.git
 anandpawara/Real_Time_Image_Animation[master]: https://github.com/anandpawara/Real_Time_Image_Animation.git
@@ -1876,6 +1878,7 @@ loongOpen/OpenLoong-Hardware[main]: https://github.com/loongOpen/OpenLoong-Hardw
 loongOpen/OpenLoong-MiniGym[main]: https://github.com/loongOpen/OpenLoong-MiniGym.git
 loongOpen/OpenLoong-ROS[main]: https://github.com/loongOpen/OpenLoong-ROS.git
 LordLiang/DrawingSpinUp[main]: https://github.com/LordLiang/DrawingSpinUp.git
+Lordog/dive-into-llms[main]: https://github.com/Lordog/dive-into-llms.git
 lorepirri/cayman-blog[master]: https://github.com/lorepirri/cayman-blog.git
 lovelyyoshino/Halcon_licenses[master]: https://github.com/lovelyyoshino/Halcon_licenses.git
 lowlighter/metrics[master]: https://github.com/lowlighter/metrics.git
@@ -2167,7 +2170,9 @@ msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-
 msgpack-rpc/msgpack-rpc[master]: https://github.com/msgpack-rpc/msgpack-rpc.git
 mshoe/PARC[main]: https://github.com/mshoe/PARC.git
 MSiam/motion_adaptation[master]: https://github.com/MSiam/motion_adaptation.git
+mudler/LocalAI[master]: https://github.com/mudler/LocalAI.git
 muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
+mujocolab/mjlab[main]: https://github.com/mujocolab/mjlab.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
 Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
 mustafa-qamaruddin/age-cgan[master]: https://github.com/mustafa-qamaruddin/age-cgan.git
@@ -2838,6 +2843,7 @@ sam2act/sam2act[main]: https://github.com/sam2act/sam2act.git
 samarth-robo/contactdb_prediction[diversenet]: https://github.com/samarth-robo/contactdb_prediction.git
 SamLynnEvans/Transformer[master]: https://github.com/SamLynnEvans/Transformer.git
 sammcj/superprompter[main]: https://github.com/sammcj/superprompter.git
+sammyuri/craftgpt[main]: https://github.com/sammyuri/craftgpt.git
 sampotts/plyr[master]: https://github.com/sampotts/plyr.git
 Samsung/ONE[master]: https://github.com/Samsung/ONE.git
 Samsung/TizenRT[master]: https://github.com/Samsung/TizenRT.git
@@ -3517,6 +3523,7 @@ XX-net/XX-Net[master]: https://github.com/XX-net/XX-Net.git
 xy02-05/ScoreHypo[main]: https://github.com/xy02-05/ScoreHypo.git
 yahoo/CaffeOnSpark[master]: https://github.com/yahoo/CaffeOnSpark.git
 Yam-cn/pyalgotrade-cn[master]: https://github.com/Yam-cn/pyalgotrade-cn.git
+yan5xu/ququ[main]: https://github.com/yan5xu/ququ.git
 yandex/faster-rnnlm[master]: https://github.com/yandex/faster-rnnlm.git
 yandexdataschool/Practical_RL[master]: https://github.com/yandexdataschool/Practical_RL.git
 yang-zj1026/legged-loco[main]: https://github.com/yang-zj1026/legged-loco.git
@@ -3532,7 +3539,7 @@ YanjieZe/3D-Diffusion-Policy[master]: https://github.com/YanjieZe/3D-Diffusion-P
 YanjieZe/GMR[master]: https://github.com/YanjieZe/GMR.git
 YanjieZe/Humanoid-Teleoperation[main]: https://github.com/YanjieZe/Humanoid-Teleoperation.git
 YanjieZe/Improved-3D-Diffusion-Policy[main]: https://github.com/YanjieZe/Improved-3D-Diffusion-Policy.git
-YanjieZe/TWIST[main]: https://github.com/YanjieZe/TWIST.git
+YanjieZe/TWIST[master]: https://github.com/YanjieZe/TWIST.git
 yannqi/Draw-an-Audio-Code[main]: https://github.com/yannqi/Draw-an-Audio-Code.git
 yao62995/tensorflow[master]: https://github.com/yao62995/tensorflow.git
 yeahhub/Hacking-Security-Ebooks[master]: https://github.com/yeahhub/Hacking-Security-Ebooks.git
