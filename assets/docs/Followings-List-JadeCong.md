@@ -13,6 +13,7 @@ acheong08: https://github.com/acheong08
 adobe: https://github.com/adobe
 ag-ui-protocol: https://github.com/ag-ui-protocol
 ag2ai: https://github.com/ag2ai
+agent0ai: https://github.com/agent0ai
 AgibotTech: https://github.com/AgibotTech
 agile-robots: https://github.com/agile-robots
 agilexrobotics: https://github.com/agilexrobotics
@@ -45,6 +46,7 @@ amandlek: https://github.com/amandlek
 ambots3D: https://github.com/ambots3D
 amd: https://github.com/amd
 amdegroot: https://github.com/amdegroot
+ami-iit: https://github.com/ami-iit
 amzn: https://github.com/amzn
 anaconda: https://github.com/anaconda
 andrewyng: https://github.com/andrewyng
@@ -118,6 +120,7 @@ browserbase: https://github.com/browserbase
 BruceYanghy: https://github.com/BruceYanghy
 buaacyw: https://github.com/buaacyw
 BuilderIO: https://github.com/BuilderIO
+bytebot-ai: https://github.com/bytebot-ai
 bytedance: https://github.com/bytedance
 cambrian-mllm: https://github.com/cambrian-mllm
 camel-ai: https://github.com/camel-ai
@@ -499,6 +502,7 @@ localsend: https://github.com/localsend
 locomanip-duet: https://github.com/locomanip-duet
 loggerhead: https://github.com/loggerhead
 loongOpen: https://github.com/loongOpen
+Lordog: https://github.com/Lordog
 lowlighter: https://github.com/lowlighter
 LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
@@ -566,6 +570,7 @@ mpaepper: https://github.com/mpaepper
 mrdbourke: https://github.com/mrdbourke
 MrTornado24: https://github.com/MrTornado24
 mshoe: https://github.com/mshoe
+mudler: https://github.com/mudler
 MVIG-SJTU: https://github.com/MVIG-SJTU
 MyoHub: https://github.com/MyoHub
 myshell-ai: https://github.com/myshell-ai
