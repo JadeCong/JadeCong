@@ -3,6 +3,7 @@
 0xKoda/drone-mcp[main]: https://github.com/0xKoda/drone-mcp.git
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
+11cafe/jaaz[main]: https://github.com/11cafe/jaaz.git
 1989Ryan/Semantic_SLAM[master]: https://github.com/1989Ryan/Semantic_SLAM.git
 1Panel-dev/1Panel[dev-v2]: https://github.com/1Panel-dev/1Panel.git
 1Panel-dev/MaxKB[v2]: https://github.com/1Panel-dev/MaxKB.git
@@ -164,6 +165,7 @@ amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
 ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub[main]: https://github.com/ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub.git
+amir1376/ab-download-manager[master]: https://github.com/amir1376/ab-download-manager.git
 amplab/SparkNet[master]: https://github.com/amplab/SparkNet.git
 anaconda/docker-images[main]: https://github.com/anaconda/docker-images.git
 anandpawara/Real_Time_Image_Animation[master]: https://github.com/anandpawara/Real_Time_Image_Animation.git
@@ -420,6 +422,7 @@ BuilderIO/gpt-crawler[main]: https://github.com/BuilderIO/gpt-crawler.git
 BuilderIO/micro-agent[main]: https://github.com/BuilderIO/micro-agent.git
 bulletphysics/bullet3[master]: https://github.com/bulletphysics/bullet3.git
 bulletphysics/pybullet_robots[master]: https://github.com/bulletphysics/pybullet_robots.git
+buresdv/Cork[main]: https://github.com/buresdv/Cork.git
 BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 Byaidu/PDFMathTranslate[main]: https://github.com/Byaidu/PDFMathTranslate.git
@@ -662,6 +665,7 @@ deepseek-ai/DeepSeek-V2[main]: https://github.com/deepseek-ai/DeepSeek-V2.git
 deepseek-ai/DeepSeek-V3[main]: https://github.com/deepseek-ai/DeepSeek-V3.git
 deepseek-ai/FlashMLA[main]: https://github.com/deepseek-ai/FlashMLA.git
 deepseek-ai/Janus[main]: https://github.com/deepseek-ai/Janus.git
+deepset-ai/haystack[main]: https://github.com/deepset-ai/haystack.git
 deepspeedai/DeepSpeed[master]: https://github.com/deepspeedai/DeepSpeed.git
 deezer/spleeter[master]: https://github.com/deezer/spleeter.git
 defunkt/gist[master]: https://github.com/defunkt/gist.git
@@ -1845,6 +1849,7 @@ liyaowei-stu/ImageConductor[main]: https://github.com/liyaowei-stu/ImageConducto
 liyaxuanliyaxuan/TinyVLA[main]: https://github.com/liyaxuanliyaxuan/TinyVLA.git
 liyi14/HAMSTER_beta[main]: https://github.com/liyi14/HAMSTER_beta.git
 liyi14/mx-DeepIM[master]: https://github.com/liyi14/mx-DeepIM.git
+LizardByte/Sunshine[master]: https://github.com/LizardByte/Sunshine.git
 ljean/modbus-tk[master]: https://github.com/ljean/modbus-tk.git
 lllyasviel/ControlNet[main]: https://github.com/lllyasviel/ControlNet.git
 lllyasviel/ControlNet-v1-1-nightly[main]: https://github.com/lllyasviel/ControlNet-v1-1-nightly.git
@@ -3259,7 +3264,7 @@ tw93/MiaoYan[main]: https://github.com/tw93/MiaoYan.git
 tw93/Pake[main]: https://github.com/tw93/Pake.git
 tw93/tw93[main]: https://github.com/tw93/tw93.git
 tw93/tw93.github.io[main]: https://github.com/tw93/tw93.github.io.git
-tw93/weekly[main]: https://github.com/tw93/weekly.git
+tw93/Weekly[main]: https://github.com/tw93/Weekly.git
 twbs/bootstrap[main]: https://github.com/twbs/bootstrap.git
 twitter/the-algorithm[main]: https://github.com/twitter/the-algorithm.git
 twitter/the-algorithm-ml[main]: https://github.com/twitter/the-algorithm-ml.git
