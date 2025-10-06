@@ -120,6 +120,7 @@ browserbase: https://github.com/browserbase
 BruceYanghy: https://github.com/BruceYanghy
 buaacyw: https://github.com/buaacyw
 BuilderIO: https://github.com/BuilderIO
+buresdv: https://github.com/buresdv
 bytebot-ai: https://github.com/bytebot-ai
 bytedance: https://github.com/bytedance
 cambrian-mllm: https://github.com/cambrian-mllm
@@ -201,6 +202,7 @@ deep-diver: https://github.com/deep-diver
 deepchem: https://github.com/deepchem
 deeplearning-ai-research: https://github.com/deeplearning-ai-research
 deepseek-ai: https://github.com/deepseek-ai
+deepset-ai: https://github.com/deepset-ai
 DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
 DexRobot: https://github.com/DexRobot
@@ -412,6 +414,7 @@ j96w: https://github.com/j96w
 janishar: https://github.com/janishar
 jart: https://github.com/jart
 JasonJZLiu: https://github.com/JasonJZLiu
+jaywcjlove: https://github.com/jaywcjlove
 jbiaojerry: https://github.com/jbiaojerry
 jcjohnson: https://github.com/jcjohnson
 jeecgboot: https://github.com/jeecgboot
