@@ -80,6 +80,7 @@ ashishpatel26: https://github.com/ashishpatel26
 asweigart: https://github.com/asweigart
 atenpas: https://github.com/atenpas
 AuboRobot: https://github.com/AuboRobot
+AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
 AutomaApp: https://github.com/AutomaApp
 AUTOMATIC1111: https://github.com/AUTOMATIC1111
 Awesome-HarmonyOS: https://github.com/Awesome-HarmonyOS
@@ -101,6 +102,7 @@ bcmi: https://github.com/bcmi
 bdaiinstitute: https://github.com/bdaiinstitute
 bearpaw: https://github.com/bearpaw
 behavior-robot-suite: https://github.com/behavior-robot-suite
+BeingBeyond: https://github.com/BeingBeyond
 BEPb: https://github.com/BEPb
 BerkeleyAutomation: https://github.com/BerkeleyAutomation
 binance: https://github.com/binance
@@ -141,6 +143,7 @@ chatanywhere: https://github.com/chatanywhere
 ChatGPTNextWeb: https://github.com/ChatGPTNextWeb
 chathub-dev: https://github.com/chathub-dev
 chatmcp: https://github.com/chatmcp
+CherryHQ: https://github.com/CherryHQ
 chrisalbon: https://github.com/chrisalbon
 chrislgarry: https://github.com/chrislgarry
 ChrisTitusTech: https://github.com/ChrisTitusTech
@@ -192,6 +195,7 @@ DanielTakeshi: https://github.com/DanielTakeshi
 danijar: https://github.com/danijar
 Dao-AILab: https://github.com/Dao-AILab
 databricks: https://github.com/databricks
+datasets: https://github.com/datasets
 datawhalechina: https://github.com/datawhalechina
 davideuler: https://github.com/davideuler
 DavidHDev: https://github.com/DavidHDev
@@ -232,6 +236,7 @@ dzhng: https://github.com/dzhng
 easychen: https://github.com/easychen
 EbookFoundation: https://github.com/EbookFoundation
 eclipse-zenoh: https://github.com/eclipse-zenoh
+EGalahad: https://github.com/EGalahad
 elecfreaks: https://github.com/elecfreaks
 electech6: https://github.com/electech6
 electron: https://github.com/electron
@@ -304,6 +309,7 @@ geekan: https://github.com/geekan
 Gen-Verse: https://github.com/Gen-Verse
 generalroboticslab: https://github.com/generalroboticslab
 Genesis-Embodied-AI: https://github.com/Genesis-Embodied-AI
+getlantern: https://github.com/getlantern
 getomni-ai: https://github.com/getomni-ai
 getzep: https://github.com/getzep
 GeWu-Lab: https://github.com/GeWu-Lab
@@ -490,6 +496,7 @@ liangpan99: https://github.com/liangpan99
 libing403: https://github.com/libing403
 Ligo-Biosciences: https://github.com/Ligo-Biosciences
 liguodongiot: https://github.com/liguodongiot
+lima-vm: https://github.com/lima-vm
 lingxiaomeng: https://github.com/lingxiaomeng
 linkerbotai: https://github.com/linkerbotai
 liruilong940607: https://github.com/liruilong940607
@@ -497,6 +504,7 @@ liruiw: https://github.com/liruiw
 Lissy93: https://github.com/Lissy93
 LiteOS: https://github.com/LiteOS
 liuff19: https://github.com/liuff19
+LizardByte: https://github.com/LizardByte
 lllyasviel: https://github.com/lllyasviel
 llvm: https://github.com/llvm
 lmstudio-ai: https://github.com/lmstudio-ai
@@ -563,6 +571,7 @@ modelscope: https://github.com/modelscope
 mongodb: https://github.com/mongodb
 MonitorControl: https://github.com/MonitorControl
 moojink: https://github.com/moojink
+moonlight-stream: https://github.com/moonlight-stream
 moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
 MorvanZhou: https://github.com/MorvanZhou
@@ -581,6 +590,7 @@ mysql: https://github.com/mysql
 mysqljs: https://github.com/mysqljs
 n8n-io: https://github.com/n8n-io
 NaiboWang: https://github.com/NaiboWang
+nakamotoo: https://github.com/nakamotoo
 naklecha: https://github.com/naklecha
 NanmiCoder: https://github.com/NanmiCoder
 NapthaAI: https://github.com/NapthaAI
@@ -724,6 +734,7 @@ PrincetonLIPS: https://github.com/PrincetonLIPS
 PrincetonUniversity: https://github.com/PrincetonUniversity
 project-instinct: https://github.com/project-instinct
 ProtonVPN: https://github.com/ProtonVPN
+ProxymanApp: https://github.com/ProxymanApp
 prs-eth: https://github.com/prs-eth
 psf: https://github.com/psf
 Psi-Robot: https://github.com/Psi-Robot
@@ -870,6 +881,7 @@ strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
 sunner: https://github.com/sunner
 suno-ai: https://github.com/suno-ai
+supabase: https://github.com/supabase
 SuperManito: https://github.com/SuperManito
 supermemoryai: https://github.com/supermemoryai
 supertokens: https://github.com/supertokens
@@ -928,8 +940,10 @@ toeverything: https://github.com/toeverything
 TokyoRobotics: https://github.com/TokyoRobotics
 TommyZihao: https://github.com/TommyZihao
 tonyzhaozh: https://github.com/tonyzhaozh
+torproject: https://github.com/torproject
 torvalds: https://github.com/torvalds
 TradeMaster-NTU: https://github.com/TradeMaster-NTU
+trailofbits: https://github.com/trailofbits
 TRI-ML: https://github.com/TRI-ML
 trimstray: https://github.com/trimstray
 tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
