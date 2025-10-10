@@ -125,6 +125,7 @@ BuilderIO: https://github.com/BuilderIO
 buresdv: https://github.com/buresdv
 bytebot-ai: https://github.com/bytebot-ai
 bytedance: https://github.com/bytedance
+cactus-compute: https://github.com/cactus-compute
 cambrian-mllm: https://github.com/cambrian-mllm
 camel-ai: https://github.com/camel-ai
 Canner: https://github.com/Canner
@@ -497,6 +498,7 @@ libing403: https://github.com/libing403
 Ligo-Biosciences: https://github.com/Ligo-Biosciences
 liguodongiot: https://github.com/liguodongiot
 lima-vm: https://github.com/lima-vm
+linchangyi1: https://github.com/linchangyi1
 lingxiaomeng: https://github.com/lingxiaomeng
 linkerbotai: https://github.com/linkerbotai
 liruilong940607: https://github.com/liruilong940607
@@ -669,6 +671,7 @@ OpenDriveLab: https://github.com/OpenDriveLab
 OpenGalaxea: https://github.com/OpenGalaxea
 OpenGVLab: https://github.com/OpenGVLab
 openharmony: https://github.com/openharmony
+OpenHelix-Team: https://github.com/OpenHelix-Team
 openinterpreter: https://github.com/openinterpreter
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRouterTeam: https://github.com/OpenRouterTeam
@@ -947,6 +950,7 @@ trailofbits: https://github.com/trailofbits
 TRI-ML: https://github.com/TRI-ML
 trimstray: https://github.com/trimstray
 tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
+Tsinghua-MARS-Lab: https://github.com/Tsinghua-MARS-Lab
 tud-amr: https://github.com/tud-amr
 tum-phoenix: https://github.com/tum-phoenix
 tum-vision: https://github.com/tum-vision
@@ -1089,6 +1093,7 @@ ZhengyiLuo: https://github.com/ZhengyiLuo
 zhouzypaul: https://github.com/zhouzypaul
 zia-ai: https://github.com/zia-ai
 Zie619: https://github.com/Zie619
+ziplab: https://github.com/ziplab
 Zipstack: https://github.com/Zipstack
 ZiqiaoPeng: https://github.com/ZiqiaoPeng
 zju3dv: https://github.com/zju3dv
