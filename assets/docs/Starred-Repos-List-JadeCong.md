@@ -153,7 +153,7 @@ allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.1.0]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.1.1]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 Alpha-VLLM/Lumina-mGPT[main]: https://github.com/Alpha-VLLM/Lumina-mGPT.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
@@ -446,6 +446,7 @@ bytedance/UI-TARS[main]: https://github.com/bytedance/UI-TARS.git
 bytedance/UI-TARS-desktop[main]: https://github.com/bytedance/UI-TARS-desktop.git
 bytedance/WildDoc[master]: https://github.com/bytedance/WildDoc.git
 bytedance/X-Dyna[main]: https://github.com/bytedance/X-Dyna.git
+cactus-compute/cactus[main]: https://github.com/cactus-compute/cactus.git
 caddyserver/caddy[master]: https://github.com/caddyserver/caddy.git
 caelan/pybullet-planning[master]: https://github.com/caelan/pybullet-planning.git
 cambrian-mllm/cambrian[main]: https://github.com/cambrian-mllm/cambrian.git
@@ -1820,6 +1821,7 @@ LiheYoung/Depth-Anything[main]: https://github.com/LiheYoung/Depth-Anything.git
 lihxxx/DisPose[main]: https://github.com/lihxxx/DisPose.git
 lijx10/uwb-localization[master]: https://github.com/lijx10/uwb-localization.git
 lima-vm/lima[master]: https://github.com/lima-vm/lima.git
+linchangyi1/Awesome-Touch[main]: https://github.com/linchangyi1/Awesome-Touch.git
 linchangyi1/LocoTouch[main]: https://github.com/linchangyi1/LocoTouch.git
 lingxiaomeng/VR_Teleoperation_Gen3[main]: https://github.com/lingxiaomeng/VR_Teleoperation_Gen3.git
 linker-bot/human-dex[main]: https://github.com/linker-bot/human-dex.git
@@ -2337,6 +2339,7 @@ NVlabs/COMPASS[main]: https://github.com/NVlabs/COMPASS.git
 NVlabs/cule[master]: https://github.com/NVlabs/cule.git
 NVlabs/curobo[main]: https://github.com/NVlabs/curobo.git
 NVlabs/DefGraspSim[main]: https://github.com/NVlabs/DefGraspSim.git
+NVlabs/DiffusionNFT[main]: https://github.com/NVlabs/DiffusionNFT.git
 NVlabs/Fast-dLLM[main]: https://github.com/NVlabs/Fast-dLLM.git
 NVlabs/FoundationPose[main]: https://github.com/NVlabs/FoundationPose.git
 NVlabs/FoundationStereo[master]: https://github.com/NVlabs/FoundationStereo.git
@@ -2449,6 +2452,7 @@ OpenGVLab/Diffree[main]: https://github.com/OpenGVLab/Diffree.git
 OpenGVLab/InternVideo[main]: https://github.com/OpenGVLab/InternVideo.git
 OpenGVLab/InternVL[main]: https://github.com/OpenGVLab/InternVL.git
 OpenHelix-Team/OpenTrajBooster[main]: https://github.com/OpenHelix-Team/OpenTrajBooster.git
+OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
 openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRouterTeam/openrouter-runner[main]: https://github.com/OpenRouterTeam/openrouter-runner.git
@@ -3266,6 +3270,7 @@ trimstray/the-practical-linux-hardening-guide[master]: https://github.com/trimst
 tristandeleu/pytorch-maml-rl[master]: https://github.com/tristandeleu/pytorch-maml-rl.git
 trojan-gfw/trojan[master]: https://github.com/trojan-gfw/trojan.git
 tsinghua-fib-lab/RoboScape[main]: https://github.com/tsinghua-fib-lab/RoboScape.git
+Tsinghua-MARS-Lab/SLAM-Former[master]: https://github.com/Tsinghua-MARS-Lab/SLAM-Former.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
 tub-rip/ES-PTAM[main]: https://github.com/tub-rip/ES-PTAM.git
@@ -3502,9 +3507,11 @@ x1xhlol/system-prompts-and-models-of-ai-tools[main]: https://github.com/x1xhlol/
 xai-org/grok-1[main]: https://github.com/xai-org/grok-1.git
 xArm-Developer/xarm_ros[master]: https://github.com/xArm-Developer/xarm_ros.git
 xavier150/Blender-For-UnrealEngine-Addons[release]: https://github.com/xavier150/Blender-For-UnrealEngine-Addons.git
+xbpeng/awr[master]: https://github.com/xbpeng/awr.git
 xbpeng/DeepLoco[master]: https://github.com/xbpeng/DeepLoco.git
 xbpeng/DeepMimic[master]: https://github.com/xbpeng/DeepMimic.git
 xbpeng/DeepTerrainRL[master]: https://github.com/xbpeng/DeepTerrainRL.git
+xbpeng/MimicKit[main]: https://github.com/xbpeng/MimicKit.git
 xflr6/graphviz[master]: https://github.com/xflr6/graphviz.git
 xhyumiracle/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers.git
 xiamx/awesome-sentiment-analysis[master]: https://github.com/xiamx/awesome-sentiment-analysis.git
@@ -3579,6 +3586,7 @@ yifan-hou/adaptive_compliance_policy[main]: https://github.com/yifan-hou/adaptiv
 yihao-meng/AniDoc_demo[main]: https://github.com/yihao-meng/AniDoc_demo.git
 yijiangh/ikfast_pybind[master]: https://github.com/yijiangh/ikfast_pybind.git
 yikaiw/Vidu4D[main]: https://github.com/yikaiw/Vidu4D.git
+yimingli1998/cdf[main]: https://github.com/yimingli1998/cdf.git
 YingZhangDUT/3d-human-overview[main]: https://github.com/YingZhangDUT/3d-human-overview.git
 yiranran/APDrawingGAN[master]: https://github.com/yiranran/APDrawingGAN.git
 yisol/IDM-VTON[main]: https://github.com/yisol/IDM-VTON.git
@@ -3685,6 +3693,7 @@ Zie619/n8n-workflows[main]: https://github.com/Zie619/n8n-workflows.git
 zihangdai/xlnet[master]: https://github.com/zihangdai/xlnet.git
 zijie0/HumanSystemOptimization[main]: https://github.com/zijie0/HumanSystemOptimization.git
 zino-rs/zino[main]: https://github.com/zino-rs/zino.git
+ziplab/VolSplat[main]: https://github.com/ziplab/VolSplat.git
 Zipstack/unstract[main]: https://github.com/Zipstack/unstract.git
 ZiqiaoPeng/SyncTalk[main]: https://github.com/ZiqiaoPeng/SyncTalk.git
 ZiwenZhuang/parkour[main]: https://github.com/ZiwenZhuang/parkour.git
