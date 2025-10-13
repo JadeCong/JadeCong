@@ -30,6 +30,7 @@ aimagelab: https://github.com/aimagelab
 AIRI-Institute: https://github.com/AIRI-Institute
 Akryum: https://github.com/Akryum
 AlaaLab: https://github.com/AlaaLab
+alebcay: https://github.com/alebcay
 alexandrebarachant: https://github.com/alexandrebarachant
 alexbers: https://github.com/alexbers
 AlexeyAB: https://github.com/AlexeyAB
@@ -83,6 +84,7 @@ AuboRobot: https://github.com/AuboRobot
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
 AutomaApp: https://github.com/AutomaApp
 AUTOMATIC1111: https://github.com/AUTOMATIC1111
+avelino: https://github.com/avelino
 Awesome-HarmonyOS: https://github.com/Awesome-HarmonyOS
 awesome-selfhosted: https://github.com/awesome-selfhosted
 azure-rtos: https://github.com/azure-rtos
@@ -135,6 +137,7 @@ carbon-language: https://github.com/carbon-language
 catachiii: https://github.com/catachiii
 cbfinn: https://github.com/cbfinn
 cdzombak: https://github.com/cdzombak
+chai3d: https://github.com/chai3d
 chaidiscovery: https://github.com/chaidiscovery
 Chainlit: https://github.com/Chainlit
 chaitin: https://github.com/chaitin
@@ -225,6 +228,8 @@ dockur: https://github.com/dockur
 docmost: https://github.com/docmost
 dog-qiuqiu: https://github.com/dog-qiuqiu
 donnemartin: https://github.com/donnemartin
+doocs: https://github.com/doocs
+DopplerHQ: https://github.com/DopplerHQ
 dougsm: https://github.com/dougsm
 doxygen: https://github.com/doxygen
 DrJimFan: https://github.com/DrJimFan
@@ -275,6 +280,7 @@ FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
 FengQuanLi: https://github.com/FengQuanLi
 FestingerVault: https://github.com/FestingerVault
+fffaraz: https://github.com/fffaraz
 FFTAI: https://github.com/FFTAI
 finos: https://github.com/finos
 firecrawl: https://github.com/firecrawl
@@ -307,6 +313,7 @@ GaTech-RL2: https://github.com/GaTech-RL2
 gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
 geekan: https://github.com/geekan
+geekxh: https://github.com/geekxh
 Gen-Verse: https://github.com/Gen-Verse
 generalroboticslab: https://github.com/generalroboticslab
 Genesis-Embodied-AI: https://github.com/Genesis-Embodied-AI
@@ -354,6 +361,7 @@ hellojixian: https://github.com/hellojixian
 HengyiWang: https://github.com/HengyiWang
 henry123-boy: https://github.com/henry123-boy
 hermanjakobsen: https://github.com/hermanjakobsen
+herrbischoff: https://github.com/herrbischoff
 HeyGen-Official: https://github.com/HeyGen-Official
 HFAiLab: https://github.com/HFAiLab
 HiDream-ai: https://github.com/HiDream-ai
@@ -472,10 +480,13 @@ kvcache-ai: https://github.com/kvcache-ai
 KwaiVGI: https://github.com/KwaiVGI
 kyegomez: https://github.com/kyegomez
 Kyubyong: https://github.com/Kyubyong
+labuladong: https://github.com/labuladong
 lamm-mit: https://github.com/lamm-mit
 langchain-ai: https://github.com/langchain-ai
+langfengQ: https://github.com/langfengQ
 langfuse: https://github.com/langfuse
 langgptai: https://github.com/langgptai
+lanius: https://github.com/lanius
 lanpa: https://github.com/lanpa
 lapce: https://github.com/lapce
 LargeWorldModel: https://github.com/LargeWorldModel
@@ -522,6 +533,7 @@ lucasjinreal: https://github.com/lucasjinreal
 lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
 lumalabs: https://github.com/lumalabs
+luong-komorebi: https://github.com/luong-komorebi
 lutris: https://github.com/lutris
 lyswhut: https://github.com/lyswhut
 MadryLab: https://github.com/MadryLab
@@ -638,6 +650,7 @@ NVIDIA-Genomics-Research: https://github.com/NVIDIA-Genomics-Research
 nvidia-isaac: https://github.com/nvidia-isaac
 NVIDIA-ISAAC-ROS: https://github.com/NVIDIA-ISAAC-ROS
 NVIDIA-Merlin: https://github.com/NVIDIA-Merlin
+NVIDIA-NeMo: https://github.com/NVIDIA-NeMo
 NVIDIA-Omniverse: https://github.com/NVIDIA-Omniverse
 nvidia-riva: https://github.com/nvidia-riva
 NVIDIAGameWorks: https://github.com/NVIDIAGameWorks
@@ -674,6 +687,7 @@ openharmony: https://github.com/openharmony
 OpenHelix-Team: https://github.com/OpenHelix-Team
 openinterpreter: https://github.com/openinterpreter
 OpenRL-Lab: https://github.com/OpenRL-Lab
+OpenRLHF: https://github.com/OpenRLHF
 OpenRouterTeam: https://github.com/OpenRouterTeam
 opensim-org: https://github.com/opensim-org
 OpenSLAM: https://github.com/OpenSLAM
@@ -689,6 +703,7 @@ orbbec: https://github.com/orbbec
 orcahand: https://github.com/orcahand
 OrderForce-Intelligence: https://github.com/OrderForce-Intelligence
 OriginAgents: https://github.com/OriginAgents
+orocos: https://github.com/orocos
 OS-Copilot: https://github.com/OS-Copilot
 ourongxing: https://github.com/ourongxing
 overleaf: https://github.com/overleaf
@@ -709,6 +724,7 @@ penrose: https://github.com/penrose
 pesser: https://github.com/pesser
 petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
+Phantom-video: https://github.com/Phantom-video
 Physical-Intelligence: https://github.com/Physical-Intelligence
 Picsart-AI-Research: https://github.com/Picsart-AI-Research
 pika: https://github.com/pika
@@ -725,6 +741,7 @@ poppy-project: https://github.com/poppy-project
 postmanlabs: https://github.com/postmanlabs
 potpie-ai: https://github.com/potpie-ai
 PowerShell: https://github.com/PowerShell
+prakhar1989: https://github.com/prakhar1989
 prathimacode-hub: https://github.com/prathimacode-hub
 prefix-dev: https://github.com/prefix-dev
 premake: https://github.com/premake
@@ -769,6 +786,7 @@ raminmh: https://github.com/raminmh
 rasbt: https://github.com/rasbt
 raymin0223: https://github.com/raymin0223
 RCHI-Lab: https://github.com/RCHI-Lab
+rdiankov: https://github.com/rdiankov
 ReactRobotics: https://github.com/ReactRobotics
 real-stanford: https://github.com/real-stanford
 RealManRobot: https://github.com/RealManRobot
@@ -833,6 +851,7 @@ ScriptEcho-ai: https://github.com/ScriptEcho-ai
 scutan90: https://github.com/scutan90
 Sense-X: https://github.com/Sense-X
 sentient-agi: https://github.com/sentient-agi
+serhii-londar: https://github.com/serhii-londar
 serpapi: https://github.com/serpapi
 SesameAILabs: https://github.com/SesameAILabs
 shadowsocks: https://github.com/shadowsocks
@@ -846,9 +865,11 @@ ShuoYangRobotics: https://github.com/ShuoYangRobotics
 Significant-Gravitas: https://github.com/Significant-Gravitas
 SIGRobotics-UIUC: https://github.com/SIGRobotics-UIUC
 sihyun-yu: https://github.com/sihyun-yu
+Simple-Efficient: https://github.com/Simple-Efficient
 SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
 simstudioai: https://github.com/simstudioai
 simular-ai: https://github.com/simular-ai
+sindresorhus: https://github.com/sindresorhus
 sinoyou: https://github.com/sinoyou
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
 skywind3000: https://github.com/skywind3000
@@ -868,6 +889,7 @@ spring-projects: https://github.com/spring-projects
 squidfunk: https://github.com/squidfunk
 sst: https://github.com/sst
 Stability-AI: https://github.com/Stability-AI
+stack-of-tasks: https://github.com/stack-of-tasks
 stackblitz: https://github.com/stackblitz
 Standard-Intelligence: https://github.com/Standard-Intelligence
 Stanford-ILIAD: https://github.com/Stanford-ILIAD
@@ -945,12 +967,14 @@ TommyZihao: https://github.com/TommyZihao
 tonyzhaozh: https://github.com/tonyzhaozh
 torproject: https://github.com/torproject
 torvalds: https://github.com/torvalds
+traclabs: https://github.com/traclabs
 TradeMaster-NTU: https://github.com/TradeMaster-NTU
 trailofbits: https://github.com/trailofbits
 TRI-ML: https://github.com/TRI-ML
 trimstray: https://github.com/trimstray
 tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
 Tsinghua-MARS-Lab: https://github.com/Tsinghua-MARS-Lab
+TsinghuaC3I: https://github.com/TsinghuaC3I
 tud-amr: https://github.com/tud-amr
 tum-phoenix: https://github.com/tum-phoenix
 tum-vision: https://github.com/tum-vision
@@ -1001,6 +1025,7 @@ vikashplus: https://github.com/vikashplus
 viliusle: https://github.com/viliusle
 villekuosmanen: https://github.com/villekuosmanen
 vinjn: https://github.com/vinjn
+vinta: https://github.com/vinta
 virattt: https://github.com/virattt
 VIS4ROB-lab: https://github.com/VIS4ROB-lab
 Vision-CAIR: https://github.com/Vision-CAIR
