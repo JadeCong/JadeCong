@@ -373,6 +373,7 @@ bharatm11/Geomagic_Touch_ROS_Drivers[hydro-devel]: https://github.com/bharatm11/
 bhaskatripathi/Text2Diagram[main]: https://github.com/bhaskatripathi/Text2Diagram.git
 bheijden/bubblify[master]: https://github.com/bheijden/bubblify.git
 BICLab/SpikeYOLO[main]: https://github.com/BICLab/SpikeYOLO.git
+BidingCC/BuildingAI[master]: https://github.com/BidingCC/BuildingAI.git
 bilibili/ailab[main]: https://github.com/bilibili/ailab.git
 binance/binance-api-postman[master]: https://github.com/binance/binance-api-postman.git
 binance/binance-connector-python[master]: https://github.com/binance/binance-connector-python.git
@@ -724,7 +725,9 @@ donnemartin/interactive-coding-challenges[master]: https://github.com/donnemarti
 donnemartin/system-design-primer[master]: https://github.com/donnemartin/system-design-primer.git
 donnyyou/torchcv[master]: https://github.com/donnyyou/torchcv.git
 dontriskit/awesome-ai-system-prompts[main]: https://github.com/dontriskit/awesome-ai-system-prompts.git
+doocs/advanced-java[main]: https://github.com/doocs/advanced-java.git
 doocs/source-code-hunter[main]: https://github.com/doocs/source-code-hunter.git
+DopplerHQ/awesome-interview-questions[master]: https://github.com/DopplerHQ/awesome-interview-questions.git
 dornik/doughnet[main]: https://github.com/dornik/doughnet.git
 Doubiiu/ToonCrafter[main]: https://github.com/Doubiiu/ToonCrafter.git
 dougsm/ggcnn[master]: https://github.com/dougsm/ggcnn.git
@@ -945,7 +948,6 @@ FareedKhan-dev/Building-llama3-from-scratch[main]: https://github.com/FareedKhan
 farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
-FastbuildAI/FastbuildAI[master]: https://github.com/FastbuildAI/FastbuildAI.git
 fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
 fastrepl/hyprnote[main]: https://github.com/fastrepl/hyprnote.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
@@ -1074,6 +1076,7 @@ gbmhunter/CppLinuxSerial[master]: https://github.com/gbmhunter/CppLinuxSerial.gi
 geekan/HowToLiveLonger[main]: https://github.com/geekan/HowToLiveLonger.git
 geekcomputers/Python[master]: https://github.com/geekcomputers/Python.git
 geektown/raspberry-xunfei[master]: https://github.com/geektown/raspberry-xunfei.git
+geekxh/hello-algorithm[master]: https://github.com/geekxh/hello-algorithm.git
 geekywrites/datascience[main]: https://github.com/geekywrites/datascience.git
 geliuhao/CVPR2016_HandPoseEstimation[master]: https://github.com/geliuhao/CVPR2016_HandPoseEstimation.git
 gemlab-vt/motionshop[main]: https://github.com/gemlab-vt/motionshop.git
@@ -1083,6 +1086,7 @@ generatebio/chroma[main]: https://github.com/generatebio/chroma.git
 Genesis-Embodied-AI/Genesis[main]: https://github.com/Genesis-Embodied-AI/Genesis.git
 Genesis-Embodied-AI/RoboGen[main]: https://github.com/Genesis-Embodied-AI/RoboGen.git
 genforce/JOSH[main]: https://github.com/genforce/JOSH.git
+Geniusay/ChopperBot[master]: https://github.com/Geniusay/ChopperBot.git
 Gerrnperl/outline-map[main]: https://github.com/Gerrnperl/outline-map.git
 GestureGeneration/Speech_driven_gesture_generation_with_autoencoder[master]: https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder.git
 getlantern/lantern[devel]: https://github.com/getlantern/lantern.git
@@ -1284,6 +1288,7 @@ henry123-boy/SpaTrackerV2[main]: https://github.com/henry123-boy/SpaTrackerV2.gi
 henryhcliu/robodex_vlm[main]: https://github.com/henryhcliu/robodex_vlm.git
 HenryQW/Awesome-TTRSS[main]: https://github.com/HenryQW/Awesome-TTRSS.git
 hermanjakobsen/robotic-ultrasound-imaging[master]: https://github.com/hermanjakobsen/robotic-ultrasound-imaging.git
+herrbischoff/awesome-macos-command-line[main]: https://github.com/herrbischoff/awesome-macos-command-line.git
 HerXayah/road-to-yuzu-without-switch[slave]: https://github.com/HerXayah/road-to-yuzu-without-switch.git
 hetianle/HousePricingOfBeijing[master]: https://github.com/hetianle/HousePricingOfBeijing.git
 hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
@@ -1376,6 +1381,7 @@ huggingface/pytorch-pretrained-BigGAN[master]: https://github.com/huggingface/py
 huggingface/transformers[main]: https://github.com/huggingface/transformers.git
 huggingface/transformers-bloom-inference[main]: https://github.com/huggingface/transformers-bloom-inference.git
 huggingface/transformers.js[main]: https://github.com/huggingface/transformers.js.git
+huggingface/trl[main]: https://github.com/huggingface/trl.git
 Huibq/keep-alive[master]: https://github.com/Huibq/keep-alive.git
 hujiecpp/PE3R[main]: https://github.com/hujiecpp/PE3R.git
 hukz18/Robot-Trains-Robot[main]: https://github.com/hukz18/Robot-Trains-Robot.git
@@ -1749,15 +1755,18 @@ kyzhouhzau/BERT-NER[master]: https://github.com/kyzhouhzau/BERT-NER.git
 labmlai/annotated_deep_learning_paper_implementations[master]: https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
 labring/FastGPT[main]: https://github.com/labring/FastGPT.git
 labteral/chatgpt-python[master]: https://github.com/labteral/chatgpt-python.git
+labuladong/fucking-algorithm[master]: https://github.com/labuladong/fucking-algorithm.git
 LAMDA-NJU/Deep-Forest[master]: https://github.com/LAMDA-NJU/Deep-Forest.git
 lamm-mit/PRefLexOR[main]: https://github.com/lamm-mit/PRefLexOR.git
 langbot-app/LangBot[master]: https://github.com/langbot-app/LangBot.git
 langchain-ai/langchain[master]: https://github.com/langchain-ai/langchain.git
 langchain-ai/langgraph[main]: https://github.com/langchain-ai/langgraph.git
 langchain-ai/opengpts[main]: https://github.com/langchain-ai/opengpts.git
+langfengQ/verl-agent[master]: https://github.com/langfengQ/verl-agent.git
 langfuse/langfuse[main]: https://github.com/langfuse/langfuse.git
 langgenius/dify[main]: https://github.com/langgenius/dify.git
 langgptai/LangGPT[main]: https://github.com/langgptai/LangGPT.git
+lanius/tinyik[master]: https://github.com/lanius/tinyik.git
 LantaoYu/SeqGAN[master]: https://github.com/LantaoYu/SeqGAN.git
 lantiga/pytorch2c[master]: https://github.com/lantiga/pytorch2c.git
 lapce/lapce[master]: https://github.com/lapce/lapce.git
@@ -1921,10 +1930,12 @@ lucidrains/vit-pytorch[main]: https://github.com/lucidrains/vit-pytorch.git
 lucidrains/x-transformers[main]: https://github.com/lucidrains/x-transformers.git
 lucidsim/lucidsim[main]: https://github.com/lucidsim/lucidsim.git
 lufficc/SSD[master]: https://github.com/lufficc/SSD.git
+lukasz-madon/awesome-remote-job[master]: https://github.com/lukasz-madon/awesome-remote-job.git
 lumalabs/lumaapi-python[main]: https://github.com/lumalabs/lumaapi-python.git
 lumina-ai-inc/benchmark[master]: https://github.com/lumina-ai-inc/benchmark.git
 lunarring/lunar_tools[main]: https://github.com/lunarring/lunar_tools.git
 Luo-Yihang/3DEnhancer[main]: https://github.com/Luo-Yihang/3DEnhancer.git
+luong-komorebi/Awesome-Linux-Software[master]: https://github.com/luong-komorebi/Awesome-Linux-Software.git
 luosiallen/Diff-Foley[main]: https://github.com/luosiallen/Diff-Foley.git
 luoxier/CycleGAN_Tensorlayer[master]: https://github.com/luoxier/CycleGAN_Tensorlayer.git
 lutris/lutris[master]: https://github.com/lutris/lutris.git
@@ -2306,6 +2317,7 @@ NVIDIA-ISAAC-ROS/isaac_ros_object_detection[main]: https://github.com/NVIDIA-ISA
 NVIDIA-ISAAC-ROS/isaac_ros_visual_slam[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
 NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_benchmark.git
 NVIDIA-NeMo/NeMo[main]: https://github.com/NVIDIA-NeMo/NeMo.git
+NVIDIA-NeMo/RL[main]: https://github.com/NVIDIA-NeMo/RL.git
 NVIDIA-Omniverse/deep-dive-into-microservices[main]: https://github.com/NVIDIA-Omniverse/deep-dive-into-microservices.git
 NVIDIA-Omniverse/iot-samples[main]: https://github.com/NVIDIA-Omniverse/iot-samples.git
 NVIDIA-Omniverse/kit-app-template[main]: https://github.com/NVIDIA-Omniverse/kit-app-template.git
@@ -2455,6 +2467,7 @@ OpenHelix-Team/OpenTrajBooster[main]: https://github.com/OpenHelix-Team/OpenTraj
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
 openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
+OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
 OpenRouterTeam/openrouter-runner[main]: https://github.com/OpenRouterTeam/openrouter-runner.git
 opensim-org/opensim-core[main]: https://github.com/opensim-org/opensim-core.git
 opensim-org/opensim-gui[main]: https://github.com/opensim-org/opensim-gui.git
@@ -2481,6 +2494,7 @@ orbbec/OrbbecSDK_v2[main]: https://github.com/orbbec/OrbbecSDK_v2.git
 orcahand/orcahand_description[main]: https://github.com/orcahand/orcahand_description.git
 orcahand/orca_core[main]: https://github.com/orcahand/orca_core.git
 organicmaps/organicmaps[master]: https://github.com/organicmaps/organicmaps.git
+orocos/orocos_kinematics_dynamics[master]: https://github.com/orocos/orocos_kinematics_dynamics.git
 OS-Copilot/OS-Copilot[main]: https://github.com/OS-Copilot/OS-Copilot.git
 OSU-NLP-Group/HippoRAG[main]: https://github.com/OSU-NLP-Group/HippoRAG.git
 OthersideAI/self-operating-computer[main]: https://github.com/OthersideAI/self-operating-computer.git
@@ -2542,6 +2556,7 @@ petercorke/robotics-toolbox-python[master]: https://github.com/petercorke/roboti
 PeterH0323/Streamer-Sales[main]: https://github.com/PeterH0323/Streamer-Sales.git
 PeterL1n/BackgroundMattingV2[master]: https://github.com/PeterL1n/BackgroundMattingV2.git
 PetoiCamp/OpenCat-Quadruped-Robot[main]: https://github.com/PetoiCamp/OpenCat-Quadruped-Robot.git
+Phantom-video/HuMo[main]: https://github.com/Phantom-video/HuMo.git
 Phantom-video/Phantom[main]: https://github.com/Phantom-video/Phantom.git
 philc/vimium[master]: https://github.com/philc/vimium.git
 philipperemy/keras-attention[master]: https://github.com/philipperemy/keras-attention.git
@@ -2606,6 +2621,7 @@ PowerHouseMan/ComfyUI-AdvancedLivePortrait[main]: https://github.com/PowerHouseM
 PowerShell/AIShell[main]: https://github.com/PowerShell/AIShell.git
 pqoqubbw/icons[main]: https://github.com/pqoqubbw/icons.git
 practical-tutorials/project-based-learning[master]: https://github.com/practical-tutorials/project-based-learning.git
+prakhar1989/awesome-courses[master]: https://github.com/prakhar1989/awesome-courses.git
 prathimacode-hub/Ezy-Parking[main]: https://github.com/prathimacode-hub/Ezy-Parking.git
 PRBonn/kiss-icp[main]: https://github.com/PRBonn/kiss-icp.git
 prefix-dev/pixi[main]: https://github.com/prefix-dev/pixi.git
@@ -2749,6 +2765,7 @@ ricmua/ros_force_dimension[main]: https://github.com/ricmua/ros_force_dimension.
 ripienaar/free-for-dev[master]: https://github.com/ripienaar/free-for-dev.git
 riscv/riscv-isa-manual[main]: https://github.com/riscv/riscv-isa-manual.git
 RIVeR-Lab/mobiman[main]: https://github.com/RIVeR-Lab/mobiman.git
+rl-augmented-mpc/IsaacLab4.5[devel]: https://github.com/rl-augmented-mpc/IsaacLab4.5.git
 rlabbe/filterpy[master]: https://github.com/rlabbe/filterpy.git
 rlabbe/Kalman-and-Bayesian-Filters-in-Python[master]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python.git
 rlcode/reinforcement-learning[master]: https://github.com/rlcode/reinforcement-learning.git
@@ -2937,6 +2954,8 @@ shiyi-zh0408/FlexiAct[main]: https://github.com/shiyi-zh0408/FlexiAct.git
 shiyu-coder/Kronos[master]: https://github.com/shiyu-coder/Kronos.git
 Shopify/shopify.github.com[main]: https://github.com/Shopify/shopify.github.com.git
 shoumenchougou/RWKV-Wiki-CN[main]: https://github.com/shoumenchougou/RWKV-Wiki-CN.git
+showlab/Code2Video[main]: https://github.com/showlab/Code2Video.git
+showlab/Paper2Video[main]: https://github.com/showlab/Paper2Video.git
 Shubhamsaboo/awesome-llm-apps[main]: https://github.com/Shubhamsaboo/awesome-llm-apps.git
 Shunichi09/PythonLinearNonlinearControl[master]: https://github.com/Shunichi09/PythonLinearNonlinearControl.git
 ShuoYangRobotics/A1-QP-MPC-Controller[main]: https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller.git
@@ -2953,12 +2972,14 @@ sime/morse-transmitter[main]: https://github.com/sime/morse-transmitter.git
 simoninithomas/Deep_reinforcement_learning_Course[master]: https://github.com/simoninithomas/Deep_reinforcement_learning_Course.git
 simontomaskarlsson/CycleGAN-Keras[master]: https://github.com/simontomaskarlsson/CycleGAN-Keras.git
 simonwan1980/A-flexible-new-technique-for-camera-calibration[master]: https://github.com/simonwan1980/A-flexible-new-technique-for-camera-calibration.git
+Simple-Efficient/RL-Factory[main]: https://github.com/Simple-Efficient/RL-Factory.git
 SimpleAutomationOrg/SimpleAutomation[main]: https://github.com/SimpleAutomationOrg/SimpleAutomation.git
 simstudioai/sim[main]: https://github.com/simstudioai/sim.git
 simular-ai/Agent-S[main]: https://github.com/simular-ai/Agent-S.git
 sinall/StrategyEase-Python-SDK[master]: https://github.com/sinall/StrategyEase-Python-SDK.git
 sinaptik-ai/pandas-ai[main]: https://github.com/sinaptik-ai/pandas-ai.git
 sindresorhus/awesome[main]: https://github.com/sindresorhus/awesome.git
+sindresorhus/awesome-chatgpt[main]: https://github.com/sindresorhus/awesome-chatgpt.git
 sindresorhus/awesome-nodejs[main]: https://github.com/sindresorhus/awesome-nodejs.git
 sinoyou/GaVS[main]: https://github.com/sinoyou/GaVS.git
 SizheAn/PanoHead[main]: https://github.com/SizheAn/PanoHead.git
@@ -3176,7 +3197,9 @@ TheAlgorithms/Java[master]: https://github.com/TheAlgorithms/Java.git
 TheAlgorithms/JavaScript[master]: https://github.com/TheAlgorithms/JavaScript.git
 TheAlgorithms/Python[master]: https://github.com/TheAlgorithms/Python.git
 TheAlgorithms/Rust[master]: https://github.com/TheAlgorithms/Rust.git
+TheAlgorithms/Swift[master]: https://github.com/TheAlgorithms/Swift.git
 TheAlgorithms/TheAlgorithms.github.io[master]: https://github.com/TheAlgorithms/TheAlgorithms.github.io.git
+TheAlgorithms/TypeScript[master]: https://github.com/TheAlgorithms/TypeScript.git
 Theano/Theano[master]: https://github.com/Theano/Theano.git
 TheEngineRoom-UniGe/ARMOR_OWLOOP[master]: https://github.com/TheEngineRoom-UniGe/ARMOR_OWLOOP.git
 TheKingOfDuck/burpFakeIP[master]: https://github.com/TheKingOfDuck/burpFakeIP.git
@@ -3212,6 +3235,7 @@ Tianxiaomo/pytorch-YOLOv4[master]: https://github.com/Tianxiaomo/pytorch-YOLOv4.
 TianxingChen/Embodied-AI-Guide[main]: https://github.com/TianxingChen/Embodied-AI-Guide.git
 tianyakk/tianya_kkndme[main]: https://github.com/tianyakk/tianya_kkndme.git
 timdorr/tesla-api[master]: https://github.com/timdorr/tesla-api.git
+timeshiftsauce/CeruMusic[main]: https://github.com/timeshiftsauce/CeruMusic.git
 timqian/bambot[main]: https://github.com/timqian/bambot.git
 TingliangZhang/VR_Robot_Thesis[master]: https://github.com/TingliangZhang/VR_Robot_Thesis.git
 TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
@@ -3255,6 +3279,7 @@ torvalds/linux[master]: https://github.com/torvalds/linux.git
 toto222/DICE-Talk[main]: https://github.com/toto222/DICE-Talk.git
 tqdm/tqdm[master]: https://github.com/tqdm/tqdm.git
 TQTQliu/MVSGaussian[main]: https://github.com/TQTQliu/MVSGaussian.git
+traclabs/trac_ik-release[master]: https://github.com/traclabs/trac_ik-release.git
 TradeMaster-NTU/TradeMaster[1.0.0]: https://github.com/TradeMaster-NTU/TradeMaster.git
 trailofbits/algo[master]: https://github.com/trailofbits/algo.git
 TrajectoryCrafter/TrajectoryCrafter[main]: https://github.com/TrajectoryCrafter/TrajectoryCrafter.git
@@ -3271,6 +3296,7 @@ tristandeleu/pytorch-maml-rl[master]: https://github.com/tristandeleu/pytorch-ma
 trojan-gfw/trojan[master]: https://github.com/trojan-gfw/trojan.git
 tsinghua-fib-lab/RoboScape[main]: https://github.com/tsinghua-fib-lab/RoboScape.git
 Tsinghua-MARS-Lab/SLAM-Former[master]: https://github.com/Tsinghua-MARS-Lab/SLAM-Former.git
+TsinghuaC3I/Awesome-RL-for-LRMs[main]: https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
 tub-rip/ES-PTAM[main]: https://github.com/tub-rip/ES-PTAM.git
