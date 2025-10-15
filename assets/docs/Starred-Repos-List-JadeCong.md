@@ -5,6 +5,7 @@
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
 11cafe/jaaz[main]: https://github.com/11cafe/jaaz.git
 1989Ryan/Semantic_SLAM[master]: https://github.com/1989Ryan/Semantic_SLAM.git
+1c7/chinese-independent-developer[master]: https://github.com/1c7/chinese-independent-developer.git
 1Panel-dev/1Panel[dev-v2]: https://github.com/1Panel-dev/1Panel.git
 1Panel-dev/MaxKB[v2]: https://github.com/1Panel-dev/MaxKB.git
 20tab/bvh-python[master]: https://github.com/20tab/bvh-python.git
@@ -1112,6 +1113,7 @@ gitblit-org/gitblit[master]: https://github.com/gitblit-org/gitblit.git
 GitbookIO/gitbook[main]: https://github.com/GitbookIO/gitbook.git
 GitbookIO/javascript[master]: https://github.com/GitbookIO/javascript.git
 github/CodeSearchNet[master]: https://github.com/github/CodeSearchNet.git
+github/copilot-cli[main]: https://github.com/github/copilot-cli.git
 github/github-mcp-server[main]: https://github.com/github/github-mcp-server.git
 github/government.github.com[gh-pages]: https://github.com/github/government.github.com.git
 github/markup[master]: https://github.com/github/markup.git
@@ -1427,6 +1429,7 @@ IDEA-Research/Grounding-DINO-1.5-API[master]: https://github.com/IDEA-Research/G
 IDEA-Research/GroundingDINO[main]: https://github.com/IDEA-Research/GroundingDINO.git
 IDEA-Research/T-Rex[trex2]: https://github.com/IDEA-Research/T-Rex.git
 IFL-CAMP/iiwa_stack[master]: https://github.com/IFL-CAMP/iiwa_stack.git
+iflow-ai/iflow-cli[main]: https://github.com/iflow-ai/iflow-cli.git
 iGaoWei/BigDataView[master]: https://github.com/iGaoWei/BigDataView.git
 IGL-HKUST/DiffusionAsShader[main]: https://github.com/IGL-HKUST/DiffusionAsShader.git
 IGLICT/DeepFaceDrawing-Jittor[master]: https://github.com/IGLICT/DeepFaceDrawing-Jittor.git
@@ -1469,6 +1472,7 @@ IntelRealSense/realsense-ros[ros2-master]: https://github.com/IntelRealSense/rea
 interactive-3d/interactive3d[main]: https://github.com/interactive-3d/interactive3d.git
 InternLM/MindSearch[main]: https://github.com/InternLM/MindSearch.git
 InternRobotics/Aether[main]: https://github.com/InternRobotics/Aether.git
+InternRobotics/ARTDECO[main]: https://github.com/InternRobotics/ARTDECO.git
 InternRobotics/EmbodiedScan[main]: https://github.com/InternRobotics/EmbodiedScan.git
 InternRobotics/HIMLoco[main]: https://github.com/InternRobotics/HIMLoco.git
 InternRobotics/Infinite-Mobility[main]: https://github.com/InternRobotics/Infinite-Mobility.git
@@ -1671,6 +1675,7 @@ karpathy/llm.c[master]: https://github.com/karpathy/llm.c.git
 karpathy/LLM101n[master]: https://github.com/karpathy/LLM101n.git
 karpathy/makemore[master]: https://github.com/karpathy/makemore.git
 karpathy/minGPT[master]: https://github.com/karpathy/minGPT.git
+karpathy/nanochat[master]: https://github.com/karpathy/nanochat.git
 karpathy/nanoGPT[master]: https://github.com/karpathy/nanoGPT.git
 karpathy/nn-zero-to-hero[master]: https://github.com/karpathy/nn-zero-to-hero.git
 katerakelly/pytorch-maml[master]: https://github.com/katerakelly/pytorch-maml.git
@@ -1911,6 +1916,7 @@ LPengYang/MotionClone[main]: https://github.com/LPengYang/MotionClone.git
 lpiccinelli-eth/UniK3D[main]: https://github.com/lpiccinelli-eth/UniK3D.git
 lra/mackup[master]: https://github.com/lra/mackup.git
 lrxjason/Attention3DHumanPose[master]: https://github.com/lrxjason/Attention3DHumanPose.git
+lss233/kirara-ai[master]: https://github.com/lss233/kirara-ai.git
 luban-agi/Awesome-Domain-LLM[main]: https://github.com/luban-agi/Awesome-Domain-LLM.git
 Lucaria-Academy/Animate-X[main]: https://github.com/Lucaria-Academy/Animate-X.git
 LucasAlegre/morl-baselines[main]: https://github.com/LucasAlegre/morl-baselines.git
@@ -2040,6 +2046,8 @@ mhutchie/vscode-git-graph[develop]: https://github.com/mhutchie/vscode-git-graph
 Michael-A-Kuykendall/shimmy[main]: https://github.com/Michael-A-Kuykendall/shimmy.git
 michaellin/OmniGrip[master]: https://github.com/michaellin/OmniGrip.git
 Michaelszj/pro-tracker[new]: https://github.com/Michaelszj/pro-tracker.git
+michaelyuancb/motiontrans[main]: https://github.com/michaelyuancb/motiontrans.git
+michaelyuancb/motiontrans-pi0[main]: https://github.com/michaelyuancb/motiontrans-pi0.git
 michalfaber/keras_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation.git
 michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation.git
 MichalZawalski/embodied-CoT[main]: https://github.com/MichalZawalski/embodied-CoT.git
@@ -3391,6 +3399,7 @@ UT-Austin-RPL/deoxys_control[main]: https://github.com/UT-Austin-RPL/deoxys_cont
 UT-Austin-RPL/GROOT[master]: https://github.com/UT-Austin-RPL/GROOT.git
 UT-Austin-RPL/TRILL[main]: https://github.com/UT-Austin-RPL/TRILL.git
 UT-HCRL/LEGATO[main]: https://github.com/UT-HCRL/LEGATO.git
+utiasDSL/fiper[main]: https://github.com/utiasDSL/fiper.git
 uynitsuj/real2render2real[main]: https://github.com/uynitsuj/real2render2real.git
 UZ-SLAMLab/ORB_SLAM3[master]: https://github.com/UZ-SLAMLab/ORB_SLAM3.git
 uzh-rpg/dagr[master]: https://github.com/uzh-rpg/dagr.git
