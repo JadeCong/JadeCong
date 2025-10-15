@@ -1,4 +1,5 @@
 01-ai: https://github.com/01-ai
+1c7: https://github.com/1c7
 1Panel-dev: https://github.com/1Panel-dev
 21st-dev: https://github.com/21st-dev
 3b1b: https://github.com/3b1b
@@ -95,6 +96,7 @@ BadToBest: https://github.com/BadToBest
 baichuan-inc: https://github.com/baichuan-inc
 baidu: https://github.com/baidu
 baidu-research: https://github.com/baidu-research
+BaiShuanghao: https://github.com/BaiShuanghao
 balancap: https://github.com/balancap
 BaowenZ: https://github.com/BaowenZ
 barryclark: https://github.com/barryclark
@@ -258,6 +260,7 @@ epoch-research: https://github.com/epoch-research
 Ericcsr: https://github.com/Ericcsr
 erwincoumans: https://github.com/erwincoumans
 escontra: https://github.com/escontra
+EstunSWRD: https://github.com/EstunSWRD
 etched-ai: https://github.com/etched-ai
 eth-sri: https://github.com/eth-sri
 EtherDream: https://github.com/EtherDream
@@ -403,6 +406,7 @@ hyperbrowserai: https://github.com/hyperbrowserai
 ibab: https://github.com/ibab
 ICube-Robotics: https://github.com/ICube-Robotics
 IDEA-Research: https://github.com/IDEA-Research
+iflow-ai: https://github.com/iflow-ai
 IGL-HKUST: https://github.com/IGL-HKUST
 imba-tjd: https://github.com/imba-tjd
 immich-app: https://github.com/immich-app
@@ -528,6 +532,7 @@ loggerhead: https://github.com/loggerhead
 loongOpen: https://github.com/loongOpen
 Lordog: https://github.com/Lordog
 lowlighter: https://github.com/lowlighter
+lss233: https://github.com/lss233
 LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
 lucidrains: https://github.com/lucidrains
@@ -565,6 +570,7 @@ Meshcapade: https://github.com/Meshcapade
 meta-llama: https://github.com/meta-llama
 metadriverse: https://github.com/metadriverse
 MetaMask: https://github.com/MetaMask
+michaelyuancb: https://github.com/michaelyuancb
 microsoft: https://github.com/microsoft
 mindsdb: https://github.com/mindsdb
 MineDojo: https://github.com/MineDojo
@@ -578,6 +584,7 @@ MISTLab: https://github.com/MISTLab
 mistralai: https://github.com/mistralai
 mit-biomimetics: https://github.com/mit-biomimetics
 mit-han-lab: https://github.com/mit-han-lab
+MIT-MI: https://github.com/MIT-MI
 mlc-ai: https://github.com/mlc-ai
 mmatl: https://github.com/mmatl
 modelcontextprotocol: https://github.com/modelcontextprotocol
@@ -1012,6 +1019,7 @@ usememos: https://github.com/usememos
 ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
+utiasDSL: https://github.com/utiasDSL
 uynitsuj: https://github.com/uynitsuj
 UZ-SLAMLab: https://github.com/UZ-SLAMLab
 v2fly: https://github.com/v2fly
