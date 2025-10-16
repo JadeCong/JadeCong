@@ -1,6 +1,6 @@
 # GitHub-CLI
 
-> Custom GitHub Command Line Interfaces.
+> GitHub Command Line Interfaces for JadeCong.
 
 ---
 

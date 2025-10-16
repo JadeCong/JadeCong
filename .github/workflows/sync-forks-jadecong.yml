@@ -4,7 +4,7 @@ run-name: Sync Forks - JadeCong
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run every day at 00:00 AM
+    - cron: "0 0 * * *" # Run every day at 0:00 AM
   workflow_dispatch: # Manual dispatch
 
 permissions:
