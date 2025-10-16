@@ -169,6 +169,12 @@
 >
 > Result: assets/images/github-contribution-snake.gif & assets/images/github-contribution-snake.svg
 
+### (8) sync-forks-jadecong
+
+> Goal: Synchronization of GitHub Forks for JadeCong.
+>
+> Result: synced all forked github repositories
+
 ---
 
 ## References

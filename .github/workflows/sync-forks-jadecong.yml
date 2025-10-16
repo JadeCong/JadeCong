@@ -1,0 +1,42 @@
+name: Sync Forks - JadeCong
+
+run-name: Sync Forks - JadeCong
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run every day at 00:00 AM
+  workflow_dispatch: # Manual dispatch
+
+permissions:
+  contents: write
+
+env:
+  GH_TOKEN: ${{ github.token }}
+
+defaults:
+  run:
+    shell: bash
+    working-directory: ./scripts
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync-forks:
+    name: Sync Forks
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository to the runner
+        uses: actions/checkout@v4
+      
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[JadeCong-bot]"
+          git config --global user.email "github-actions[JadeCong-bot]@users.noreply.github.com"
+      
+      - name: Run script sync-forks
+        run: echo "JadeCong" | ./sync-forks.sh
+        env:
+          GH_TOKEN: ${{ github.token }}
