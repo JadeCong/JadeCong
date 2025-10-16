@@ -317,6 +317,7 @@ gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
 geekan: https://github.com/geekan
 geekxh: https://github.com/geekxh
+gen-robot: https://github.com/gen-robot
 Gen-Verse: https://github.com/Gen-Verse
 generalroboticslab: https://github.com/generalroboticslab
 Genesis-Embodied-AI: https://github.com/Genesis-Embodied-AI

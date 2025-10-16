@@ -2,19 +2,26 @@
 
 # Show the information about the script pull-updates.
 echo "---------- pull-updates ----------"
-echo -e "\nGoal: Pull updates for all existing repositories automatically with given local owner path and owner(user or organization).\n"
+echo -e "\nGoal: Pull updates for all existing repositories automatically with given local path and owner(user or organization).\n"
 
 # Run the script pull-updates.
-echo -n "Please select the specific local owner path: "
-read LOCAL_OWNER_PATH 
+echo -n "Please select the specific local path: "
+read LOCAL_PATH
 echo -n "Please select the specific repository owner(user or organization): "
 read REPO_OWNER && echo ""
-REPO_LOCAL_LIST=$(ls -lA "$LOCAL_OWNER_PATH" | awk '/^d/ {print $NF}' | sort -f)
-for REPO_LOCAL in $REPO_LOCAL_LIST; do
-    cd "$LOCAL_OWNER_PATH/$REPO_LOCAL"
+REPO_NAME_LIST=$(ls -lA "$LOCAL_PATH" | awk '/^d/ {print $NF}' | sort -f)
+for REPO_NAME in $REPO_NAME_LIST; do
+    cd "$LOCAL_PATH/$REPO_NAME"
     REPO_BRANCH=$(git branch --show-current)
-    echo -e "Pulling [$REPO_OWNER/$REPO_LOCAL] repository on [$REPO_BRANCH] branch..."
-    git pull
+    echo -e "Pulling update from [$REPO_OWNER/$REPO_NAME] repository on [$REPO_BRANCH] branch..."
+    git pull origin $REPO_BRANCH
+    while [ $? -ne 0 ]; do
+        echo "Retrying to pull update from [$REPO_OWNER/$REPO_NAME] repository on [$REPO_BRANCH] branch..."
+        git pull origin $REPO_BRANCH
+        if [$? -eq 0]; then
+            break
+        fi
+    done
     echo "-----"
 done
 echo -e "Done!\n"

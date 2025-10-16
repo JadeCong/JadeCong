@@ -2,12 +2,12 @@
 
 # Show the information about the script gen-forks-list.
 echo "---------- gen-forks-list ----------"
-echo -e "\nGoal: Generation for GitHub Repository Forks List with given owner(user or organization).\n"
+echo -e "\nGoal: Generation for github forks list with given owner(user or organization).\n"
 
 # Run the script gen-forks-list.
 echo -n "Please select the specific repository owner(user or organization): "
 read REPO_OWNER && echo ""
-echo "Saving the [$REPO_OWNER] github repository forks list..."
+echo "Saving [$REPO_OWNER] github forks list..."
 FORKS_LIST_ARCHIVE="$(cd "$(dirname "$0")"; pwd)/../assets/docs/Forks-List-$REPO_OWNER.md"
 REPO_FORKS_LIST=$(gh repo list $REPO_OWNER --fork --limit 100000 | awk '{print $1}' | sort -f)
 for REPO_FORK in $REPO_FORKS_LIST; do

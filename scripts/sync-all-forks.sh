@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+
+# Show the information about the script sync-all-forks.
+echo "---------- sync-all-forks ----------"
+echo -e "\nGoal: Sync forks for all forked repositories automatically with given owners(user or organization).\n"
+
+# Run the script sync-all-forks.
+echo -n "Please select the specific repository owners(user or organization) with blank space: "
+read -a REPO_OWNER_LIST && echo ""
+for REPO_OWNER in ${REPO_OWNER_LIST[@]}; do
+    echo "----- REPO_OWNER: $REPO_OWNER -----"
+    REPO_FORK_LIST=$(gh repo list $REPO_OWNER --fork --limit 100000 | awk '{print $1}' | sort -f)
+    for REPO_FORK in $REPO_FORK_LIST; do
+        REPO_BRANCH=$(gh api repos/$REPO_FORK --jq '.default_branch')
+        while [ ! $REPO_BRANCH ]; do
+            echo "Retrying to get default branch of [$REPO_FORK] repository..."
+            REPO_BRANCH=$(gh api repos/$REPO_FORK --jq '.default_branch')
+            if [ $REPO_BRANCH ]; then
+                break
+            fi
+        done
+        echo -e "Syncing fork for [$REPO_FORK] repository on [$REPO_BRANCH] branch..."
+        gh repo sync $REPO_FORK -b $REPO_BRANCH
+        while [ $? -ne 0 ]; do
+            echo "Retrying to sync fork for [$REPO_FORK] repository on [$REPO_BRANCH] branch..."
+            gh repo sync $REPO_FORK -b $REPO_BRANCH --force
+            if [$? -eq 0]; then
+                break
+            fi
+        done
+        echo "-----"
+    done
+    echo "Done!"
+    echo -e "----- REPO_OWNER: $REPO_OWNER -----\n"
+done
+echo -e "All done!\n"
+
+# End of the script sync-all-forks.
+echo "---------- sync-all-forks ----------"
