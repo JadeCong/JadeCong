@@ -158,6 +158,7 @@ JadeCong/Robotic-Softbody-Manipulation[master]: https://github.com/JadeCong/Robo
   - JadeCong: https://github.com/JadeCong
   - justicelee: https://github.com/justicelee
   - shaashou: https://github.com/shaashou
+  - wang-k-x: https://github.com/wang-k-x
 JadeCong/siemens_ros[main]: https://github.com/JadeCong/siemens_ros.git
   - Dawitsco: https://github.com/Dawitsco
   - JadeCong: https://github.com/JadeCong
