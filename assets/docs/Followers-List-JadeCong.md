@@ -68,7 +68,6 @@ sphinxzerd: https://github.com/sphinxzerd
 standardgalactic: https://github.com/standardgalactic
 sunlight0102: https://github.com/sunlight0102
 sunnyyouknow: https://github.com/sunnyyouknow
-syedahirafatima: https://github.com/syedahirafatima
 TheArtPlug: https://github.com/TheArtPlug
 toum120: https://github.com/toum120
 volkn: https://github.com/volkn
