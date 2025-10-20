@@ -129,12 +129,14 @@ BuilderIO: https://github.com/BuilderIO
 buresdv: https://github.com/buresdv
 bytebot-ai: https://github.com/bytebot-ai
 bytedance: https://github.com/bytedance
+ByteDance-Seed: https://github.com/ByteDance-Seed
 cactus-compute: https://github.com/cactus-compute
 cambrian-mllm: https://github.com/cambrian-mllm
 camel-ai: https://github.com/camel-ai
 Canner: https://github.com/Canner
 canonical: https://github.com/canonical
 Capri2014: https://github.com/Capri2014
+CapSoftware: https://github.com/CapSoftware
 carbon-language: https://github.com/carbon-language
 catachiii: https://github.com/catachiii
 cbfinn: https://github.com/cbfinn
@@ -395,6 +397,7 @@ huangwl18: https://github.com/huangwl18
 hucebot: https://github.com/hucebot
 huchunxu: https://github.com/huchunxu
 huggingface: https://github.com/huggingface
+HuLaSpark: https://github.com/HuLaSpark
 humaan-ai: https://github.com/humaan-ai
 HumaRobotics: https://github.com/HumaRobotics
 Huxpro: https://github.com/Huxpro
@@ -486,6 +489,7 @@ KwaiVGI: https://github.com/KwaiVGI
 kyegomez: https://github.com/kyegomez
 Kyubyong: https://github.com/Kyubyong
 labuladong: https://github.com/labuladong
+Lakr233: https://github.com/Lakr233
 lamm-mit: https://github.com/lamm-mit
 langchain-ai: https://github.com/langchain-ai
 langfengQ: https://github.com/langfengQ
@@ -762,6 +766,7 @@ PrincetonLIPS: https://github.com/PrincetonLIPS
 PrincetonUniversity: https://github.com/PrincetonUniversity
 project-instinct: https://github.com/project-instinct
 ProtonVPN: https://github.com/ProtonVPN
+proxifly: https://github.com/proxifly
 ProxymanApp: https://github.com/ProxymanApp
 prs-eth: https://github.com/prs-eth
 psf: https://github.com/psf
@@ -855,6 +860,7 @@ SamuelSchmidgall: https://github.com/SamuelSchmidgall
 saprmarks: https://github.com/saprmarks
 sashabaranov: https://github.com/sashabaranov
 scrapy: https://github.com/scrapy
+screego: https://github.com/screego
 ScriptEcho-ai: https://github.com/ScriptEcho-ai
 scutan90: https://github.com/scutan90
 Sense-X: https://github.com/Sense-X
@@ -891,6 +897,7 @@ solid: https://github.com/solid
 sorrycc: https://github.com/sorrycc
 soskek: https://github.com/soskek
 soybeanjs: https://github.com/soybeanjs
+SparkAudio: https://github.com/SparkAudio
 SpectacularAI: https://github.com/SpectacularAI
 sphinx-doc: https://github.com/sphinx-doc
 spring-projects: https://github.com/spring-projects
