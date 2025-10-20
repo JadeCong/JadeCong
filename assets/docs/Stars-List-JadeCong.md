@@ -139,7 +139,7 @@ alibaba/AliOS-Things[master]: https://github.com/alibaba/AliOS-Things.git
 alibaba/druid[master]: https://github.com/alibaba/druid.git
 alibaba/fastjson[master]: https://github.com/alibaba/fastjson.git
 alibaba/p3c[master]: https://github.com/alibaba/p3c.git
-alibaba/spring-cloud-alibaba[2023.x]: https://github.com/alibaba/spring-cloud-alibaba.git
+alibaba/spring-cloud-alibaba[2025.x]: https://github.com/alibaba/spring-cloud-alibaba.git
 alibaba/Tora[main]: https://github.com/alibaba/Tora.git
 alibaba/x-render[master]: https://github.com/alibaba/x-render.git
 alimohammadiamirhossein/smite[main]: https://github.com/alimohammadiamirhossein/smite.git
@@ -201,6 +201,7 @@ antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
 antgroup/llm-oss-landscape[main]: https://github.com/antgroup/llm-oss-landscape.git
 anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
 anthropics/claude-cookbooks[main]: https://github.com/anthropics/claude-cookbooks.git
+anthropics/skills[main]: https://github.com/anthropics/skills.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
 antonkomarev/github-profile-views-counter[master]: https://github.com/antonkomarev/github-profile-views-counter.git
 AntonOsika/gpt-engineer[main]: https://github.com/AntonOsika/gpt-engineer.git
@@ -433,6 +434,7 @@ by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 Byaidu/PDFMathTranslate[main]: https://github.com/Byaidu/PDFMathTranslate.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
 bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
+ByteDance-Seed/TraceAnything[main]: https://github.com/ByteDance-Seed/TraceAnything.git
 bytedance/ATI[main]: https://github.com/bytedance/ATI.git
 bytedance/deer-flow[main]: https://github.com/bytedance/deer-flow.git
 bytedance/GR-1[main]: https://github.com/bytedance/GR-1.git
@@ -456,6 +458,7 @@ camel-ai/camel[master]: https://github.com/camel-ai/camel.git
 camel-ai/owl[main]: https://github.com/camel-ai/owl.git
 cangcz/AnchorCrafter[master]: https://github.com/cangcz/AnchorCrafter.git
 Canner/WrenAI[main]: https://github.com/Canner/WrenAI.git
+CapSoftware/Cap[main]: https://github.com/CapSoftware/Cap.git
 carbon-language/carbon-lang[trunk]: https://github.com/carbon-language/carbon-lang.git
 carla-simulator/carla[ue5-dev]: https://github.com/carla-simulator/carla.git
 carla-simulator/imitation-learning[master]: https://github.com/carla-simulator/imitation-learning.git
@@ -988,6 +991,7 @@ Firmament-Autopilot/FMT-Firmware[master]: https://github.com/Firmament-Autopilot
 fish2018/pansou[main]: https://github.com/fish2018/pansou.git
 fishaudio/fish-speech[main]: https://github.com/fishaudio/fish-speech.git
 fishmarch/Stereo-Plane-SLAM[main]: https://github.com/fishmarch/Stereo-Plane-SLAM.git
+Fission-AI/OpenSpec[main]: https://github.com/Fission-AI/OpenSpec.git
 fjwillemsen/NativeOverleaf[main]: https://github.com/fjwillemsen/NativeOverleaf.git
 fkryan/gazelle[main]: https://github.com/fkryan/gazelle.git
 FlagAI-Open/Aquila2[main]: https://github.com/FlagAI-Open/Aquila2.git
@@ -1766,6 +1770,7 @@ labmlai/annotated_deep_learning_paper_implementations[master]: https://github.co
 labring/FastGPT[main]: https://github.com/labring/FastGPT.git
 labteral/chatgpt-python[master]: https://github.com/labteral/chatgpt-python.git
 labuladong/fucking-algorithm[master]: https://github.com/labuladong/fucking-algorithm.git
+Lakr233/Asspp[main]: https://github.com/Lakr233/Asspp.git
 LAMDA-NJU/Deep-Forest[master]: https://github.com/LAMDA-NJU/Deep-Forest.git
 lamm-mit/PRefLexOR[main]: https://github.com/lamm-mit/PRefLexOR.git
 langbot-app/LangBot[master]: https://github.com/langbot-app/LangBot.git
@@ -2309,7 +2314,7 @@ notvenky/eFlesh[main]: https://github.com/notvenky/eFlesh.git
 NovaSky-AI/SkyThought[main]: https://github.com/NovaSky-AI/SkyThought.git
 npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphCourse.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
-ntegrals/aura-voice[main]: https://github.com/ntegrals/aura-voice.git
+ntegrals/hypergen[main]: https://github.com/ntegrals/hypergen.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
 Nutlope/llamacoder[main]: https://github.com/Nutlope/llamacoder.git
@@ -2382,6 +2387,7 @@ NVlabs/stylegan2[master]: https://github.com/NVlabs/stylegan2.git
 NVlabs/stylegan3[main]: https://github.com/NVlabs/stylegan3.git
 NVlabs/VILA[main]: https://github.com/NVlabs/VILA.git
 NVlabs/VoxFormer[main]: https://github.com/NVlabs/VoxFormer.git
+NVlabs/vt-refine[main]: https://github.com/NVlabs/vt-refine.git
 NVlabs/X-MOBILITY[main]: https://github.com/NVlabs/X-MOBILITY.git
 Nyr/openvpn-install[master]: https://github.com/Nyr/openvpn-install.git
 nyu-legged-group/pinocchio_bullet[master]: https://github.com/nyu-legged-group/pinocchio_bullet.git
@@ -2477,6 +2483,7 @@ OpenGVLab/Diffree[main]: https://github.com/OpenGVLab/Diffree.git
 OpenGVLab/InternVideo[main]: https://github.com/OpenGVLab/InternVideo.git
 OpenGVLab/InternVL[main]: https://github.com/OpenGVLab/InternVL.git
 OpenHelix-Team/OpenTrajBooster[main]: https://github.com/OpenHelix-Team/OpenTrajBooster.git
+OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatial-Forcing.git
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
 openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
@@ -2653,6 +2660,7 @@ projectchrono/chrono[main]: https://github.com/projectchrono/chrono.git
 projectpages/project-pages[gh-pages]: https://github.com/projectpages/project-pages.git
 promptslab/Awesome-Prompt-Engineering[main]: https://github.com/promptslab/Awesome-Prompt-Engineering.git
 protocolbuffers/protobuf[main]: https://github.com/protocolbuffers/protobuf.git
+proxifly/free-proxy-list[main]: https://github.com/proxifly/free-proxy-list.git
 ProxymanApp/Proxyman[master]: https://github.com/ProxymanApp/Proxyman.git
 prs-eth/RollingDepth[main]: https://github.com/prs-eth/RollingDepth.git
 Pscgylotti/RAIN[main]: https://github.com/Pscgylotti/RAIN.git
@@ -2912,6 +2920,7 @@ sashabaranov/go-openai[master]: https://github.com/sashabaranov/go-openai.git
 sato-team/Stable-Text-to-Motion-Framework[main]: https://github.com/sato-team/Stable-Text-to-Motion-Framework.git
 satwikkansal/wtfpython[master]: https://github.com/satwikkansal/wtfpython.git
 scrapy/scrapy[master]: https://github.com/scrapy/scrapy.git
+screego/server[master]: https://github.com/screego/server.git
 ScriptEcho-ai/ScriptEchoDocs[master]: https://github.com/ScriptEcho-ai/ScriptEchoDocs.git
 scutan90/CNN-Visualization[master]: https://github.com/scutan90/CNN-Visualization.git
 scutan90/DeepLearning-500-questions[master]: https://github.com/scutan90/DeepLearning-500-questions.git
