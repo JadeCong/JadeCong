@@ -949,6 +949,7 @@ TencentYoutuResearch: https://github.com/TencentYoutuResearch
 tensorflow: https://github.com/tensorflow
 teslamate-org: https://github.com/teslamate-org
 teslamotors: https://github.com/teslamotors
+Textualize: https://github.com/Textualize
 tgeijten: https://github.com/tgeijten
 The-Pocket: https://github.com/The-Pocket
 TheAlgorithms: https://github.com/TheAlgorithms
