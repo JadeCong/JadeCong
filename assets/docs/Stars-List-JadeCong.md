@@ -838,6 +838,7 @@ ErlichLiu/DeepClaude[main]: https://github.com/ErlichLiu/DeepClaude.git
 ErlichLiu/Whisper-Input[main]: https://github.com/ErlichLiu/Whisper-Input.git
 erwincoumans/motion_imitation[master]: https://github.com/erwincoumans/motion_imitation.git
 escontra/AMP_for_hardware[main]: https://github.com/escontra/AMP_for_hardware.git
+escontra/gauss_gym[main]: https://github.com/escontra/gauss_gym.git
 eseckel/ai-for-grant-writing[main]: https://github.com/eseckel/ai-for-grant-writing.git
 etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
@@ -852,6 +853,7 @@ ethz-adrl/control-toolbox[v3.0.2]: https://github.com/ethz-adrl/control-toolbox.
 ethz-asl/kalibr[master]: https://github.com/ethz-asl/kalibr.git
 ethz-asl/okvis[master]: https://github.com/ethz-asl/okvis.git
 ethz-asl/rovio[master]: https://github.com/ethz-asl/rovio.git
+ethz-mrl/VidBot[main]: https://github.com/ethz-mrl/VidBot.git
 eugval/sim2real_dynamics_simulation[master]: https://github.com/eugval/sim2real_dynamics_simulation.git
 eureka-research/DrEureka[main]: https://github.com/eureka-research/DrEureka.git
 eureka-research/Eureka[main]: https://github.com/eureka-research/Eureka.git
@@ -1262,7 +1264,6 @@ hanzhanggit/StackGAN[master]: https://github.com/hanzhanggit/StackGAN.git
 hanzhanggit/StackGAN-inception-model[master]: https://github.com/hanzhanggit/StackGAN-inception-model.git
 hanzhanggit/StackGAN-Pytorch[master]: https://github.com/hanzhanggit/StackGAN-Pytorch.git
 hanzhanggit/StackGAN-v2[master]: https://github.com/hanzhanggit/StackGAN-v2.git
-HanzhiC/VidBot[main]: https://github.com/HanzhiC/VidBot.git
 haoel/leetcode[master]: https://github.com/haoel/leetcode.git
 haosulab/MPlib[main]: https://github.com/haosulab/MPlib.git
 haosulab/SAPIEN[master]: https://github.com/haosulab/SAPIEN.git
@@ -2623,6 +2624,7 @@ Po-Jen/awesome-grasping[master]: https://github.com/Po-Jen/awesome-grasping.git
 Po-Jen/awesome-human-robot-interaction[master]: https://github.com/Po-Jen/awesome-human-robot-interaction.git
 pocketxjl/humanoid-control[main]: https://github.com/pocketxjl/humanoid-control.git
 Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
+policyconsensus/policyconsensus[main]: https://github.com/policyconsensus/policyconsensus.git
 pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
 pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
