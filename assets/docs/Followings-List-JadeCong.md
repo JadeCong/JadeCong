@@ -217,6 +217,7 @@ deepseek-ai: https://github.com/deepseek-ai
 deepset-ai: https://github.com/deepset-ai
 DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
+Dexmal: https://github.com/Dexmal
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
 diankun-wu: https://github.com/diankun-wu
@@ -307,6 +308,7 @@ FreeRTOS: https://github.com/FreeRTOS
 FreshRSS: https://github.com/FreshRSS
 FuchsiaOS: https://github.com/FuchsiaOS
 fudan-generative-vision: https://github.com/fudan-generative-vision
+Fudan-MAGIC-Lab: https://github.com/Fudan-MAGIC-Lab
 FujiwaraChoki: https://github.com/FujiwaraChoki
 Future-House: https://github.com/Future-House
 FutureAIRobotics: https://github.com/FutureAIRobotics
