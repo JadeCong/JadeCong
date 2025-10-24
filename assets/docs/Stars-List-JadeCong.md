@@ -144,7 +144,6 @@ alibaba/Tora[main]: https://github.com/alibaba/Tora.git
 alibaba/x-render[master]: https://github.com/alibaba/x-render.git
 alimohammadiamirhossein/smite[main]: https://github.com/alimohammadiamirhossein/smite.git
 aliyun/aliyun-openapi-java-sdk[master]: https://github.com/aliyun/aliyun-openapi-java-sdk.git
-All-Hands-AI/OpenHands[main]: https://github.com/All-Hands-AI/OpenHands.git
 all-in-aigc/chatgpt-webapi[main]: https://github.com/all-in-aigc/chatgpt-webapi.git
 all-in-aigc/gpts-works[main]: https://github.com/all-in-aigc/gpts-works.git
 allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
@@ -632,7 +631,7 @@ databricks/megablocks[main]: https://github.com/databricks/megablocks.git
 datalab-to/marker[master]: https://github.com/datalab-to/marker.git
 datalab-to/surya[master]: https://github.com/datalab-to/surya.git
 datasciencemasters/go[master]: https://github.com/datasciencemasters/go.git
-datasets/awesome-data[main]: https://github.com/datasets/awesome-data.git
+datasets/commons[main]: https://github.com/datasets/commons.git
 datawhalechina/competition-baseline[master]: https://github.com/datawhalechina/competition-baseline.git
 datawhalechina/easy-rl[master]: https://github.com/datawhalechina/easy-rl.git
 datawhalechina/happy-llm[main]: https://github.com/datawhalechina/happy-llm.git
@@ -694,6 +693,7 @@ DepthAnything/PromptDA[main]: https://github.com/DepthAnything/PromptDA.git
 DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video-Depth-Anything.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
+Dexmal/dexbotic[main]: https://github.com/Dexmal/dexbotic.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
 dfaker/df[master]: https://github.com/dfaker/df.git
@@ -1051,6 +1051,7 @@ FuchsiaOS/FuchsiaOS-docs-zh_CN[2022]: https://github.com/FuchsiaOS/FuchsiaOS-doc
 fudan-generative-vision/champ[master]: https://github.com/fudan-generative-vision/champ.git
 fudan-generative-vision/hallo2[main]: https://github.com/fudan-generative-vision/hallo2.git
 fudan-generative-vision/hallo3[main]: https://github.com/fudan-generative-vision/hallo3.git
+Fudan-MAGIC-Lab/VINGS-Mono[main]: https://github.com/Fudan-MAGIC-Lab/VINGS-Mono.git
 FudanNLP/fnlp[master]: https://github.com/FudanNLP/fnlp.git
 fuergaosi233/wechat-chatgpt[main]: https://github.com/fuergaosi233/wechat-chatgpt.git
 FujiwaraChoki/MoneyPrinter[main]: https://github.com/FujiwaraChoki/MoneyPrinter.git
@@ -1389,6 +1390,7 @@ huggingface/lerobot[main]: https://github.com/huggingface/lerobot.git
 huggingface/pytorch-image-models[main]: https://github.com/huggingface/pytorch-image-models.git
 huggingface/pytorch-openai-transformer-lm[master]: https://github.com/huggingface/pytorch-openai-transformer-lm.git
 huggingface/pytorch-pretrained-BigGAN[master]: https://github.com/huggingface/pytorch-pretrained-BigGAN.git
+huggingface/sentence-transformers[master]: https://github.com/huggingface/sentence-transformers.git
 huggingface/transformers[main]: https://github.com/huggingface/transformers.git
 huggingface/transformers-bloom-inference[main]: https://github.com/huggingface/transformers-bloom-inference.git
 huggingface/transformers.js[main]: https://github.com/huggingface/transformers.js.git
@@ -1657,7 +1659,6 @@ junyanz/CycleGAN[master]: https://github.com/junyanz/CycleGAN.git
 junyanz/iGAN[master]: https://github.com/junyanz/iGAN.git
 junyanz/pytorch-CycleGAN-and-pix2pix[master]: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
 Junyi42/monst3r[main]: https://github.com/Junyi42/monst3r.git
-JunzheJosephZhu/DenseMatcher[master]: https://github.com/JunzheJosephZhu/DenseMatcher.git
 JunzheJosephZhu/see_hear_feel[master]: https://github.com/JunzheJosephZhu/see_hear_feel.git
 jurmy24/mechaverse[main]: https://github.com/jurmy24/mechaverse.git
 just-the-docs/just-the-docs[main]: https://github.com/just-the-docs/just-the-docs.git
@@ -2138,7 +2139,7 @@ mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
 Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
-MiroMindAI/MiroFlow[miroflow-v0.3]: https://github.com/MiroMindAI/MiroFlow.git
+MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
 MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
@@ -2483,6 +2484,7 @@ OpenGVLab/Ask-Anything[main]: https://github.com/OpenGVLab/Ask-Anything.git
 OpenGVLab/Diffree[main]: https://github.com/OpenGVLab/Diffree.git
 OpenGVLab/InternVideo[main]: https://github.com/OpenGVLab/InternVideo.git
 OpenGVLab/InternVL[main]: https://github.com/OpenGVLab/InternVL.git
+OpenHands/OpenHands[main]: https://github.com/OpenHands/OpenHands.git
 OpenHelix-Team/OpenTrajBooster[main]: https://github.com/OpenHelix-Team/OpenTrajBooster.git
 OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatial-Forcing.git
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
@@ -2802,6 +2804,7 @@ robcog-iai/RobCoG[dev]: https://github.com/robcog-iai/RobCoG.git
 robcog-iai/URoboSim-depr[master]: https://github.com/robcog-iai/URoboSim-depr.git
 robcog-iai/URoboVision[master]: https://github.com/robcog-iai/URoboVision.git
 robcog-iai/UROSBridge[master]: https://github.com/robcog-iai/UROSBridge.git
+Robert-gyj/Ctrl-World[main]: https://github.com/Robert-gyj/Ctrl-World.git
 robfiras/loco-mujoco[master]: https://github.com/robfiras/loco-mujoco.git
 Roblox/cube[main]: https://github.com/Roblox/cube.git
 robo-alex/gs-dynamics[main]: https://github.com/robo-alex/gs-dynamics.git
@@ -3157,6 +3160,7 @@ tauri-apps/tauri[dev]: https://github.com/tauri-apps/tauri.git
 TauricResearch/TradingAgents[main]: https://github.com/TauricResearch/TradingAgents.git
 tavily-ai/tavily-python[master]: https://github.com/tavily-ai/tavily-python.git
 TEA-Lab/DemoGen[master]: https://github.com/TEA-Lab/DemoGen.git
+TEA-Lab/DenseMatcher[master]: https://github.com/TEA-Lab/DenseMatcher.git
 TEA-Lab/Robo-ABC[main]: https://github.com/TEA-Lab/Robo-ABC.git
 team-openpm/workgpt[master]: https://github.com/team-openpm/workgpt.git
 TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
@@ -3366,7 +3370,6 @@ uiuckimlab/PAPRLE[main]: https://github.com/uiuckimlab/PAPRLE.git
 uiverse-io/galaxy[main]: https://github.com/uiverse-io/galaxy.git
 ujjwalkarn/Machine-Learning-Tutorials[master]: https://github.com/ujjwalkarn/Machine-Learning-Tutorials.git
 Ujwal2910/Deep-RL-on-Gfootabll-Google-football-OpenAI-style-environment[master]: https://github.com/Ujwal2910/Deep-RL-on-Gfootabll-Google-football-OpenAI-style-environment.git
-UKPLab/sentence-transformers[master]: https://github.com/UKPLab/sentence-transformers.git
 ultralytics/ultralytics[main]: https://github.com/ultralytics/ultralytics.git
 ultralytics/yolov3[master]: https://github.com/ultralytics/yolov3.git
 ultralytics/yolov5[master]: https://github.com/ultralytics/yolov5.git
