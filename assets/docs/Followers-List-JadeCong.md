@@ -70,6 +70,7 @@ sunlight0102: https://github.com/sunlight0102
 sunnyyouknow: https://github.com/sunnyyouknow
 TheArtPlug: https://github.com/TheArtPlug
 toum120: https://github.com/toum120
+vimal0156: https://github.com/vimal0156
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 walbarellos: https://github.com/walbarellos
