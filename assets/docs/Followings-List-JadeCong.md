@@ -496,6 +496,7 @@ lamm-mit: https://github.com/lamm-mit
 langchain-ai: https://github.com/langchain-ai
 langfengQ: https://github.com/langfengQ
 langfuse: https://github.com/langfuse
+langgenius: https://github.com/langgenius
 langgptai: https://github.com/langgptai
 lanius: https://github.com/lanius
 lanpa: https://github.com/lanpa
