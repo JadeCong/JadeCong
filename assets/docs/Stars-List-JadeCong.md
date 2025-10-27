@@ -858,6 +858,7 @@ eugval/sim2real_dynamics_simulation[master]: https://github.com/eugval/sim2real_
 eureka-research/DrEureka[main]: https://github.com/eureka-research/DrEureka.git
 eureka-research/Eureka[main]: https://github.com/eureka-research/Eureka.git
 eureka-research/eurekaverse[main]: https://github.com/eureka-research/eurekaverse.git
+evalstate/fast-agent[main]: https://github.com/evalstate/fast-agent.git
 eveningglow/multitask-CycleGAN[master]: https://github.com/eveningglow/multitask-CycleGAN.git
 evil-huawei/evil-huawei[master]: https://github.com/evil-huawei/evil-huawei.git
 evilsocket/cake[main]: https://github.com/evilsocket/cake.git
@@ -1883,7 +1884,6 @@ liuxiaoyu1104/AnimateAnywhere[main]: https://github.com/liuxiaoyu1104/AnimateAny
 liuzhao1225/YouDub-webui[master]: https://github.com/liuzhao1225/YouDub-webui.git
 lixiaowen-xw/DiffuEraser[master]: https://github.com/lixiaowen-xw/DiffuEraser.git
 liyaowei-stu/ImageConductor[main]: https://github.com/liyaowei-stu/ImageConductor.git
-liyaxuanliyaxuan/TinyVLA[main]: https://github.com/liyaxuanliyaxuan/TinyVLA.git
 liyi14/HAMSTER_beta[main]: https://github.com/liyi14/HAMSTER_beta.git
 liyi14/mx-DeepIM[master]: https://github.com/liyi14/mx-DeepIM.git
 LizardByte/Sunshine[master]: https://github.com/LizardByte/Sunshine.git
