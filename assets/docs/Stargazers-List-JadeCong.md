@@ -40,6 +40,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - DengyingFu: https://github.com/DengyingFu
   - dianyeHuang: https://github.com/dianyeHuang
   - Eren-01: https://github.com/Eren-01
+  - FreezeSoul: https://github.com/FreezeSoul
   - Gaming722: https://github.com/Gaming722
   - GGGGGGGGGGN: https://github.com/GGGGGGGGGGN
   - huaizhixu: https://github.com/huaizhixu
