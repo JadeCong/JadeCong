@@ -139,7 +139,7 @@ alibaba/AliOS-Things[master]: https://github.com/alibaba/AliOS-Things.git
 alibaba/druid[master]: https://github.com/alibaba/druid.git
 alibaba/fastjson[master]: https://github.com/alibaba/fastjson.git
 alibaba/p3c[master]: https://github.com/alibaba/p3c.git
-alibaba/spring-cloud-alibaba[2025.x]: https://github.com/alibaba/spring-cloud-alibaba.git
+alibaba/spring-cloud-alibaba[2025.0.x]: https://github.com/alibaba/spring-cloud-alibaba.git
 alibaba/Tora[main]: https://github.com/alibaba/Tora.git
 alibaba/x-render[master]: https://github.com/alibaba/x-render.git
 alimohammadiamirhossein/smite[main]: https://github.com/alimohammadiamirhossein/smite.git
@@ -984,7 +984,6 @@ fighting41love/funNLP[master]: https://github.com/fighting41love/funNLP.git
 finegrain-ai/refiners[main]: https://github.com/finegrain-ai/refiners.git
 FinGeniusAPP/FinGeniusAPP[main]: https://github.com/FinGeniusAPP/FinGeniusAPP.git
 fingerprintjs/fingerprintjs[master]: https://github.com/fingerprintjs/fingerprintjs.git
-finos/perspective[master]: https://github.com/finos/perspective.git
 firecrawl/firecrawl[main]: https://github.com/firecrawl/firecrawl.git
 firecrawl/open-lovable[main]: https://github.com/firecrawl/open-lovable.git
 fireflyprotocol/bluefin-v2-client-python[main]: https://github.com/fireflyprotocol/bluefin-v2-client-python.git
@@ -1038,6 +1037,7 @@ Francis-Rings/StableAnimator[main]: https://github.com/Francis-Rings/StableAnima
 franciszzj/Leffa[main]: https://github.com/franciszzj/Leffa.git
 frankarobotics/franka_ros[develop]: https://github.com/frankarobotics/franka_ros.git
 frankarobotics/franka_ros2[humble]: https://github.com/frankarobotics/franka_ros2.git
+frankarobotics/franka_toolbox_for_matlab[main]: https://github.com/frankarobotics/franka_toolbox_for_matlab.git
 frankarobotics/libfranka[main]: https://github.com/frankarobotics/libfranka.git
 frankarobotics/libfranka-release[master]: https://github.com/frankarobotics/libfranka-release.git
 frankarobotics/the_reference_platform[main]: https://github.com/frankarobotics/the_reference_platform.git
@@ -1571,6 +1571,7 @@ jakevdp/PythonDataScienceHandbook[master]: https://github.com/jakevdp/PythonData
 JakobEngel/dso[master]: https://github.com/JakobEngel/dso.git
 jamesmawm/High-Frequency-Trading-Model-with-IB[master]: https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB.git
 jamiemcg/Remarkable[master]: https://github.com/jamiemcg/Remarkable.git
+janhq/ichigo[main]: https://github.com/janhq/ichigo.git
 jason5ng32/MyIP[main]: https://github.com/jason5ng32/MyIP.git
 jason718/awesome-self-supervised-learning[master]: https://github.com/jason718/awesome-self-supervised-learning.git
 JasonJZLiu/FACTR_Hardware[main]: https://github.com/JasonJZLiu/FACTR_Hardware.git
@@ -2034,7 +2035,6 @@ mem0ai/mem0[main]: https://github.com/mem0ai/mem0.git
 mementum/backtrader[master]: https://github.com/mementum/backtrader.git
 memoavatar/memo[main]: https://github.com/memoavatar/memo.git
 MemTensor/MemOS[main]: https://github.com/MemTensor/MemOS.git
-menloresearch/ichigo[main]: https://github.com/menloresearch/ichigo.git
 menyifang/MIMO[main]: https://github.com/menyifang/MIMO.git
 Meowuu7/DexTrack[main]: https://github.com/Meowuu7/DexTrack.git
 merge-lab/FORTE[main]: https://github.com/merge-lab/FORTE.git
@@ -2574,6 +2574,7 @@ peng-zhihui/Project-Quantum[master]: https://github.com/peng-zhihui/Project-Quan
 peng-zhihui/XUAN[main]: https://github.com/peng-zhihui/XUAN.git
 PENGZhaoqing/HousePricing[master]: https://github.com/PENGZhaoqing/HousePricing.git
 penrose/penrose[main]: https://github.com/penrose/penrose.git
+perspective-dev/perspective[master]: https://github.com/perspective-dev/perspective.git
 Peterande/D-FINE[master]: https://github.com/Peterande/D-FINE.git
 petercorke/robotics-toolbox-python[master]: https://github.com/petercorke/robotics-toolbox-python.git
 PeterH0323/Streamer-Sales[main]: https://github.com/PeterH0323/Streamer-Sales.git
@@ -3136,6 +3137,7 @@ SwiftyJSON/SwiftyJSON[master]: https://github.com/SwiftyJSON/SwiftyJSON.git
 SWivid/F5-TTS[main]: https://github.com/SWivid/F5-TTS.git
 sxhxliang/BigGAN-pytorch[master]: https://github.com/sxhxliang/BigGAN-pytorch.git
 sxzxs/Real-time-translation-typing[main]: https://github.com/sxzxs/Real-time-translation-typing.git
+sylvestf/LIBERO-plus[main]: https://github.com/sylvestf/LIBERO-plus.git
 sz3/libcimbar[master]: https://github.com/sz3/libcimbar.git
 szagoruyko/attention-transfer[master]: https://github.com/szagoruyko/attention-transfer.git
 szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
@@ -3536,6 +3538,7 @@ wmjordan/PDFPatcher[master]: https://github.com/wmjordan/PDFPatcher.git
 WongKinYiu/yolov7[main]: https://github.com/WongKinYiu/yolov7.git
 WooQi57/Helpful-Doggybot[main]: https://github.com/WooQi57/Helpful-Doggybot.git
 WordPress/WordPress[master]: https://github.com/WordPress/WordPress.git
+world-grow/WorldGrow[main]: https://github.com/world-grow/WorldGrow.git
 worldcoin/idkit-js[main]: https://github.com/worldcoin/idkit-js.git
 WorldModelBench-Team/WorldModelBench[main]: https://github.com/WorldModelBench-Team/WorldModelBench.git
 WPI-AIM/ros_geomagic[master]: https://github.com/WPI-AIM/ros_geomagic.git
