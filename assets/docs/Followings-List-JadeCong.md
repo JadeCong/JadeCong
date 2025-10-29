@@ -524,6 +524,7 @@ lima-vm: https://github.com/lima-vm
 linchangyi1: https://github.com/linchangyi1
 lingxiaomeng: https://github.com/lingxiaomeng
 linkerbotai: https://github.com/linkerbotai
+linuxdeepin: https://github.com/linuxdeepin
 liruilong940607: https://github.com/liruilong940607
 liruiw: https://github.com/liruiw
 Lissy93: https://github.com/Lissy93
@@ -696,6 +697,7 @@ OpenBMB: https://github.com/OpenBMB
 opencv: https://github.com/opencv
 opendatalab: https://github.com/opendatalab
 OpenDriveLab: https://github.com/OpenDriveLab
+openeuler-mirror: https://github.com/openeuler-mirror
 OpenGalaxea: https://github.com/OpenGalaxea
 OpenGVLab: https://github.com/OpenGVLab
 openharmony: https://github.com/openharmony
