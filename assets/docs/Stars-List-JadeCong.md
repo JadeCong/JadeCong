@@ -139,7 +139,7 @@ alibaba/AliOS-Things[master]: https://github.com/alibaba/AliOS-Things.git
 alibaba/druid[master]: https://github.com/alibaba/druid.git
 alibaba/fastjson[master]: https://github.com/alibaba/fastjson.git
 alibaba/p3c[master]: https://github.com/alibaba/p3c.git
-alibaba/spring-cloud-alibaba[2025.0.x]: https://github.com/alibaba/spring-cloud-alibaba.git
+alibaba/spring-cloud-alibaba[2025.1.x]: https://github.com/alibaba/spring-cloud-alibaba.git
 alibaba/Tora[main]: https://github.com/alibaba/Tora.git
 alibaba/x-render[master]: https://github.com/alibaba/x-render.git
 alimohammadiamirhossein/smite[main]: https://github.com/alimohammadiamirhossein/smite.git
@@ -1429,7 +1429,6 @@ hyperbrowserai/examples[main]: https://github.com/hyperbrowserai/examples.git
 hyperplane-lab/RGBManip[main]: https://github.com/hyperplane-lab/RGBManip.git
 hyz317/StdGEN[main]: https://github.com/hyz317/StdGEN.git
 iamgio/quarkdown[main]: https://github.com/iamgio/quarkdown.git
-iamhyc/Overleaf-Workshop[master]: https://github.com/iamhyc/Overleaf-Workshop.git
 iawia002/lux[master]: https://github.com/iawia002/lux.git
 ibab/tensorflow-wavenet[master]: https://github.com/ibab/tensorflow-wavenet.git
 ibaiGorordo/ONNX-YOLOv6-Object-Detection[main]: https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection.git
@@ -1555,6 +1554,7 @@ JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/Int
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
+JadeCong/MCP-Servers[main]: https://github.com/JadeCong/MCP-Servers.git
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
 JadeCong/plugin_ros[main]: https://github.com/JadeCong/plugin_ros.git
@@ -1905,7 +1905,7 @@ llSourcell/Doctor-Dignity[main]: https://github.com/llSourcell/Doctor-Dignity.gi
 llSourcell/OpenAI_Five_vs_Dota2_Explained[master]: https://github.com/llSourcell/OpenAI_Five_vs_Dota2_Explained.git
 llvm/llvm-project[main]: https://github.com/llvm/llvm-project.git
 lmstudio-ai/model-catalog[main]: https://github.com/lmstudio-ai/model-catalog.git
-lobehub/lobe-chat[main]: https://github.com/lobehub/lobe-chat.git
+lobehub/lobe-chat[next]: https://github.com/lobehub/lobe-chat.git
 localsend/localsend[main]: https://github.com/localsend/localsend.git
 localtunnel/localtunnel[master]: https://github.com/localtunnel/localtunnel.git
 loco-3d/crocoddyl[devel]: https://github.com/loco-3d/crocoddyl.git
@@ -2208,7 +2208,7 @@ moveit/moveit2[main]: https://github.com/moveit/moveit2.git
 moveit/moveit2_tutorials[main]: https://github.com/moveit/moveit2_tutorials.git
 moveit/moveit_task_constructor[master]: https://github.com/moveit/moveit_task_constructor.git
 moveit/moveit_tutorials[master]: https://github.com/moveit/moveit_tutorials.git
-Mozilla-Ocho/llamafile[main]: https://github.com/Mozilla-Ocho/llamafile.git
+mozilla-ai/llamafile[main]: https://github.com/mozilla-ai/llamafile.git
 mp3guy/ElasticFusion[master]: https://github.com/mp3guy/ElasticFusion.git
 mpaepper/vibevoice[main]: https://github.com/mpaepper/vibevoice.git
 mqttjs/MQTT.js[main]: https://github.com/mqttjs/MQTT.js.git
@@ -2525,6 +2525,7 @@ ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
 ourongxing/newsnow[main]: https://github.com/ourongxing/newsnow.git
 ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
 ov2slam/ov2slam[main]: https://github.com/ov2slam/ov2slam.git
+overleaf-workshop/Overleaf-Workshop[master]: https://github.com/overleaf-workshop/Overleaf-Workshop.git
 overleaf/overleaf[main]: https://github.com/overleaf/overleaf.git
 overtake/TelegramSwift[master]: https://github.com/overtake/TelegramSwift.git
 owainlewis/awesome-artificial-intelligence[master]: https://github.com/owainlewis/awesome-artificial-intelligence.git
@@ -2674,6 +2675,7 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
+punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
 punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
@@ -2867,6 +2869,7 @@ ros/pluginlib[rolling]: https://github.com/ros/pluginlib.git
 ros/ros[noetic-devel]: https://github.com/ros/ros.git
 ros/rosdistro[master]: https://github.com/ros/rosdistro.git
 ros/solidworks_urdf_exporter[master]: https://github.com/ros/solidworks_urdf_exporter.git
+ros2/examples[rolling]: https://github.com/ros2/examples.git
 ros2/example_interfaces[rolling]: https://github.com/ros2/example_interfaces.git
 ros2/ros1_bridge[master]: https://github.com/ros2/ros1_bridge.git
 ros2/ros2[rolling]: https://github.com/ros2/ros2.git
@@ -3215,6 +3218,7 @@ teslamotors/roadster[main]: https://github.com/teslamotors/roadster.git
 test-time-training/ttt-lm-pytorch[main]: https://github.com/test-time-training/ttt-lm-pytorch.git
 test-time-training/ttt-video-dit[main]: https://github.com/test-time-training/ttt-video-dit.git
 testerSunshine/12306[master]: https://github.com/testerSunshine/12306.git
+TetherIA/aero-hand-open[main]: https://github.com/TetherIA/aero-hand-open.git
 Textualize/rich[master]: https://github.com/Textualize/rich.git
 tflearn/tflearn[master]: https://github.com/tflearn/tflearn.git
 tgeijten/sconegym[main]: https://github.com/tgeijten/sconegym.git
@@ -3436,7 +3440,7 @@ V2RaySSR/Trojan[master]: https://github.com/V2RaySSR/Trojan.git
 vaayne/NotionAI-Plus[main]: https://github.com/vaayne/NotionAI-Plus.git
 valinet/ExplorerPatcher[master]: https://github.com/valinet/ExplorerPatcher.git
 vanhuyz/CycleGAN-TensorFlow[master]: https://github.com/vanhuyz/CycleGAN-TensorFlow.git
-vanna-ai/vanna[main]: https://github.com/vanna-ai/vanna.git
+vanna-ai/vanna[v2]: https://github.com/vanna-ai/vanna.git
 VAST-AI-Research/TripoSR[main]: https://github.com/VAST-AI-Research/TripoSR.git
 vchoutas/smplx[main]: https://github.com/vchoutas/smplx.git
 Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
