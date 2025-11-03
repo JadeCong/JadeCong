@@ -138,6 +138,8 @@ JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.i
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
   - JadeCong: https://github.com/JadeCong
   - z3r0b47: https://github.com/z3r0b47
+JadeCong/MCP-Servers[main]: https://github.com/JadeCong/MCP-Servers.git
+  - JadeCong: https://github.com/JadeCong
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
@@ -169,4 +171,5 @@ JadeCong/touch_ros[master]: https://github.com/JadeCong/touch_ros.git
   - Carrot404: https://github.com/Carrot404
   - evogithub: https://github.com/evogithub
   - JadeCong: https://github.com/JadeCong
+  - Lewin118: https://github.com/Lewin118
   - swim-alone-young: https://github.com/swim-alone-young
