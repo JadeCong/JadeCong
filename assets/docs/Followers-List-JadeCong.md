@@ -23,7 +23,6 @@ H-K-R: https://github.com/H-K-R
 Hengle: https://github.com/Hengle
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
-ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 ivasik-k7: https://github.com/ivasik-k7
 ixiqvpixi: https://github.com/ixiqvpixi
