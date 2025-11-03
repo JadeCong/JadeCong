@@ -647,6 +647,7 @@ datawhalechina/tiny-universe[main]: https://github.com/datawhalechina/tiny-unive
 datitran/face2face-demo[master]: https://github.com/datitran/face2face-demo.git
 dauparas/ProteinMPNN[main]: https://github.com/dauparas/ProteinMPNN.git
 dav/word2vec[master]: https://github.com/dav/word2vec.git
+DAVIAN-Robotics/PHUMA[main]: https://github.com/DAVIAN-Robotics/PHUMA.git
 davideuler/architecture.of.internet-product[master]: https://github.com/davideuler/architecture.of.internet-product.git
 DavidHDev/react-bits[main]: https://github.com/DavidHDev/react-bits.git
 davidmalawey/OpenArm[main]: https://github.com/davidmalawey/OpenArm.git
@@ -981,6 +982,7 @@ FFTAI/FourierHardwareOpen[main]: https://github.com/FFTAI/FourierHardwareOpen.gi
 FFTAI/Wiki-GRx-Deploy[FourierN1]: https://github.com/FFTAI/Wiki-GRx-Deploy.git
 FFTAI/Wiki-GRx-Gym[FourierN1]: https://github.com/FFTAI/Wiki-GRx-Gym.git
 fighting41love/funNLP[master]: https://github.com/fighting41love/funNLP.git
+filebrowser/filebrowser[master]: https://github.com/filebrowser/filebrowser.git
 finegrain-ai/refiners[main]: https://github.com/finegrain-ai/refiners.git
 FinGeniusAPP/FinGeniusAPP[main]: https://github.com/FinGeniusAPP/FinGeniusAPP.git
 fingerprintjs/fingerprintjs[master]: https://github.com/fingerprintjs/fingerprintjs.git
@@ -1066,7 +1068,7 @@ GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
-game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
+game1024/Speedy[master]: https://github.com/game1024/Speedy.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
 gantFDT/icraft[main]: https://github.com/gantFDT/icraft.git
 gaoxiang12/faster-lio[main]: https://github.com/gaoxiang12/faster-lio.git
@@ -1261,6 +1263,7 @@ Hannibal046/Awesome-LLM[main]: https://github.com/Hannibal046/Awesome-LLM.git
 hanruihua/NeuPAN[main]: https://github.com/hanruihua/NeuPAN.git
 hanruihua/neupan_ros[main]: https://github.com/hanruihua/neupan_ros.git
 hanshuaikang/AI-Media2Doc[main]: https://github.com/hanshuaikang/AI-Media2Doc.git
+hanxi/xiaomusic[main]: https://github.com/hanxi/xiaomusic.git
 hanyangclarence/UniMuMo[main]: https://github.com/hanyangclarence/UniMuMo.git
 hanzhanggit/StackGAN[master]: https://github.com/hanzhanggit/StackGAN.git
 hanzhanggit/StackGAN-inception-model[master]: https://github.com/hanzhanggit/StackGAN-inception-model.git
@@ -2401,7 +2404,7 @@ oceanbase/oceanbase[develop]: https://github.com/oceanbase/oceanbase.git
 ocrmypdf/OCRmyPDF[main]: https://github.com/ocrmypdf/OCRmyPDF.git
 octo-models/octo[main]: https://github.com/octo-models/octo.git
 OctoMap/octomap[devel]: https://github.com/OctoMap/octomap.git
-OctoMap/octomap_mapping[kinetic-devel]: https://github.com/OctoMap/octomap_mapping.git
+OctoMap/octomap_mapping[ros2]: https://github.com/OctoMap/octomap_mapping.git
 octotools/octotools[main]: https://github.com/octotools/octotools.git
 ohmyzsh/ohmyzsh[master]: https://github.com/ohmyzsh/ohmyzsh.git
 ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
