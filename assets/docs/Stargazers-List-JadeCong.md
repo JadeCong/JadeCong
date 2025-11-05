@@ -131,6 +131,8 @@ JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/Int
   - justicelee: https://github.com/justicelee
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
   - JadeCong: https://github.com/JadeCong
+JadeCong/JadeCong-MCP-Servers[main]: https://github.com/JadeCong/JadeCong-MCP-Servers.git
+  - JadeCong: https://github.com/JadeCong
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
   - Glitterstrafe: https://github.com/Glitterstrafe
   - JadeCong: https://github.com/JadeCong
@@ -138,8 +140,6 @@ JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.i
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
   - JadeCong: https://github.com/JadeCong
   - z3r0b47: https://github.com/z3r0b47
-JadeCong/MCP-Servers[main]: https://github.com/JadeCong/MCP-Servers.git
-  - JadeCong: https://github.com/JadeCong
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
