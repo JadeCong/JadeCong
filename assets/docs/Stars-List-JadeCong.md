@@ -225,6 +225,7 @@ ApolloAuto/apollo[master]: https://github.com/ApolloAuto/apollo.git
 apollographql/apollo-client[main]: https://github.com/apollographql/apollo-client.git
 apollographql/apollo-server[main]: https://github.com/apollographql/apollo-server.git
 apollographql/react-apollo[master]: https://github.com/apollographql/react-apollo.git
+appcypher/awesome-mcp-servers[main]: https://github.com/appcypher/awesome-mcp-servers.git
 apple/axlearn[main]: https://github.com/apple/axlearn.git
 apple/container[main]: https://github.com/apple/container.git
 apple/corenet[main]: https://github.com/apple/corenet.git
@@ -1253,6 +1254,7 @@ hacklcx/HFish[master]: https://github.com/hacklcx/HFish.git
 hacksider/Deep-Live-Cam[main]: https://github.com/hacksider/Deep-Live-Cam.git
 hadyang/interview[master]: https://github.com/hadyang/interview.git
 Haian-Jin/Neural_Gaffer[main]: https://github.com/Haian-Jin/Neural_Gaffer.git
+haiwen/seafile[master]: https://github.com/haiwen/seafile.git
 Haiyang-W/TokenFormer[main]: https://github.com/Haiyang-W/TokenFormer.git
 Halbmond/r2_sim[master]: https://github.com/Halbmond/r2_sim.git
 Hanbo-Cheng/DAWN-pytorch[main]: https://github.com/Hanbo-Cheng/DAWN-pytorch.git
@@ -1555,9 +1557,9 @@ JadeCong/HandControl-MuJoCo[master]: https://github.com/JadeCong/HandControl-MuJ
 JadeCong/HumanPose3D-Pytorch[master]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
 JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/IntelligentAssemblyRobotSystem.git
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
+JadeCong/JadeCong-MCP-Servers[main]: https://github.com/JadeCong/JadeCong-MCP-Servers.git
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
-JadeCong/MCP-Servers[main]: https://github.com/JadeCong/MCP-Servers.git
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
 JadeCong/plugin_ros[main]: https://github.com/JadeCong/plugin_ros.git
@@ -2275,6 +2277,7 @@ Neverforgetlove/xmate_robot[main]: https://github.com/Neverforgetlove/xmate_robo
 Newmu/dcgan_code[master]: https://github.com/Newmu/dcgan_code.git
 Newmu/Theano-Tutorials[master]: https://github.com/Newmu/Theano-Tutorials.git
 newton-physics/newton[main]: https://github.com/newton-physics/newton.git
+nextcloud/server[master]: https://github.com/nextcloud/server.git
 ngxson/smolvlm-realtime-webcam[main]: https://github.com/ngxson/smolvlm-realtime-webcam.git
 nhn/tui.calendar[main]: https://github.com/nhn/tui.calendar.git
 nhn/tui.editor[master]: https://github.com/nhn/tui.editor.git
@@ -2492,6 +2495,7 @@ OpenHelix-Team/OpenTrajBooster[main]: https://github.com/OpenHelix-Team/OpenTraj
 OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatial-Forcing.git
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
 openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
+openmediavault/openmediavault[master]: https://github.com/openmediavault/openmediavault.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
 OpenRouterTeam/openrouter-runner[main]: https://github.com/OpenRouterTeam/openrouter-runner.git
@@ -2970,7 +2974,7 @@ shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/Shadowsocks
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
 shareAI-lab/analysis_claude_code[main]: https://github.com/shareAI-lab/analysis_claude_code.git
-shareAI-lab/Kode[main]: https://github.com/shareAI-lab/Kode.git
+shareAI-lab/Kode-cli[main]: https://github.com/shareAI-lab/Kode-cli.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
@@ -3429,6 +3433,7 @@ UT-Austin-RPL/GROOT[master]: https://github.com/UT-Austin-RPL/GROOT.git
 UT-Austin-RPL/TRILL[main]: https://github.com/UT-Austin-RPL/TRILL.git
 UT-HCRL/LEGATO[main]: https://github.com/UT-HCRL/LEGATO.git
 utiasDSL/fiper[main]: https://github.com/utiasDSL/fiper.git
+UWRobotLearning/WheeledLab[main]: https://github.com/UWRobotLearning/WheeledLab.git
 uynitsuj/real2render2real[main]: https://github.com/uynitsuj/real2render2real.git
 UZ-SLAMLab/ORB_SLAM3[master]: https://github.com/UZ-SLAMLab/ORB_SLAM3.git
 uzh-rpg/dagr[master]: https://github.com/uzh-rpg/dagr.git
@@ -3542,6 +3547,7 @@ win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
 wjwwood/serial[main]: https://github.com/wjwwood/serial.git
 wkentaro/labelme[main]: https://github.com/wkentaro/labelme.git
 wmjordan/PDFPatcher[master]: https://github.com/wmjordan/PDFPatcher.git
+wong2/awesome-mcp-servers[main]: https://github.com/wong2/awesome-mcp-servers.git
 WongKinYiu/yolov7[main]: https://github.com/WongKinYiu/yolov7.git
 WooQi57/Helpful-Doggybot[main]: https://github.com/WooQi57/Helpful-Doggybot.git
 WordPress/WordPress[master]: https://github.com/WordPress/WordPress.git
