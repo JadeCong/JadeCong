@@ -636,6 +636,7 @@ neuralinkcorp: https://github.com/neuralinkcorp
 neuralize-ai: https://github.com/neuralize-ai
 NeuronDance: https://github.com/NeuronDance
 newton-physics: https://github.com/newton-physics
+nextcloud: https://github.com/nextcloud
 ngrok: https://github.com/ngrok
 ngxson: https://github.com/ngxson
 nhn: https://github.com/nhn
@@ -703,6 +704,7 @@ OpenGVLab: https://github.com/OpenGVLab
 openharmony: https://github.com/openharmony
 OpenHelix-Team: https://github.com/OpenHelix-Team
 openinterpreter: https://github.com/openinterpreter
+openmediavault: https://github.com/openmediavault
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRLHF: https://github.com/OpenRLHF
 OpenRouterTeam: https://github.com/OpenRouterTeam
@@ -727,6 +729,7 @@ overleaf: https://github.com/overleaf
 overtake: https://github.com/overtake
 Ovilia: https://github.com/Ovilia
 owainlewis: https://github.com/owainlewis
+owncloud: https://github.com/owncloud
 p-christ: https://github.com/p-christ
 PacktPublishing: https://github.com/PacktPublishing
 pairlab: https://github.com/pairlab
@@ -1035,6 +1038,7 @@ ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
 utiasDSL: https://github.com/utiasDSL
+UWRobotLearning: https://github.com/UWRobotLearning
 uynitsuj: https://github.com/uynitsuj
 UZ-SLAMLab: https://github.com/UZ-SLAMLab
 v2fly: https://github.com/v2fly
