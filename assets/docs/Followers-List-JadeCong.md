@@ -1,6 +1,7 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
 AI0228: https://github.com/AI0228
+amdadislam01: https://github.com/amdadislam01
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
@@ -23,9 +24,7 @@ H-K-R: https://github.com/H-K-R
 Hengle: https://github.com/Hengle
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
-ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
-ivasik-k7: https://github.com/ivasik-k7
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
@@ -43,6 +42,7 @@ marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 MeriemBoujamza: https://github.com/MeriemBoujamza
 motanelson: https://github.com/motanelson
+mounikaprp-blip: https://github.com/mounikaprp-blip
 mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
 nholuongut: https://github.com/nholuongut
