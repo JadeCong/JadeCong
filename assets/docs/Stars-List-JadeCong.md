@@ -23,6 +23,7 @@
 3Top/word2vec-api[master]: https://github.com/3Top/word2vec-api.git
 567-labs/instructor[main]: https://github.com/567-labs/instructor.git
 6174/comflowy[main]: https://github.com/6174/comflowy.git
+666ghj/BettaFish[main]: https://github.com/666ghj/BettaFish.git
 78/xiaozhi-esp32[main]: https://github.com/78/xiaozhi-esp32.git
 996icu/996.ICU[master]: https://github.com/996icu/996.ICU.git
 A-embodied/A0[master]: https://github.com/A-embodied/A0.git
@@ -163,6 +164,7 @@ AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
 alyssaq/hough_transform[master]: https://github.com/alyssaq/hough_transform.git
 alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
+amazon-far/TWIST2[main]: https://github.com/amazon-far/TWIST2.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
 ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub[main]: https://github.com/ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub.git
@@ -453,7 +455,7 @@ bytedance/X-Dyna[main]: https://github.com/bytedance/X-Dyna.git
 cactus-compute/cactus[main]: https://github.com/cactus-compute/cactus.git
 caddyserver/caddy[master]: https://github.com/caddyserver/caddy.git
 caelan/pybullet-planning[master]: https://github.com/caelan/pybullet-planning.git
-cambrian-mllm/cambrian[main]: https://github.com/cambrian-mllm/cambrian.git
+cambrian-mllm/cambrian-1[main]: https://github.com/cambrian-mllm/cambrian-1.git
 camel-ai/camel[master]: https://github.com/camel-ai/camel.git
 camel-ai/owl[main]: https://github.com/camel-ai/owl.git
 cangcz/AnchorCrafter[master]: https://github.com/cangcz/AnchorCrafter.git
@@ -813,6 +815,7 @@ ElricLiu/Awesome-One-Click-Deployment[main]: https://github.com/ElricLiu/Awesome
 ematvey/tensorflow-seq2seq-tutorials[master]: https://github.com/ematvey/tensorflow-seq2seq-tutorials.git
 embodied-generalist/embodied-generalist[main]: https://github.com/embodied-generalist/embodied-generalist.git
 Embodied-Web-Agent/Embodied-Web-Agent[main]: https://github.com/Embodied-Web-Agent/Embodied-Web-Agent.git
+EmbodiedCity/AirScape.code[main]: https://github.com/EmbodiedCity/AirScape.code.git
 emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
 emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screenshot-to-code.git
@@ -1651,6 +1654,7 @@ joshua-wu/deepfakes_faceswap[master]: https://github.com/joshua-wu/deepfakes_fac
 JOY-MM/JoyGen[main]: https://github.com/JOY-MM/JoyGen.git
 jquery/jquery[main]: https://github.com/jquery/jquery.git
 Jrohy/trojan[master]: https://github.com/Jrohy/trojan.git
+jslee02/awesome-collision-detection[master]: https://github.com/jslee02/awesome-collision-detection.git
 jslee02/awesome-robotics-libraries[master]: https://github.com/jslee02/awesome-robotics-libraries.git
 jsonresume/registry-functions[master]: https://github.com/jsonresume/registry-functions.git
 jsupancic/deep_hand_pose[master]: https://github.com/jsupancic/deep_hand_pose.git
