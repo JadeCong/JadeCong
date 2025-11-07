@@ -45,6 +45,7 @@ allenai: https://github.com/allenai
 Alpha-VLLM: https://github.com/Alpha-VLLM
 alphacep: https://github.com/alphacep
 amandlek: https://github.com/amandlek
+amazon-far: https://github.com/amazon-far
 ambots3D: https://github.com/ambots3D
 amd: https://github.com/amd
 amdegroot: https://github.com/amdegroot
