@@ -1,7 +1,6 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
 AI0228: https://github.com/AI0228
-amdadislam01: https://github.com/amdadislam01
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
