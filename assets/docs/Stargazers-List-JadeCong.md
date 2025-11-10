@@ -59,6 +59,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - lanmmn: https://github.com/lanmmn
   - LiChaiUSTC: https://github.com/LiChaiUSTC
   - lighter123-KKK: https://github.com/lighter123-KKK
+  - linzhongyan: https://github.com/linzhongyan
   - lrm20011: https://github.com/lrm20011
   - lxsy-xcy: https://github.com/lxsy-xcy
   - MartinPR307: https://github.com/MartinPR307
