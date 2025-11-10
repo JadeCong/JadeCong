@@ -455,7 +455,7 @@ bytedance/X-Dyna[main]: https://github.com/bytedance/X-Dyna.git
 cactus-compute/cactus[main]: https://github.com/cactus-compute/cactus.git
 caddyserver/caddy[master]: https://github.com/caddyserver/caddy.git
 caelan/pybullet-planning[master]: https://github.com/caelan/pybullet-planning.git
-cambrian-mllm/cambrian-1[main]: https://github.com/cambrian-mllm/cambrian-1.git
+cambrian-mllm/cambrian[main]: https://github.com/cambrian-mllm/cambrian.git
 camel-ai/camel[master]: https://github.com/camel-ai/camel.git
 camel-ai/owl[main]: https://github.com/camel-ai/owl.git
 cangcz/AnchorCrafter[master]: https://github.com/cangcz/AnchorCrafter.git
@@ -534,6 +534,7 @@ cline/cline[main]: https://github.com/cline/cline.git
 cliport/cliport[master]: https://github.com/cliport/cliport.git
 cloneofsimo/lora[master]: https://github.com/cloneofsimo/lora.git
 cloudcommunity/Free-Certifications[main]: https://github.com/cloudcommunity/Free-Certifications.git
+cloudflare/cloudflared[master]: https://github.com/cloudflare/cloudflared.git
 cloudify-cosmo/packman[master]: https://github.com/cloudify-cosmo/packman.git
 clvrai/furniture[master]: https://github.com/clvrai/furniture.git
 clvrai/MAML-tf[master]: https://github.com/clvrai/MAML-tf.git
@@ -583,6 +584,7 @@ crewAIInc/crewAI[main]: https://github.com/crewAIInc/crewAI.git
 crewAIInc/crewAI-tools[main]: https://github.com/crewAIInc/crewAI-tools.git
 crigroup/openrave-installation[master]: https://github.com/crigroup/openrave-installation.git
 cryer/D.Silver_RL_Course[master]: https://github.com/cryer/D.Silver_RL_Course.git
+crystalidea/macs-fan-control[master]: https://github.com/crystalidea/macs-fan-control.git
 cryxnet/DeepMCPAgent[main]: https://github.com/cryxnet/DeepMCPAgent.git
 csmile-1006/DEAS-FQL[main]: https://github.com/csmile-1006/DEAS-FQL.git
 csmile-1006/DEAS-Isaac-GR00T[main]: https://github.com/csmile-1006/DEAS-Isaac-GR00T.git
@@ -1225,6 +1227,7 @@ graspit-simulator/graspit[master]: https://github.com/graspit-simulator/graspit.
 graspnet/AnyDexGrasp[main]: https://github.com/graspnet/AnyDexGrasp.git
 graspnet/graspnet-baseline[main]: https://github.com/graspnet/graspnet-baseline.git
 graspnet/graspnetAPI[master]: https://github.com/graspnet/graspnetAPI.git
+gravitational/teleport[master]: https://github.com/gravitational/teleport.git
 graykode/xlnet-Pytorch[master]: https://github.com/graykode/xlnet-Pytorch.git
 Graylab/IgFold[main]: https://github.com/Graylab/IgFold.git
 greedying/tctip[master]: https://github.com/greedying/tctip.git
@@ -1478,6 +1481,8 @@ infiniflow/ragflow[main]: https://github.com/infiniflow/ragflow.git
 ingyamilmolinar/doctorgpt[master]: https://github.com/ingyamilmolinar/doctorgpt.git
 initialneil/DEGAS[master]: https://github.com/initialneil/DEGAS.git
 inksci/Monocular-Camera-3D-Restruction[master]: https://github.com/inksci/Monocular-Camera-3D-Restruction.git
+inlets/inlets-pro[master]: https://github.com/inlets/inlets-pro.git
+inlets/inletsctl[master]: https://github.com/inlets/inletsctl.git
 inspirelt/Turbo-GS[main]: https://github.com/inspirelt/Turbo-GS.git
 instantX-research/InstantID[main]: https://github.com/instantX-research/InstantID.git
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
@@ -1815,6 +1820,7 @@ LeapLabTHU/limit-of-RLVR[main]: https://github.com/LeapLabTHU/limit-of-RLVR.git
 LeCAR-Lab/ABS[main]: https://github.com/LeCAR-Lab/ABS.git
 LeCAR-Lab/anycar[main]: https://github.com/LeCAR-Lab/anycar.git
 LeCAR-Lab/ASAP[main]: https://github.com/LeCAR-Lab/ASAP.git
+LeCAR-Lab/BFM-Zero[main]: https://github.com/LeCAR-Lab/BFM-Zero.git
 LeCAR-Lab/dial-mpc[main]: https://github.com/LeCAR-Lab/dial-mpc.git
 LeCAR-Lab/FALCON[main]: https://github.com/LeCAR-Lab/FALCON.git
 LeCAR-Lab/HDMI[main]: https://github.com/LeCAR-Lab/HDMI.git
@@ -2666,7 +2672,7 @@ premake/premake-core[master]: https://github.com/premake/premake-core.git
 PRIME-RL/PRIME[main]: https://github.com/PRIME-RL/PRIME.git
 PRIME-RL/SimpleVLA-RL[main]: https://github.com/PRIME-RL/SimpleVLA-RL.git
 primefaces/primevue[master]: https://github.com/primefaces/primevue.git
-PrimeIntellect-ai/prime[main]: https://github.com/PrimeIntellect-ai/prime.git
+PrimeIntellect-ai/prime-diloco[main]: https://github.com/PrimeIntellect-ai/prime-diloco.git
 princeton-vl/DROID-SLAM[main]: https://github.com/princeton-vl/DROID-SLAM.git
 princeton-vl/infinigen[main]: https://github.com/princeton-vl/infinigen.git
 priyasundaresan/homer[main]: https://github.com/priyasundaresan/homer.git
