@@ -164,6 +164,7 @@ CiscoDevNet: https://github.com/CiscoDevNet
 clauderic: https://github.com/clauderic
 cline: https://github.com/cline
 CloudEngineHub: https://github.com/CloudEngineHub
+cloudflare: https://github.com/cloudflare
 cloudify-cosmo: https://github.com/cloudify-cosmo
 codecrafters-io: https://github.com/codecrafters-io
 CodedotAl: https://github.com/CodedotAl
@@ -347,6 +348,7 @@ grantjenks: https://github.com/grantjenks
 graphdeco-inria: https://github.com/graphdeco-inria
 graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
+gravitational: https://github.com/gravitational
 Graylab: https://github.com/Graylab
 GrowingGit: https://github.com/GrowingGit
 grpc: https://github.com/grpc
@@ -423,6 +425,7 @@ Inception3D: https://github.com/Inception3D
 index-tts: https://github.com/index-tts
 infiniflow: https://github.com/infiniflow
 initialneil: https://github.com/initialneil
+inlets: https://github.com/inlets
 InsightAGI: https://github.com/InsightAGI
 instructor-ai: https://github.com/instructor-ai
 intel: https://github.com/intel
