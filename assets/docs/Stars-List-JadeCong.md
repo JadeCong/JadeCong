@@ -316,6 +316,7 @@ awesomedata/awesome-public-datasets[master]: https://github.com/awesomedata/awes
 aws/aws-cli[develop]: https://github.com/aws/aws-cli.git
 aws/aws-toolkit-vscode[master]: https://github.com/aws/aws-toolkit-vscode.git
 awslabs/aws-shell[master]: https://github.com/awslabs/aws-shell.git
+Axellwppr/gentle-humanoid[main]: https://github.com/Axellwppr/gentle-humanoid.git
 ayangweb/BongoCat[master]: https://github.com/ayangweb/BongoCat.git
 aymericdamien/TensorFlow-Examples[master]: https://github.com/aymericdamien/TensorFlow-Examples.git
 ayushpai/AI-Math-Notes[main]: https://github.com/ayushpai/AI-Math-Notes.git
@@ -1430,6 +1431,7 @@ Huxpro/huxpro.github.io[master]: https://github.com/Huxpro/huxpro.github.io.git
 HVision-NKU/StoryDiffusion[main]: https://github.com/HVision-NKU/StoryDiffusion.git
 hwdsl2/setup-ipsec-vpn[master]: https://github.com/hwdsl2/setup-ipsec-vpn.git
 HybridRobotics/Berkeley-Humanoid-Lite[main]: https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
+HybridRobotics/Ego-VCP[main]: https://github.com/HybridRobotics/Ego-VCP.git
 HybridRobotics/isaac_berkeley_humanoid[main]: https://github.com/HybridRobotics/isaac_berkeley_humanoid.git
 HybridRobotics/whole_body_tracking[main]: https://github.com/HybridRobotics/whole_body_tracking.git
 hydecorp/hydejack[master]: https://github.com/hydecorp/hydejack.git
@@ -2910,7 +2912,7 @@ run-llama/llama_index[main]: https://github.com/run-llama/llama_index.git
 rundiwu/DeepCAD[master]: https://github.com/rundiwu/DeepCAD.git
 Runixe786/MD3-Windows[main]: https://github.com/Runixe786/MD3-Windows.git
 runtipi/runtipi[develop]: https://github.com/runtipi/runtipi.git
-rust-lang/rust[master]: https://github.com/rust-lang/rust.git
+rust-lang/rust[main]: https://github.com/rust-lang/rust.git
 rust-lang/rustlings[main]: https://github.com/rust-lang/rustlings.git
 rust-unofficial/awesome-rust[main]: https://github.com/rust-unofficial/awesome-rust.git
 rustdesk/doc.rustdesk.com[master]: https://github.com/rustdesk/doc.rustdesk.com.git
@@ -3157,7 +3159,6 @@ SwiftyJSON/SwiftyJSON[master]: https://github.com/SwiftyJSON/SwiftyJSON.git
 SWivid/F5-TTS[main]: https://github.com/SWivid/F5-TTS.git
 sxhxliang/BigGAN-pytorch[master]: https://github.com/sxhxliang/BigGAN-pytorch.git
 sxzxs/Real-time-translation-typing[main]: https://github.com/sxzxs/Real-time-translation-typing.git
-sylvestf/LIBERO-plus[main]: https://github.com/sylvestf/LIBERO-plus.git
 sz3/libcimbar[master]: https://github.com/sz3/libcimbar.git
 szagoruyko/attention-transfer[master]: https://github.com/szagoruyko/attention-transfer.git
 szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
