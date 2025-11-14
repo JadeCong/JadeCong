@@ -127,6 +127,7 @@ browserbase: https://github.com/browserbase
 BruceYanghy: https://github.com/BruceYanghy
 buaacyw: https://github.com/buaacyw
 BuilderIO: https://github.com/BuilderIO
+bulletphysics: https://github.com/bulletphysics
 buresdv: https://github.com/buresdv
 bytebot-ai: https://github.com/bytebot-ai
 bytedance: https://github.com/bytedance
@@ -283,6 +284,7 @@ fan-ziqi: https://github.com/fan-ziqi
 Fanqi-Lin: https://github.com/Fanqi-Lin
 Farama-Foundation: https://github.com/Farama-Foundation
 fastapi: https://github.com/fastapi
+FastUMIRobotics: https://github.com/FastUMIRobotics
 fatedier: https://github.com/fatedier
 FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
@@ -294,6 +296,7 @@ finos: https://github.com/finos
 firecrawl: https://github.com/firecrawl
 fireflyprotocol: https://github.com/fireflyprotocol
 Firmament-Autopilot: https://github.com/Firmament-Autopilot
+fishros: https://github.com/fishros
 fjwillemsen: https://github.com/fjwillemsen
 FlagAI-Open: https://github.com/FlagAI-Open
 FlagOpen: https://github.com/FlagOpen
@@ -481,6 +484,7 @@ Kiln-AI: https://github.com/Kiln-AI
 KindXiaoming: https://github.com/KindXiaoming
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
+KlingTeam: https://github.com/KlingTeam
 Kong: https://github.com/Kong
 KOREATECH-IRIMLab: https://github.com/KOREATECH-IRIMLab
 kortix-ai: https://github.com/kortix-ai
@@ -491,7 +495,6 @@ krishauser: https://github.com/krishauser
 kscalelabs: https://github.com/kscalelabs
 kuindersma: https://github.com/kuindersma
 kvcache-ai: https://github.com/kvcache-ai
-KwaiVGI: https://github.com/KwaiVGI
 kyegomez: https://github.com/kyegomez
 Kyubyong: https://github.com/Kyubyong
 labuladong: https://github.com/labuladong
@@ -683,7 +686,6 @@ OAI: https://github.com/OAI
 octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
 Oneflow-Inc: https://github.com/Oneflow-Inc
-OneStarRobotics: https://github.com/OneStarRobotics
 onevcat: https://github.com/onevcat
 onlook-dev: https://github.com/onlook-dev
 ONLYOFFICE: https://github.com/ONLYOFFICE
@@ -818,6 +820,8 @@ RealManRobot: https://github.com/RealManRobot
 realpython: https://github.com/realpython
 reazon-research: https://github.com/reazon-research
 Red-Rabbit-Robotics: https://github.com/Red-Rabbit-Robotics
+reddit: https://github.com/reddit
+reddit-archive: https://github.com/reddit-archive
 redis: https://github.com/redis
 rednote-hilab: https://github.com/rednote-hilab
 redpanda-data: https://github.com/redpanda-data
