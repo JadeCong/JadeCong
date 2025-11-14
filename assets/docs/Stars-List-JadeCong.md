@@ -1008,11 +1008,11 @@ fkryan/gazelle[main]: https://github.com/fkryan/gazelle.git
 FlagAI-Open/Aquila2[main]: https://github.com/FlagAI-Open/Aquila2.git
 FlagAI-Open/FlagAI[master]: https://github.com/FlagAI-Open/FlagAI.git
 FlagOpen/FlagEmbedding[master]: https://github.com/FlagOpen/FlagEmbedding.git
-FlagOpen/FlagGems[master]: https://github.com/FlagOpen/FlagGems.git
-FlagOpen/FlagScale[main]: https://github.com/FlagOpen/FlagScale.git
 FlagOpen/RoboBrain[main]: https://github.com/FlagOpen/RoboBrain.git
 FlagOpen/RoboBrain2.0[main]: https://github.com/FlagOpen/RoboBrain2.0.git
 FlagOpen/RoboOS[main]: https://github.com/FlagOpen/RoboOS.git
+flagos-ai/FlagGems[master]: https://github.com/flagos-ai/FlagGems.git
+flagos-ai/FlagScale[main]: https://github.com/flagos-ai/FlagScale.git
 flexible-collision-library/fcl[master]: https://github.com/flexible-collision-library/fcl.git
 flexivrobotics/flexiv_aidk[main]: https://github.com/flexivrobotics/flexiv_aidk.git
 flexivrobotics/flexiv_rdk[main]: https://github.com/flexivrobotics/flexiv_rdk.git
@@ -1751,6 +1751,10 @@ Kitware/CMake[master]: https://github.com/Kitware/CMake.git
 kjw0612/awesome-rnn[master]: https://github.com/kjw0612/awesome-rnn.git
 kkennethwu/AuraFusion360_official[main]: https://github.com/kkennethwu/AuraFusion360_official.git
 kkkgo/LTSB-Add-MicrosoftStore[master]: https://github.com/kkkgo/LTSB-Add-MicrosoftStore.git
+KlingTeam/GameFactory[main]: https://github.com/KlingTeam/GameFactory.git
+KlingTeam/LivePortrait[main]: https://github.com/KlingTeam/LivePortrait.git
+KlingTeam/StyleMaster[main]: https://github.com/KlingTeam/StyleMaster.git
+KlingTeam/SynCamMaster[main]: https://github.com/KlingTeam/SynCamMaster.git
 knowm/XChange[develop]: https://github.com/knowm/XChange.git
 kodecocodes/swift-algorithm-club[master]: https://github.com/kodecocodes/swift-algorithm-club.git
 kodecocodes/swift-style-guide[main]: https://github.com/kodecocodes/swift-style-guide.git
@@ -1773,10 +1777,6 @@ Kulbear/deep-learning-coursera[master]: https://github.com/Kulbear/deep-learning
 kungfu-origin/kungfu[main]: https://github.com/kungfu-origin/kungfu.git
 kuzudb/kuzu[master]: https://github.com/kuzudb/kuzu.git
 kvcache-ai/ktransformers[main]: https://github.com/kvcache-ai/ktransformers.git
-KwaiVGI/GameFactory[main]: https://github.com/KwaiVGI/GameFactory.git
-KwaiVGI/LivePortrait[main]: https://github.com/KwaiVGI/LivePortrait.git
-KwaiVGI/StyleMaster[main]: https://github.com/KwaiVGI/StyleMaster.git
-KwaiVGI/SynCamMaster[main]: https://github.com/KwaiVGI/SynCamMaster.git
 kxhit/EscherNet[main]: https://github.com/kxhit/EscherNet.git
 kyegomez/Open-AF3[main]: https://github.com/kyegomez/Open-AF3.git
 kyegomez/PALM-E[main]: https://github.com/kyegomez/PALM-E.git
@@ -2236,6 +2236,7 @@ msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-
 msgpack-rpc/msgpack-rpc[master]: https://github.com/msgpack-rpc/msgpack-rpc.git
 mshoe/PARC[main]: https://github.com/mshoe/PARC.git
 MSiam/motion_adaptation[master]: https://github.com/MSiam/motion_adaptation.git
+mttga/purejaxql[main]: https://github.com/mttga/purejaxql.git
 mudler/LocalAI[master]: https://github.com/mudler/LocalAI.git
 muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
 mujocolab/mjlab[main]: https://github.com/mujocolab/mjlab.git
@@ -2785,6 +2786,7 @@ recastnavigation/recastnavigation[main]: https://github.com/recastnavigation/rec
 Red-Rabbit-Robotics/rx1[master]: https://github.com/Red-Rabbit-Robotics/rx1.git
 Red-Rabbit-Robotics/rx1_bom[master]: https://github.com/Red-Rabbit-Robotics/rx1_bom.git
 Red-Rabbit-Robotics/rx1_servo_hardware[master]: https://github.com/Red-Rabbit-Robotics/rx1_servo_hardware.git
+reddit-archive/reddit[master]: https://github.com/reddit-archive/reddit.git
 redis/go-redis[master]: https://github.com/redis/go-redis.git
 redis/redis[unstable]: https://github.com/redis/redis.git
 redis/RedisInsight[main]: https://github.com/redis/RedisInsight.git
