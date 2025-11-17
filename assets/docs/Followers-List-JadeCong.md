@@ -8,6 +8,7 @@ BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
 Cameleon3D: https://github.com/Cameleon3D
+CelaDaniel: https://github.com/CelaDaniel
 chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
@@ -23,6 +24,7 @@ H-K-R: https://github.com/H-K-R
 Hengle: https://github.com/Hengle
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
+ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
