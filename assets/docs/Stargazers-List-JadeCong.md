@@ -143,8 +143,10 @@ JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-h
   - z3r0b47: https://github.com/z3r0b47
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
   - JadeCong: https://github.com/JadeCong
+  - ShepardLee: https://github.com/ShepardLee
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
   - JadeCong: https://github.com/JadeCong
+  - ShepardLee: https://github.com/ShepardLee
 JadeCong/plugin_ros[main]: https://github.com/JadeCong/plugin_ros.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/plugin_ros2[main]: https://github.com/JadeCong/plugin_ros2.git
