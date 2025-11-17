@@ -298,6 +298,7 @@ AuboRobot/aubo_ros2_driver[main]: https://github.com/AuboRobot/aubo_ros2_driver.
 AuboRobot/aubo_ros_driver[main]: https://github.com/AuboRobot/aubo_ros_driver.git
 AuboRobot/mra7a[indigo-devel]: https://github.com/AuboRobot/mra7a.git
 AuboRobot/mra7a_tutorials[indigo-devel]: https://github.com/AuboRobot/mra7a_tutorials.git
+aurone/trac_ik[master]: https://github.com/aurone/trac_ik.git
 AutodeskRoboticsLab/graspfactory[main]: https://github.com/AutodeskRoboticsLab/graspfactory.git
 autogyro/yolo-V8[main]: https://github.com/autogyro/yolo-V8.git
 AutomaApp/automa[main]: https://github.com/AutomaApp/automa.git
@@ -508,6 +509,7 @@ chathub-dev/chathub[main]: https://github.com/chathub-dev/chathub.git
 chatmcp/mcpso[main]: https://github.com/chatmcp/mcpso.git
 CHEN-H01/Fast-in-Slow[main]: https://github.com/CHEN-H01/Fast-in-Slow.git
 ChenglongChen/pytorch-DRL[master]: https://github.com/ChenglongChen/pytorch-DRL.git
+ChengshuLi/MoMaGen[main]: https://github.com/ChengshuLi/MoMaGen.git
 chenyuntc/pytorch-book[master]: https://github.com/chenyuntc/pytorch-book.git
 CherryHQ/cherry-studio[main]: https://github.com/CherryHQ/cherry-studio.git
 chinakook/Awesome-MXNet[master]: https://github.com/chinakook/Awesome-MXNet.git
@@ -565,6 +567,7 @@ commaai/openpilot[master]: https://github.com/commaai/openpilot.git
 computerhistory/AlexNet-Source-Code[main]: https://github.com/computerhistory/AlexNet-Source-Code.git
 CompVis/stable-diffusion[main]: https://github.com/CompVis/stable-diffusion.git
 containers/podman[main]: https://github.com/containers/podman.git
+context-labs/aella-data-explorer[main]: https://github.com/context-labs/aella-data-explorer.git
 ControlVLA/ControlVLA[main]: https://github.com/ControlVLA/ControlVLA.git
 convergence-ai/proxy-lite[main]: https://github.com/convergence-ai/proxy-lite.git
 Convertio/convertio-cli[master]: https://github.com/Convertio/convertio-cli.git
@@ -1597,6 +1600,7 @@ jayparks/transformer[master]: https://github.com/jayparks/transformer.git
 jaywcjlove/awesome-mac[master]: https://github.com/jaywcjlove/awesome-mac.git
 jbeder/yaml-cpp[master]: https://github.com/jbeder/yaml-cpp.git
 jbiaojerry/ebook-treasure-chest[main]: https://github.com/jbiaojerry/ebook-treasure-chest.git
+jc-bao/spider[main]: https://github.com/jc-bao/spider.git
 jcjohnson/fast-neural-style[master]: https://github.com/jcjohnson/fast-neural-style.git
 jcjohnson/neural-style[master]: https://github.com/jcjohnson/neural-style.git
 jcjohnson/torch-rnn[master]: https://github.com/jcjohnson/torch-rnn.git
@@ -3192,6 +3196,7 @@ TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
 TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
+TeleHuman/TextOp[main]: https://github.com/TeleHuman/TextOp.git
 TEN-framework/ten-framework[main]: https://github.com/TEN-framework/ten-framework.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
 Tencent-Hunyuan/Hunyuan3D-1[main]: https://github.com/Tencent-Hunyuan/Hunyuan3D-1.git
@@ -3461,7 +3466,7 @@ V2RaySSR/Trojan[master]: https://github.com/V2RaySSR/Trojan.git
 vaayne/NotionAI-Plus[main]: https://github.com/vaayne/NotionAI-Plus.git
 valinet/ExplorerPatcher[master]: https://github.com/valinet/ExplorerPatcher.git
 vanhuyz/CycleGAN-TensorFlow[master]: https://github.com/vanhuyz/CycleGAN-TensorFlow.git
-vanna-ai/vanna[v2]: https://github.com/vanna-ai/vanna.git
+vanna-ai/vanna[main]: https://github.com/vanna-ai/vanna.git
 VAST-AI-Research/TripoSR[main]: https://github.com/VAST-AI-Research/TripoSR.git
 vchoutas/smplx[main]: https://github.com/vchoutas/smplx.git
 Vector-Wangel/XLeRobot[main]: https://github.com/Vector-Wangel/XLeRobot.git
