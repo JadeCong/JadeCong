@@ -435,7 +435,6 @@ bulletphysics/pybullet_robots[master]: https://github.com/bulletphysics/pybullet
 buresdv/Cork[main]: https://github.com/buresdv/Cork.git
 BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
-Byaidu/PDFMathTranslate[main]: https://github.com/Byaidu/PDFMathTranslate.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
 bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
 ByteDance-Seed/TraceAnything[main]: https://github.com/ByteDance-Seed/TraceAnything.git
@@ -2592,6 +2591,7 @@ paulengstler/syncity[main]: https://github.com/paulengstler/syncity.git
 paulirish/dotfiles[main]: https://github.com/paulirish/dotfiles.git
 paulQuei/a-star-algorithm[master]: https://github.com/paulQuei/a-star-algorithm.git
 payloadcms/payload[main]: https://github.com/payloadcms/payload.git
+PDFMathTranslate/PDFMathTranslate[main]: https://github.com/PDFMathTranslate/PDFMathTranslate.git
 pdmaker/watermark-master[main]: https://github.com/pdmaker/watermark-master.git
 peng-zhihui/Dummy-Robot[main]: https://github.com/peng-zhihui/Dummy-Robot.git
 peng-zhihui/HoloCubic[main]: https://github.com/peng-zhihui/HoloCubic.git
@@ -2699,8 +2699,6 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
-punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
-punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
