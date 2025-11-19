@@ -24,7 +24,6 @@ H-K-R: https://github.com/H-K-R
 Hengle: https://github.com/Hengle
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
-ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
@@ -78,7 +77,6 @@ volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 walbarellos: https://github.com/walbarellos
 wareeshaali2003: https://github.com/wareeshaali2003
-warmice71: https://github.com/warmice71
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
 YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
