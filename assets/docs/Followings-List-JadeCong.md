@@ -789,7 +789,6 @@ psf: https://github.com/psf
 Psi-Robot: https://github.com/Psi-Robot
 ptrblck: https://github.com/ptrblck
 pulibrary: https://github.com/pulibrary
-punkpeye: https://github.com/punkpeye
 putyy: https://github.com/putyy
 pybind: https://github.com/pybind
 pygame: https://github.com/pygame
