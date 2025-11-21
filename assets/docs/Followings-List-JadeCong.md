@@ -637,6 +637,7 @@ nasa: https://github.com/nasa
 naver: https://github.com/naver
 nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
+neobotix: https://github.com/neobotix
 NeoVertex1: https://github.com/NeoVertex1
 neovim: https://github.com/neovim
 nerfstudio-project: https://github.com/nerfstudio-project
