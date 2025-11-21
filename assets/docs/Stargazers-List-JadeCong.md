@@ -83,6 +83,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - sunzhon: https://github.com/sunzhon
   - sxpmwmh: https://github.com/sxpmwmh
   - telee6789: https://github.com/telee6789
+  - tuantuanyyyy: https://github.com/tuantuanyyyy
   - TX-Leo: https://github.com/TX-Leo
   - UAVPlayer: https://github.com/UAVPlayer
   - VictoriaBai: https://github.com/VictoriaBai
@@ -131,8 +132,6 @@ JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/Int
   - JadeCong: https://github.com/JadeCong
   - justicelee: https://github.com/justicelee
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
-  - JadeCong: https://github.com/JadeCong
-JadeCong/JadeCong-MCP-Servers[main]: https://github.com/JadeCong/JadeCong-MCP-Servers.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
   - Glitterstrafe: https://github.com/Glitterstrafe
