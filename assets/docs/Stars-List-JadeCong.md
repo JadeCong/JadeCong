@@ -131,8 +131,8 @@ ali-vilab/MimicBrush[main]: https://github.com/ali-vilab/MimicBrush.git
 ali-vilab/UniAnimate[main]: https://github.com/ali-vilab/UniAnimate.git
 ali-vilab/VACE[main]: https://github.com/ali-vilab/VACE.git
 AliaksandrSiarohin/first-order-model[master]: https://github.com/AliaksandrSiarohin/first-order-model.git
+alibaba-damo-academy/RynnVLA-002[main]: https://github.com/alibaba-damo-academy/RynnVLA-002.git
 alibaba-damo-academy/Uni3C[main]: https://github.com/alibaba-damo-academy/Uni3C.git
-alibaba-damo-academy/WorldVLA[main]: https://github.com/alibaba-damo-academy/WorldVLA.git
 alibaba-developer/Alibaba-Interview-Skill[master]: https://github.com/alibaba-developer/Alibaba-Interview-Skill.git
 Alibaba-NLP/DeepResearch[main]: https://github.com/Alibaba-NLP/DeepResearch.git
 alibaba/acqdp[main]: https://github.com/alibaba/acqdp.git
@@ -362,6 +362,7 @@ behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
 BeingBeyond/BumbleBee[main]: https://github.com/BeingBeyond/BumbleBee.git
 BeingBeyond/DemoGrasp[main]: https://github.com/BeingBeyond/DemoGrasp.git
+BeingBeyond/DemoHLM[main]: https://github.com/BeingBeyond/DemoHLM.git
 BenBurgessLimerick/ManipulationOnTheMove[main]: https://github.com/BenBurgessLimerick/ManipulationOnTheMove.git
 benedekrozemberczki/awesome-graph-classification[master]: https://github.com/benedekrozemberczki/awesome-graph-classification.git
 benelot/pybullet-gym[master]: https://github.com/benelot/pybullet-gym.git
@@ -928,6 +929,7 @@ facebookresearch/PyTorch-BigGraph[main]: https://github.com/facebookresearch/PyT
 facebookresearch/PyTouch[main]: https://github.com/facebookresearch/PyTouch.git
 facebookresearch/ReAgent[main]: https://github.com/facebookresearch/ReAgent.git
 facebookresearch/sam2[main]: https://github.com/facebookresearch/sam2.git
+facebookresearch/sam3[main]: https://github.com/facebookresearch/sam3.git
 facebookresearch/seamless_communication[main]: https://github.com/facebookresearch/seamless_communication.git
 facebookresearch/segment-anything[main]: https://github.com/facebookresearch/segment-anything.git
 facebookresearch/sparsh-multisensory-touch[main]: https://github.com/facebookresearch/sparsh-multisensory-touch.git
@@ -1569,7 +1571,6 @@ JadeCong/HandControl-MuJoCo[master]: https://github.com/JadeCong/HandControl-MuJ
 JadeCong/HumanPose3D-Pytorch[master]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
 JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/IntelligentAssemblyRobotSystem.git
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
-JadeCong/JadeCong-MCP-Servers[main]: https://github.com/JadeCong/JadeCong-MCP-Servers.git
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
@@ -1676,6 +1677,7 @@ Junda24/MonSter[main]: https://github.com/Junda24/MonSter.git
 junhyukoh/deep-reinforcement-learning-papers[master]: https://github.com/junhyukoh/deep-reinforcement-learning-papers.git
 junhyukoh/self-imitation-learning[master]: https://github.com/junhyukoh/self-imitation-learning.git
 juniorrojas/morphology-adaptive[main]: https://github.com/juniorrojas/morphology-adaptive.git
+JunJie-zhang-o/eliterobot[main]: https://github.com/JunJie-zhang-o/eliterobot.git
 junyanz/CycleGAN[master]: https://github.com/junyanz/CycleGAN.git
 junyanz/iGAN[master]: https://github.com/junyanz/iGAN.git
 junyanz/pytorch-CycleGAN-and-pix2pix[master]: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
@@ -2274,6 +2276,7 @@ nbfigueroa/franka_interactive_controllers[main]: https://github.com/nbfigueroa/f
 ncsoft/CaPa[main]: https://github.com/ncsoft/CaPa.git
 neeek2303/EMOPortraits[main]: https://github.com/neeek2303/EMOPortraits.git
 neo4j-labs/llm-graph-builder[main]: https://github.com/neo4j-labs/llm-graph-builder.git
+neobotix/elite-robots2[main]: https://github.com/neobotix/elite-robots2.git
 neon-izm/EasyMotionRecorder[master]: https://github.com/neon-izm/EasyMotionRecorder.git
 NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
