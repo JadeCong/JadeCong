@@ -24,12 +24,14 @@ H-K-R: https://github.com/H-K-R
 Hengle: https://github.com/Hengle
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
+ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
 jordiaphane: https://github.com/jordiaphane
+JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 kai392: https://github.com/kai392
 Kalidshere: https://github.com/Kalidshere
@@ -47,6 +49,7 @@ mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
+nmbetancur: https://github.com/nmbetancur
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 onamfc: https://github.com/onamfc
 oomodan: https://github.com/oomodan
@@ -60,6 +63,7 @@ Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
 ritakaneu: https://github.com/ritakaneu
+S4IL21: https://github.com/S4IL21
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
 sjzsbgwb: https://github.com/sjzsbgwb
