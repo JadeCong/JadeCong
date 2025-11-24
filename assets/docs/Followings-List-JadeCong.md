@@ -790,6 +790,7 @@ psf: https://github.com/psf
 Psi-Robot: https://github.com/Psi-Robot
 ptrblck: https://github.com/ptrblck
 pulibrary: https://github.com/pulibrary
+punkpeye: https://github.com/punkpeye
 putyy: https://github.com/putyy
 pybind: https://github.com/pybind
 pygame: https://github.com/pygame
@@ -935,6 +936,7 @@ staruml: https://github.com/staruml
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
 Stirling-Tools: https://github.com/Stirling-Tools
+straight-tamago: https://github.com/straight-tamago
 strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
 sunner: https://github.com/sunner
