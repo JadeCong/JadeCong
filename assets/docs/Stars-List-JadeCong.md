@@ -1407,7 +1407,7 @@ huggingface/lerobot[main]: https://github.com/huggingface/lerobot.git
 huggingface/pytorch-image-models[main]: https://github.com/huggingface/pytorch-image-models.git
 huggingface/pytorch-openai-transformer-lm[master]: https://github.com/huggingface/pytorch-openai-transformer-lm.git
 huggingface/pytorch-pretrained-BigGAN[master]: https://github.com/huggingface/pytorch-pretrained-BigGAN.git
-huggingface/sentence-transformers[master]: https://github.com/huggingface/sentence-transformers.git
+huggingface/sentence-transformers[main]: https://github.com/huggingface/sentence-transformers.git
 huggingface/transformers[main]: https://github.com/huggingface/transformers.git
 huggingface/transformers-bloom-inference[main]: https://github.com/huggingface/transformers-bloom-inference.git
 huggingface/transformers.js[main]: https://github.com/huggingface/transformers.js.git
@@ -1497,8 +1497,6 @@ IntelLabs/coach[master]: https://github.com/IntelLabs/coach.git
 IntelLabs/rnnlm[master]: https://github.com/IntelLabs/rnnlm.git
 intelligent-control-lab/guard[main]: https://github.com/intelligent-control-lab/guard.git
 Intellindust-AI-Lab/DEIM[main]: https://github.com/Intellindust-AI-Lab/DEIM.git
-IntelRealSense/librealsense[master]: https://github.com/IntelRealSense/librealsense.git
-IntelRealSense/realsense-ros[ros2-master]: https://github.com/IntelRealSense/realsense-ros.git
 interactive-3d/interactive3d[main]: https://github.com/interactive-3d/interactive3d.git
 InternLM/MindSearch[main]: https://github.com/InternLM/MindSearch.git
 InternRobotics/AdaMimic[main]: https://github.com/InternRobotics/AdaMimic.git
@@ -2702,6 +2700,8 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
+punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
+punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
@@ -2786,6 +2786,8 @@ RealManRobot/visual-servo[main]: https://github.com/RealManRobot/visual-servo.gi
 RealManRobot/yolo-rgbd[main]: https://github.com/RealManRobot/yolo-rgbd.git
 realpython/materials[master]: https://github.com/realpython/materials.git
 realpython/python-guide[master]: https://github.com/realpython/python-guide.git
+realsenseai/librealsense[master]: https://github.com/realsenseai/librealsense.git
+realsenseai/realsense-ros[ros2-master]: https://github.com/realsenseai/realsense-ros.git
 reazon-research/ReazonSpeech[master]: https://github.com/reazon-research/ReazonSpeech.git
 recastnavigation/recastnavigation[main]: https://github.com/recastnavigation/recastnavigation.git
 Red-Rabbit-Robotics/rx1[master]: https://github.com/Red-Rabbit-Robotics/rx1.git
@@ -3137,6 +3139,7 @@ stevenlovegrove/Pangolin[master]: https://github.com/stevenlovegrove/Pangolin.gi
 stevenlsw/physgen[main]: https://github.com/stevenlsw/physgen.git
 Stirling-Tools/Stirling-PDF[main]: https://github.com/Stirling-Tools/Stirling-PDF.git
 StockSharp/StockSharp[master]: https://github.com/StockSharp/StockSharp.git
+straight-tamago/misaka26[main]: https://github.com/straight-tamago/misaka26.git
 straight-tamago/misakaX[main]: https://github.com/straight-tamago/misakaX.git
 strands-agents/tools[main]: https://github.com/strands-agents/tools.git
 streadway/amqp[master]: https://github.com/streadway/amqp.git
