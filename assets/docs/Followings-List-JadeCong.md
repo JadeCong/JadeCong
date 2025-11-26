@@ -336,6 +336,7 @@ getomni-ai: https://github.com/getomni-ai
 getzep: https://github.com/getzep
 GeWu-Lab: https://github.com/GeWu-Lab
 gggliuye: https://github.com/gggliuye
+GitbookIO: https://github.com/GitbookIO
 github: https://github.com/github
 githubnext: https://github.com/githubnext
 glenn-jocher: https://github.com/glenn-jocher
