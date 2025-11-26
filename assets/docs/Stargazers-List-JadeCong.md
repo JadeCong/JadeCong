@@ -40,6 +40,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - DengyingFu: https://github.com/DengyingFu
   - dianyeHuang: https://github.com/dianyeHuang
   - Eren-01: https://github.com/Eren-01
+  - EricCho13: https://github.com/EricCho13
   - FreezeSoul: https://github.com/FreezeSoul
   - Gaming722: https://github.com/Gaming722
   - GGGGGGGGGGN: https://github.com/GGGGGGGGGGN
@@ -50,6 +51,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - ivua: https://github.com/ivua
   - jacksparowtxz: https://github.com/jacksparowtxz
   - JadeCong: https://github.com/JadeCong
+  - jasonleecode: https://github.com/jasonleecode
   - JCRONG96: https://github.com/JCRONG96
   - junhaotu2000: https://github.com/junhaotu2000
   - justicelee: https://github.com/justicelee
