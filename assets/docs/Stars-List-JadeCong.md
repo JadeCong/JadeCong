@@ -1606,7 +1606,7 @@ jdh-algo/JoyHallo[main]: https://github.com/jdh-algo/JoyHallo.git
 jdh-algo/JoyVASA[main]: https://github.com/jdh-algo/JoyVASA.git
 jdrew1303/ros_geomagic_touch_phantom_omni[master]: https://github.com/jdrew1303/ros_geomagic_touch_phantom_omni.git
 je-suis-tm/quant-trading[master]: https://github.com/je-suis-tm/quant-trading.git
-jeecgboot/JeecgBoot[springboot3]: https://github.com/jeecgboot/JeecgBoot.git
+jeecgboot/JeecgBoot[main]: https://github.com/jeecgboot/JeecgBoot.git
 Jeff-LiangF/streamv2v[main]: https://github.com/Jeff-LiangF/streamv2v.git
 JefferyHcool/BiliNote[master]: https://github.com/JefferyHcool/BiliNote.git
 jeffgerickson/algorithms[master]: https://github.com/jeffgerickson/algorithms.git
@@ -1969,6 +1969,7 @@ lucidrains/vit-pytorch[main]: https://github.com/lucidrains/vit-pytorch.git
 lucidrains/x-transformers[main]: https://github.com/lucidrains/x-transformers.git
 lucidsim/lucidsim[main]: https://github.com/lucidsim/lucidsim.git
 lufficc/SSD[master]: https://github.com/lufficc/SSD.git
+lukasmolnar/wb-mpc-locoman[main]: https://github.com/lukasmolnar/wb-mpc-locoman.git
 lukasz-madon/awesome-remote-job[master]: https://github.com/lukasz-madon/awesome-remote-job.git
 lumalabs/lumaapi-python[main]: https://github.com/lumalabs/lumaapi-python.git
 lumina-ai-inc/benchmark[master]: https://github.com/lumina-ai-inc/benchmark.git
@@ -2002,6 +2003,7 @@ manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Ke
 ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
 manipulate-in-dream/MinD[main]: https://github.com/manipulate-in-dream/MinD.git
+ManipulationNet/mnet_client[ros_2]: https://github.com/ManipulationNet/mnet_client.git
 manycore-research/SpatialLM[main]: https://github.com/manycore-research/SpatialLM.git
 maplezzz/NTU_ML2017_Hung-yi-Lee_HW[master]: https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW.git
 marcelo-earth/generative-manim[main]: https://github.com/marcelo-earth/generative-manim.git
