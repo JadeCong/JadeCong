@@ -521,7 +521,6 @@ chrisrhymes/bulma-clean-theme[master]: https://github.com/chrisrhymes/bulma-clea
 ChrisTitusTech/winutil[main]: https://github.com/ChrisTitusTech/winutil.git
 ChristosChristofidis/awesome-deep-learning[master]: https://github.com/ChristosChristofidis/awesome-deep-learning.git
 chrisyrniu/Human2LocoMan[main]: https://github.com/chrisyrniu/Human2LocoMan.git
-chromalock/TI-32[main]: https://github.com/chromalock/TI-32.git
 ChromeDevTools/chrome-devtools-mcp[main]: https://github.com/ChromeDevTools/chrome-devtools-mcp.git
 chrxh/alien[develop]: https://github.com/chrxh/alien.git
 chuanqi305/MobileNet-SSD[master]: https://github.com/chuanqi305/MobileNet-SSD.git
@@ -1493,6 +1492,7 @@ inspirelt/Turbo-GS[main]: https://github.com/inspirelt/Turbo-GS.git
 instantX-research/InstantID[main]: https://github.com/instantX-research/InstantID.git
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
 intel/ros2_openvino_toolkit[master]: https://github.com/intel/ros2_openvino_toolkit.git
+intell-sci-comput/PSE[main]: https://github.com/intell-sci-comput/PSE.git
 IntelLabs/coach[master]: https://github.com/IntelLabs/coach.git
 IntelLabs/rnnlm[master]: https://github.com/IntelLabs/rnnlm.git
 intelligent-control-lab/guard[main]: https://github.com/intelligent-control-lab/guard.git
@@ -2952,6 +2952,7 @@ Samsung/TizenRT[master]: https://github.com/Samsung/TizenRT.git
 samuelclay/NewsBlur[main]: https://github.com/samuelclay/NewsBlur.git
 SamuelSchmidgall/AgentLaboratory[main]: https://github.com/SamuelSchmidgall/AgentLaboratory.git
 SandAI-org/MAGI-1[main]: https://github.com/SandAI-org/MAGI-1.git
+sansan0/TrendRadar[master]: https://github.com/sansan0/TrendRadar.git
 santinic/audiblez[main]: https://github.com/santinic/audiblez.git
 santosjorge/cufflinks[master]: https://github.com/santosjorge/cufflinks.git
 saprmarks/geometry-of-truth[main]: https://github.com/saprmarks/geometry-of-truth.git
