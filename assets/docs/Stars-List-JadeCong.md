@@ -1470,6 +1470,7 @@ ImagineAILab/ai-by-hand-excel[main]: https://github.com/ImagineAILab/ai-by-hand-
 iman-sharifi-ghb/Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Reinforcement-Learning[main]: https://github.com/iman-sharifi-ghb/Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Reinforcement-Learning.git
 immense/Remotely[master]: https://github.com/immense/Remotely.git
 immich-app/immich[main]: https://github.com/immich-app/immich.git
+import-ai/omnibox[main]: https://github.com/import-ai/omnibox.git
 ImprintLab/Medical-SAM2[main]: https://github.com/ImprintLab/Medical-SAM2.git
 Improbable-AI/learning-compliance[main]: https://github.com/Improbable-AI/learning-compliance.git
 Improbable-AI/VisionProTeleop[main]: https://github.com/Improbable-AI/VisionProTeleop.git
@@ -2614,6 +2615,7 @@ philc/vimium[master]: https://github.com/philc/vimium.git
 philipperemy/keras-attention[master]: https://github.com/philipperemy/keras-attention.git
 philippesaade-wmde/WikidataTextEmbedding[main]: https://github.com/philippesaade-wmde/WikidataTextEmbedding.git
 phillipi/pix2pix[master]: https://github.com/phillipi/pix2pix.git
+phj128/CoDA[main]: https://github.com/phj128/CoDA.git
 Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.git
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
@@ -2887,6 +2889,9 @@ RoMeLaUCLA/robot-player[master]: https://github.com/RoMeLaUCLA/robot-player.git
 RooCodeInc/Roo-Code[main]: https://github.com/RooCodeInc/Roo-Code.git
 ros-agriculture/lawn_tractor[master]: https://github.com/ros-agriculture/lawn_tractor.git
 ros-agriculture/tractor_localization[master]: https://github.com/ros-agriculture/tractor_localization.git
+ros-controls/ros2_control[master]: https://github.com/ros-controls/ros2_control.git
+ros-controls/ros2_controllers[master]: https://github.com/ros-controls/ros2_controllers.git
+ros-controls/ros_control[noetic-devel]: https://github.com/ros-controls/ros_control.git
 ros-drivers/rosserial[noetic-devel]: https://github.com/ros-drivers/rosserial.git
 ros-industrial-attic/siemens_tutorials[master]: https://github.com/ros-industrial-attic/siemens_tutorials.git
 ros-industrial/fanuc[noetic-devel]: https://github.com/ros-industrial/fanuc.git
