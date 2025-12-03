@@ -1,5 +1,6 @@
 01-ai/Yi[main]: https://github.com/01-ai/Yi.git
 0x2E/fusion[main]: https://github.com/0x2E/fusion.git
+0xCrunchyy/hypergen[main]: https://github.com/0xCrunchyy/hypergen.git
 0xKoda/drone-mcp[main]: https://github.com/0xKoda/drone-mcp.git
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
@@ -164,7 +165,8 @@ AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
 alyssaq/hough_transform[master]: https://github.com/alyssaq/hough_transform.git
 alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
-amazon-far/TWIST2[main]: https://github.com/amazon-far/TWIST2.git
+amazon-far/holosoma[main]: https://github.com/amazon-far/holosoma.git
+amazon-far/TWIST2[master]: https://github.com/amazon-far/TWIST2.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
 ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub[main]: https://github.com/ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub.git
@@ -2342,7 +2344,6 @@ notvenky/eFlesh[main]: https://github.com/notvenky/eFlesh.git
 NovaSky-AI/SkyThought[main]: https://github.com/NovaSky-AI/SkyThought.git
 npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphCourse.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
-ntegrals/hypergen[main]: https://github.com/ntegrals/hypergen.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
 Nutlope/llamacoder[main]: https://github.com/Nutlope/llamacoder.git
@@ -2503,6 +2504,7 @@ opendatalab/PDF-Extract-Kit[main]: https://github.com/opendatalab/PDF-Extract-Ki
 OpenDDS/OpenDDS[master]: https://github.com/OpenDDS/OpenDDS.git
 opendilab/GoBigger[main]: https://github.com/opendilab/GoBigger.git
 OpenDriveLab/AgiBot-World[main]: https://github.com/OpenDriveLab/AgiBot-World.git
+OpenDriveLab/AMS[main]: https://github.com/OpenDriveLab/AMS.git
 OpenDriveLab/OpenScene[main]: https://github.com/OpenDriveLab/OpenScene.git
 OpenEtherCATsociety/SOEM[master]: https://github.com/OpenEtherCATsociety/SOEM.git
 OpenGalaxea/G0[main]: https://github.com/OpenGalaxea/G0.git
