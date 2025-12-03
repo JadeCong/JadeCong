@@ -858,6 +858,7 @@ rolpotamias: https://github.com/rolpotamias
 RoMeLaUCLA: https://github.com/RoMeLaUCLA
 ros: https://github.com/ros
 ros-agriculture: https://github.com/ros-agriculture
+ros-controls: https://github.com/ros-controls
 ros-industrial: https://github.com/ros-industrial
 ros-planning: https://github.com/ros-planning
 ros2: https://github.com/ros2
