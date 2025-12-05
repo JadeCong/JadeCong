@@ -1736,6 +1736,7 @@ kevinzakka/obj2mjcf[main]: https://github.com/kevinzakka/obj2mjcf.git
 kevwan/tproxy[main]: https://github.com/kevwan/tproxy.git
 kezhenxu94/mini-github[master]: https://github.com/kezhenxu94/mini-github.git
 kh-kim/stock_market_reinforcement_learning[master]: https://github.com/kh-kim/stock_market_reinforcement_learning.git
+KhachDavid/franka_drake[main]: https://github.com/KhachDavid/franka_drake.git
 khoj-ai/khoj[master]: https://github.com/khoj-ai/khoj.git
 Khrylx/PyTorch-RL[master]: https://github.com/Khrylx/PyTorch-RL.git
 Khrylx/RFC[main]: https://github.com/Khrylx/RFC.git
@@ -2620,6 +2621,7 @@ phillipi/pix2pix[master]: https://github.com/phillipi/pix2pix.git
 phj128/CoDA[main]: https://github.com/phj128/CoDA.git
 Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.git
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
+phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
@@ -2747,6 +2749,7 @@ r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
 raidendotai/cofounder[main]: https://github.com/raidendotai/cofounder.git
+rail-berkeley/bridge_data_v2[main]: https://github.com/rail-berkeley/bridge_data_v2.git
 rail-berkeley/crossformer[main]: https://github.com/rail-berkeley/crossformer.git
 rail-berkeley/hil-serl[main]: https://github.com/rail-berkeley/hil-serl.git
 rail-berkeley/rlkit[master]: https://github.com/rail-berkeley/rlkit.git
@@ -3427,7 +3430,6 @@ Undertone0809/promptulate[main]: https://github.com/Undertone0809/promptulate.gi
 unified-field-theory-org/animations[main]: https://github.com/unified-field-theory-org/animations.git
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unified-force/UniFP[main]: https://github.com/unified-force/UniFP.git
-unit-mesh/auto-dev[master]: https://github.com/unit-mesh/auto-dev.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
 unitreerobotics/unifolm-world-model-action[main]: https://github.com/unitreerobotics/unifolm-world-model-action.git
 unitreerobotics/unitree_mujoco[main]: https://github.com/unitreerobotics/unitree_mujoco.git
@@ -3635,7 +3637,7 @@ xinghaochen/TinySAM[main]: https://github.com/xinghaochen/TinySAM.git
 xinglie/report-designer[master]: https://github.com/xinglie/report-designer.git
 xingyizhou/CenterNet2[master]: https://github.com/xingyizhou/CenterNet2.git
 xiph/libao[master]: https://github.com/xiph/libao.git
-xixu-me/Xget[main]: https://github.com/xixu-me/Xget.git
+xixu-me/xget[main]: https://github.com/xixu-me/xget.git
 xlite-dev/lite.ai.toolkit[main]: https://github.com/xlite-dev/lite.ai.toolkit.git
 xming521/WeClone[master]: https://github.com/xming521/WeClone.git
 xmppjs/xmpp.js[main]: https://github.com/xmppjs/xmpp.js.git
