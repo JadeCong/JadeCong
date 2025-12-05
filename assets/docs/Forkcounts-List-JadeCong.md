@@ -17,6 +17,8 @@ JadeCong/demo_ros2[main]: https://github.com/JadeCong/demo_ros2.git
   - OrderForce-Intelligence: https://github.com/OrderForce-Intelligence
 JadeCong/HumanPose3D-Pytorch[master]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
   - LouisNUST: https://github.com/LouisNUST
+JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
+  - sebagrz03: https://github.com/sebagrz03
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
   - DRedDevil04: https://github.com/DRedDevil04
 JadeCong/Robotic-Softbody-Manipulation[master]: https://github.com/JadeCong/Robotic-Softbody-Manipulation.git
