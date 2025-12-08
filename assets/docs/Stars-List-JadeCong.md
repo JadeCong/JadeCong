@@ -874,6 +874,7 @@ evalstate/fast-agent[main]: https://github.com/evalstate/fast-agent.git
 eveningglow/multitask-CycleGAN[master]: https://github.com/eveningglow/multitask-CycleGAN.git
 evil-huawei/evil-huawei[master]: https://github.com/evil-huawei/evil-huawei.git
 evilsocket/cake[main]: https://github.com/evilsocket/cake.git
+EvolvingLMMs-Lab/NEO[main]: https://github.com/EvolvingLMMs-Lab/NEO.git
 ex3ndr/llama-coder[main]: https://github.com/ex3ndr/llama-coder.git
 exacity/deeplearningbook-chinese[master]: https://github.com/exacity/deeplearningbook-chinese.git
 excalidraw/excalidraw[master]: https://github.com/excalidraw/excalidraw.git
@@ -967,6 +968,7 @@ Farama-Foundation/Minigrid[master]: https://github.com/Farama-Foundation/Minigri
 Farama-Foundation/MO-Gymnasium[main]: https://github.com/Farama-Foundation/MO-Gymnasium.git
 Farama-Foundation/ViZDoom[master]: https://github.com/Farama-Foundation/ViZDoom.git
 FareedKhan-dev/Building-llama3-from-scratch[main]: https://github.com/FareedKhan-dev/Building-llama3-from-scratch.git
+farion1231/cc-switch[main]: https://github.com/farion1231/cc-switch.git
 farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
@@ -2251,6 +2253,7 @@ muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
 mujocolab/mjlab[main]: https://github.com/mujocolab/mjlab.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
 Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
+musistudio/claude-code-router[main]: https://github.com/musistudio/claude-code-router.git
 mustafa-qamaruddin/age-cgan[master]: https://github.com/mustafa-qamaruddin/age-cgan.git
 mut-ex/gligen-gui[main]: https://github.com/mut-ex/gligen-gui.git
 muzishen/IMAGDressing[main]: https://github.com/muzishen/IMAGDressing.git
@@ -2480,6 +2483,7 @@ openai/imitation[master]: https://github.com/openai/imitation.git
 openai/mlsh[master]: https://github.com/openai/mlsh.git
 openai/mujoco-py[master]: https://github.com/openai/mujoco-py.git
 openai/mujoco-worldgen[master]: https://github.com/openai/mujoco-worldgen.git
+openai/openai-chatkit-starter-app[main]: https://github.com/openai/openai-chatkit-starter-app.git
 openai/openai-cookbook[main]: https://github.com/openai/openai-cookbook.git
 openai/openai-cs-agents-demo[main]: https://github.com/openai/openai-cs-agents-demo.git
 openai/openai-python[main]: https://github.com/openai/openai-python.git
