@@ -274,6 +274,7 @@ EtherDream: https://github.com/EtherDream
 ethereum: https://github.com/ethereum
 ethz-adrl: https://github.com/ethz-adrl
 eureka-research: https://github.com/eureka-research
+EvolvingLMMs-Lab: https://github.com/EvolvingLMMs-Lab
 exelban: https://github.com/exelban
 exo-explore: https://github.com/exo-explore
 facebook: https://github.com/facebook
@@ -284,8 +285,9 @@ FAIR-INNOVATION: https://github.com/FAIR-INNOVATION
 fan-ziqi: https://github.com/fan-ziqi
 Fanqi-Lin: https://github.com/Fanqi-Lin
 Farama-Foundation: https://github.com/Farama-Foundation
+farion1231: https://github.com/farion1231
 fastapi: https://github.com/fastapi
-FastUMIRobotics: https://github.com/FastUMIRobotics
+FastUMIData: https://github.com/FastUMIData
 fatedier: https://github.com/fatedier
 FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
@@ -623,6 +625,8 @@ mrdbourke: https://github.com/mrdbourke
 MrTornado24: https://github.com/MrTornado24
 mshoe: https://github.com/mshoe
 mudler: https://github.com/mudler
+mujocolab: https://github.com/mujocolab
+musistudio: https://github.com/musistudio
 MVIG-SJTU: https://github.com/MVIG-SJTU
 MyoHub: https://github.com/MyoHub
 myshell-ai: https://github.com/myshell-ai
