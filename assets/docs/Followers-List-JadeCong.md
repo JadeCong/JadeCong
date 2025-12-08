@@ -8,6 +8,7 @@ BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
 Cameleon3D: https://github.com/Cameleon3D
+Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
@@ -17,6 +18,7 @@ devimccallion: https://github.com/devimccallion
 devmaster116: https://github.com/devmaster116
 dirambora: https://github.com/dirambora
 emilycodestar: https://github.com/emilycodestar
+frieren-mage: https://github.com/frieren-mage
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 H-K-R: https://github.com/H-K-R
@@ -40,6 +42,7 @@ lodhik9: https://github.com/lodhik9
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
+mehmet-kozan: https://github.com/mehmet-kozan
 MeriemBoujamza: https://github.com/MeriemBoujamza
 motanelson: https://github.com/motanelson
 mounikaprp-blip: https://github.com/mounikaprp-blip
@@ -49,7 +52,6 @@ nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nmbetancur: https://github.com/nmbetancur
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
-onamfc: https://github.com/onamfc
 oomodan: https://github.com/oomodan
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
 pie-rise1development: https://github.com/pie-rise1development
