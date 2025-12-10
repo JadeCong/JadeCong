@@ -498,6 +498,7 @@ chai3d/chai3d[master]: https://github.com/chai3d/chai3d.git
 chaidiscovery/chai-lab[main]: https://github.com/chaidiscovery/chai-lab.git
 Chainlit/chainlit[main]: https://github.com/Chainlit/chainlit.git
 chaitin/PandaWiki[main]: https://github.com/chaitin/PandaWiki.git
+chang-jl/EfficientFlow[main]: https://github.com/chang-jl/EfficientFlow.git
 ChangdeDu/BraVL[master]: https://github.com/ChangdeDu/BraVL.git
 chaozh/awesome-blockchain-cn[master]: https://github.com/chaozh/awesome-blockchain-cn.git
 Chaphlagical/Deblur-GS[main]: https://github.com/Chaphlagical/Deblur-GS.git
@@ -772,6 +773,7 @@ duma-repo/ai_code_reader[master]: https://github.com/duma-repo/ai_code_reader.gi
 duplicati/duplicati[master]: https://github.com/duplicati/duplicati.git
 dusty-nv/jetson-containers[master]: https://github.com/dusty-nv/jetson-containers.git
 dusty-nv/NanoLLM[main]: https://github.com/dusty-nv/NanoLLM.git
+dusty-nv/ros_deep_learning[master]: https://github.com/dusty-nv/ros_deep_learning.git
 duyipai/Allegro_Digit[main]: https://github.com/duyipai/Allegro_Digit.git
 dvlab-research/ControlNeXt[main]: https://github.com/dvlab-research/ControlNeXt.git
 dvlab-research/MagicMirror[main]: https://github.com/dvlab-research/MagicMirror.git
@@ -1250,6 +1252,7 @@ guilk/KAT[main]: https://github.com/guilk/KAT.git
 guillaume-chevalier/LSTM-Human-Activity-Recognition[master]: https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition.git
 gulvarol/bodynet[master]: https://github.com/gulvarol/bodynet.git
 Guobin-Zhu/MARL-LLM[master]: https://github.com/Guobin-Zhu/MARL-LLM.git
+Guybod/CodroidApi[main]: https://github.com/Guybod/CodroidApi.git
 GuyTevet/CLoSD[main]: https://github.com/GuyTevet/CLoSD.git
 GVCLab/FairyGen[main]: https://github.com/GVCLab/FairyGen.git
 gwtaylor/theano-rnn[master]: https://github.com/gwtaylor/theano-rnn.git
@@ -1558,6 +1561,8 @@ j96w/MuJoCo_Unity_UR5[master]: https://github.com/j96w/MuJoCo_Unity_UR5.git
 jaantollander/OneEuroFilter[master]: https://github.com/jaantollander/OneEuroFilter.git
 Jack-Cherish/python-spider[master]: https://github.com/Jack-Cherish/python-spider.git
 jackfrued/Python-100-Days[master]: https://github.com/jackfrued/Python-100-Days.git
+jackfrued/Python-Core-50-Courses[master]: https://github.com/jackfrued/Python-Core-50-Courses.git
+jackfrued/Python-Interview-Bible[master]: https://github.com/jackfrued/Python-Interview-Bible.git
 JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
 JadeCong/Awesome-Artificial-Intelligence[main]: https://github.com/JadeCong/Awesome-Artificial-Intelligence.git
@@ -2092,6 +2097,8 @@ michalfaber/keras_Realtime_Multi-Person_Pose_Estimation[master]: https://github.
 michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation.git
 MichalZawalski/embodied-CoT[main]: https://github.com/MichalZawalski/embodied-CoT.git
 mickael-kerjean/filestash[master]: https://github.com/mickael-kerjean/filestash.git
+micro-ROS/micro_ros_arduino[kilted]: https://github.com/micro-ROS/micro_ros_arduino.git
+micro-ROS/micro_ros_setup[kilted]: https://github.com/micro-ROS/micro_ros_setup.git
 microsoft/AI-For-Beginners[main]: https://github.com/microsoft/AI-For-Beginners.git
 microsoft/AI-System[main]: https://github.com/microsoft/AI-System.git
 microsoft/AirSim[main]: https://github.com/microsoft/AirSim.git
@@ -2360,7 +2367,17 @@ nv-tlabs/vipe[main]: https://github.com/nv-tlabs/vipe.git
 nvbn/thefuck[master]: https://github.com/nvbn/thefuck.git
 NVIDIA-AI-IOT/jetbot[master]: https://github.com/NVIDIA-AI-IOT/jetbot.git
 NVIDIA-AI-IOT/remembr[main]: https://github.com/NVIDIA-AI-IOT/remembr.git
+NVIDIA-AI-IOT/ros2_deepstream[main]: https://github.com/NVIDIA-AI-IOT/ros2_deepstream.git
+NVIDIA-AI-IOT/ros2_jetson[main]: https://github.com/NVIDIA-AI-IOT/ros2_jetson.git
+NVIDIA-AI-IOT/ros2_jetson_stats[humble]: https://github.com/NVIDIA-AI-IOT/ros2_jetson_stats.git
+NVIDIA-AI-IOT/ros2_torch2trt_examples[main]: https://github.com/NVIDIA-AI-IOT/ros2_torch2trt_examples.git
+NVIDIA-AI-IOT/ros2_torch_trt[master]: https://github.com/NVIDIA-AI-IOT/ros2_torch_trt.git
+NVIDIA-AI-IOT/ros2_trt_pose[main]: https://github.com/NVIDIA-AI-IOT/ros2_trt_pose.git
+NVIDIA-AI-IOT/ros2_trt_pose_hand[main]: https://github.com/NVIDIA-AI-IOT/ros2_trt_pose_hand.git
 NVIDIA-ISAAC-ROS/isaac_ros_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_benchmark.git
+NVIDIA-ISAAC-ROS/isaac_ros_common[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common.git
+NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference.git
+NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
 NVIDIA-ISAAC-ROS/isaac_ros_nitros[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros.git
 NVIDIA-ISAAC-ROS/isaac_ros_nitros_bridge[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros_bridge.git
 NVIDIA-ISAAC-ROS/isaac_ros_nvblox[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox.git
@@ -2906,7 +2923,9 @@ ros-industrial-attic/siemens_tutorials[master]: https://github.com/ros-industria
 ros-industrial/fanuc[noetic-devel]: https://github.com/ros-industrial/fanuc.git
 ros-industrial/fanuc_experimental[melodic-devel]: https://github.com/ros-industrial/fanuc_experimental.git
 ros-industrial/universal_robot[noetic-devel]: https://github.com/ros-industrial/universal_robot.git
+ros-navigation/navigation2[main]: https://github.com/ros-navigation/navigation2.git
 ros-perception/slam_gmapping[melodic-devel]: https://github.com/ros-perception/slam_gmapping.git
+ros-perception/vision_opencv[rolling]: https://github.com/ros-perception/vision_opencv.git
 ros-planning/navigation[noetic-devel]: https://github.com/ros-planning/navigation.git
 ros-simulation/gazebo_ros_demos[kinetic-devel]: https://github.com/ros-simulation/gazebo_ros_demos.git
 ros/pluginlib[rolling]: https://github.com/ros/pluginlib.git
@@ -2917,6 +2936,7 @@ ros2/examples[rolling]: https://github.com/ros2/examples.git
 ros2/example_interfaces[rolling]: https://github.com/ros2/example_interfaces.git
 ros2/ros1_bridge[master]: https://github.com/ros2/ros1_bridge.git
 ros2/ros2[rolling]: https://github.com/ros2/ros2.git
+ros2/ros2cli[rolling]: https://github.com/ros2/ros2cli.git
 ros2/ros2_documentation[rolling]: https://github.com/ros2/ros2_documentation.git
 Rose-STL-Lab/HDR-IL[master]: https://github.com/Rose-STL-Lab/HDR-IL.git
 RosettaCommons/RoseTTAFold[main]: https://github.com/RosettaCommons/RoseTTAFold.git
@@ -3186,6 +3206,7 @@ SwiftyJSON/SwiftyJSON[master]: https://github.com/SwiftyJSON/SwiftyJSON.git
 SWivid/F5-TTS[main]: https://github.com/SWivid/F5-TTS.git
 sxhxliang/BigGAN-pytorch[master]: https://github.com/sxhxliang/BigGAN-pytorch.git
 sxzxs/Real-time-translation-typing[main]: https://github.com/sxzxs/Real-time-translation-typing.git
+sylvestf/LIBERO-plus[main]: https://github.com/sylvestf/LIBERO-plus.git
 sz3/libcimbar[master]: https://github.com/sz3/libcimbar.git
 szagoruyko/attention-transfer[master]: https://github.com/szagoruyko/attention-transfer.git
 szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
@@ -3761,6 +3782,7 @@ zai-org/CogVLM2[main]: https://github.com/zai-org/CogVLM2.git
 zai-org/GLM-130B[main]: https://github.com/zai-org/GLM-130B.git
 zai-org/GLM-4[main]: https://github.com/zai-org/GLM-4.git
 zai-org/GLM-4-Voice[main]: https://github.com/zai-org/GLM-4-Voice.git
+zai-org/Open-AutoGLM[main]: https://github.com/zai-org/Open-AutoGLM.git
 zbw001/TAPIP3D[main]: https://github.com/zbw001/TAPIP3D.git
 zdchan/RobustDexGrasp[main]: https://github.com/zdchan/RobustDexGrasp.git
 zealdocs/zeal[main]: https://github.com/zealdocs/zeal.git
