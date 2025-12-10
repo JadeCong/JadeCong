@@ -105,6 +105,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - Yukuncn: https://github.com/Yukuncn
   - zhanglk9: https://github.com/zhanglk9
   - zhaoyanhao-s: https://github.com/zhaoyanhao-s
+  - zhengbi-yong: https://github.com/zhengbi-yong
   - zhoujustin: https://github.com/zhoujustin
   - ZhouZhiwei2019: https://github.com/ZhouZhiwei2019
   - zjx1805: https://github.com/zjx1805
