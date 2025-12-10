@@ -447,6 +447,7 @@ isaac-sim: https://github.com/isaac-sim
 isarandi: https://github.com/isarandi
 isocpp: https://github.com/isocpp
 j96w: https://github.com/j96w
+jackfrued: https://github.com/jackfrued
 janishar: https://github.com/janishar
 jart: https://github.com/jart
 JasonJZLiu: https://github.com/JasonJZLiu
@@ -826,6 +827,7 @@ ReactRobotics: https://github.com/ReactRobotics
 real-stanford: https://github.com/real-stanford
 RealManRobot: https://github.com/RealManRobot
 realpython: https://github.com/realpython
+realsenseai: https://github.com/realsenseai
 reazon-research: https://github.com/reazon-research
 Red-Rabbit-Robotics: https://github.com/Red-Rabbit-Robotics
 reddit: https://github.com/reddit
@@ -864,6 +866,7 @@ ros: https://github.com/ros
 ros-agriculture: https://github.com/ros-agriculture
 ros-controls: https://github.com/ros-controls
 ros-industrial: https://github.com/ros-industrial
+ros-perception: https://github.com/ros-perception
 ros-planning: https://github.com/ros-planning
 ros2: https://github.com/ros2
 RosettaCommons: https://github.com/RosettaCommons
