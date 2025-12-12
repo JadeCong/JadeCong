@@ -49,6 +49,7 @@ amazon-far: https://github.com/amazon-far
 ambots3D: https://github.com/ambots3D
 amd: https://github.com/amd
 amdegroot: https://github.com/amdegroot
+ament: https://github.com/ament
 ami-iit: https://github.com/ami-iit
 amzn: https://github.com/amzn
 anaconda: https://github.com/anaconda
@@ -593,6 +594,7 @@ meta-llama: https://github.com/meta-llama
 metadriverse: https://github.com/metadriverse
 MetaMask: https://github.com/MetaMask
 michaelyuancb: https://github.com/michaelyuancb
+micro-ROS: https://github.com/micro-ROS
 microsoft: https://github.com/microsoft
 mindsdb: https://github.com/mindsdb
 MineDojo: https://github.com/MineDojo
@@ -1157,6 +1159,7 @@ yuliangguo: https://github.com/yuliangguo
 yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
+zai-org: https://github.com/zai-org
 zealdocs: https://github.com/zealdocs
 zed-industries: https://github.com/zed-industries
 zen-browser: https://github.com/zen-browser
