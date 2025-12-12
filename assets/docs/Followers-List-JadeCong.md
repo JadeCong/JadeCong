@@ -83,7 +83,6 @@ walbarellos: https://github.com/walbarellos
 wareeshaali2003: https://github.com/wareeshaali2003
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
-xxspell: https://github.com/xxspell
 YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
 yogeshvibez: https://github.com/yogeshvibez
