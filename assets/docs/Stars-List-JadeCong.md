@@ -169,6 +169,8 @@ amazon-far/holosoma[main]: https://github.com/amazon-far/holosoma.git
 amazon-far/TWIST2[master]: https://github.com/amazon-far/TWIST2.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
+ament/ament_cmake[rolling]: https://github.com/ament/ament_cmake.git
+ament/ament_lint[rolling]: https://github.com/ament/ament_lint.git
 ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub[main]: https://github.com/ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub.git
 amir1376/ab-download-manager[master]: https://github.com/amir1376/ab-download-manager.git
 amplab/SparkNet[master]: https://github.com/amplab/SparkNet.git
@@ -730,6 +732,7 @@ dkanou/telepose[master]: https://github.com/dkanou/telepose.git
 DLR-RM/stable-baselines3[master]: https://github.com/DLR-RM/stable-baselines3.git
 dmlc/minpy[master]: https://github.com/dmlc/minpy.git
 dmlc/mxnet-notebooks[master]: https://github.com/dmlc/mxnet-notebooks.git
+docker/buildx[master]: https://github.com/docker/buildx.git
 dockur/macos[master]: https://github.com/dockur/macos.git
 dockur/windows[master]: https://github.com/dockur/windows.git
 docmost/docmost[main]: https://github.com/docmost/docmost.git
@@ -1732,6 +1735,8 @@ kekingcn/kkFileView[master]: https://github.com/kekingcn/kkFileView.git
 KelianB/SPARK[main]: https://github.com/KelianB/SPARK.git
 kenjihiranabe/The-Art-of-Linear-Algebra[main]: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra.git
 kenshohara/3D-ResNets-PyTorch[master]: https://github.com/kenshohara/3D-ResNets-PyTorch.git
+KeplerC/awesome-cloud-robotics[main]: https://github.com/KeplerC/awesome-cloud-robotics.git
+KeplerC/robo2VLM[main]: https://github.com/KeplerC/robo2VLM.git
 keras-rl/keras-rl[master]: https://github.com/keras-rl/keras-rl.git
 keras-team/keras[master]: https://github.com/keras-team/keras.git
 kern/filepizza[main]: https://github.com/kern/filepizza.git
