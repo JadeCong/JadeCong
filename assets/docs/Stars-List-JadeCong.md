@@ -639,7 +639,6 @@ darglein/ADOP[main]: https://github.com/darglein/ADOP.git
 DarioMazzanti/OneEuroFilterUnity[main]: https://github.com/DarioMazzanti/OneEuroFilterUnity.git
 DarLiner/Algorithm_Interview_Notes-Chinese[master]: https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese.git
 dartsim/dart[main]: https://github.com/dartsim/dart.git
-databricks/dbrx[main]: https://github.com/databricks/dbrx.git
 databricks/megablocks[main]: https://github.com/databricks/megablocks.git
 datalab-to/marker[master]: https://github.com/datalab-to/marker.git
 datalab-to/surya[master]: https://github.com/datalab-to/surya.git
@@ -1504,8 +1503,6 @@ instantX-research/InstantID[main]: https://github.com/instantX-research/InstantI
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
 intel/ros2_openvino_toolkit[master]: https://github.com/intel/ros2_openvino_toolkit.git
 intell-sci-comput/PSE[main]: https://github.com/intell-sci-comput/PSE.git
-IntelLabs/coach[master]: https://github.com/IntelLabs/coach.git
-IntelLabs/rnnlm[master]: https://github.com/IntelLabs/rnnlm.git
 intelligent-control-lab/guard[main]: https://github.com/intelligent-control-lab/guard.git
 Intellindust-AI-Lab/DEIM[main]: https://github.com/Intellindust-AI-Lab/DEIM.git
 interactive-3d/interactive3d[main]: https://github.com/interactive-3d/interactive3d.git
@@ -2381,6 +2378,7 @@ NVIDIA-AI-IOT/ros2_trt_pose[main]: https://github.com/NVIDIA-AI-IOT/ros2_trt_pos
 NVIDIA-AI-IOT/ros2_trt_pose_hand[main]: https://github.com/NVIDIA-AI-IOT/ros2_trt_pose_hand.git
 NVIDIA-ISAAC-ROS/isaac_ros_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_benchmark.git
 NVIDIA-ISAAC-ROS/isaac_ros_common[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common.git
+NVIDIA-ISAAC-ROS/isaac_ros_cumotion[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_cumotion.git
 NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference.git
 NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
 NVIDIA-ISAAC-ROS/isaac_ros_nitros[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros.git
@@ -2389,6 +2387,7 @@ NVIDIA-ISAAC-ROS/isaac_ros_nvblox[main]: https://github.com/NVIDIA-ISAAC-ROS/isa
 NVIDIA-ISAAC-ROS/isaac_ros_object_detection[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection.git
 NVIDIA-ISAAC-ROS/isaac_ros_visual_slam[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
 NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_benchmark.git
+nvidia-isaac/cumotion[main]: https://github.com/nvidia-isaac/cumotion.git
 NVIDIA-NeMo/NeMo[main]: https://github.com/NVIDIA-NeMo/NeMo.git
 NVIDIA-NeMo/RL[main]: https://github.com/NVIDIA-NeMo/RL.git
 NVIDIA-Omniverse/deep-dive-into-microservices[main]: https://github.com/NVIDIA-Omniverse/deep-dive-into-microservices.git
