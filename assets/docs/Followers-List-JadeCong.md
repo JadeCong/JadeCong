@@ -18,7 +18,6 @@ devimccallion: https://github.com/devimccallion
 devmaster116: https://github.com/devmaster116
 dirambora: https://github.com/dirambora
 emilycodestar: https://github.com/emilycodestar
-frieren-mage: https://github.com/frieren-mage
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 H-K-R: https://github.com/H-K-R
