@@ -990,6 +990,7 @@ fengdu78/deeplearning_ai_books[master]: https://github.com/fengdu78/deeplearning
 fengdu78/lihang-code[master]: https://github.com/fengdu78/lihang-code.git
 fengdu78/machine_learning_beginner[master]: https://github.com/fengdu78/machine_learning_beginner.git
 fengkan/RuntimeRetargeting[master]: https://github.com/fengkan/RuntimeRetargeting.git
+fengq1a0/physhmr[main]: https://github.com/fengq1a0/physhmr.git
 FengQuanLi/ResnetGPT[master]: https://github.com/FengQuanLi/ResnetGPT.git
 fenwii/huaweimind[master]: https://github.com/fenwii/huaweimind.git
 fenwii/OpenHarmony[master]: https://github.com/fenwii/OpenHarmony.git
@@ -1436,6 +1437,7 @@ HumanSignal/labelImg[master]: https://github.com/HumanSignal/labelImg.git
 HumaRobotics/modbus[master]: https://github.com/HumaRobotics/modbus.git
 hume-vla/hume[main]: https://github.com/hume-vla/hume.git
 hunglc007/tensorflow-yolov4-tflite[master]: https://github.com/hunglc007/tensorflow-yolov4-tflite.git
+hungpham2511/toppra[develop]: https://github.com/hungpham2511/toppra.git
 husthuke/awesome-knowledge-graph[master]: https://github.com/husthuke/awesome-knowledge-graph.git
 hustvl/GaussianDreamerPro[main]: https://github.com/hustvl/GaussianDreamerPro.git
 hustvl/YOLOS[main]: https://github.com/hustvl/YOLOS.git
@@ -3057,6 +3059,7 @@ Shopify/shopify.github.com[main]: https://github.com/Shopify/shopify.github.com.
 shoumenchougou/RWKV-Wiki-CN[main]: https://github.com/shoumenchougou/RWKV-Wiki-CN.git
 showlab/Code2Video[main]: https://github.com/showlab/Code2Video.git
 showlab/Paper2Video[main]: https://github.com/showlab/Paper2Video.git
+showlab/X-Humanoid[main]: https://github.com/showlab/X-Humanoid.git
 Shubhamsaboo/awesome-llm-apps[main]: https://github.com/Shubhamsaboo/awesome-llm-apps.git
 Shunichi09/PythonLinearNonlinearControl[master]: https://github.com/Shunichi09/PythonLinearNonlinearControl.git
 ShuoYangRobotics/A1-QP-MPC-Controller[main]: https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller.git
@@ -3140,7 +3143,6 @@ Stability-AI/generative-models[main]: https://github.com/Stability-AI/generative
 Stability-AI/stable-fast-3d[main]: https://github.com/Stability-AI/stable-fast-3d.git
 Stability-AI/stable-point-aware-3d[main]: https://github.com/Stability-AI/stable-point-aware-3d.git
 Stability-AI/stable-virtual-camera[main]: https://github.com/Stability-AI/stable-virtual-camera.git
-Stability-AI/stablediffusion[main]: https://github.com/Stability-AI/stablediffusion.git
 Stability-AI/StableLM[main]: https://github.com/Stability-AI/StableLM.git
 Stability-AI/StableSwarmUI[master]: https://github.com/Stability-AI/StableSwarmUI.git
 Stable-Baselines-Team/stable-baselines[master]: https://github.com/Stable-Baselines-Team/stable-baselines.git
