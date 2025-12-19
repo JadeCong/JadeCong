@@ -12,6 +12,7 @@ JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.
   - lixryjz: https://github.com/lixryjz
   - oilcode: https://github.com/oilcode
   - saravanansam2997: https://github.com/saravanansam2997
+  - yue86236336: https://github.com/yue86236336
   - zhaoguohao: https://github.com/zhaoguohao
 JadeCong/Awesome-Artificial-Intelligence[main]: https://github.com/JadeCong/Awesome-Artificial-Intelligence.git
   - JadeCong: https://github.com/JadeCong
