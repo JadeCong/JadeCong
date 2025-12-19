@@ -251,6 +251,7 @@ ArcInstitute/evo2[main]: https://github.com/ArcInstitute/evo2.git
 arduino/Arduino[master]: https://github.com/arduino/Arduino.git
 arduino/arduino-ide[main]: https://github.com/arduino/arduino-ide.git
 argusswift/YOLOv4-pytorch[master]: https://github.com/argusswift/YOLOv4-pytorch.git
+arhanjain/polaris[main]: https://github.com/arhanjain/polaris.git
 Ariostgx/ript-vla[main]: https://github.com/Ariostgx/ript-vla.git
 ARISE-Initiative/robomimic[master]: https://github.com/ARISE-Initiative/robomimic.git
 ARISE-Initiative/robosuite[master]: https://github.com/ARISE-Initiative/robosuite.git
@@ -1405,6 +1406,7 @@ Huangying-Zhan/DF-VO[master]: https://github.com/Huangying-Zhan/DF-VO.git
 huanngzh/MIDI[main]: https://github.com/huanngzh/MIDI.git
 huanngzh/MIDI-Page[main]: https://github.com/huanngzh/MIDI-Page.git
 Huanshere/VideoLingo[main]: https://github.com/Huanshere/VideoLingo.git
+huawei-bayerlab/GaVS[main]: https://github.com/huawei-bayerlab/GaVS.git
 huawei-noah/Pretrained-Language-Model[master]: https://github.com/huawei-noah/Pretrained-Language-Model.git
 Huawei/Huawei_LiteOS_Kernel[master]: https://github.com/Huawei/Huawei_LiteOS_Kernel.git
 hubotio/hubot[main]: https://github.com/hubotio/hubot.git
@@ -2534,6 +2536,7 @@ opendilab/GoBigger[main]: https://github.com/opendilab/GoBigger.git
 OpenDriveLab/AgiBot-World[main]: https://github.com/OpenDriveLab/AgiBot-World.git
 OpenDriveLab/AMS[main]: https://github.com/OpenDriveLab/AMS.git
 OpenDriveLab/OpenScene[main]: https://github.com/OpenDriveLab/OpenScene.git
+OpenDriveLab/WholebodyVLA[main]: https://github.com/OpenDriveLab/WholebodyVLA.git
 OpenEtherCATsociety/SOEM[master]: https://github.com/OpenEtherCATsociety/SOEM.git
 OpenGalaxea/G0[main]: https://github.com/OpenGalaxea/G0.git
 OpenGVLab/Ask-Anything[main]: https://github.com/OpenGVLab/Ask-Anything.git
@@ -3085,7 +3088,6 @@ sinaptik-ai/pandas-ai[main]: https://github.com/sinaptik-ai/pandas-ai.git
 sindresorhus/awesome[main]: https://github.com/sindresorhus/awesome.git
 sindresorhus/awesome-chatgpt[main]: https://github.com/sindresorhus/awesome-chatgpt.git
 sindresorhus/awesome-nodejs[main]: https://github.com/sindresorhus/awesome-nodejs.git
-sinoyou/GaVS[main]: https://github.com/sinoyou/GaVS.git
 SizheAn/PanoHead[main]: https://github.com/SizheAn/PanoHead.git
 sizmailov/pybind11-stubgen[master]: https://github.com/sizmailov/pybind11-stubgen.git
 SJTU-ViSYS/Ground-Fusion[main]: https://github.com/SJTU-ViSYS/Ground-Fusion.git
@@ -3573,6 +3575,7 @@ wangzhe3224/awesome-systematic-trading[master]: https://github.com/wangzhe3224/a
 wangzheallen/awesome-human-pose-estimation[master]: https://github.com/wangzheallen/awesome-human-pose-estimation.git
 wangzhiyaoo/SVFR[main]: https://github.com/wangzhiyaoo/SVFR.git
 wangzhiye-tiancai/mysupervisor_save[gh_pages]: https://github.com/wangzhiye-tiancai/mysupervisor_save.git
+warpdotdev/Warp[main]: https://github.com/warpdotdev/Warp.git
 wasabeef/awesome-android-ui[master]: https://github.com/wasabeef/awesome-android-ui.git
 wasp-lang/wasp[main]: https://github.com/wasp-lang/wasp.git
 waylau/books-collection[master]: https://github.com/waylau/books-collection.git
