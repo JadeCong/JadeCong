@@ -27,6 +27,7 @@ AIDC-AI: https://github.com/AIDC-AI
 aidenybai: https://github.com/aidenybai
 aigc3d: https://github.com/aigc3d
 AILab-CVC: https://github.com/AILab-CVC
+AIM-Intelligence: https://github.com/AIM-Intelligence
 aimagelab: https://github.com/aimagelab
 AIRI-Institute: https://github.com/AIRI-Institute
 Akryum: https://github.com/Akryum
@@ -482,6 +483,7 @@ Kaixhin: https://github.com/Kaixhin
 kaixindelele: https://github.com/kaixindelele
 karminski: https://github.com/karminski
 karpathy: https://github.com/karpathy
+kavishdevar: https://github.com/kavishdevar
 kerrj: https://github.com/kerrj
 kevinzakka: https://github.com/kevinzakka
 khoj-ai: https://github.com/khoj-ai
@@ -1092,6 +1094,7 @@ WangRongsheng: https://github.com/WangRongsheng
 wangruohui: https://github.com/wangruohui
 wangshusen: https://github.com/wangshusen
 wangzhe3224: https://github.com/wangzhe3224
+warpdotdev: https://github.com/warpdotdev
 wasp-lang: https://github.com/wasp-lang
 wavetermdev: https://github.com/wavetermdev
 waylau: https://github.com/waylau
@@ -1159,6 +1162,7 @@ yuliangguo: https://github.com/yuliangguo
 yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
+Z1hanW: https://github.com/Z1hanW
 zai-org: https://github.com/zai-org
 zealdocs: https://github.com/zealdocs
 zed-industries: https://github.com/zed-industries
