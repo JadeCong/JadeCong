@@ -102,6 +102,7 @@ aigc3d/AniGS[main]: https://github.com/aigc3d/AniGS.git
 aigc3d/LAM[master]: https://github.com/aigc3d/LAM.git
 aikorea/awesome-rl[master]: https://github.com/aikorea/awesome-rl.git
 AILab-CVC/YOLO-World[master]: https://github.com/AILab-CVC/YOLO-World.git
+AIM-Intelligence/video2robot[main]: https://github.com/AIM-Intelligence/video2robot.git
 aimagelab/multimodal-garment-designer[main]: https://github.com/aimagelab/multimodal-garment-designer.git
 aingdesk/AingDesk[main]: https://github.com/aingdesk/AingDesk.git
 aiplanethub/openagi[main]: https://github.com/aiplanethub/openagi.git
@@ -1726,6 +1727,7 @@ karpathy/nanoGPT[master]: https://github.com/karpathy/nanoGPT.git
 karpathy/nn-zero-to-hero[master]: https://github.com/karpathy/nn-zero-to-hero.git
 katerakelly/pytorch-maml[master]: https://github.com/katerakelly/pytorch-maml.git
 kaushalshetty/Structured-Self-Attention[master]: https://github.com/kaushalshetty/Structured-Self-Attention.git
+kavishdevar/librepods[main]: https://github.com/kavishdevar/librepods.git
 kdally/fault-tolerant-flight-control-drl[master]: https://github.com/kdally/fault-tolerant-flight-control-drl.git
 Kebii/MikuDance[main]: https://github.com/Kebii/MikuDance.git
 kebijuelun/Awesome-LLM-Learning[main]: https://github.com/kebijuelun/Awesome-LLM-Learning.git
@@ -2164,6 +2166,7 @@ mihdalal/manipgen[master]: https://github.com/mihdalal/manipgen.git
 mihdalal/neuralmotionplanner[main]: https://github.com/mihdalal/neuralmotionplanner.git
 mikel-brostrom/boxmot[master]: https://github.com/mikel-brostrom/boxmot.git
 mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
+milanvarady/Applite[main]: https://github.com/milanvarady/Applite.git
 mindsdb/mindsdb[main]: https://github.com/mindsdb/mindsdb.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
 mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_mujoco.git
@@ -2423,6 +2426,7 @@ NVIDIAGameWorks/kaolin[master]: https://github.com/NVIDIAGameWorks/kaolin.git
 NVIDIAGameWorks/PhysX[4.1]: https://github.com/NVIDIAGameWorks/PhysX.git
 NVIDIAGameWorks/PhysX-3.4[master]: https://github.com/NVIDIAGameWorks/PhysX-3.4.git
 NVlabs/CALM[main]: https://github.com/NVlabs/CALM.git
+NVlabs/CARI4D[website]: https://github.com/NVlabs/CARI4D.git
 NVlabs/COMPASS[main]: https://github.com/NVlabs/COMPASS.git
 NVlabs/cule[master]: https://github.com/NVlabs/cule.git
 NVlabs/curobo[main]: https://github.com/NVlabs/curobo.git
@@ -3776,6 +3780,7 @@ yxyang/fast_and_efficient[master]: https://github.com/yxyang/fast_and_efficient.
 yxyang/jumping_cod[master]: https://github.com/yxyang/jumping_cod.git
 yxyang/locomotion_simulation[master]: https://github.com/yxyang/locomotion_simulation.git
 yzcjtr/GeoNet[master]: https://github.com/yzcjtr/GeoNet.git
+Z1hanW/CRISP-Real2Sim[main]: https://github.com/Z1hanW/CRISP-Real2Sim.git
 zackchase/mxnet-the-straight-dope[master]: https://github.com/zackchase/mxnet-the-straight-dope.git
 Zackriya-Solutions/meeting-minutes[main]: https://github.com/Zackriya-Solutions/meeting-minutes.git
 zai-org/ChatGLM-6B[main]: https://github.com/zai-org/ChatGLM-6B.git
