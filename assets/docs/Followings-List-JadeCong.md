@@ -211,6 +211,7 @@ Dao-AILab: https://github.com/Dao-AILab
 databricks: https://github.com/databricks
 datasets: https://github.com/datasets
 datawhalechina: https://github.com/datawhalechina
+DAVIAN-Robotics: https://github.com/DAVIAN-Robotics
 davideuler: https://github.com/davideuler
 DavidHDev: https://github.com/DavidHDev
 davidmalawey: https://github.com/davidmalawey
@@ -558,6 +559,7 @@ loongOpen: https://github.com/loongOpen
 Lordog: https://github.com/Lordog
 lowlighter: https://github.com/lowlighter
 lss233: https://github.com/lss233
+lua: https://github.com/lua
 LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
 lucidrains: https://github.com/lucidrains
