@@ -12,6 +12,7 @@ JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.
 JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot-Learning.git
   - FreezeSoul: https://github.com/FreezeSoul
   - JiahongWu1995: https://github.com/JiahongWu1995
+  - wangbi1988: https://github.com/wangbi1988
   - zongkai28: https://github.com/zongkai28
 JadeCong/demo_ros2[main]: https://github.com/JadeCong/demo_ros2.git
   - OrderForce-Intelligence: https://github.com/OrderForce-Intelligence
