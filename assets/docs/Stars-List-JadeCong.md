@@ -661,6 +661,7 @@ datawhalechina/tiny-universe[main]: https://github.com/datawhalechina/tiny-unive
 datitran/face2face-demo[master]: https://github.com/datitran/face2face-demo.git
 dauparas/ProteinMPNN[main]: https://github.com/dauparas/ProteinMPNN.git
 dav/word2vec[master]: https://github.com/dav/word2vec.git
+DAVIAN-Robotics/EgoX[main]: https://github.com/DAVIAN-Robotics/EgoX.git
 DAVIAN-Robotics/PHUMA[main]: https://github.com/DAVIAN-Robotics/PHUMA.git
 davideuler/architecture.of.internet-product[master]: https://github.com/davideuler/architecture.of.internet-product.git
 DavidHDev/react-bits[main]: https://github.com/DavidHDev/react-bits.git
@@ -941,6 +942,7 @@ facebookresearch/sam3[main]: https://github.com/facebookresearch/sam3.git
 facebookresearch/seamless_communication[main]: https://github.com/facebookresearch/seamless_communication.git
 facebookresearch/segment-anything[main]: https://github.com/facebookresearch/segment-anything.git
 facebookresearch/sparsh-multisensory-touch[main]: https://github.com/facebookresearch/sparsh-multisensory-touch.git
+facebookresearch/spider[main]: https://github.com/facebookresearch/spider.git
 facebookresearch/tacto[main]: https://github.com/facebookresearch/tacto.git
 facebookresearch/TimeSformer[main]: https://github.com/facebookresearch/TimeSformer.git
 facebookresearch/torchbeast[main]: https://github.com/facebookresearch/torchbeast.git
@@ -1969,6 +1971,7 @@ lpiccinelli-eth/UniK3D[main]: https://github.com/lpiccinelli-eth/UniK3D.git
 lra/mackup[master]: https://github.com/lra/mackup.git
 lrxjason/Attention3DHumanPose[master]: https://github.com/lrxjason/Attention3DHumanPose.git
 lss233/kirara-ai[master]: https://github.com/lss233/kirara-ai.git
+lua/lua[master]: https://github.com/lua/lua.git
 luban-agi/Awesome-Domain-LLM[main]: https://github.com/luban-agi/Awesome-Domain-LLM.git
 Lucaria-Academy/Animate-X[main]: https://github.com/Lucaria-Academy/Animate-X.git
 LucasAlegre/morl-baselines[main]: https://github.com/LucasAlegre/morl-baselines.git
@@ -3582,6 +3585,7 @@ wangzhiye-tiancai/mysupervisor_save[gh_pages]: https://github.com/wangzhiye-tian
 warpdotdev/Warp[main]: https://github.com/warpdotdev/Warp.git
 wasabeef/awesome-android-ui[master]: https://github.com/wasabeef/awesome-android-ui.git
 wasp-lang/wasp[main]: https://github.com/wasp-lang/wasp.git
+wavetermdev/waveterm[main]: https://github.com/wavetermdev/waveterm.git
 waylau/books-collection[master]: https://github.com/waylau/books-collection.git
 waylau/harmonyos-tutorial[master]: https://github.com/waylau/harmonyos-tutorial.git
 wazuh/wazuh[main]: https://github.com/wazuh/wazuh.git
@@ -3721,7 +3725,6 @@ yao62995/tensorflow[master]: https://github.com/yao62995/tensorflow.git
 yeahhub/Hacking-Security-Ebooks[master]: https://github.com/yeahhub/Hacking-Security-Ebooks.git
 yenchenlin/DeepLearningFlappyBird[master]: https://github.com/yenchenlin/DeepLearningFlappyBird.git
 yenchenlin/pix2pix-tensorflow[master]: https://github.com/yenchenlin/pix2pix-tensorflow.git
-yeongpin/cursor-free-vip[main]: https://github.com/yeongpin/cursor-free-vip.git
 yerfor/MimicTalk[main]: https://github.com/yerfor/MimicTalk.git
 yfeng95/GAN[master]: https://github.com/yfeng95/GAN.git
 yformer/EfficientTAM[main]: https://github.com/yformer/EfficientTAM.git
