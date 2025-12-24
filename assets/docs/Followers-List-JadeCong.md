@@ -18,6 +18,7 @@ devimccallion: https://github.com/devimccallion
 devmaster116: https://github.com/devmaster116
 dirambora: https://github.com/dirambora
 emilycodestar: https://github.com/emilycodestar
+filedonkey: https://github.com/filedonkey
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 H-K-R: https://github.com/H-K-R
@@ -41,6 +42,7 @@ lodhik9: https://github.com/lodhik9
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
+masonliiu: https://github.com/masonliiu
 MeriemBoujamza: https://github.com/MeriemBoujamza
 motanelson: https://github.com/motanelson
 mounikaprp-blip: https://github.com/mounikaprp-blip
