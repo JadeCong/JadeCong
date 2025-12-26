@@ -926,6 +926,7 @@ sniekum: https://github.com/sniekum
 snuvclab: https://github.com/snuvclab
 SocialAI-tianji: https://github.com/SocialAI-tianji
 soedinglab: https://github.com/soedinglab
+sofa-framework: https://github.com/sofa-framework
 soimort: https://github.com/soimort
 solid: https://github.com/solid
 sorrycc: https://github.com/sorrycc
