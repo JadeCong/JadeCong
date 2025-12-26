@@ -1604,6 +1604,7 @@ jakevdp/PythonDataScienceHandbook[master]: https://github.com/jakevdp/PythonData
 JakobEngel/dso[master]: https://github.com/JakobEngel/dso.git
 jamesmawm/High-Frequency-Trading-Model-with-IB[master]: https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB.git
 jamiemcg/Remarkable[master]: https://github.com/jamiemcg/Remarkable.git
+jangyungi/unity-chai3d[master]: https://github.com/jangyungi/unity-chai3d.git
 janhq/ichigo[main]: https://github.com/janhq/ichigo.git
 jason5ng32/MyIP[main]: https://github.com/jason5ng32/MyIP.git
 jason718/awesome-self-supervised-learning[master]: https://github.com/jason718/awesome-self-supervised-learning.git
@@ -2022,7 +2023,6 @@ MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
-ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
 manipulate-in-dream/MinD[main]: https://github.com/manipulate-in-dream/MinD.git
 ManipulationNet/mnet_client[ros_2]: https://github.com/ManipulationNet/mnet_client.git
@@ -3116,6 +3116,7 @@ Snouzy/workout-cool[main]: https://github.com/Snouzy/workout-cool.git
 snuvclab/perse[main]: https://github.com/snuvclab/perse.git
 SocialAI-tianji/Tianji[main]: https://github.com/SocialAI-tianji/Tianji.git
 soedinglab/MMseqs2[master]: https://github.com/soedinglab/MMseqs2.git
+sofa-framework/sofa[master]: https://github.com/sofa-framework/sofa.git
 SoftEtherVPN/SoftEtherVPN[master]: https://github.com/SoftEtherVPN/SoftEtherVPN.git
 SoftServeSAG/spot_simulation[main]: https://github.com/SoftServeSAG/spot_simulation.git
 Sohojoe/MujocoUnity[master]: https://github.com/Sohojoe/MujocoUnity.git
@@ -3329,6 +3330,7 @@ thkkk/manibox[main]: https://github.com/thkkk/manibox.git
 thoughtbot/dotfiles[main]: https://github.com/thoughtbot/dotfiles.git
 thu-coai/SafetyBench[main]: https://github.com/thu-coai/SafetyBench.git
 THU-MIG/yolov10[main]: https://github.com/THU-MIG/yolov10.git
+thu-ml/Motus[main]: https://github.com/thu-ml/Motus.git
 thu-ml/RDT2[main]: https://github.com/thu-ml/RDT2.git
 thu-ml/RoboticsDiffusionTransformer[main]: https://github.com/thu-ml/RoboticsDiffusionTransformer.git
 thu-ml/tianshou[master]: https://github.com/thu-ml/tianshou.git
