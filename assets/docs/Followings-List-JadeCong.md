@@ -87,6 +87,7 @@ atenpas: https://github.com/atenpas
 AuboRobot: https://github.com/AuboRobot
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
 AutomaApp: https://github.com/AutomaApp
+automata: https://github.com/automata
 AUTOMATIC1111: https://github.com/AUTOMATIC1111
 avelino: https://github.com/avelino
 Awesome-HarmonyOS: https://github.com/Awesome-HarmonyOS
