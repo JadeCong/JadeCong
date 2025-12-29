@@ -1,6 +1,6 @@
 01-ai/Yi[main]: https://github.com/01-ai/Yi.git
 0x2E/fusion[main]: https://github.com/0x2E/fusion.git
-0xCrunchyy/hypergen[main]: https://github.com/0xCrunchyy/hypergen.git
+0xCrunchyy/10x[main]: https://github.com/0xCrunchyy/10x.git
 0xKoda/drone-mcp[main]: https://github.com/0xKoda/drone-mcp.git
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
@@ -308,6 +308,7 @@ aurone/trac_ik[master]: https://github.com/aurone/trac_ik.git
 AutodeskRoboticsLab/graspfactory[main]: https://github.com/AutodeskRoboticsLab/graspfactory.git
 autogyro/yolo-V8[main]: https://github.com/autogyro/yolo-V8.git
 AutomaApp/automa[main]: https://github.com/AutomaApp/automa.git
+automata/aicodeguide[main]: https://github.com/automata/aicodeguide.git
 AUTOMATIC1111/stable-diffusion-webui[master]: https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 autowarefoundation/autoware[main]: https://github.com/autowarefoundation/autoware.git
 AvaLovelace1/BrickGPT[main]: https://github.com/AvaLovelace1/BrickGPT.git
@@ -3670,6 +3671,7 @@ xiangjiana/Android-MS[master]: https://github.com/xiangjiana/Android-MS.git
 XiaoMi/ha_xiaomi_home[main]: https://github.com/XiaoMi/ha_xiaomi_home.git
 XiaoMi/mace[master]: https://github.com/XiaoMi/mace.git
 XiaoMi/mace-models[master]: https://github.com/XiaoMi/mace-models.git
+XiaomingX/indie-hacker-tools-plus[main]: https://github.com/XiaomingX/indie-hacker-tools-plus.git
 xiaowei-hu/CycleGAN-tensorflow[master]: https://github.com/xiaowei-hu/CycleGAN-tensorflow.git
 xiaoxiaoxh/reactive_diffusion_policy[main]: https://github.com/xiaoxiaoxh/reactive_diffusion_policy.git
 xiaoxiaoxh/TactAR_APP[master]: https://github.com/xiaoxiaoxh/TactAR_APP.git
@@ -3779,6 +3781,7 @@ yuliangguo/OmniFusion[main]: https://github.com/yuliangguo/OmniFusion.git
 yuneming/DeepLearningTutorial[master]: https://github.com/yuneming/DeepLearningTutorial.git
 yunhaif/reflect-vlm[main]: https://github.com/yunhaif/reflect-vlm.git
 yunjey/pytorch-tutorial[master]: https://github.com/yunjey/pytorch-tutorial.git
+YuvDwi/Steve[main]: https://github.com/YuvDwi/Steve.git
 yuxng/PoseCNN[master]: https://github.com/yuxng/PoseCNN.git
 YvanYin/DrivingWorld[main]: https://github.com/YvanYin/DrivingWorld.git
 yxyang/fast_and_efficient[master]: https://github.com/yxyang/fast_and_efficient.git
