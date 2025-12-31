@@ -636,6 +636,7 @@ mudler: https://github.com/mudler
 mujocolab: https://github.com/mujocolab
 musistudio: https://github.com/musistudio
 MVIG-SJTU: https://github.com/MVIG-SJTU
+myismyname: https://github.com/myismyname
 MyoHub: https://github.com/MyoHub
 myshell-ai: https://github.com/myshell-ai
 mysql: https://github.com/mysql
@@ -1130,6 +1131,7 @@ xai-org: https://github.com/xai-org
 xbpeng: https://github.com/xbpeng
 xenova: https://github.com/xenova
 XiaoMi: https://github.com/XiaoMi
+XiaomingX: https://github.com/XiaomingX
 xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
 xixu-me: https://github.com/xixu-me
@@ -1157,7 +1159,6 @@ YJango: https://github.com/YJango
 yjy0625: https://github.com/yjy0625
 younggyoseo: https://github.com/younggyoseo
 yt-dlp: https://github.com/yt-dlp
-yuanmingqi: https://github.com/yuanmingqi
 yuanwr: https://github.com/yuanwr
 yukezhu: https://github.com/yukezhu
 yukihiko: https://github.com/yukihiko
