@@ -80,6 +80,7 @@ agiresearch/Cerebrum[main]: https://github.com/agiresearch/Cerebrum.git
 agiresearch/OpenAGI[main]: https://github.com/agiresearch/OpenAGI.git
 agiresearch/OpenP5[main]: https://github.com/agiresearch/OpenP5.git
 agno-agi/agno[main]: https://github.com/agno-agi/agno.git
+agrinman/tunnelto[master]: https://github.com/agrinman/tunnelto.git
 ahmedkhaleel2004/gitdiagram[main]: https://github.com/ahmedkhaleel2004/gitdiagram.git
 ahq1993/MPNet[master]: https://github.com/ahq1993/MPNet.git
 ahujasid/blender-mcp[main]: https://github.com/ahujasid/blender-mcp.git
@@ -708,6 +709,7 @@ dennybritz/rnn-tutorial-rnnlm[master]: https://github.com/dennybritz/rnn-tutoria
 DepthAnything/Depth-Anything-V2[main]: https://github.com/DepthAnything/Depth-Anything-V2.git
 DepthAnything/PromptDA[main]: https://github.com/DepthAnything/PromptDA.git
 DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video-Depth-Anything.git
+desktop/desktop[development]: https://github.com/desktop/desktop.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
 Dexmal/dexbotic[main]: https://github.com/Dexmal/dexbotic.git
@@ -2278,6 +2280,7 @@ mustafa-qamaruddin/age-cgan[master]: https://github.com/mustafa-qamaruddin/age-c
 mut-ex/gligen-gui[main]: https://github.com/mut-ex/gligen-gui.git
 muzishen/IMAGDressing[main]: https://github.com/muzishen/IMAGDressing.git
 MVIG-SJTU/AlphaPose[master]: https://github.com/MVIG-SJTU/AlphaPose.git
+myismyname/awesome-bfm-papers[main]: https://github.com/myismyname/awesome-bfm-papers.git
 MyNiuuu/MOFA-Video[main]: https://github.com/MyNiuuu/MOFA-Video.git
 MyoHub/myoconverter[main]: https://github.com/MyoHub/myoconverter.git
 MyoHub/myosuite[main]: https://github.com/MyoHub/myosuite.git
@@ -3048,8 +3051,8 @@ shadowsocks/shadowsocks-windows[v4]: https://github.com/shadowsocks/shadowsocks-
 shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/ShadowsocksX-NG.git
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
-shareAI-lab/analysis_claude_code[main]: https://github.com/shareAI-lab/analysis_claude_code.git
 shareAI-lab/Kode-cli[main]: https://github.com/shareAI-lab/Kode-cli.git
+shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
@@ -3760,7 +3763,6 @@ youyuge34/Poems_generator_Keras[master]: https://github.com/youyuge34/Poems_gene
 yrlu/irl-imitation[master]: https://github.com/yrlu/irl-imitation.git
 yt-dlp/yt-dlp[master]: https://github.com/yt-dlp/yt-dlp.git
 yuanfei-Wang/AdaManip[main]: https://github.com/yuanfei-Wang/AdaManip.git
-yuanmingqi/awesome-bfm-papers[main]: https://github.com/yuanmingqi/awesome-bfm-papers.git
 yuanshenli/roller-grasper-v3[main]: https://github.com/yuanshenli/roller-grasper-v3.git
 yuanshenli/RollerGrasperV2[master]: https://github.com/yuanshenli/RollerGrasperV2.git
 yuanshenli/Tactile-Reactive-Roller-Grasper[main]: https://github.com/yuanshenli/Tactile-Reactive-Roller-Grasper.git
