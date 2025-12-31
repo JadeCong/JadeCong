@@ -14,6 +14,7 @@ chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 CriptoNuno2024: https://github.com/CriptoNuno2024
+DaurDiop: https://github.com/DaurDiop
 devimccallion: https://github.com/devimccallion
 devmaster116: https://github.com/devmaster116
 dirambora: https://github.com/dirambora
@@ -22,7 +23,9 @@ filedonkey: https://github.com/filedonkey
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 H-K-R: https://github.com/H-K-R
+harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
+hmzgtl16: https://github.com/hmzgtl16
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 itsKayWat: https://github.com/itsKayWat
@@ -30,6 +33,7 @@ ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
+JohnMwendwa: https://github.com/JohnMwendwa
 jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
@@ -42,7 +46,6 @@ lodhik9: https://github.com/lodhik9
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
-masonliiu: https://github.com/masonliiu
 MeriemBoujamza: https://github.com/MeriemBoujamza
 motanelson: https://github.com/motanelson
 mounikaprp-blip: https://github.com/mounikaprp-blip
@@ -64,8 +67,11 @@ ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
 ritakaneu: https://github.com/ritakaneu
 S4IL21: https://github.com/S4IL21
+Samson05301are: https://github.com/Samson05301are
+sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
+seehiong: https://github.com/seehiong
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
 solotech939: https://github.com/solotech939
@@ -74,6 +80,7 @@ sphinxzerd: https://github.com/sphinxzerd
 standardgalactic: https://github.com/standardgalactic
 sunlight0102: https://github.com/sunlight0102
 sunnyyouknow: https://github.com/sunnyyouknow
+TeacherEvan: https://github.com/TeacherEvan
 TheArtPlug: https://github.com/TheArtPlug
 toum120: https://github.com/toum120
 vimal0156: https://github.com/vimal0156
