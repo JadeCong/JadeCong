@@ -648,6 +648,7 @@ datalab-to/marker[master]: https://github.com/datalab-to/marker.git
 datalab-to/surya[master]: https://github.com/datalab-to/surya.git
 datasciencemasters/go[master]: https://github.com/datasciencemasters/go.git
 datasets/commons[main]: https://github.com/datasets/commons.git
+datawhalechina/agentic-ai[main]: https://github.com/datawhalechina/agentic-ai.git
 datawhalechina/competition-baseline[master]: https://github.com/datawhalechina/competition-baseline.git
 datawhalechina/easy-rl[master]: https://github.com/datawhalechina/easy-rl.git
 datawhalechina/happy-llm[main]: https://github.com/datawhalechina/happy-llm.git
@@ -1126,6 +1127,7 @@ generatebio/chroma[main]: https://github.com/generatebio/chroma.git
 Genesis-Embodied-AI/Genesis[main]: https://github.com/Genesis-Embodied-AI/Genesis.git
 Genesis-Embodied-AI/RoboGen[main]: https://github.com/Genesis-Embodied-AI/RoboGen.git
 genforce/JOSH[main]: https://github.com/genforce/JOSH.git
+GenieReasoner/ERIQ[main]: https://github.com/GenieReasoner/ERIQ.git
 Geniusay/ChopperBot[master]: https://github.com/Geniusay/ChopperBot.git
 Gerrnperl/outline-map[main]: https://github.com/Gerrnperl/outline-map.git
 GestureGeneration/Speech_driven_gesture_generation_with_autoencoder[master]: https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder.git
@@ -1349,7 +1351,7 @@ HigherOrderCO/Bend[main]: https://github.com/HigherOrderCO/Bend.git
 hill-a/stable-baselines[master]: https://github.com/hill-a/stable-baselines.git
 hindupuravinash/the-gan-zoo[master]: https://github.com/hindupuravinash/the-gan-zoo.git
 hiroi-sora/Umi-OCR[main]: https://github.com/hiroi-sora/Umi-OCR.git
-hiyouga/LLaMA-Factory[main]: https://github.com/hiyouga/LLaMA-Factory.git
+hiyouga/LlamaFactory[main]: https://github.com/hiyouga/LlamaFactory.git
 hku-mars/FAST-LIVO[main]: https://github.com/hku-mars/FAST-LIVO.git
 hku-mars/FAST-LIVO2[main]: https://github.com/hku-mars/FAST-LIVO2.git
 hku-mars/FAST_LIO[main]: https://github.com/hku-mars/FAST_LIO.git
@@ -3182,6 +3184,7 @@ StanfordVL/iGibson[master]: https://github.com/StanfordVL/iGibson.git
 star-history/star-history[main]: https://github.com/star-history/star-history.git
 StarCycle/Awesome-Embodied-AI-Job[main]: https://github.com/StarCycle/Awesome-Embodied-AI-Job.git
 state-spaces/mamba[main]: https://github.com/state-spaces/mamba.git
+stepfun-ai/gelab-zero[main]: https://github.com/stepfun-ai/gelab-zero.git
 stepfun-ai/Step-Audio[main]: https://github.com/stepfun-ai/Step-Audio.git
 stepfun-ai/Step1X-3D[main]: https://github.com/stepfun-ai/Step1X-3D.git
 stephane-caron/pink[main]: https://github.com/stephane-caron/pink.git
