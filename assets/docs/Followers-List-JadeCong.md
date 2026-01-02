@@ -33,7 +33,6 @@ ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
-JohnMwendwa: https://github.com/JohnMwendwa
 jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
