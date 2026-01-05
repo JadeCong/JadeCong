@@ -58,6 +58,7 @@ andrewyng: https://github.com/andrewyng
 android10: https://github.com/android10
 andyzeng: https://github.com/andyzeng
 angular: https://github.com/angular
+anomalyco: https://github.com/anomalyco
 ant-design: https://github.com/ant-design
 ant-research: https://github.com/ant-research
 antgroup: https://github.com/antgroup
@@ -313,6 +314,7 @@ floodsung: https://github.com/floodsung
 flow-diffusion: https://github.com/flow-diffusion
 flutter: https://github.com/flutter
 fmhy: https://github.com/fmhy
+FoundationAgents: https://github.com/FoundationAgents
 FoundationVision: https://github.com/FoundationVision
 foxglove: https://github.com/foxglove
 frankarobotics: https://github.com/frankarobotics
@@ -939,7 +941,6 @@ SpectacularAI: https://github.com/SpectacularAI
 sphinx-doc: https://github.com/sphinx-doc
 spring-projects: https://github.com/spring-projects
 squidfunk: https://github.com/squidfunk
-sst: https://github.com/sst
 Stability-AI: https://github.com/Stability-AI
 stack-of-tasks: https://github.com/stack-of-tasks
 stackblitz: https://github.com/stackblitz
