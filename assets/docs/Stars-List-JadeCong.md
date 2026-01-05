@@ -194,6 +194,8 @@ animate-css/animate.css[main]: https://github.com/animate-css/animate.css.git
 ANIME305/Anime-GAN-tensorflow[master]: https://github.com/ANIME305/Anime-GAN-tensorflow.git
 anishathalye/dotbot[master]: https://github.com/anishathalye/dotbot.git
 anishathalye/neural-style[master]: https://github.com/anishathalye/neural-style.git
+anomalyco/opencode[dev]: https://github.com/anomalyco/opencode.git
+anomalyco/sst[dev]: https://github.com/anomalyco/sst.git
 ANSSI-FR/SecuML[master]: https://github.com/ANSSI-FR/SecuML.git
 AnswerDotAI/fsdp_qlora[main]: https://github.com/AnswerDotAI/fsdp_qlora.git
 ant-design/ant-design[master]: https://github.com/ant-design/ant-design.git
@@ -784,8 +786,6 @@ dusty-nv/jetson-containers[master]: https://github.com/dusty-nv/jetson-container
 dusty-nv/NanoLLM[main]: https://github.com/dusty-nv/NanoLLM.git
 dusty-nv/ros_deep_learning[master]: https://github.com/dusty-nv/ros_deep_learning.git
 duyipai/Allegro_Digit[main]: https://github.com/duyipai/Allegro_Digit.git
-dvlab-research/ControlNeXt[main]: https://github.com/dvlab-research/ControlNeXt.git
-dvlab-research/MagicMirror[main]: https://github.com/dvlab-research/MagicMirror.git
 dw-dengwei/daily-arXiv-ai-enhanced[main]: https://github.com/dw-dengwei/daily-arXiv-ai-enhanced.git
 dylanaraps/pure-bash-bible[master]: https://github.com/dylanaraps/pure-bash-bible.git
 dzhng/deep-research[main]: https://github.com/dzhng/deep-research.git
@@ -1095,7 +1095,7 @@ GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
-game1024/Speedy[master]: https://github.com/game1024/Speedy.git
+game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
 gantFDT/icraft[main]: https://github.com/gantFDT/icraft.git
 gaoxiang12/faster-lio[main]: https://github.com/gaoxiang12/faster-lio.git
@@ -1643,6 +1643,8 @@ jhoffman/lsda[master]: https://github.com/jhoffman/lsda.git
 jhu-lcsr/costar_plan[master]: https://github.com/jhu-lcsr/costar_plan.git
 jhu-saw/sawForceDimensionSDK[main]: https://github.com/jhu-saw/sawForceDimensionSDK.git
 Ji4chenLi/t2v-turbo[main]: https://github.com/Ji4chenLi/t2v-turbo.git
+JIA-Lab-research/ControlNeXt[main]: https://github.com/JIA-Lab-research/ControlNeXt.git
+JIA-Lab-research/MagicMirror[main]: https://github.com/JIA-Lab-research/MagicMirror.git
 jiachengliu3/OpenWBC[master]: https://github.com/jiachengliu3/OpenWBC.git
 jiah-cloud/Align3R[main]: https://github.com/jiah-cloud/Align3R.git
 jiahao-shao1/ChronoDepth[main]: https://github.com/jiahao-shao1/ChronoDepth.git
@@ -2024,6 +2026,7 @@ MADEAPPS/newton-dynamics[master]: https://github.com/MADEAPPS/newton-dynamics.gi
 MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
 MagicMirrorOrg/MagicMirror[master]: https://github.com/MagicMirrorOrg/MagicMirror.git
 MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
+mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
@@ -2551,7 +2554,7 @@ OpenDriveLab/AMS[main]: https://github.com/OpenDriveLab/AMS.git
 OpenDriveLab/OpenScene[main]: https://github.com/OpenDriveLab/OpenScene.git
 OpenDriveLab/WholebodyVLA[main]: https://github.com/OpenDriveLab/WholebodyVLA.git
 OpenEtherCATsociety/SOEM[master]: https://github.com/OpenEtherCATsociety/SOEM.git
-OpenGalaxea/G0[main]: https://github.com/OpenGalaxea/G0.git
+OpenGalaxea/GalaxeaVLA[main]: https://github.com/OpenGalaxea/GalaxeaVLA.git
 OpenGVLab/Ask-Anything[main]: https://github.com/OpenGVLab/Ask-Anything.git
 OpenGVLab/Diffree[main]: https://github.com/OpenGVLab/Diffree.git
 OpenGVLab/InternVideo[main]: https://github.com/OpenGVLab/InternVideo.git
@@ -3152,8 +3155,6 @@ spro/practical-pytorch[master]: https://github.com/spro/practical-pytorch.git
 sqlalchemy/sqlalchemy[main]: https://github.com/sqlalchemy/sqlalchemy.git
 sqlite/sqlite[master]: https://github.com/sqlite/sqlite.git
 squidfunk/mkdocs-material[master]: https://github.com/squidfunk/mkdocs-material.git
-sst/opencode[dev]: https://github.com/sst/opencode.git
-sst/sst[dev]: https://github.com/sst/sst.git
 ssyang2020/ZeroSmooth[main]: https://github.com/ssyang2020/ZeroSmooth.git
 Stability-AI/generative-models[main]: https://github.com/Stability-AI/generative-models.git
 Stability-AI/stable-fast-3d[main]: https://github.com/Stability-AI/stable-fast-3d.git
@@ -3601,6 +3602,7 @@ wazuh/wazuh[main]: https://github.com/wazuh/wazuh.git
 wb14123/seq2seq-couplet[master]: https://github.com/wb14123/seq2seq-couplet.git
 WCHSoftGroup/ch343ser_linux[main]: https://github.com/WCHSoftGroup/ch343ser_linux.git
 weaviate/Verba[main]: https://github.com/weaviate/Verba.git
+webclipper/web-clipper[master]: https://github.com/webclipper/web-clipper.git
 webfansplz/vite-plugin-vue-mcp[main]: https://github.com/webfansplz/vite-plugin-vue-mcp.git
 WebpageFX/emoji-cheat-sheet.com[master]: https://github.com/WebpageFX/emoji-cheat-sheet.com.git
 webpro/awesome-dotfiles[master]: https://github.com/webpro/awesome-dotfiles.git
