@@ -571,7 +571,7 @@ coinbase/coinbase-wallet-sdk[master]: https://github.com/coinbase/coinbase-walle
 coleam00/Archon[main]: https://github.com/coleam00/Archon.git
 ColinQiyangLi/qc[main]: https://github.com/ColinQiyangLi/qc.git
 coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/dynamic-gaussian-marbles.git
-comfyanonymous/ComfyUI[master]: https://github.com/comfyanonymous/ComfyUI.git
+Comfy-Org/ComfyUI[master]: https://github.com/Comfy-Org/ComfyUI.git
 commaai/neo[master]: https://github.com/commaai/neo.git
 commaai/openpilot[master]: https://github.com/commaai/openpilot.git
 computerhistory/AlexNet-Source-Code[main]: https://github.com/computerhistory/AlexNet-Source-Code.git
@@ -1131,7 +1131,7 @@ GenieReasoner/ERIQ[main]: https://github.com/GenieReasoner/ERIQ.git
 Geniusay/ChopperBot[master]: https://github.com/Geniusay/ChopperBot.git
 Gerrnperl/outline-map[main]: https://github.com/Gerrnperl/outline-map.git
 GestureGeneration/Speech_driven_gesture_generation_with_autoencoder[master]: https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder.git
-getlantern/lantern[devel]: https://github.com/getlantern/lantern.git
+getlantern/lantern[main]: https://github.com/getlantern/lantern.git
 getlantern/lantern-binaries-archive[master]: https://github.com/getlantern/lantern-binaries-archive.git
 getmaxun/maxun[develop]: https://github.com/getmaxun/maxun.git
 getnamo/TensorFlow-Unreal[main]: https://github.com/getnamo/TensorFlow-Unreal.git
