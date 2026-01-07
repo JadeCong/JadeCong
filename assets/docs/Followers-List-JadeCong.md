@@ -19,7 +19,6 @@ devimccallion: https://github.com/devimccallion
 devmaster116: https://github.com/devmaster116
 dirambora: https://github.com/dirambora
 emilycodestar: https://github.com/emilycodestar
-filedonkey: https://github.com/filedonkey
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 H-K-R: https://github.com/H-K-R
@@ -86,7 +85,6 @@ toum120: https://github.com/toum120
 vimal0156: https://github.com/vimal0156
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
-walbarellos: https://github.com/walbarellos
 wareeshaali2003: https://github.com/wareeshaali2003
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
