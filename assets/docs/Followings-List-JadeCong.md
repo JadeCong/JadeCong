@@ -226,7 +226,7 @@ deepseek-ai: https://github.com/deepseek-ai
 deepset-ai: https://github.com/deepset-ai
 DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
-Dexmal: https://github.com/Dexmal
+dexmal2025: https://github.com/dexmal2025
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
 diankun-wu: https://github.com/diankun-wu
