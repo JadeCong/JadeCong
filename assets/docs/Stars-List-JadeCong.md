@@ -715,7 +715,7 @@ DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video
 desktop/desktop[development]: https://github.com/desktop/desktop.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
-Dexmal/dexbotic[main]: https://github.com/Dexmal/dexbotic.git
+dexmal2025/dexbotic[main]: https://github.com/dexmal2025/dexbotic.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
 dfaker/df[master]: https://github.com/dfaker/df.git
@@ -3801,6 +3801,7 @@ Zackriya-Solutions/meeting-minutes[main]: https://github.com/Zackriya-Solutions/
 zai-org/ChatGLM-6B[main]: https://github.com/zai-org/ChatGLM-6B.git
 zai-org/ChatGLM2-6B[main]: https://github.com/zai-org/ChatGLM2-6B.git
 zai-org/ChatGLM3[main]: https://github.com/zai-org/ChatGLM3.git
+zai-org/CodeGeeX[main]: https://github.com/zai-org/CodeGeeX.git
 zai-org/CodeGeeX2[main]: https://github.com/zai-org/CodeGeeX2.git
 zai-org/CogAgent[main]: https://github.com/zai-org/CogAgent.git
 zai-org/CogVideo[main]: https://github.com/zai-org/CogVideo.git
