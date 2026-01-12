@@ -715,7 +715,7 @@ DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video
 desktop/desktop[development]: https://github.com/desktop/desktop.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
-dexmal2025/dexbotic[main]: https://github.com/dexmal2025/dexbotic.git
+dexmal/dexbotic[main]: https://github.com/dexmal/dexbotic.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
 dfaker/df[master]: https://github.com/dfaker/df.git
@@ -1029,7 +1029,7 @@ FlagAI-Open/Aquila2[main]: https://github.com/FlagAI-Open/Aquila2.git
 FlagAI-Open/FlagAI[master]: https://github.com/FlagAI-Open/FlagAI.git
 FlagOpen/FlagEmbedding[master]: https://github.com/FlagOpen/FlagEmbedding.git
 FlagOpen/RoboBrain[main]: https://github.com/FlagOpen/RoboBrain.git
-FlagOpen/RoboBrain2.0[main]: https://github.com/FlagOpen/RoboBrain2.0.git
+FlagOpen/RoboBrain2.5[main]: https://github.com/FlagOpen/RoboBrain2.5.git
 FlagOpen/RoboOS[main]: https://github.com/FlagOpen/RoboOS.git
 flagos-ai/FlagGems[master]: https://github.com/flagos-ai/FlagGems.git
 flagos-ai/FlagScale[main]: https://github.com/flagos-ai/FlagScale.git
@@ -1936,6 +1936,7 @@ lixiaowen-xw/DiffuEraser[master]: https://github.com/lixiaowen-xw/DiffuEraser.gi
 liyaowei-stu/ImageConductor[main]: https://github.com/liyaowei-stu/ImageConductor.git
 liyi14/HAMSTER_beta[main]: https://github.com/liyi14/HAMSTER_beta.git
 liyi14/mx-DeepIM[master]: https://github.com/liyi14/mx-DeepIM.git
+liyiteng/AlohaMini[main]: https://github.com/liyiteng/AlohaMini.git
 LizardByte/Sunshine[master]: https://github.com/LizardByte/Sunshine.git
 ljean/modbus-tk[master]: https://github.com/ljean/modbus-tk.git
 lllyasviel/ControlNet[main]: https://github.com/lllyasviel/ControlNet.git
@@ -2031,6 +2032,7 @@ MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
+ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
 manipulate-in-dream/MinD[main]: https://github.com/manipulate-in-dream/MinD.git
 ManipulationNet/mnet_client[ros_2]: https://github.com/ManipulationNet/mnet_client.git
@@ -2714,6 +2716,7 @@ pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.
 pollen-robotics/reachy2-sdk[develop]: https://github.com/pollen-robotics/reachy2-sdk.git
 pollen-robotics/Reachy2-UnityDigitalTwin[master]: https://github.com/pollen-robotics/Reachy2-UnityDigitalTwin.git
 pollen-robotics/reachy_2023[develop]: https://github.com/pollen-robotics/reachy_2023.git
+pollen-robotics/reachy_mini[develop]: https://github.com/pollen-robotics/reachy_mini.git
 poloclub/cnn-explainer[master]: https://github.com/poloclub/cnn-explainer.git
 poloclub/ganlab[master]: https://github.com/poloclub/ganlab.git
 poloclub/transformer-explainer[main]: https://github.com/poloclub/transformer-explainer.git
@@ -3175,6 +3178,7 @@ stanford-iprl-lab/multimodal_representation[master]: https://github.com/stanford
 stanford-oval/storm[main]: https://github.com/stanford-oval/storm.git
 Stanford-TML/HEAD_release[main]: https://github.com/Stanford-TML/HEAD_release.git
 Stanford-TML/PDP[main]: https://github.com/Stanford-TML/PDP.git
+Stanford-TML/robot_keyframe_kit[main]: https://github.com/Stanford-TML/robot_keyframe_kit.git
 StanfordASL/oscbf[main]: https://github.com/StanfordASL/oscbf.git
 StanfordASL/rompc[master]: https://github.com/StanfordASL/rompc.git
 StanfordASL/Trajectron[master]: https://github.com/StanfordASL/Trajectron.git
@@ -3500,7 +3504,6 @@ UniversalRobots/Universal_Robots_ROS_Tutorials[main]: https://github.com/Univers
 unovue/inspira-ui[main]: https://github.com/unovue/inspira-ui.git
 unovue/shadcn-vue[dev]: https://github.com/unovue/shadcn-vue.git
 unrealcv/unrealcv[5.2]: https://github.com/unrealcv/unrealcv.git
-Unsigned-Long/eKalibr[master]: https://github.com/Unsigned-Long/eKalibr.git
 unslothai/unsloth[main]: https://github.com/unslothai/unsloth.git
 upscayl/upscayl[main]: https://github.com/upscayl/upscayl.git
 Upsonic/Upsonic[master]: https://github.com/Upsonic/Upsonic.git
