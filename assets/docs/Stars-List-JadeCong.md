@@ -157,7 +157,7 @@ allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.1.1]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.1.2]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 Alpha-VLLM/Lumina-mGPT[main]: https://github.com/Alpha-VLLM/Lumina-mGPT.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
@@ -328,6 +328,8 @@ aws/aws-cli[develop]: https://github.com/aws/aws-cli.git
 aws/aws-toolkit-vscode[master]: https://github.com/aws/aws-toolkit-vscode.git
 awslabs/aws-shell[master]: https://github.com/awslabs/aws-shell.git
 Axellwppr/gentle-humanoid[main]: https://github.com/Axellwppr/gentle-humanoid.git
+Axellwppr/humanoid-policy-viewer[main]: https://github.com/Axellwppr/humanoid-policy-viewer.git
+Axellwppr/motion_tracking[main]: https://github.com/Axellwppr/motion_tracking.git
 ayangweb/BongoCat[master]: https://github.com/ayangweb/BongoCat.git
 aymericdamien/TensorFlow-Examples[master]: https://github.com/aymericdamien/TensorFlow-Examples.git
 ayushpai/AI-Math-Notes[main]: https://github.com/ayushpai/AI-Math-Notes.git
@@ -2197,7 +2199,6 @@ Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-ll
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
 Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
 MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
-MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
 MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
 MisaZhu/ewokos[master]: https://github.com/MisaZhu/ewokos.git
@@ -3504,6 +3505,7 @@ UniversalRobots/Universal_Robots_ROS_Tutorials[main]: https://github.com/Univers
 unovue/inspira-ui[main]: https://github.com/unovue/inspira-ui.git
 unovue/shadcn-vue[dev]: https://github.com/unovue/shadcn-vue.git
 unrealcv/unrealcv[5.2]: https://github.com/unrealcv/unrealcv.git
+Unsigned-Long/iKalibr[master]: https://github.com/Unsigned-Long/iKalibr.git
 unslothai/unsloth[main]: https://github.com/unslothai/unsloth.git
 upscayl/upscayl[main]: https://github.com/upscayl/upscayl.git
 Upsonic/Upsonic[master]: https://github.com/Upsonic/Upsonic.git
