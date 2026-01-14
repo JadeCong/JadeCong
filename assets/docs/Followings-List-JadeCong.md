@@ -579,6 +579,7 @@ majacinka: https://github.com/majacinka
 MakeYourPet: https://github.com/MakeYourPet
 MandiZhao: https://github.com/MandiZhao
 ManimCommunity: https://github.com/ManimCommunity
+ManipulationNet: https://github.com/ManipulationNet
 mannaandpoem: https://github.com/mannaandpoem
 mannerslee: https://github.com/mannerslee
 manycore-research: https://github.com/manycore-research
@@ -1146,6 +1147,7 @@ XueFuzhao: https://github.com/XueFuzhao
 xuhao1: https://github.com/xuhao1
 xupei0610: https://github.com/xupei0610
 xwmx: https://github.com/xwmx
+YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 YaleUniversity: https://github.com/YaleUniversity
 yang-zj1026: https://github.com/yang-zj1026
 Yangqing: https://github.com/Yangqing
