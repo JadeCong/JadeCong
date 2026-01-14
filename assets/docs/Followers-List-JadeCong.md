@@ -1,6 +1,7 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
 AI0228: https://github.com/AI0228
+alicevic201610-commits: https://github.com/alicevic201610-commits
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
@@ -69,7 +70,6 @@ Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
-seehiong: https://github.com/seehiong
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
 solotech939: https://github.com/solotech939
@@ -87,6 +87,7 @@ w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
+XiaChiandXuce: https://github.com/XiaChiandXuce
 YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
 yogeshvibez: https://github.com/yogeshvibez
