@@ -65,6 +65,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - linzhongyan: https://github.com/linzhongyan
   - lrm20011: https://github.com/lrm20011
   - lxsy-xcy: https://github.com/lxsy-xcy
+  - lyfking: https://github.com/lyfking
   - MartinPR307: https://github.com/MartinPR307
   - Marxin1992: https://github.com/Marxin1992
   - MEET123-123: https://github.com/MEET123-123
@@ -73,6 +74,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - QipiaoZhou: https://github.com/QipiaoZhou
   - qshan2170: https://github.com/qshan2170
   - ruitao-98: https://github.com/ruitao-98
+  - ruoniao: https://github.com/ruoniao
   - Schofi: https://github.com/Schofi
   - sdyby2006: https://github.com/sdyby2006
   - Shanks-Li: https://github.com/Shanks-Li
