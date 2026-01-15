@@ -9,7 +9,7 @@
 <!-- Socials -->
 <p align="center">
     <kbd>
-        <a href="https://www.linkedin.com/in/jade-cong" title="LinkedIn - Jingde Cong"><img src="https://img.shields.io/badge/-Jingde_Cong-2057B6?style=flat&logo=Linkedin&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/jade-cong" title="LinkedIn - Jingde Cong"><img src="https://img.shields.io/badge/-Jingde_Cong-2057B6?style=flat&logo=Inspire&logoColor=white" /></a>
         <a href="https://x.com/JadeCong26" title="X - @JadeCong26"><img src="https://img.shields.io/badge/-Jade_Cong-000000?style=flat&logo=X&logoColor=white" /></a>
         <a href="https://huggingface.co/JadeCong" title="Hugging Face - JadeCong"><img src="https://img.shields.io/badge/-Jade_Cong-F9CF38?style=flat&logo=Huggingface&logoColor=white" /></a>
         <a href="https://stackoverflow.com/users/11549484/jade-cong" title="StackOverflow - Jade Cong"><img src="https://img.shields.io/badge/-Jade_Cong-E67D2E?style=flat&logo=Stackoverflow&logoColor=white" /></a>
