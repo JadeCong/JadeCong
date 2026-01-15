@@ -109,9 +109,9 @@
 ![License](https://img.shields.io/badge/License-Apache_2.0-brightgreen)
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight&v=2)
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&v=2)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&v=2)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](/assets/images/github-contribution-snake.svg)
