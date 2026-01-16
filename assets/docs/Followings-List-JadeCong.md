@@ -860,6 +860,7 @@ Roblox: https://github.com/Roblox
 robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
+Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 RoboStack: https://github.com/RoboStack
 Robot-VLAs: https://github.com/Robot-VLAs
