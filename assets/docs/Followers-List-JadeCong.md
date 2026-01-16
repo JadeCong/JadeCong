@@ -65,6 +65,7 @@ Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
 ritakaneu: https://github.com/ritakaneu
+rodrigogalura: https://github.com/rodrigogalura
 S4IL21: https://github.com/S4IL21
 Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
