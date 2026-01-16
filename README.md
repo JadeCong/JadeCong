@@ -110,10 +110,10 @@
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
 
 ![GitHub Stats](https://github-readme-stats-jadecong.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
-![GitHub Extra](https://github-readme-stats-jadecong.vercel.app/api/pin/?username=JadeCong&repo=JadeCong)
-![GitHub Gist](https://github-readme-stats-jadecong.vercel.app/api/gist?id=2be024e6185bd573a8ff4d48ac965c5d)
 ![GitHub Top Langs](https://github-readme-stats-jadecong.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
 ![WakaTime Stats](https://github-readme-stats-jadecong.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Extra](https://github-readme-stats-jadecong.vercel.app/api/pin/?username=JadeCong&repo=JadeCong&show_owner=true&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Gist](https://github-readme-stats-jadecong.vercel.app/api/gist?id=2be024e6185bd573a8ff4d48ac965c5d&show_owner=true&layout=compact&hide_border=true&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](/assets/images/github-contribution-snake.svg)
