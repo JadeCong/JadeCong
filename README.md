@@ -115,7 +115,7 @@
 <!-- ![GitHub Extra](https://github-readme-stats-jadecong.vercel.app/api/pin/?username=JadeCong&repo=JadeCong&show_owner=true&layout=compact&hide_border=true&theme=tokyonight) -->
 <!-- ![GitHub Gist](https://github-readme-stats-jadecong.vercel.app/api/gist?id=2be024e6185bd573a8ff4d48ac965c5d&show_owner=true&layout=compact&hide_border=true&theme=tokyonight) -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph-jadecong.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](/assets/images/github-contribution-snake.svg)
 
 ## Know More About Me
