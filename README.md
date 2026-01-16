@@ -110,6 +110,7 @@
 ![Documentation](https://img.shields.io/badge/Documentation-Yes-brightgreen)
 
 ![GitHub Stats](https://github-readme-stats-jadecong.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Top Langs](https://github-readme-stats-jadecong.vercel.app/api/top-langs/?username=JadeCong&langs_count=3&layout=normal&hide_border=true&theme=tokyonight)
 ![GitHub Top Langs](https://github-readme-stats-jadecong.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
 ![WakaTime Stats](https://github-readme-stats-jadecong.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
 ![GitHub Extra](https://github-readme-stats-jadecong.vercel.app/api/pin/?username=JadeCong&repo=JadeCong&show_owner=true&layout=compact&hide_border=true&theme=tokyonight)
