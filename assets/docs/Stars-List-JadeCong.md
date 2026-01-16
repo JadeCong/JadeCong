@@ -1921,6 +1921,7 @@ lisa-lab/DeepLearningTutorials[master]: https://github.com/lisa-lab/DeepLearning
 Lissy93/dashy[master]: https://github.com/Lissy93/dashy.git
 Lissy93/Lissy93[master]: https://github.com/Lissy93/Lissy93.git
 Lissy93/my-website[master]: https://github.com/Lissy93/my-website.git
+Lissy93/personal-security-checklist[master]: https://github.com/Lissy93/personal-security-checklist.git
 LiteOS/LiteOS[master]: https://github.com/LiteOS/LiteOS.git
 LiteOS/LiteOS.github.io2[master]: https://github.com/LiteOS/LiteOS.github.io2.git
 LiteOS/LiteOS_Lab[iot-device-sdk-tiny]: https://github.com/LiteOS/LiteOS_Lab.git
@@ -2906,6 +2907,7 @@ roboflow/supervision[develop]: https://github.com/roboflow/supervision.git
 RoboHow/robohow_common_msgs[master]: https://github.com/RoboHow/robohow_common_msgs.git
 robomechanics/MiniRHex[main]: https://github.com/robomechanics/MiniRHex.git
 robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
+Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
 RoboStack/jupyter-ros[main]: https://github.com/RoboStack/jupyter-ros.git
 RoboStack/jupyterlab-ros[master]: https://github.com/RoboStack/jupyterlab-ros.git
