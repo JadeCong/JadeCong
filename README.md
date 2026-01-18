@@ -113,7 +113,7 @@
 ![GitHub Top Langs](https://github-readme-stats-jadecong.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
 ![WakaTime Stats](https://github-readme-stats-jadecong.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&card_width=770)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph-jadecong.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](/assets/images/github-contribution-snake.svg)
 
 ## Know More About Me
