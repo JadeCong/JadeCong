@@ -111,7 +111,7 @@
 
 ![GitHub Stats](https://github-readme-stats-jadecong.vercel.app/api?username=JadeCong&show=discussions_answered&show_icons=true&hide_border=true&theme=tokyonight)
 ![GitHub Top Langs](https://github-readme-stats-jadecong.vercel.app/api/top-langs/?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
-![WakaTime Stats](https://github-readme-stats-jadecong.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&hide_progress=700)
+![WakaTime Stats](https://github-readme-stats-jadecong.vercel.app/api/wakatime?username=JadeCong&langs_count=10&layout=compact&hide_border=true&theme=tokyonight&card_width=700)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JadeCong&area=true&hide_border=true&theme=github-compact)
 ![GitHub Contribution Snake](/assets/images/github-contribution-snake.svg)
