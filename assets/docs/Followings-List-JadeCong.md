@@ -63,6 +63,7 @@ ant-design: https://github.com/ant-design
 ant-research: https://github.com/ant-research
 antgroup: https://github.com/antgroup
 anthropics: https://github.com/anthropics
+anuraghazra: https://github.com/anuraghazra
 anysphere: https://github.com/anysphere
 apache: https://github.com/apache
 apilayer: https://github.com/apilayer
@@ -318,6 +319,7 @@ FoundationAgents: https://github.com/FoundationAgents
 FoundationVision: https://github.com/FoundationVision
 foxglove: https://github.com/foxglove
 frankarobotics: https://github.com/frankarobotics
+freemocap: https://github.com/freemocap
 FreeRTOS: https://github.com/FreeRTOS
 FreshRSS: https://github.com/FreshRSS
 FuchsiaOS: https://github.com/FuchsiaOS
@@ -550,6 +552,7 @@ liruiw: https://github.com/liruiw
 Lissy93: https://github.com/Lissy93
 LiteOS: https://github.com/LiteOS
 liuff19: https://github.com/liuff19
+liyiteng: https://github.com/liyiteng
 LizardByte: https://github.com/LizardByte
 lllyasviel: https://github.com/lllyasviel
 llvm: https://github.com/llvm
@@ -1168,6 +1171,7 @@ yukezhu: https://github.com/yukezhu
 yukihiko: https://github.com/yukihiko
 Yuliang-Liu: https://github.com/Yuliang-Liu
 yuliangguo: https://github.com/yuliangguo
+yusufkaraaslan: https://github.com/yusufkaraaslan
 yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
