@@ -32,7 +32,6 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - Chemicalform: https://github.com/Chemicalform
   - cherishyuan: https://github.com/cherishyuan
   - chesyaa12: https://github.com/chesyaa12
-  - chopinxxxx: https://github.com/chopinxxxx
   - CJ0510: https://github.com/CJ0510
   - DaveDevSB: https://github.com/DaveDevSB
   - dddzzzccc: https://github.com/dddzzzccc
@@ -40,6 +39,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - ddrccfdll: https://github.com/ddrccfdll
   - DengyingFu: https://github.com/DengyingFu
   - dianyeHuang: https://github.com/dianyeHuang
+  - eai2xx: https://github.com/eai2xx
   - Eren-01: https://github.com/Eren-01
   - EricCho13: https://github.com/EricCho13
   - FreezeSoul: https://github.com/FreezeSoul
