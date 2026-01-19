@@ -372,6 +372,7 @@ bdaiinstitute/spot_ros2[main]: https://github.com/bdaiinstitute/spot_ros2.git
 bdaiinstitute/theia[main]: https://github.com/bdaiinstitute/theia.git
 behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs-algo.git
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
+BeingBeyond/Being-H0[main]: https://github.com/BeingBeyond/Being-H0.git
 BeingBeyond/BumbleBee[main]: https://github.com/BeingBeyond/BumbleBee.git
 BeingBeyond/DemoGrasp[main]: https://github.com/BeingBeyond/DemoGrasp.git
 BeingBeyond/DemoHLM[main]: https://github.com/BeingBeyond/DemoHLM.git
@@ -1073,6 +1074,7 @@ frankarobotics/libfranka[main]: https://github.com/frankarobotics/libfranka.git
 frankarobotics/libfranka-release[master]: https://github.com/frankarobotics/libfranka-release.git
 frankarobotics/the_reference_platform[main]: https://github.com/frankarobotics/the_reference_platform.git
 freeCodeCamp/freeCodeCamp[main]: https://github.com/freeCodeCamp/freeCodeCamp.git
+freemocap/freemocap[main]: https://github.com/freemocap/freemocap.git
 FreeRDP/FreeRDP[master]: https://github.com/FreeRDP/FreeRDP.git
 FreeRTOS/FreeRTOS[main]: https://github.com/FreeRTOS/FreeRTOS.git
 FreshRSS/FreshRSS[edge]: https://github.com/FreshRSS/FreshRSS.git
@@ -1352,6 +1354,7 @@ hieunc229/copilot-clone[master]: https://github.com/hieunc229/copilot-clone.git
 HigherOrderCO/Bend[main]: https://github.com/HigherOrderCO/Bend.git
 hill-a/stable-baselines[master]: https://github.com/hill-a/stable-baselines.git
 hindupuravinash/the-gan-zoo[master]: https://github.com/hindupuravinash/the-gan-zoo.git
+hipcityreg/situation-monitor[main]: https://github.com/hipcityreg/situation-monitor.git
 hiroi-sora/Umi-OCR[main]: https://github.com/hiroi-sora/Umi-OCR.git
 hiyouga/LlamaFactory[main]: https://github.com/hiyouga/LlamaFactory.git
 hku-mars/FAST-LIVO[main]: https://github.com/hku-mars/FAST-LIVO.git
@@ -2779,6 +2782,7 @@ pytorch/examples[main]: https://github.com/pytorch/examples.git
 pytorch/pytorch[main]: https://github.com/pytorch/pytorch.git
 pytorch/torchchat[main]: https://github.com/pytorch/torchchat.git
 qcr/frankie_docs[master]: https://github.com/qcr/frankie_docs.git
+qeeqbox/social-analyzer[main]: https://github.com/qeeqbox/social-analyzer.git
 qizekun/SoFar[main]: https://github.com/qizekun/SoFar.git
 qpsolvers/qpsolvers[main]: https://github.com/qpsolvers/qpsolvers.git
 qq547276542/Agriculture_KnowledgeGraph[master]: https://github.com/qq547276542/Agriculture_KnowledgeGraph.git
@@ -3795,6 +3799,7 @@ yuliangguo/OmniFusion[main]: https://github.com/yuliangguo/OmniFusion.git
 yuneming/DeepLearningTutorial[master]: https://github.com/yuneming/DeepLearningTutorial.git
 yunhaif/reflect-vlm[main]: https://github.com/yunhaif/reflect-vlm.git
 yunjey/pytorch-tutorial[master]: https://github.com/yunjey/pytorch-tutorial.git
+yusufkaraaslan/Skill_Seekers[development]: https://github.com/yusufkaraaslan/Skill_Seekers.git
 YuvDwi/Steve[main]: https://github.com/YuvDwi/Steve.git
 yuxng/PoseCNN[master]: https://github.com/yuxng/PoseCNN.git
 YvanYin/DrivingWorld[main]: https://github.com/YvanYin/DrivingWorld.git
@@ -3855,6 +3860,7 @@ zhongleilz/Sketch2Anim[main]: https://github.com/zhongleilz/Sketch2Anim.git
 zhongyang219/TrafficMonitor[master]: https://github.com/zhongyang219/TrafficMonitor.git
 Zhoues/RoboRefer[main]: https://github.com/Zhoues/RoboRefer.git
 zhouzypaul/wsrl[main]: https://github.com/zhouzypaul/wsrl.git
+ZhuLinsen/daily_stock_analysis[main]: https://github.com/ZhuLinsen/daily_stock_analysis.git
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
 ziadoz/awesome-php[master]: https://github.com/ziadoz/awesome-php.git
 zibojia/MiniMax-Remover[main]: https://github.com/zibojia/MiniMax-Remover.git
