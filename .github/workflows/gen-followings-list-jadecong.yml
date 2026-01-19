@@ -25,7 +25,7 @@ concurrency:
 jobs:
   gen-followings-list:
     name: Gen Forks List
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, ARM64, JadeCong, runner-JadeCong]
     
     steps:
       - name: Check out the repository to the runner
