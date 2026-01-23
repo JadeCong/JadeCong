@@ -372,7 +372,7 @@ bdaiinstitute/spot_ros2[main]: https://github.com/bdaiinstitute/spot_ros2.git
 bdaiinstitute/theia[main]: https://github.com/bdaiinstitute/theia.git
 behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs-algo.git
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
-BeingBeyond/Being-H0[main]: https://github.com/BeingBeyond/Being-H0.git
+BeingBeyond/Being-H[main]: https://github.com/BeingBeyond/Being-H.git
 BeingBeyond/BumbleBee[main]: https://github.com/BeingBeyond/BumbleBee.git
 BeingBeyond/DemoGrasp[main]: https://github.com/BeingBeyond/DemoGrasp.git
 BeingBeyond/DemoHLM[main]: https://github.com/BeingBeyond/DemoHLM.git
@@ -616,6 +616,7 @@ cvg/mpsfm[main]: https://github.com/cvg/mpsfm.git
 cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
 cyberbotics/webots[master]: https://github.com/cyberbotics/webots.git
+cyjdlhy/TeleOpBench[main]: https://github.com/cyjdlhy/TeleOpBench.git
 cypw/MXNet2Caffe[master]: https://github.com/cypw/MXNet2Caffe.git
 cypypccpy/Isaac-ManipulaRL[master]: https://github.com/cypypccpy/Isaac-ManipulaRL.git
 czy36mengfei/tensorflow2_tutorials_chinese[master]: https://github.com/czy36mengfei/tensorflow2_tutorials_chinese.git
@@ -718,6 +719,7 @@ DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video
 desktop/desktop[development]: https://github.com/desktop/desktop.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
+DexForce/EmbodiChain[main]: https://github.com/DexForce/EmbodiChain.git
 dexmal/dexbotic[main]: https://github.com/dexmal/dexbotic.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
@@ -1121,7 +1123,6 @@ geekan/HowToLiveLonger[main]: https://github.com/geekan/HowToLiveLonger.git
 geekcomputers/Python[master]: https://github.com/geekcomputers/Python.git
 geektown/raspberry-xunfei[master]: https://github.com/geektown/raspberry-xunfei.git
 geekxh/hello-algorithm[master]: https://github.com/geekxh/hello-algorithm.git
-geekywrites/datascience[main]: https://github.com/geekywrites/datascience.git
 geliuhao/CVPR2016_HandPoseEstimation[master]: https://github.com/geliuhao/CVPR2016_HandPoseEstimation.git
 gemlab-vt/motionshop[main]: https://github.com/gemlab-vt/motionshop.git
 gen-robot/RL4VLA[main]: https://github.com/gen-robot/RL4VLA.git
@@ -2124,6 +2125,7 @@ michalfaber/keras_Realtime_Multi-Person_Pose_Estimation[master]: https://github.
 michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation.git
 MichalZawalski/embodied-CoT[main]: https://github.com/MichalZawalski/embodied-CoT.git
 mickael-kerjean/filestash[master]: https://github.com/mickael-kerjean/filestash.git
+micro-editor/micro[master]: https://github.com/micro-editor/micro.git
 micro-ROS/micro_ros_arduino[kilted]: https://github.com/micro-ROS/micro_ros_arduino.git
 micro-ROS/micro_ros_setup[kilted]: https://github.com/micro-ROS/micro_ros_setup.git
 microsoft/AI-For-Beginners[main]: https://github.com/microsoft/AI-For-Beginners.git
@@ -2265,6 +2267,7 @@ MorvanZhou/tutorials[master]: https://github.com/MorvanZhou/tutorials.git
 mosaicml/composer[main]: https://github.com/mosaicml/composer.git
 moses-palmer/pynput[master]: https://github.com/moses-palmer/pynput.git
 motiondivision/motion[main]: https://github.com/motiondivision/motion.git
+MotrixLab/SMPLer-X[main]: https://github.com/MotrixLab/SMPLer-X.git
 mountain-loop/yaak[main]: https://github.com/mountain-loop/yaak.git
 moveit/moveit2[main]: https://github.com/moveit/moveit2.git
 moveit/moveit2_tutorials[main]: https://github.com/moveit/moveit2_tutorials.git
@@ -2769,6 +2772,7 @@ putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
 PX4/PX4-Autopilot[main]: https://github.com/PX4/PX4-Autopilot.git
 pybind/pybind11[master]: https://github.com/pybind/pybind11.git
+pybind/pybind11-stubgen[main]: https://github.com/pybind/pybind11-stubgen.git
 pyg-team/pytorch_geometric[master]: https://github.com/pyg-team/pytorch_geometric.git
 pygame/pygame[main]: https://github.com/pygame/pygame.git
 pyhys/minimalmodbus[master]: https://github.com/pyhys/minimalmodbus.git
@@ -3115,7 +3119,6 @@ sindresorhus/awesome[main]: https://github.com/sindresorhus/awesome.git
 sindresorhus/awesome-chatgpt[main]: https://github.com/sindresorhus/awesome-chatgpt.git
 sindresorhus/awesome-nodejs[main]: https://github.com/sindresorhus/awesome-nodejs.git
 SizheAn/PanoHead[main]: https://github.com/SizheAn/PanoHead.git
-sizmailov/pybind11-stubgen[master]: https://github.com/sizmailov/pybind11-stubgen.git
 SJTU-ViSYS/Ground-Fusion[main]: https://github.com/SJTU-ViSYS/Ground-Fusion.git
 sjzar/chatlog[main]: https://github.com/sjzar/chatlog.git
 skindhu/Build-A-Large-Language-Model-CN[main]: https://github.com/skindhu/Build-A-Large-Language-Model-CN.git
@@ -3125,7 +3128,6 @@ Skyvern-AI/skyvern[main]: https://github.com/Skyvern-AI/skyvern.git
 skywind3000/preserve-cd[master]: https://github.com/skywind3000/preserve-cd.git
 SkyworkAI/SkyReels-V1[main]: https://github.com/SkyworkAI/SkyReels-V1.git
 SkyworkAI/Skywork-R1V[main]: https://github.com/SkyworkAI/Skywork-R1V.git
-SMPLCap/SMPLer-X[main]: https://github.com/SMPLCap/SMPLer-X.git
 SMPLOlympics/SMPLOlympics[master]: https://github.com/SMPLOlympics/SMPLOlympics.git
 Snailclimb/JavaGuide[main]: https://github.com/Snailclimb/JavaGuide.git
 snap-research/arielai_youtube_3d_hands[master]: https://github.com/snap-research/arielai_youtube_3d_hands.git
@@ -3165,6 +3167,7 @@ spro/practical-pytorch[master]: https://github.com/spro/practical-pytorch.git
 sqlalchemy/sqlalchemy[main]: https://github.com/sqlalchemy/sqlalchemy.git
 sqlite/sqlite[master]: https://github.com/sqlite/sqlite.git
 squidfunk/mkdocs-material[master]: https://github.com/squidfunk/mkdocs-material.git
+sreeharierk/datascience[main]: https://github.com/sreeharierk/datascience.git
 ssyang2020/ZeroSmooth[main]: https://github.com/ssyang2020/ZeroSmooth.git
 Stability-AI/generative-models[main]: https://github.com/Stability-AI/generative-models.git
 Stability-AI/stable-fast-3d[main]: https://github.com/Stability-AI/stable-fast-3d.git
@@ -3474,6 +3477,7 @@ udacity/deep-reinforcement-learning[master]: https://github.com/udacity/deep-rei
 udecode/plate[main]: https://github.com/udecode/plate.git
 UE4-OceanProject/OceanProject[master]: https://github.com/UE4-OceanProject/OceanProject.git
 UFund-Me/Qbot[main]: https://github.com/UFund-Me/Qbot.git
+uiuckimlab/CHILD[main]: https://github.com/uiuckimlab/CHILD.git
 uiuckimlab/PAPRAS-V0-Public[master]: https://github.com/uiuckimlab/PAPRAS-V0-Public.git
 uiuckimlab/PAPRLE[main]: https://github.com/uiuckimlab/PAPRLE.git
 uiverse-io/galaxy[main]: https://github.com/uiverse-io/galaxy.git
@@ -3886,6 +3890,7 @@ zju3dv/neuralbody[master]: https://github.com/zju3dv/neuralbody.git
 zm0612/Hybrid_A_Star[main]: https://github.com/zm0612/Hybrid_A_Star.git
 znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN[master]: https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN.git
 znxlwm/tensorflow-MNIST-cGAN-cDCGAN[master]: https://github.com/znxlwm/tensorflow-MNIST-cGAN-cDCGAN.git
+Zolkin1/robot_rl[main]: https://github.com/Zolkin1/robot_rl.git
 zotero/zotero[main]: https://github.com/zotero/zotero.git
 zq1997/deepin-wine[master]: https://github.com/zq1997/deepin-wine.git
 zsh-users/antigen[develop]: https://github.com/zsh-users/antigen.git
@@ -3901,7 +3906,6 @@ zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.gi
 ZXP-S-works/SE2-equivariant-grasp-learning[main]: https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning.git
 ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
-zyedidia/micro[master]: https://github.com/zyedidia/micro.git
 ZyperWave/ZyperWinOptimize[main]: https://github.com/ZyperWave/ZyperWinOptimize.git
 zyronon/TypeWords[master]: https://github.com/zyronon/TypeWords.git
 ZZongzheng0918/Morpheus-Hardware[main]: https://github.com/ZZongzheng0918/Morpheus-Hardware.git
