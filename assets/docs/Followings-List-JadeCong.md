@@ -11,6 +11,7 @@ abi: https://github.com/abi
 ac-rad: https://github.com/ac-rad
 ACETeleop: https://github.com/ACETeleop
 acheong08: https://github.com/acheong08
+actions: https://github.com/actions
 adobe: https://github.com/adobe
 ag-ui-protocol: https://github.com/ag-ui-protocol
 ag2ai: https://github.com/ag2ai
@@ -227,6 +228,7 @@ deepseek-ai: https://github.com/deepseek-ai
 deepset-ai: https://github.com/deepset-ai
 DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
+DexForce: https://github.com/DexForce
 dexmal2025: https://github.com/dexmal2025
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
@@ -1053,6 +1055,7 @@ ucla-mobility: https://github.com/ucla-mobility
 UCLA-VAST: https://github.com/UCLA-VAST
 udecode: https://github.com/udecode
 UFund-Me: https://github.com/UFund-Me
+uiuckimlab: https://github.com/uiuckimlab
 uiverse-io: https://github.com/uiverse-io
 UKPLab: https://github.com/UKPLab
 ultralytics: https://github.com/ultralytics
@@ -1191,6 +1194,7 @@ Zipstack: https://github.com/Zipstack
 ZiqiaoPeng: https://github.com/ZiqiaoPeng
 zju3dv: https://github.com/zju3dv
 zmh-program: https://github.com/zmh-program
+Zolkin1: https://github.com/Zolkin1
 zsh-users: https://github.com/zsh-users
 ZXP-S-works: https://github.com/ZXP-S-works
 zyedidia: https://github.com/zyedidia
