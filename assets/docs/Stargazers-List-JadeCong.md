@@ -100,7 +100,6 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - xiaojianjia: https://github.com/xiaojianjia
   - XinyangWang6: https://github.com/XinyangWang6
   - xpf580: https://github.com/xpf580
-  - xu-yang16: https://github.com/xu-yang16
   - xwy-bit: https://github.com/xwy-bit
   - YiChenCityU: https://github.com/YiChenCityU
   - yixuanqi: https://github.com/yixuanqi
