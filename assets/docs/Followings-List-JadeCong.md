@@ -13,6 +13,7 @@ ACETeleop: https://github.com/ACETeleop
 acheong08: https://github.com/acheong08
 actions: https://github.com/actions
 adobe: https://github.com/adobe
+affaan-m: https://github.com/affaan-m
 ag-ui-protocol: https://github.com/ag-ui-protocol
 ag2ai: https://github.com/ag2ai
 agent0ai: https://github.com/agent0ai
@@ -687,6 +688,7 @@ nomic-ai: https://github.com/nomic-ai
 NoNoid: https://github.com/NoNoid
 NousResearch: https://github.com/NousResearch
 NovaSky-AI: https://github.com/NovaSky-AI
+nraiden: https://github.com/nraiden
 nubot-nudt: https://github.com/nubot-nudt
 Nuitka: https://github.com/Nuitka
 Nutlope: https://github.com/Nutlope
@@ -832,7 +834,6 @@ QwenLM: https://github.com/QwenLM
 qxiaofan: https://github.com/qxiaofan
 r-spacex: https://github.com/r-spacex
 raghakot: https://github.com/raghakot
-raidendotai: https://github.com/raidendotai
 rail-berkeley: https://github.com/rail-berkeley
 raminmh: https://github.com/raminmh
 rasbt: https://github.com/rasbt
