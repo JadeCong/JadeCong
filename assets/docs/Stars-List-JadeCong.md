@@ -56,6 +56,7 @@ adnappp/Sfm-python[master]: https://github.com/adnappp/Sfm-python.git
 adobe-research/VideoDoodles[main]: https://github.com/adobe-research/VideoDoodles.git
 aerophile/awesome-deepfakes[master]: https://github.com/aerophile/awesome-deepfakes.git
 aerorobotics/sets[main]: https://github.com/aerorobotics/sets.git
+affaan-m/everything-claude-code[main]: https://github.com/affaan-m/everything-claude-code.git
 affinelayer/pix2pix-tensorflow[master]: https://github.com/affinelayer/pix2pix-tensorflow.git
 AfterJourney00/IMHD-Dataset[master]: https://github.com/AfterJourney00/IMHD-Dataset.git
 ag-ui-protocol/ag-ui[main]: https://github.com/ag-ui-protocol/ag-ui.git
@@ -1099,6 +1100,7 @@ fz-lyu/modbuspp[master]: https://github.com/fz-lyu/modbuspp.git
 fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_driver.git
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
+GalaxyGeneralRobotics/Click-and-Traverse[main]: https://github.com/GalaxyGeneralRobotics/Click-and-Traverse.git
 GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
 game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
@@ -2188,6 +2190,7 @@ mihdalal/neuralmotionplanner[main]: https://github.com/mihdalal/neuralmotionplan
 mikel-brostrom/boxmot[master]: https://github.com/mikel-brostrom/boxmot.git
 mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
 milanvarady/Applite[main]: https://github.com/milanvarady/Applite.git
+MindDock/motion-tracker[main]: https://github.com/MindDock/motion-tracker.git
 mindsdb/mindsdb[main]: https://github.com/mindsdb/mindsdb.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
 mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_mujoco.git
@@ -2385,6 +2388,7 @@ notmahi/dobb-e[main]: https://github.com/notmahi/dobb-e.git
 notvenky/eFlesh[main]: https://github.com/notvenky/eFlesh.git
 NovaSky-AI/SkyThought[main]: https://github.com/NovaSky-AI/SkyThought.git
 npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphCourse.git
+nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
@@ -2807,7 +2811,6 @@ QwenLM/Qwen3-VL[main]: https://github.com/QwenLM/Qwen3-VL.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
-raidendotai/cofounder[main]: https://github.com/raidendotai/cofounder.git
 rail-berkeley/bridge_data_v2[main]: https://github.com/rail-berkeley/bridge_data_v2.git
 rail-berkeley/crossformer[main]: https://github.com/rail-berkeley/crossformer.git
 rail-berkeley/hil-serl[main]: https://github.com/rail-berkeley/hil-serl.git
