@@ -36,11 +36,11 @@
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
-- [End-to-End Teleoperation](https://jadecong.github.io/contents/projects/End-to-End-Teleoperation/) - 2024-10-08
-- [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/) - 2023-12-30
+- [End-to-End Teleoperation](https://jadecong.github.io/contents/projects/End-to-End-Teleoperation/) - 2024-09-13
+- [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/) - 2023-12-13
 - [Robot Teleoperation](https://jadecong.github.io/contents/projects/Robot-Teleoperation/) - 2023-03-28
-- [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/) - 2022-11-30
-- [Robotic Softbody Manipulation](https://jadecong.github.io/contents/projects/Robotic-Softbody-Manipulation/) - 2021-08-30
+- [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/) - 2022-07-23
+- [Robotic Softbody Manipulation](https://jadecong.github.io/contents/projects/Robotic-Softbody-Manipulation/) - 2021-08-17
 <!-- Recent-Project-List:End -->
 
 </td>
