@@ -17,7 +17,6 @@ Connor9994: https://github.com/Connor9994
 CriptoNuno2024: https://github.com/CriptoNuno2024
 DaurDiop: https://github.com/DaurDiop
 devimccallion: https://github.com/devimccallion
-devmaster116: https://github.com/devmaster116
 dirambora: https://github.com/dirambora
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
@@ -30,6 +29,7 @@ IDouble: https://github.com/IDouble
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
+Jannowaks: https://github.com/Jannowaks
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
 JohnMwendwa: https://github.com/JohnMwendwa
@@ -46,6 +46,7 @@ maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 MeriemBoujamza: https://github.com/MeriemBoujamza
+mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 mounikaprp-blip: https://github.com/mounikaprp-blip
 mustafacagri: https://github.com/mustafacagri
