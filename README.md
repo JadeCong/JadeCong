@@ -59,6 +59,25 @@
 </tr>
 </table>
 
+## Release Projects
+
+<table width="1000px" cellspacing="0" cellpadding="0">
+<tr>
+<td halign="top" width="1000px">
+
+### 💻 Current Project
+- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+
+</td>
+<td halign="top" width="1000px">
+
+### 📦 Legacy Projects
+- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+
+</td>
+</tr>
+</table>
+
 ## Skill Stacks
 
 ![Field](https://img.shields.io/badge/Field-Robotics-red)
