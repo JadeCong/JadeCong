@@ -30,9 +30,9 @@
 
 ## Latest Posts
 
-<table width="960px">
+<table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="480px">
+<td valign="top" width="600px">
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
@@ -44,7 +44,7 @@
 <!-- Recent-Project-List:End -->
 
 </td>
-<td valign="top" width="480px">
+<td valign="top" width="600px">
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
 <!-- Recent-Blog-List:Start -->
