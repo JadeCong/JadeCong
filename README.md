@@ -36,11 +36,11 @@
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
-- [End-to-End Teleoperation](https://jadecong.github.io/contents/projects/End-to-End-Teleoperation/)
-- [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/)
-- [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/)
-- [Robot Teleoperation](https://jadecong.github.io/contents/projects/Robot-Teleoperation/)
-- [Robotic Softbody Manipulation](https://jadecong.github.io/contents/projects/Robotic-Softbody-Manipulation/)
+- [End-to-End Teleoperation](https://jadecong.github.io/contents/projects/End-to-End-Teleoperation/) - 2024-10-08
+- [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/) - 2023-12-30
+- [Robot Teleoperation](https://jadecong.github.io/contents/projects/Robot-Teleoperation/) - 2023-03-28
+- [Tactile Finger](https://jadecong.github.io/contents/projects/Tactile-Finger/) - 2022-11-30
+- [Robotic Softbody Manipulation](https://jadecong.github.io/contents/projects/Robotic-Softbody-Manipulation/) - 2021-08-30
 <!-- Recent-Project-List:End -->
 
 </td>
@@ -48,11 +48,11 @@
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
 <!-- Recent-Blog-List:Start -->
-- [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/)
-- [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/)
-- [Thoughts on Embodied Intelligence and AGI](https://jadecong.github.io/contents/blogs/2024-10-17-Thoughts-on-Embodied-Intelligence-and-AGI/)
-- [What's AGI](https://jadecong.github.io/contents/blogs/2019-08-09-Whats-AGI/)
-- [Goal of AGI](https://jadecong.github.io/contents/blogs/2019-08-02-Goal-of-AGI/)
+- [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/) - 2025-01-06
+- [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/) - 2024-12-14
+- [Thoughts on Embodied Intelligence and AGI](https://jadecong.github.io/contents/blogs/2024-10-17-Thoughts-on-Embodied-Intelligence-and-AGI/) - 2024-10-17
+- [What's AGI](https://jadecong.github.io/contents/blogs/2019-08-09-Whats-AGI/) - 2019-08-09
+- [Goal of AGI](https://jadecong.github.io/contents/blogs/2019-08-02-Goal-of-AGI/) - 2019-08-02
 <!-- Recent-Blog-List:End -->
 
 </td>
