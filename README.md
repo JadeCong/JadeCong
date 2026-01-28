@@ -30,7 +30,7 @@
 
 ## Latest Posts
 
-<table width="1200px" cellspacing="0" cellpadding="0">
+<table width="1200px">
 <tr>
 <td valign="top" width="600px">
 
