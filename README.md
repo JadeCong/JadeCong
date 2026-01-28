@@ -65,7 +65,7 @@
 <!-- Released Projects Table -->
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="500px">
+<td valign="top" width="1000px">
 
 ### 💻 Current Projects
 <!-- Current-Project-List:Start -->
@@ -73,7 +73,9 @@
 <!-- Current-Project-List:End -->
 
 </td>
-<td valign="top" width="500px">
+</tr>
+<tr>
+<td valign="top" width="1000px">
 
 ### 📦 Legacy Works
 <!-- Legacy-Work-List:Start -->
