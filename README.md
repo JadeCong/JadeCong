@@ -35,7 +35,7 @@
 <tr>
 <td valign="top" width="500px">
 
-### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
+#### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
 - [End-to-End Teleoperation](https://jadecong.github.io/contents/projects/End-to-End-Teleoperation/) - 2024-09-13
 - [Industrial Metaverse Platform](https://jadecong.github.io/contents/projects/Industrial-Metaverse-Platform/) - 2023-12-13
@@ -47,7 +47,7 @@
 </td>
 <td valign="top" width="500px">
 
-### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
+#### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
 <!-- Recent-Blog-List:Start -->
 - [New Ideas for Achieving AGI](https://jadecong.github.io/contents/blogs/2025-01-06-New-Ideas-for-Achieving-AGI/) - 2025-01-06
 - [In Deep Reflections on Humanoid Robot and AI](https://jadecong.github.io/contents/blogs/2024-12-14-In-Deep-Reflections-on-Humanoid-Robot-and-AI/) - 2024-12-14
@@ -67,7 +67,7 @@
 <tr>
 <td valign="top" width="1000px">
 
-### 💻 Current Projects
+#### 💻 Current Projects
 <!-- Current-Project-List:Start -->
 - 👏 **[Awesome-Robot-Learning](https://github.com/JadeCong/Awesome-Robot-Learning)** - Awesome Lists about Robot Learning
 - 🦿 **[touch_ros](https://github.com/JadeCong/touch_ros)** - ROS Packages for 3D Systems Touch
@@ -81,7 +81,7 @@
 <tr>
 <td valign="top" width="1000px">
 
-### 📦 Legacy Works
+#### 📦 Legacy Works
 <!-- Legacy-Work-List:Start -->
 - 🎮 **[AvatarGame-Host](https://github.com/JadeCong/AvatarGame-Host)** - 3D Multiple Human Pose Estimation based on Live Video Stream
 - 🎰 **[AvatarGame-Unity](https://github.com/JadeCong/AvatarGame-Unity)** - Unity Package for Avatar Game based on 3D Human Pose Estimation
