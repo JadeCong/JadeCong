@@ -267,6 +267,7 @@ electron: https://github.com/electron
 Elite-Robots: https://github.com/Elite-Robots
 Embodied-Web-Agent: https://github.com/Embodied-Web-Agent
 emidan19: https://github.com/emidan19
+enactic: https://github.com/enactic
 engineai-robotics: https://github.com/engineai-robotics
 EnVision-Research: https://github.com/EnVision-Research
 eosphoros-ai: https://github.com/eosphoros-ai
@@ -430,6 +431,7 @@ hyfydy: https://github.com/hyfydy
 hyparxis: https://github.com/hyparxis
 hyperai: https://github.com/hyperai
 hyperbrowserai: https://github.com/hyperbrowserai
+IamCreateAI: https://github.com/IamCreateAI
 ibab: https://github.com/ibab
 ICube-Robotics: https://github.com/ICube-Robotics
 IDEA-Research: https://github.com/IDEA-Research
@@ -627,6 +629,7 @@ mlc-ai: https://github.com/mlc-ai
 mmatl: https://github.com/mmatl
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
+moltbot: https://github.com/moltbot
 mongodb: https://github.com/mongodb
 MonitorControl: https://github.com/MonitorControl
 moojink: https://github.com/moojink
@@ -861,6 +864,7 @@ rhgao: https://github.com/rhgao
 rhymes-ai: https://github.com/rhymes-ai
 richards199999: https://github.com/richards199999
 RIVeR-Lab: https://github.com/RIVeR-Lab
+Robbyant: https://github.com/Robbyant
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
 robocomp: https://github.com/robocomp
@@ -960,6 +964,7 @@ StanfordASL: https://github.com/StanfordASL
 stanfordnlp: https://github.com/stanfordnlp
 StanfordVL: https://github.com/StanfordVL
 staruml: https://github.com/staruml
+steipete: https://github.com/steipete
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
 Stirling-Tools: https://github.com/Stirling-Tools
