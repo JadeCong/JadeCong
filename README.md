@@ -45,7 +45,7 @@
 <!-- Recent-Project-List:End -->
 
 </td>
-<td valign="top" width="50opx">
+<td valign="top" width="500px">
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
 <!-- Recent-Blog-List:Start -->
