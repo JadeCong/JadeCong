@@ -31,9 +31,9 @@
 ## Latest Posts
 
 <!-- Latest Posts Table -->
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="500px">
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
@@ -45,7 +45,7 @@
 <!-- Recent-Project-List:End -->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50opx">
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
 <!-- Recent-Blog-List:Start -->
@@ -63,9 +63,9 @@
 ## Released Projects
 
 <!-- Released Projects Table -->
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="500px">
 
 ### 💻 Current Projects
 <!-- Current-Project-List:Start -->
@@ -73,18 +73,21 @@
 <!-- Current-Project-List:End -->
 
 </td>
-<td valign="top" width="50%">
-
+<td valign="top" width="500px">
 ### 📦 Legacy Works
 <!-- Legacy-Work-List:Start -->
-- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
-<!-- Legacy-Work-List:End -->
+- 🎮 **[AvatarGame-Host](https://github.com/JadeCong/AvatarGame-Host)** - 3D Multiple Human Pose Estimation based on Live Video Stream
+- 🎰 **[AvatarGame-Unity](https://github.com/JadeCong/AvatarGame-Unity)** - Unity Package for Avatar Game based on 3D Human Pose Estimation
+- 🤖 **[HumanPose3D-Pytorch](https://github.com/JadeCong/HumanPose3D-Pytorch)** - 3D Human Pose Estimation using Single RGB Picture
+- ✋ **[HandControl-MuJoCo](https://github.com/JadeCong/HandControl-MuJoCo)** - Mechanical Hand Control with TeachNet using Keypoint Mapping in MuJoCo
+- 🦾 **[IntelligentAssemblyRobotSystem](https://github.com/JadeCong/IntelligentAssemblyRobotSystem)** - Robot System for Intelligent Assembly
+<!-- Legacy-Work-List:End --
 
 </td>
 </tr>
 </table>
 
-## Skill Stacks
+## Skill St
 
 ![Field](https://img.shields.io/badge/Field-Robotics-red)
 ![Field](https://img.shields.io/badge/Field-AI-red)
