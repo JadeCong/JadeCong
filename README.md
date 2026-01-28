@@ -31,9 +31,9 @@
 ## Latest Posts
 
 <!-- Latest Posts Table -->
-<table width="1000px" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="500px">
+<td valign="top" width="50%">
 
 ### 💼 [Recent Projects](https://jadecong.github.io/contents/projects/)
 <!-- Recent-Project-List:Start -->
@@ -45,7 +45,7 @@
 <!-- Recent-Project-List:End -->
 
 </td>
-<td valign="top" width="500px">
+<td valign="top" width="50%">
 
 ### 📔 [Recent Blogs](https://jadecong.github.io/contents/blogs/)
 <!-- Recent-Blog-List:Start -->
@@ -63,9 +63,9 @@
 ## Released Projects
 
 <!-- Released Projects Table -->
-<table width="1000px" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td halign="top" width="1000px">
+<td valign="top" width="50%">
 
 ### 💻 Current Projects
 <!-- Current-Project-List:Start -->
@@ -73,7 +73,7 @@
 <!-- Current-Project-List:End -->
 
 </td>
-<td halign="top" width="1000px">
+<td valign="top" width="50%">
 
 ### 📦 Legacy Works
 <!-- Legacy-Work-List:Start -->
