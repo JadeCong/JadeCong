@@ -65,17 +65,21 @@
 <!-- Released Projects Table -->
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top">
+<td valign="top" width="1000px">
 
 ### 💻 Current Projects
 <!-- Current-Project-List:Start -->
-- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+- 🎮 **[Awesome-Robot-Learning](https://github.com/JadeCong/Awesome-Robot-Learning)** - Awesome Lists about Robot Learning
+- 🎰 **[touch_ros](https://github.com/JadeCong/touch_ros)** - ROS Packages for 3D Systems Touch
+- 🤖 **[franka_ros](https://github.com/JadeCong/franka_ros)** - ROS Packages for Franka Emika Panda
+- ✋ **[siemens_ros](https://github.com/JadeCong/siemens_ros)** - ROS Packages for Siemens PLC Device
+- 🦾 **[Robotic-Softbody-Manipulation](https://github.com/JadeCong/Robotic-Softbody-Manipulation)** - Softbody Mainpulation for Robot based on DRL
 <!-- Current-Project-List:End -->
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="1000px">
 
 ### 📦 Legacy Works
 <!-- Legacy-Work-List:Start -->
