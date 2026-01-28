@@ -28,6 +28,25 @@
 - 🌱 I’m currently working on **LLM** for developing personal **AI Agents**.
 - 💞️ I’m looking forward to seeking cooperations on **humanoid robots** and **embodied intelligence** for **robot learning**.
 
+## Release Projects
+
+<table width="1000px" cellspacing="0" cellpadding="0">
+<tr>
+<td halign="top" width="1000px">
+
+### 💻 Current Projects
+- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+
+</td>
+<td halign="top" width="1000px">
+
+### 📦 Legacy Projects
+- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+
+</td>
+</tr>
+</table>
+
 ## Latest Posts
 
 <table width="1000px" cellspacing="0" cellpadding="0">
@@ -54,25 +73,6 @@
 - [What's AGI](https://jadecong.github.io/contents/blogs/2019-08-09-Whats-AGI/) - 2019-08-09
 - [Goal of AGI](https://jadecong.github.io/contents/blogs/2019-08-02-Goal-of-AGI/) - 2019-08-02
 <!-- Recent-Blog-List:End -->
-
-</td>
-</tr>
-</table>
-
-## Release Projects
-
-<table width="1000px" cellspacing="0" cellpadding="0">
-<tr>
-<td halign="top" width="1000px">
-
-### 💻 Current Project
-- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
-
-</td>
-<td halign="top" width="1000px">
-
-### 📦 Legacy Projects
-- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
 
 </td>
 </tr>
