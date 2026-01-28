@@ -30,6 +30,7 @@
 
 ## Latest Posts
 
+<!-- Latest Posts Table -->
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="500px">
@@ -61,18 +62,23 @@
 
 ## Released Projects
 
+<!-- Released Projects Table -->
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>
 <td halign="top" width="1000px">
 
 ### 💻 Current Projects
+<!-- Current-Project-List:Start -->
 - 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+<!-- Current-Project-List:End -->
 
 </td>
 <td halign="top" width="1000px">
 
 ### 📦 Legacy Works
+<!-- Legacy-Work-List:Start -->
 - 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
+<!-- Legacy-Work-List:End -->
 
 </td>
 </tr>
@@ -137,6 +143,7 @@
 
 ## Know More About Me
 
+<!-- GitHub Pages Link -->
 <p align="center">
     <a href="https://jadecong.github.io">To My GitHub Pages, Here We Go~</a>
 </p>
