@@ -74,6 +74,7 @@
 
 </td>
 <td valign="top" width="500px">
+
 ### 📦 Legacy Works
 <!-- Legacy-Work-List:Start -->
 - 🎮 **[AvatarGame-Host](https://github.com/JadeCong/AvatarGame-Host)** - 3D Multiple Human Pose Estimation based on Live Video Stream
@@ -81,13 +82,13 @@
 - 🤖 **[HumanPose3D-Pytorch](https://github.com/JadeCong/HumanPose3D-Pytorch)** - 3D Human Pose Estimation using Single RGB Picture
 - ✋ **[HandControl-MuJoCo](https://github.com/JadeCong/HandControl-MuJoCo)** - Mechanical Hand Control with TeachNet using Keypoint Mapping in MuJoCo
 - 🦾 **[IntelligentAssemblyRobotSystem](https://github.com/JadeCong/IntelligentAssemblyRobotSystem)** - Robot System for Intelligent Assembly
-<!-- Legacy-Work-List:End --
+<!-- Legacy-Work-List:End -->
 
 </td>
 </tr>
 </table>
 
-## Skill St
+## Skill Stacks
 
 ![Field](https://img.shields.io/badge/Field-Robotics-red)
 ![Field](https://img.shields.io/badge/Field-AI-red)
