@@ -347,6 +347,7 @@ generalroboticslab: https://github.com/generalroboticslab
 Genesis-Embodied-AI: https://github.com/Genesis-Embodied-AI
 getlantern: https://github.com/getlantern
 getomni-ai: https://github.com/getomni-ai
+GetStream: https://github.com/GetStream
 getzep: https://github.com/getzep
 GeWu-Lab: https://github.com/GeWu-Lab
 gggliuye: https://github.com/gggliuye
