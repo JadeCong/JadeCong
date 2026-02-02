@@ -297,7 +297,7 @@ ashishpatel26/500-AI-Agents-Projects[main]: https://github.com/ashishpatel26/500
 Ashutosh00710/github-readme-activity-graph[main]: https://github.com/Ashutosh00710/github-readme-activity-graph.git
 askforalfred/alfred[master]: https://github.com/askforalfred/alfred.git
 askmike/gekko[develop]: https://github.com/askmike/gekko.git
-assafelovic/gpt-researcher[master]: https://github.com/assafelovic/gpt-researcher.git
+assafelovic/gpt-researcher[main]: https://github.com/assafelovic/gpt-researcher.git
 AssafSinger94/dino-tracker[main]: https://github.com/AssafSinger94/dino-tracker.git
 assimon/dujiaoka[master]: https://github.com/assimon/dujiaoka.git
 astooke/rlpyt[master]: https://github.com/astooke/rlpyt.git
@@ -907,7 +907,7 @@ exodrifter/unity-python[master]: https://github.com/exodrifter/unity-python.git
 Eyeline-Labs/Go-with-the-Flow[main]: https://github.com/Eyeline-Labs/Go-with-the-Flow.git
 eyyub/tensorflow-pix2pix[master]: https://github.com/eyyub/tensorflow-pix2pix.git
 Ezharjan/AcademicGPT[master]: https://github.com/Ezharjan/AcademicGPT.git
-f/awesome-chatgpt-prompts[main]: https://github.com/f/awesome-chatgpt-prompts.git
+f/prompts.chat[main]: https://github.com/f/prompts.chat.git
 facebook/docusaurus[main]: https://github.com/facebook/docusaurus.git
 facebook/folly[main]: https://github.com/facebook/folly.git
 facebook/react[main]: https://github.com/facebook/react.git
@@ -1687,6 +1687,7 @@ jjihwan/FIFO-Diffusion_public[main]: https://github.com/jjihwan/FIFO-Diffusion_p
 jmecn/tutorial-for-beginners[master]: https://github.com/jmecn/tutorial-for-beginners.git
 jnjaby/KEEP[main]: https://github.com/jnjaby/KEEP.git
 jnnan/trumans_utils[main]: https://github.com/jnnan/trumans_utils.git
+jnskkmhr/IsaacLab4.5[devel]: https://github.com/jnskkmhr/IsaacLab4.5.git
 jobbole/awesome-cpp-cn[master]: https://github.com/jobbole/awesome-cpp-cn.git
 jobbole/awesome-go-cn[master]: https://github.com/jobbole/awesome-go-cn.git
 jobbole/awesome-java-cn[master]: https://github.com/jobbole/awesome-java-cn.git
@@ -1705,7 +1706,7 @@ JOY-MM/JoyGen[main]: https://github.com/JOY-MM/JoyGen.git
 jquery/jquery[main]: https://github.com/jquery/jquery.git
 Jrohy/trojan[master]: https://github.com/Jrohy/trojan.git
 jslee02/awesome-collision-detection[master]: https://github.com/jslee02/awesome-collision-detection.git
-jslee02/awesome-robotics-libraries[master]: https://github.com/jslee02/awesome-robotics-libraries.git
+jslee02/awesome-robotics-libraries[main]: https://github.com/jslee02/awesome-robotics-libraries.git
 jsonresume/registry-functions[master]: https://github.com/jsonresume/registry-functions.git
 jsupancic/deep_hand_pose[master]: https://github.com/jsupancic/deep_hand_pose.git
 jtoy/awesome-tensorflow[master]: https://github.com/jtoy/awesome-tensorflow.git
@@ -2257,6 +2258,7 @@ modelscope/facechain[main]: https://github.com/modelscope/facechain.git
 modelscope/FunASR[main]: https://github.com/modelscope/FunASR.git
 modelscope/FunClip[main]: https://github.com/modelscope/FunClip.git
 modelscope/modelscope[master]: https://github.com/modelscope/modelscope.git
+modelscope/ms-agent[main]: https://github.com/modelscope/ms-agent.git
 modelscope/Nexus-Gen[main]: https://github.com/modelscope/Nexus-Gen.git
 modelscope/scepter[main]: https://github.com/modelscope/scepter.git
 modular/modular[main]: https://github.com/modular/modular.git
@@ -2814,6 +2816,7 @@ quantopian/zipline[master]: https://github.com/quantopian/zipline.git
 QuentinFuxa/WhisperLiveKit[main]: https://github.com/QuentinFuxa/WhisperLiveKit.git
 QuivrHQ/quivr[main]: https://github.com/QuivrHQ/quivr.git
 qusers/Q6[master]: https://github.com/qusers/Q6.git
+QwenLM/qwen-code[main]: https://github.com/QwenLM/qwen-code.git
 QwenLM/Qwen-Image[main]: https://github.com/QwenLM/Qwen-Image.git
 QwenLM/Qwen-VL[master]: https://github.com/QwenLM/Qwen-VL.git
 QwenLM/Qwen2.5-Omni[main]: https://github.com/QwenLM/Qwen2.5-Omni.git
@@ -2904,7 +2907,6 @@ ricmua/ros_force_dimension[main]: https://github.com/ricmua/ros_force_dimension.
 ripienaar/free-for-dev[master]: https://github.com/ripienaar/free-for-dev.git
 riscv/riscv-isa-manual[main]: https://github.com/riscv/riscv-isa-manual.git
 RIVeR-Lab/mobiman[main]: https://github.com/RIVeR-Lab/mobiman.git
-rl-augmented-mpc/IsaacLab4.5[devel]: https://github.com/rl-augmented-mpc/IsaacLab4.5.git
 rlabbe/filterpy[master]: https://github.com/rlabbe/filterpy.git
 rlabbe/Kalman-and-Bayesian-Filters-in-Python[master]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python.git
 rlcode/reinforcement-learning[master]: https://github.com/rlcode/reinforcement-learning.git
