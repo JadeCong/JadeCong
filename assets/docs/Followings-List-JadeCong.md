@@ -630,7 +630,6 @@ mlc-ai: https://github.com/mlc-ai
 mmatl: https://github.com/mmatl
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
-moltbot: https://github.com/moltbot
 mongodb: https://github.com/mongodb
 MonitorControl: https://github.com/MonitorControl
 moojink: https://github.com/moojink
@@ -732,6 +731,7 @@ openai: https://github.com/openai
 OpenAPITools: https://github.com/OpenAPITools
 OpenBB-finance: https://github.com/OpenBB-finance
 OpenBMB: https://github.com/OpenBMB
+openclaw: https://github.com/openclaw
 opencv: https://github.com/opencv
 opendatalab: https://github.com/opendatalab
 OpenDriveLab: https://github.com/OpenDriveLab
