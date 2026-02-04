@@ -3,6 +3,7 @@ JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.gi
   - justicelee: https://github.com/justicelee
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
   - 2175006M: https://github.com/2175006M
+  - GiveMeWorld: https://github.com/GiveMeWorld
   - gongxiaoran: https://github.com/gongxiaoran
   - hafewa: https://github.com/hafewa
   - huagetai: https://github.com/huagetai
