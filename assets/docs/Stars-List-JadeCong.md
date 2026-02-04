@@ -1203,6 +1203,7 @@ google-deepmind/alphatensor[main]: https://github.com/google-deepmind/alphatenso
 google-deepmind/android_env[main]: https://github.com/google-deepmind/android_env.git
 google-deepmind/bsuite[main]: https://github.com/google-deepmind/bsuite.git
 google-deepmind/deepmind-research[master]: https://github.com/google-deepmind/deepmind-research.git
+google-deepmind/dm-haiku[main]: https://github.com/google-deepmind/dm-haiku.git
 google-deepmind/dm_alchemy[master]: https://github.com/google-deepmind/dm_alchemy.git
 google-deepmind/dm_control[main]: https://github.com/google-deepmind/dm_control.git
 google-deepmind/funsearch[main]: https://github.com/google-deepmind/funsearch.git
@@ -1335,6 +1336,7 @@ hbb1/2d-gaussian-splatting[main]: https://github.com/hbb1/2d-gaussian-splatting.
 HCPLab-SYSU/Book-of-MLM[main]: https://github.com/HCPLab-SYSU/Book-of-MLM.git
 HCPLab-SYSU/CausalVLR[main]: https://github.com/HCPLab-SYSU/CausalVLR.git
 HCPLab-SYSU/Embodied_AI_Paper_List[main]: https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List.git
+hebing-sjtu/SurfSplat[master]: https://github.com/hebing-sjtu/SurfSplat.git
 hehao98/StarScout[main]: https://github.com/hehao98/StarScout.git
 HeLiangHIT/house_price[master]: https://github.com/HeLiangHIT/house_price.git
 HeliXonProtein/OmegaFold[main]: https://github.com/HeliXonProtein/OmegaFold.git
@@ -2093,7 +2095,6 @@ MC-E/ReVideo[main]: https://github.com/MC-E/ReVideo.git
 mcfletch/pyopengl[master]: https://github.com/mcfletch/pyopengl.git
 mcubelab/gelslim[main]: https://github.com/mcubelab/gelslim.git
 mcxiaoke/mqtt[master]: https://github.com/mcxiaoke/mqtt.git
-mediar-ai/screenpipe[main]: https://github.com/mediar-ai/screenpipe.git
 mega-sam/mega-sam[main]: https://github.com/mega-sam/mega-sam.git
 MegEngine/MegCC[main]: https://github.com/MegEngine/MegCC.git
 MegEngine/MegEngine[master]: https://github.com/MegEngine/MegEngine.git
@@ -2420,6 +2421,10 @@ NVIDIA-AI-IOT/ros2_torch2trt_examples[main]: https://github.com/NVIDIA-AI-IOT/ro
 NVIDIA-AI-IOT/ros2_torch_trt[master]: https://github.com/NVIDIA-AI-IOT/ros2_torch_trt.git
 NVIDIA-AI-IOT/ros2_trt_pose[main]: https://github.com/NVIDIA-AI-IOT/ros2_trt_pose.git
 NVIDIA-AI-IOT/ros2_trt_pose_hand[main]: https://github.com/NVIDIA-AI-IOT/ros2_trt_pose_hand.git
+nvidia-cosmos/cosmos-predict2.5[main]: https://github.com/nvidia-cosmos/cosmos-predict2.5.git
+nvidia-cosmos/cosmos-reason2[main]: https://github.com/nvidia-cosmos/cosmos-reason2.git
+nvidia-cosmos/cosmos-rl[main]: https://github.com/nvidia-cosmos/cosmos-rl.git
+nvidia-cosmos/cosmos-transfer2.5[main]: https://github.com/nvidia-cosmos/cosmos-transfer2.5.git
 NVIDIA-ISAAC-ROS/isaac_ros_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_benchmark.git
 NVIDIA-ISAAC-ROS/isaac_ros_common[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common.git
 NVIDIA-ISAAC-ROS/isaac_ros_cumotion[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_cumotion.git
@@ -2566,7 +2571,7 @@ openai/whisper[main]: https://github.com/openai/whisper.git
 OpenAPITools/openapi-generator[master]: https://github.com/OpenAPITools/openapi-generator.git
 OpenBB-finance/OpenBB[develop]: https://github.com/OpenBB-finance/OpenBB.git
 OpenBMB/ChatDev[main]: https://github.com/OpenBMB/ChatDev.git
-OpenBMB/MiniCPM-V[main]: https://github.com/OpenBMB/MiniCPM-V.git
+OpenBMB/MiniCPM-o[main]: https://github.com/OpenBMB/MiniCPM-o.git
 OpenBMB/ProAgent[main]: https://github.com/OpenBMB/ProAgent.git
 OpenBMB/XAgent[main]: https://github.com/OpenBMB/XAgent.git
 openclaw/openclaw[main]: https://github.com/openclaw/openclaw.git
@@ -2593,6 +2598,7 @@ OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatia
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
 openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
 openmediavault/openmediavault[master]: https://github.com/openmediavault/openmediavault.git
+OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
 OpenRouterTeam/openrouter-runner[main]: https://github.com/OpenRouterTeam/openrouter-runner.git
@@ -2770,6 +2776,7 @@ priyasundaresan/homer[main]: https://github.com/priyasundaresan/homer.git
 programthink/books[master]: https://github.com/programthink/books.git
 programthink/opensource[master]: https://github.com/programthink/opensource.git
 programthink/zhao[master]: https://github.com/programthink/zhao.git
+project-instinct/InstinctLab[main]: https://github.com/project-instinct/InstinctLab.git
 projectchrono/chrono[main]: https://github.com/projectchrono/chrono.git
 projectpages/project-pages[gh-pages]: https://github.com/projectpages/project-pages.git
 promptslab/Awesome-Prompt-Engineering[main]: https://github.com/promptslab/Awesome-Prompt-Engineering.git
@@ -3052,6 +3059,7 @@ sato-team/Stable-Text-to-Motion-Framework[main]: https://github.com/sato-team/St
 satwikkansal/wtfpython[master]: https://github.com/satwikkansal/wtfpython.git
 scrapy/scrapy[master]: https://github.com/scrapy/scrapy.git
 screego/server[master]: https://github.com/screego/server.git
+screenpipe/screenpipe[main]: https://github.com/screenpipe/screenpipe.git
 ScriptEcho-ai/ScriptEchoDocs[master]: https://github.com/ScriptEcho-ai/ScriptEchoDocs.git
 scutan90/CNN-Visualization[master]: https://github.com/scutan90/CNN-Visualization.git
 scutan90/DeepLearning-500-questions[master]: https://github.com/scutan90/DeepLearning-500-questions.git
@@ -3677,6 +3685,7 @@ WordPress/WordPress[master]: https://github.com/WordPress/WordPress.git
 world-grow/WorldGrow[main]: https://github.com/world-grow/WorldGrow.git
 worldcoin/idkit-js[main]: https://github.com/worldcoin/idkit-js.git
 WorldModelBench-Team/WorldModelBench[main]: https://github.com/WorldModelBench-Team/WorldModelBench.git
+wow-world-model/wow-world-model[main]: https://github.com/wow-world-model/wow-world-model.git
 WPI-AIM/ros_geomagic[master]: https://github.com/WPI-AIM/ros_geomagic.git
 wsakobe/TrackVLA[main]: https://github.com/wsakobe/TrackVLA.git
 wsdjeg/SpaceVim[master]: https://github.com/wsdjeg/SpaceVim.git
