@@ -317,6 +317,7 @@ flexivrobotics: https://github.com/flexivrobotics
 flix-pro: https://github.com/flix-pro
 floodsung: https://github.com/floodsung
 flow-diffusion: https://github.com/flow-diffusion
+FlowiseAI: https://github.com/FlowiseAI
 flutter: https://github.com/flutter
 fmhy: https://github.com/fmhy
 FoundationAgents: https://github.com/FoundationAgents
@@ -742,6 +743,7 @@ openharmony: https://github.com/openharmony
 OpenHelix-Team: https://github.com/OpenHelix-Team
 openinterpreter: https://github.com/openinterpreter
 openmediavault: https://github.com/openmediavault
+OpenMOSS: https://github.com/OpenMOSS
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRLHF: https://github.com/OpenRLHF
 OpenRouterTeam: https://github.com/OpenRouterTeam
@@ -1133,11 +1135,13 @@ wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
 wkentaro: https://github.com/wkentaro
 worldcoin: https://github.com/worldcoin
+wow-world-model: https://github.com/wow-world-model
 wsakobe: https://github.com/wsakobe
 wshobson: https://github.com/wshobson
 wuphilipp: https://github.com/wuphilipp
 wwj718: https://github.com/wwj718
 wxWidgets: https://github.com/wxWidgets
+wyhuai: https://github.com/wyhuai
 wzzheng: https://github.com/wzzheng
 x-humanoid-robomind: https://github.com/x-humanoid-robomind
 X-lab2017: https://github.com/X-lab2017
