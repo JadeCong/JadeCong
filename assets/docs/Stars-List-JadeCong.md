@@ -273,7 +273,7 @@ ARM-software/CMSIS-DAP[main]: https://github.com/ARM-software/CMSIS-DAP.git
 ARM-software/CMSIS-Driver[main]: https://github.com/ARM-software/CMSIS-Driver.git
 ARM-software/CMSIS-DSP[main]: https://github.com/ARM-software/CMSIS-DSP.git
 ARM-software/CMSIS-FreeRTOS[main]: https://github.com/ARM-software/CMSIS-FreeRTOS.git
-ARM-software/CMSIS-mbedTLS[development]: https://github.com/ARM-software/CMSIS-mbedTLS.git
+ARM-software/CMSIS-mbedTLS[main]: https://github.com/ARM-software/CMSIS-mbedTLS.git
 ARM-software/CMSIS-NN[main]: https://github.com/ARM-software/CMSIS-NN.git
 ARM-software/CMSIS-RTOS2_Validation[main]: https://github.com/ARM-software/CMSIS-RTOS2_Validation.git
 ARM-software/CMSIS-RTX[main]: https://github.com/ARM-software/CMSIS-RTX.git
@@ -647,6 +647,7 @@ danijar/dreamerv3[main]: https://github.com/danijar/dreamerv3.git
 danny-avila/LibreChat[main]: https://github.com/danny-avila/LibreChat.git
 dansoutner/LSTM[master]: https://github.com/dansoutner/LSTM.git
 Dao-AILab/flash-attention[main]: https://github.com/Dao-AILab/flash-attention.git
+DaojiePENG/LOVON[main]: https://github.com/DaojiePENG/LOVON.git
 darglein/ADOP[main]: https://github.com/darglein/ADOP.git
 DarioMazzanti/OneEuroFilterUnity[main]: https://github.com/DarioMazzanti/OneEuroFilterUnity.git
 DarLiner/Algorithm_Interview_Notes-Chinese[master]: https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese.git
@@ -777,6 +778,7 @@ dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation[master]: https://github.
 dragonflydb/dragonfly[main]: https://github.com/dragonflydb/dragonfly.git
 Drassil/git-wiki[gh-pages]: https://github.com/Drassil/git-wiki.git
 DreamTechAI/Direct3D-S2[main]: https://github.com/DreamTechAI/Direct3D-S2.git
+dreamzero0/dreamzero[main]: https://github.com/dreamzero0/dreamzero.git
 Drexubery/ViewCrafter[main]: https://github.com/Drexubery/ViewCrafter.git
 droid-dataset/droid[main]: https://github.com/droid-dataset/droid.git
 droid-dataset/droid_policy_learning[master]: https://github.com/droid-dataset/droid_policy_learning.git
@@ -849,7 +851,12 @@ emqx/emqx[master]: https://github.com/emqx/emqx.git
 enactic/openarm[main]: https://github.com/enactic/openarm.git
 enactic/openarm_can[main]: https://github.com/enactic/openarm_can.git
 enactic/openarm_description[main]: https://github.com/enactic/openarm_description.git
+enactic/openarm_hardware[main]: https://github.com/enactic/openarm_hardware.git
+enactic/openarm_isaac_lab[main]: https://github.com/enactic/openarm_isaac_lab.git
+enactic/openarm_mujoco[master]: https://github.com/enactic/openarm_mujoco.git
 enactic/openarm_ros2[main]: https://github.com/enactic/openarm_ros2.git
+enactic/openarm_simulation[main]: https://github.com/enactic/openarm_simulation.git
+enactic/openarm_teleop[main]: https://github.com/enactic/openarm_teleop.git
 enaqx/awesome-react[master]: https://github.com/enaqx/awesome-react.git
 endymecy/awesome-deeplearning-resources[master]: https://github.com/endymecy/awesome-deeplearning-resources.git
 engineai-robotics/engineai_humanoid[master]: https://github.com/engineai-robotics/engineai_humanoid.git
@@ -929,6 +936,7 @@ facebookresearch/digit-design[main]: https://github.com/facebookresearch/digit-d
 facebookresearch/digit-interface[main]: https://github.com/facebookresearch/digit-interface.git
 facebookresearch/dinov3[main]: https://github.com/facebookresearch/dinov3.git
 facebookresearch/DiT[main]: https://github.com/facebookresearch/DiT.git
+facebookresearch/eb_jepa[main]: https://github.com/facebookresearch/eb_jepa.git
 facebookresearch/ELF[main]: https://github.com/facebookresearch/ELF.git
 facebookresearch/esm[main]: https://github.com/facebookresearch/esm.git
 facebookresearch/fairseq[main]: https://github.com/facebookresearch/fairseq.git
@@ -1845,7 +1853,9 @@ Lakr233/Asspp[main]: https://github.com/Lakr233/Asspp.git
 LAMDA-NJU/Deep-Forest[master]: https://github.com/LAMDA-NJU/Deep-Forest.git
 lamm-mit/PRefLexOR[main]: https://github.com/lamm-mit/PRefLexOR.git
 langbot-app/LangBot[master]: https://github.com/langbot-app/LangBot.git
+langchain-ai/deepagents[master]: https://github.com/langchain-ai/deepagents.git
 langchain-ai/langchain[master]: https://github.com/langchain-ai/langchain.git
+langchain-ai/langchainjs[main]: https://github.com/langchain-ai/langchainjs.git
 langchain-ai/langgraph[main]: https://github.com/langchain-ai/langgraph.git
 langchain-ai/opengpts[main]: https://github.com/langchain-ai/opengpts.git
 langfengQ/verl-agent[master]: https://github.com/langfengQ/verl-agent.git
@@ -2736,7 +2746,6 @@ PlexPt/awesome-chatgpt-prompts-zh[main]: https://github.com/PlexPt/awesome-chatg
 plotly/plotly.py[main]: https://github.com/plotly/plotly.py.git
 plusjade/jekyll-bootstrap[master]: https://github.com/plusjade/jekyll-bootstrap.git
 pmagdon/FEPy[master]: https://github.com/pmagdon/FEPy.git
-pmj110119/OmniManip[main]: https://github.com/pmj110119/OmniManip.git
 Po-Jen/awesome-grasping[master]: https://github.com/Po-Jen/awesome-grasping.git
 Po-Jen/awesome-human-robot-interaction[master]: https://github.com/Po-Jen/awesome-human-robot-interaction.git
 pocketxjl/humanoid-control[main]: https://github.com/pocketxjl/humanoid-control.git
@@ -2744,6 +2753,7 @@ Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
 policyconsensus/policyconsensus[main]: https://github.com/policyconsensus/policyconsensus.git
 pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
+pollen-robotics/reachy-mini-motor-controller[main]: https://github.com/pollen-robotics/reachy-mini-motor-controller.git
 pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
 pollen-robotics/reachy2-sdk[develop]: https://github.com/pollen-robotics/reachy2-sdk.git
 pollen-robotics/Reachy2-UnityDigitalTwin[master]: https://github.com/pollen-robotics/Reachy2-UnityDigitalTwin.git
@@ -2823,12 +2833,14 @@ quantopian/zipline[master]: https://github.com/quantopian/zipline.git
 QuentinFuxa/WhisperLiveKit[main]: https://github.com/QuentinFuxa/WhisperLiveKit.git
 QuivrHQ/quivr[main]: https://github.com/QuivrHQ/quivr.git
 qusers/Q6[master]: https://github.com/qusers/Q6.git
+QwenLM/Qwen-Agent[main]: https://github.com/QwenLM/Qwen-Agent.git
 QwenLM/qwen-code[main]: https://github.com/QwenLM/qwen-code.git
 QwenLM/Qwen-Image[main]: https://github.com/QwenLM/Qwen-Image.git
 QwenLM/Qwen-VL[master]: https://github.com/QwenLM/Qwen-VL.git
 QwenLM/Qwen2.5-Omni[main]: https://github.com/QwenLM/Qwen2.5-Omni.git
 QwenLM/Qwen3[main]: https://github.com/QwenLM/Qwen3.git
 QwenLM/Qwen3-Coder[main]: https://github.com/QwenLM/Qwen3-Coder.git
+QwenLM/Qwen3-Omni[main]: https://github.com/QwenLM/Qwen3-Omni.git
 QwenLM/Qwen3-VL[main]: https://github.com/QwenLM/Qwen3-VL.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
@@ -3836,6 +3848,7 @@ yunjey/pytorch-tutorial[master]: https://github.com/yunjey/pytorch-tutorial.git
 yusufkaraaslan/Skill_Seekers[development]: https://github.com/yusufkaraaslan/Skill_Seekers.git
 YuvDwi/Steve[main]: https://github.com/YuvDwi/Steve.git
 yuxng/PoseCNN[master]: https://github.com/yuxng/PoseCNN.git
+yuz1wan/GM-X[main]: https://github.com/yuz1wan/GM-X.git
 YvanYin/DrivingWorld[main]: https://github.com/YvanYin/DrivingWorld.git
 yxyang/fast_and_efficient[master]: https://github.com/yxyang/fast_and_efficient.git
 yxyang/jumping_cod[master]: https://github.com/yxyang/jumping_cod.git
