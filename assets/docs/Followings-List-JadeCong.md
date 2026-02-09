@@ -355,6 +355,7 @@ gggliuye: https://github.com/gggliuye
 GitbookIO: https://github.com/GitbookIO
 github: https://github.com/github
 githubnext: https://github.com/githubnext
+gkjohnson: https://github.com/gkjohnson
 glenn-jocher: https://github.com/glenn-jocher
 go-redis: https://github.com/go-redis
 gohugoio: https://github.com/gohugoio
