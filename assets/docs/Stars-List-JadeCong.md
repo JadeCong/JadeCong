@@ -168,6 +168,7 @@ AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
 alyssaq/hough_transform[master]: https://github.com/alyssaq/hough_transform.git
 alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
+amazon-far/fpo-control[main]: https://github.com/amazon-far/fpo-control.git
 amazon-far/holosoma[main]: https://github.com/amazon-far/holosoma.git
 amazon-far/residual-offpolicy-rl[main]: https://github.com/amazon-far/residual-offpolicy-rl.git
 amazon-far/TWIST2[master]: https://github.com/amazon-far/TWIST2.git
@@ -613,7 +614,6 @@ cumulo-autumn/StreamDiffusion[main]: https://github.com/cumulo-autumn/StreamDiff
 cursor/cursor[main]: https://github.com/cursor/cursor.git
 CursorTouch/Android-MCP[master]: https://github.com/CursorTouch/Android-MCP.git
 CursorTouch/Windows-MCP[main]: https://github.com/CursorTouch/Windows-MCP.git
-CursorTouch/Windows-Use[main]: https://github.com/CursorTouch/Windows-Use.git
 cvg/mpsfm[main]: https://github.com/cvg/mpsfm.git
 cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
@@ -1185,6 +1185,7 @@ githubnext/copilot-workspace-user-manual[main]: https://github.com/githubnext/co
 githubwing/GankClient-Kotlin[master]: https://github.com/githubwing/GankClient-Kotlin.git
 GitYCC/NTU_HYLee_MachineLearning_Homework[master]: https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework.git
 gkahn13/gcg[gcg_release]: https://github.com/gkahn13/gcg.git
+gkjohnson/closed-chain-ik-js[main]: https://github.com/gkjohnson/closed-chain-ik-js.git
 glaive-ai/reflection_70b_training[main]: https://github.com/glaive-ai/reflection_70b_training.git
 glaive-ai/simple-evals[main]: https://github.com/glaive-ai/simple-evals.git
 glfw/glfw[master]: https://github.com/glfw/glfw.git
@@ -2138,6 +2139,7 @@ MetaMask/metamask-sdk[main]: https://github.com/MetaMask/metamask-sdk.git
 metauto-ai/agent-as-a-judge[main]: https://github.com/metauto-ai/agent-as-a-judge.git
 meyerls/FruitNeRF[main]: https://github.com/meyerls/FruitNeRF.git
 mhutchie/vscode-git-graph[develop]: https://github.com/mhutchie/vscode-git-graph.git
+Miaosheng1/EVolSplat4D[main]: https://github.com/Miaosheng1/EVolSplat4D.git
 Michael-A-Kuykendall/shimmy[main]: https://github.com/Michael-A-Kuykendall/shimmy.git
 michaellin/OmniGrip[master]: https://github.com/michaellin/OmniGrip.git
 Michaelszj/pro-tracker[new]: https://github.com/Michaelszj/pro-tracker.git
@@ -3512,7 +3514,7 @@ tyxsspa/AnyText[main]: https://github.com/tyxsspa/AnyText.git
 Ucas-HaoranWei/GOT-OCR2.0[main]: https://github.com/Ucas-HaoranWei/GOT-OCR2.0.git
 ucbepic/docetl[main]: https://github.com/ucbepic/docetl.git
 ucla-mobility/AutoVLA[main]: https://github.com/ucla-mobility/AutoVLA.git
-UCSC-VLAA/story-adapter[main]: https://github.com/UCSC-VLAA/story-adapter.git
+UCSC-VLAA/story-iter[main]: https://github.com/UCSC-VLAA/story-iter.git
 udacity/deep-reinforcement-learning[master]: https://github.com/udacity/deep-reinforcement-learning.git
 udecode/plate[main]: https://github.com/udecode/plate.git
 UE4-OceanProject/OceanProject[master]: https://github.com/UE4-OceanProject/OceanProject.git
@@ -3536,6 +3538,7 @@ unified-field-theory-org/animations[main]: https://github.com/unified-field-theo
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unified-force/UniFP[main]: https://github.com/unified-force/UniFP.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
+unitreerobotics/unifolm-vla[main]: https://github.com/unitreerobotics/unifolm-vla.git
 unitreerobotics/unifolm-world-model-action[main]: https://github.com/unitreerobotics/unifolm-world-model-action.git
 unitreerobotics/unitree_mujoco[main]: https://github.com/unitreerobotics/unitree_mujoco.git
 unitreerobotics/unitree_rl_gym[main]: https://github.com/unitreerobotics/unitree_rl_gym.git
@@ -3923,6 +3926,7 @@ zixuan417/humanoid-general-motion-tracking[master]: https://github.com/zixuan417
 zixuan417/smooth-humanoid-locomotion[main]: https://github.com/zixuan417/smooth-humanoid-locomotion.git
 ziyc/drivestudio[main]: https://github.com/ziyc/drivestudio.git
 zjp-shadow/CharacterGen[main]: https://github.com/zjp-shadow/CharacterGen.git
+zju3dv/EasyMocap[master]: https://github.com/zju3dv/EasyMocap.git
 zju3dv/EasyVolcap[main]: https://github.com/zju3dv/EasyVolcap.git
 zju3dv/EfficientLoFTR[main]: https://github.com/zju3dv/EfficientLoFTR.git
 zju3dv/GVHMR[main]: https://github.com/zju3dv/GVHMR.git
