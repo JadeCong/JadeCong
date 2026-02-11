@@ -975,6 +975,7 @@ Stirling-Tools: https://github.com/Stirling-Tools
 straight-tamago: https://github.com/straight-tamago
 strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
+SumeLabs: https://github.com/SumeLabs
 sunner: https://github.com/sunner
 suno-ai: https://github.com/suno-ai
 supabase: https://github.com/supabase
