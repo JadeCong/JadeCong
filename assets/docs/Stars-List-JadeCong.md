@@ -135,6 +135,7 @@ ali-vilab/MimicBrush[main]: https://github.com/ali-vilab/MimicBrush.git
 ali-vilab/UniAnimate[main]: https://github.com/ali-vilab/UniAnimate.git
 ali-vilab/VACE[main]: https://github.com/ali-vilab/VACE.git
 AliaksandrSiarohin/first-order-model[master]: https://github.com/AliaksandrSiarohin/first-order-model.git
+alibaba-damo-academy/RynnBrain[main]: https://github.com/alibaba-damo-academy/RynnBrain.git
 alibaba-damo-academy/RynnVLA-002[main]: https://github.com/alibaba-damo-academy/RynnVLA-002.git
 alibaba-damo-academy/Uni3C[main]: https://github.com/alibaba-damo-academy/Uni3C.git
 alibaba-developer/Alibaba-Interview-Skill[master]: https://github.com/alibaba-developer/Alibaba-Interview-Skill.git
@@ -213,6 +214,7 @@ antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
 antgroup/llm-oss-landscape[main]: https://github.com/antgroup/llm-oss-landscape.git
 anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
 anthropics/claude-cookbooks[main]: https://github.com/anthropics/claude-cookbooks.git
+anthropics/claudes-c-compiler[main]: https://github.com/anthropics/claudes-c-compiler.git
 anthropics/skills[main]: https://github.com/anthropics/skills.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
 antonkomarev/github-profile-views-counter[master]: https://github.com/antonkomarev/github-profile-views-counter.git
@@ -489,6 +491,7 @@ carpedm20/ENAS-pytorch[master]: https://github.com/carpedm20/ENAS-pytorch.git
 cartographer-project/cartographer[master]: https://github.com/cartographer-project/cartographer.git
 cartographer-project/cartographer_ros[master]: https://github.com/cartographer-project/cartographer_ros.git
 cassiePython/CLIPNeRF[main]: https://github.com/cassiePython/CLIPNeRF.git
+catachiii/crl-humanoid-ros[main]: https://github.com/catachiii/crl-humanoid-ros.git
 catachiii/rambo[main]: https://github.com/catachiii/rambo.git
 catalyst-team/catalyst[master]: https://github.com/catalyst-team/catalyst.git
 cbfinn/gps[master]: https://github.com/cbfinn/gps.git
@@ -1526,7 +1529,9 @@ inarikami/keras-rl2[master]: https://github.com/inarikami/keras-rl2.git
 Inception3D/Easi3R[main]: https://github.com/Inception3D/Easi3R.git
 Inception3D/GenFusion[main]: https://github.com/Inception3D/GenFusion.git
 Inception3D/TTT3R[main]: https://github.com/Inception3D/TTT3R.git
-inconshreveable/ngrok[master]: https://github.com/inconshreveable/ngrok.git
+inconshreveable/ngrok[{
+  "message": "Server Error"
+}]: https://github.com/inconshreveable/ngrok.git
 index-tts/index-tts[main]: https://github.com/index-tts/index-tts.git
 IndieSmiths/nodezator[main]: https://github.com/IndieSmiths/nodezator.git
 infiniflow/ragflow[main]: https://github.com/infiniflow/ragflow.git
@@ -1854,7 +1859,7 @@ Lakr233/Asspp[main]: https://github.com/Lakr233/Asspp.git
 LAMDA-NJU/Deep-Forest[master]: https://github.com/LAMDA-NJU/Deep-Forest.git
 lamm-mit/PRefLexOR[main]: https://github.com/lamm-mit/PRefLexOR.git
 langbot-app/LangBot[master]: https://github.com/langbot-app/LangBot.git
-langchain-ai/deepagents[master]: https://github.com/langchain-ai/deepagents.git
+langchain-ai/deepagents[main]: https://github.com/langchain-ai/deepagents.git
 langchain-ai/langchain[master]: https://github.com/langchain-ai/langchain.git
 langchain-ai/langchainjs[main]: https://github.com/langchain-ai/langchainjs.git
 langchain-ai/langgraph[main]: https://github.com/langchain-ai/langgraph.git
@@ -2353,7 +2358,6 @@ neon-izm/EasyMotionRecorder[master]: https://github.com/neon-izm/EasyMotionRecor
 NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
 nepfaff/scalable-real2sim[main]: https://github.com/nepfaff/scalable-real2sim.git
-nerfstudio-project/viser[main]: https://github.com/nerfstudio-project/viser.git
 NervJS/taro[main]: https://github.com/NervJS/taro.git
 netbirdio/netbird[main]: https://github.com/netbirdio/netbird.git
 netease-youdao/QAnything[qanything-v2]: https://github.com/netease-youdao/QAnything.git
@@ -3266,6 +3270,7 @@ subbarayudu-j/TheAlgorithms-Python[master]: https://github.com/subbarayudu-j/The
 sudharsan13296/Awesome-Meta-Learning[master]: https://github.com/sudharsan13296/Awesome-Meta-Learning.git
 sudharsan13296/Hands-On-Meta-Learning-With-Python[master]: https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python.git
 sukeesh/Jarvis[master]: https://github.com/sukeesh/Jarvis.git
+SumeLabs/clawra[main]: https://github.com/SumeLabs/clawra.git
 sumuzhao/CycleGAN-Music-Style-Transfer[master]: https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer.git
 suno-ai/bark[main]: https://github.com/suno-ai/bark.git
 sunsmarterjie/yolov12[main]: https://github.com/sunsmarterjie/yolov12.git
@@ -3613,6 +3618,7 @@ vimalabs/VIMA[main]: https://github.com/vimalabs/VIMA.git
 vinta/awesome-python[master]: https://github.com/vinta/awesome-python.git
 virattt/ai-hedge-fund[main]: https://github.com/virattt/ai-hedge-fund.git
 VIS4ROB-lab/covins[master]: https://github.com/VIS4ROB-lab/covins.git
+viser-project/viser[main]: https://github.com/viser-project/viser.git
 Vision-CAIR/LongVU[main]: https://github.com/Vision-CAIR/LongVU.git
 Vision-CAIR/MiniGPT-4[main]: https://github.com/Vision-CAIR/MiniGPT-4.git
 Vision-CAIR/MiniGPT4-video[main]: https://github.com/Vision-CAIR/MiniGPT4-video.git
@@ -3626,6 +3632,8 @@ vnpy/vnpy[master]: https://github.com/vnpy/vnpy.git
 vnpy/vnpy_ctp[main]: https://github.com/vnpy/vnpy_ctp.git
 voideditor/void[main]: https://github.com/voideditor/void.git
 voidfiles/awesome-rss[master]: https://github.com/voidfiles/awesome-rss.git
+VoltAgent/awesome-openclaw-skills[main]: https://github.com/VoltAgent/awesome-openclaw-skills.git
+VoltAgent/voltagent[main]: https://github.com/VoltAgent/voltagent.git
 vovacooper/Unity3d_MQTT[master]: https://github.com/vovacooper/Unity3d_MQTT.git
 VoxAct-B/voxactb[main]: https://github.com/VoxAct-B/voxactb.git
 VoxelPlugin/VoxelPluginFreeLegacy[master]: https://github.com/VoxelPlugin/VoxelPluginFreeLegacy.git
@@ -3660,6 +3668,7 @@ wazuh/wazuh[main]: https://github.com/wazuh/wazuh.git
 wb14123/seq2seq-couplet[master]: https://github.com/wb14123/seq2seq-couplet.git
 WCHSoftGroup/ch343ser_linux[main]: https://github.com/WCHSoftGroup/ch343ser_linux.git
 weaviate/Verba[main]: https://github.com/weaviate/Verba.git
+web-infra-dev/midscene[main]: https://github.com/web-infra-dev/midscene.git
 webclipper/web-clipper[master]: https://github.com/webclipper/web-clipper.git
 webfansplz/vite-plugin-vue-mcp[main]: https://github.com/webfansplz/vite-plugin-vue-mcp.git
 WebpageFX/emoji-cheat-sheet.com[master]: https://github.com/WebpageFX/emoji-cheat-sheet.com.git
