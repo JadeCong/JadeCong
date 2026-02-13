@@ -1386,6 +1386,7 @@ hku-mars/loam_livox[master]: https://github.com/hku-mars/loam_livox.git
 hku-mars/M2Mapping[main]: https://github.com/hku-mars/M2Mapping.git
 HKUDS/DeepCode[main]: https://github.com/HKUDS/DeepCode.git
 HKUDS/MiniRAG[main]: https://github.com/HKUDS/MiniRAG.git
+HKUDS/nanobot[main]: https://github.com/HKUDS/nanobot.git
 HKUST-Aerial-Robotics/A-LOAM[devel]: https://github.com/HKUST-Aerial-Robotics/A-LOAM.git
 HKUST-Aerial-Robotics/MIND[main]: https://github.com/HKUST-Aerial-Robotics/MIND.git
 HKUST-Aerial-Robotics/VINS-Fusion[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git
@@ -1529,9 +1530,7 @@ inarikami/keras-rl2[master]: https://github.com/inarikami/keras-rl2.git
 Inception3D/Easi3R[main]: https://github.com/Inception3D/Easi3R.git
 Inception3D/GenFusion[main]: https://github.com/Inception3D/GenFusion.git
 Inception3D/TTT3R[main]: https://github.com/Inception3D/TTT3R.git
-inconshreveable/ngrok[{
-  "message": "Server Error"
-}]: https://github.com/inconshreveable/ngrok.git
+inconshreveable/ngrok[master]: https://github.com/inconshreveable/ngrok.git
 index-tts/index-tts[main]: https://github.com/index-tts/index-tts.git
 IndieSmiths/nodezator[main]: https://github.com/IndieSmiths/nodezator.git
 infiniflow/ragflow[main]: https://github.com/infiniflow/ragflow.git
@@ -1816,10 +1815,10 @@ Kitware/CMake[master]: https://github.com/Kitware/CMake.git
 kjw0612/awesome-rnn[master]: https://github.com/kjw0612/awesome-rnn.git
 kkennethwu/AuraFusion360_official[main]: https://github.com/kkennethwu/AuraFusion360_official.git
 kkkgo/LTSB-Add-MicrosoftStore[master]: https://github.com/kkkgo/LTSB-Add-MicrosoftStore.git
-KlingTeam/GameFactory[main]: https://github.com/KlingTeam/GameFactory.git
-KlingTeam/LivePortrait[main]: https://github.com/KlingTeam/LivePortrait.git
-KlingTeam/StyleMaster[main]: https://github.com/KlingTeam/StyleMaster.git
-KlingTeam/SynCamMaster[main]: https://github.com/KlingTeam/SynCamMaster.git
+KlingAIResearch/GameFactory[main]: https://github.com/KlingAIResearch/GameFactory.git
+KlingAIResearch/LivePortrait[main]: https://github.com/KlingAIResearch/LivePortrait.git
+KlingAIResearch/StyleMaster[main]: https://github.com/KlingAIResearch/StyleMaster.git
+KlingAIResearch/SynCamMaster[main]: https://github.com/KlingAIResearch/SynCamMaster.git
 knowm/XChange[develop]: https://github.com/knowm/XChange.git
 kodecocodes/swift-algorithm-club[master]: https://github.com/kodecocodes/swift-algorithm-club.git
 kodecocodes/swift-style-guide[main]: https://github.com/kodecocodes/swift-style-guide.git
@@ -1991,7 +1990,7 @@ llSourcell/Doctor-Dignity[main]: https://github.com/llSourcell/Doctor-Dignity.gi
 llSourcell/OpenAI_Five_vs_Dota2_Explained[master]: https://github.com/llSourcell/OpenAI_Five_vs_Dota2_Explained.git
 llvm/llvm-project[main]: https://github.com/llvm/llvm-project.git
 lmstudio-ai/model-catalog[main]: https://github.com/lmstudio-ai/model-catalog.git
-lobehub/lobehub[main]: https://github.com/lobehub/lobehub.git
+lobehub/lobehub[canary]: https://github.com/lobehub/lobehub.git
 localsend/localsend[main]: https://github.com/localsend/localsend.git
 localtunnel/localtunnel[master]: https://github.com/localtunnel/localtunnel.git
 loco-3d/crocoddyl[devel]: https://github.com/loco-3d/crocoddyl.git
@@ -2036,6 +2035,7 @@ lucidrains/vit-pytorch[main]: https://github.com/lucidrains/vit-pytorch.git
 lucidrains/x-transformers[main]: https://github.com/lucidrains/x-transformers.git
 lucidsim/lucidsim[main]: https://github.com/lucidsim/lucidsim.git
 lufficc/SSD[master]: https://github.com/lufficc/SSD.git
+luigifreda/pyslam[master]: https://github.com/luigifreda/pyslam.git
 lukasmolnar/wb-mpc-locoman[main]: https://github.com/lukasmolnar/wb-mpc-locoman.git
 lukasz-madon/awesome-remote-job[master]: https://github.com/lukasz-madon/awesome-remote-job.git
 lumalabs/lumaapi-python[main]: https://github.com/lumalabs/lumaapi-python.git
@@ -2123,6 +2123,7 @@ meltylabs/melty[main]: https://github.com/meltylabs/melty.git
 mem0ai/mem0[main]: https://github.com/mem0ai/mem0.git
 mementum/backtrader[master]: https://github.com/mementum/backtrader.git
 memoavatar/memo[main]: https://github.com/memoavatar/memo.git
+memovai/mimiclaw[main]: https://github.com/memovai/mimiclaw.git
 MemTensor/MemOS[main]: https://github.com/MemTensor/MemOS.git
 menyifang/MIMO[main]: https://github.com/menyifang/MIMO.git
 Meowuu7/DexTrack[main]: https://github.com/Meowuu7/DexTrack.git
@@ -2234,7 +2235,7 @@ mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
 Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
-MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
+MiroMindAI/miroflow[main]: https://github.com/MiroMindAI/miroflow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
 MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
@@ -2358,6 +2359,7 @@ neon-izm/EasyMotionRecorder[master]: https://github.com/neon-izm/EasyMotionRecor
 NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
 nepfaff/scalable-real2sim[main]: https://github.com/nepfaff/scalable-real2sim.git
+nepfaff/scenesmith[main]: https://github.com/nepfaff/scenesmith.git
 NervJS/taro[main]: https://github.com/NervJS/taro.git
 netbirdio/netbird[main]: https://github.com/netbirdio/netbird.git
 netease-youdao/QAnything[qanything-v2]: https://github.com/netease-youdao/QAnything.git
@@ -2501,6 +2503,7 @@ NVlabs/mimicgen[main]: https://github.com/NVlabs/mimicgen.git
 NVlabs/MobilityGen[main]: https://github.com/NVlabs/MobilityGen.git
 NVlabs/neuralangelo[main]: https://github.com/NVlabs/neuralangelo.git
 NVlabs/ProtoMotions[main]: https://github.com/NVlabs/ProtoMotions.git
+NVlabs/sage[main]: https://github.com/NVlabs/sage.git
 NVlabs/Sana[main]: https://github.com/NVlabs/Sana.git
 NVlabs/SPADE[master]: https://github.com/NVlabs/SPADE.git
 NVlabs/stylegan[master]: https://github.com/NVlabs/stylegan.git
@@ -3368,7 +3371,6 @@ teslamotors/linux[amd-5.4]: https://github.com/teslamotors/linux.git
 teslamotors/react-native-camera-kit[master]: https://github.com/teslamotors/react-native-camera-kit.git
 teslamotors/roadster[main]: https://github.com/teslamotors/roadster.git
 test-time-training/ttt-lm-pytorch[main]: https://github.com/test-time-training/ttt-lm-pytorch.git
-test-time-training/ttt-video-dit[main]: https://github.com/test-time-training/ttt-video-dit.git
 testerSunshine/12306[master]: https://github.com/testerSunshine/12306.git
 TetherIA/aero-hand-open[main]: https://github.com/TetherIA/aero-hand-open.git
 Textualize/rich[master]: https://github.com/Textualize/rich.git
