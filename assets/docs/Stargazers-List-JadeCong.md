@@ -40,7 +40,6 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - ddrccfdll: https://github.com/ddrccfdll
   - DengyingFu: https://github.com/DengyingFu
   - dianyeHuang: https://github.com/dianyeHuang
-  - eai2xx: https://github.com/eai2xx
   - Eren-01: https://github.com/Eren-01
   - EricCho13: https://github.com/EricCho13
   - FreezeSoul: https://github.com/FreezeSoul
@@ -58,6 +57,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - junhaotu2000: https://github.com/junhaotu2000
   - justicelee: https://github.com/justicelee
   - jzx-gooner: https://github.com/jzx-gooner
+  - kevintelligence: https://github.com/kevintelligence
   - khudkhud: https://github.com/khudkhud
   - kuangbixia: https://github.com/kuangbixia
   - lanmmn: https://github.com/lanmmn
