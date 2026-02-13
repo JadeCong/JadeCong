@@ -578,6 +578,7 @@ LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
 lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
+luigifreda: https://github.com/luigifreda
 lumalabs: https://github.com/lumalabs
 luong-komorebi: https://github.com/luong-komorebi
 lutris: https://github.com/lutris
@@ -668,6 +669,7 @@ ncsoft: https://github.com/ncsoft
 neobotix: https://github.com/neobotix
 NeoVertex1: https://github.com/NeoVertex1
 neovim: https://github.com/neovim
+nepfaff: https://github.com/nepfaff
 nerfstudio-project: https://github.com/nerfstudio-project
 netbirdio: https://github.com/netbirdio
 neuralinkcorp: https://github.com/neuralinkcorp
@@ -868,6 +870,7 @@ rhgao: https://github.com/rhgao
 rhymes-ai: https://github.com/rhymes-ai
 richards199999: https://github.com/richards199999
 RIVeR-Lab: https://github.com/RIVeR-Lab
+RLinf: https://github.com/RLinf
 Robbyant: https://github.com/Robbyant
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
@@ -1111,6 +1114,7 @@ vivoCameraResearch: https://github.com/vivoCameraResearch
 vnpy: https://github.com/vnpy
 voideditor: https://github.com/voideditor
 volcengine: https://github.com/volcengine
+VoltAgent: https://github.com/VoltAgent
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
 Wan-Video: https://github.com/Wan-Video
