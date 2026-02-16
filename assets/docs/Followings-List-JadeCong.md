@@ -98,6 +98,7 @@ Awesome-HarmonyOS: https://github.com/Awesome-HarmonyOS
 awesome-selfhosted: https://github.com/awesome-selfhosted
 azure-rtos: https://github.com/azure-rtos
 BAAI-Agents: https://github.com/BAAI-Agents
+BAAI-Humanoid: https://github.com/BAAI-Humanoid
 BAAI-WuDao: https://github.com/BAAI-WuDao
 baaivision: https://github.com/baaivision
 BadToBest: https://github.com/BadToBest
@@ -234,6 +235,7 @@ dexmal2025: https://github.com/dexmal2025
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
 diankun-wu: https://github.com/diankun-wu
+different-ai: https://github.com/different-ai
 Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
 DirtyHarryLYL: https://github.com/DirtyHarryLYL
@@ -507,7 +509,7 @@ Kiln-AI: https://github.com/Kiln-AI
 KindXiaoming: https://github.com/KindXiaoming
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
-KlingTeam: https://github.com/KlingTeam
+KlingAIResearch: https://github.com/KlingAIResearch
 Kong: https://github.com/Kong
 KOREATECH-IRIMLab: https://github.com/KOREATECH-IRIMLab
 kortix-ai: https://github.com/kortix-ai
@@ -576,7 +578,6 @@ lss233: https://github.com/lss233
 lua: https://github.com/lua
 LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
-lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
 luigifreda: https://github.com/luigifreda
 lumalabs: https://github.com/lumalabs
@@ -726,6 +727,7 @@ ONLYOFFICE: https://github.com/ONLYOFFICE
 onuratakan: https://github.com/onuratakan
 open-compass: https://github.com/open-compass
 open-dynamic-robot-initiative: https://github.com/open-dynamic-robot-initiative
+open-gigaai: https://github.com/open-gigaai
 open-mmlab: https://github.com/open-mmlab
 open-vela: https://github.com/open-vela
 open-webui: https://github.com/open-webui
@@ -1158,6 +1160,7 @@ xbpeng: https://github.com/xbpeng
 xenova: https://github.com/xenova
 XiaoMi: https://github.com/XiaoMi
 XiaomingX: https://github.com/XiaomingX
+XiaomiRobotics: https://github.com/XiaomiRobotics
 xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
 xixu-me: https://github.com/xixu-me
