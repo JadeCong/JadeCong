@@ -340,6 +340,7 @@ aymericdamien/TensorFlow-Examples[master]: https://github.com/aymericdamien/Tens
 ayushpai/AI-Math-Notes[main]: https://github.com/ayushpai/AI-Math-Notes.git
 azl397985856/leetcode[master]: https://github.com/azl397985856/leetcode.git
 BAAI-Agents/Cradle[main]: https://github.com/BAAI-Agents/Cradle.git
+BAAI-Humanoid/MOSAIC[main]: https://github.com/BAAI-Humanoid/MOSAIC.git
 baaivision/Emu[main]: https://github.com/baaivision/Emu.git
 baaivision/Emu3[main]: https://github.com/baaivision/Emu3.git
 baaivision/EVA[master]: https://github.com/baaivision/EVA.git
@@ -550,7 +551,7 @@ chvmp/robots[master]: https://github.com/chvmp/robots.git
 cirosantilli/awesome-reinforcement-learning-games[master]: https://github.com/cirosantilli/awesome-reinforcement-learning-games.git
 CiscoDevNet/wcae[master]: https://github.com/CiscoDevNet/wcae.git
 civilblur/mazanoke[main]: https://github.com/civilblur/mazanoke.git
-clauderic/dnd-kit[master]: https://github.com/clauderic/dnd-kit.git
+clauderic/dnd-kit[main]: https://github.com/clauderic/dnd-kit.git
 cli/cli[trunk]: https://github.com/cli/cli.git
 cline/cline[main]: https://github.com/cline/cline.git
 cliport/cliport[master]: https://github.com/cliport/cliport.git
@@ -734,6 +735,7 @@ diankun-wu/Spatial-MLLM[master]: https://github.com/diankun-wu/Spatial-MLLM.git
 dibyaghosh/dnc[master]: https://github.com/dibyaghosh/dnc.git
 Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_aided_ocr.git
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
+different-ai/openwork[dev]: https://github.com/different-ai/openwork.git
 digital-standard/ThreeDPoseUnityBarracuda[master]: https://github.com/digital-standard/ThreeDPoseUnityBarracuda.git
 Dimillian/RedditOS[master]: https://github.com/Dimillian/RedditOS.git
 dingdingcai/GSPose[main]: https://github.com/dingdingcai/GSPose.git
@@ -1005,7 +1007,7 @@ farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
 fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
-fastrepl/hyprnote[main]: https://github.com/fastrepl/hyprnote.git
+fastrepl/char[main]: https://github.com/fastrepl/char.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
 febert/visual_mpc[master]: https://github.com/febert/visual_mpc.git
@@ -2023,16 +2025,6 @@ LucasAlegre/sumo-rl[main]: https://github.com/LucasAlegre/sumo-rl.git
 lucasjinreal/faceswap_pytorch[master]: https://github.com/lucasjinreal/faceswap_pytorch.git
 lucasjinreal/yolov7_d2[main]: https://github.com/lucasjinreal/yolov7_d2.git
 luccachiang/robots-pretrain-robots[main]: https://github.com/luccachiang/robots-pretrain-robots.git
-lucidrains/alphafold2[main]: https://github.com/lucidrains/alphafold2.git
-lucidrains/alphafold3-pytorch[main]: https://github.com/lucidrains/alphafold3-pytorch.git
-lucidrains/DALLE-pytorch[main]: https://github.com/lucidrains/DALLE-pytorch.git
-lucidrains/DALLE2-pytorch[main]: https://github.com/lucidrains/DALLE2-pytorch.git
-lucidrains/imagen-pytorch[main]: https://github.com/lucidrains/imagen-pytorch.git
-lucidrains/mixture-of-experts[master]: https://github.com/lucidrains/mixture-of-experts.git
-lucidrains/musiclm-pytorch[main]: https://github.com/lucidrains/musiclm-pytorch.git
-lucidrains/titans-pytorch[main]: https://github.com/lucidrains/titans-pytorch.git
-lucidrains/vit-pytorch[main]: https://github.com/lucidrains/vit-pytorch.git
-lucidrains/x-transformers[main]: https://github.com/lucidrains/x-transformers.git
 lucidsim/lucidsim[main]: https://github.com/lucidsim/lucidsim.git
 lufficc/SSD[master]: https://github.com/lufficc/SSD.git
 luigifreda/pyslam[master]: https://github.com/luigifreda/pyslam.git
@@ -2143,6 +2135,7 @@ metadriverse/metaurban[main]: https://github.com/metadriverse/metaurban.git
 MetaMask/metamask-extension[main]: https://github.com/MetaMask/metamask-extension.git
 MetaMask/metamask-sdk[main]: https://github.com/MetaMask/metamask-sdk.git
 metauto-ai/agent-as-a-judge[main]: https://github.com/metauto-ai/agent-as-a-judge.git
+metric-anything/metric-anything[main]: https://github.com/metric-anything/metric-anything.git
 meyerls/FruitNeRF[main]: https://github.com/meyerls/FruitNeRF.git
 mhutchie/vscode-git-graph[develop]: https://github.com/mhutchie/vscode-git-graph.git
 Miaosheng1/EVolSplat4D[main]: https://github.com/Miaosheng1/EVolSplat4D.git
@@ -2540,6 +2533,7 @@ ooni/ooni.org[master]: https://github.com/ooni/ooni.org.git
 open-compass/opencompass[main]: https://github.com/open-compass/opencompass.git
 open-dynamic-robot-initiative/open_robot_actuator_hardware[master]: https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware.git
 open-dynamic-robot-initiative/trifinger_object_tracking[master]: https://github.com/open-dynamic-robot-initiative/trifinger_object_tracking.git
+open-gigaai/giga-brain-0[main]: https://github.com/open-gigaai/giga-brain-0.git
 open-mmlab/Amphion[main]: https://github.com/open-mmlab/Amphion.git
 open-mmlab/Live2Diff[main]: https://github.com/open-mmlab/Live2Diff.git
 open-mmlab/mmagic[main]: https://github.com/open-mmlab/mmagic.git
@@ -3536,6 +3530,7 @@ ultralytics/ultralytics[main]: https://github.com/ultralytics/ultralytics.git
 ultralytics/yolov3[master]: https://github.com/ultralytics/yolov3.git
 ultralytics/yolov5[master]: https://github.com/ultralytics/yolov5.git
 UMass-Embodied-AGI/Articulate-Anymesh[main]: https://github.com/UMass-Embodied-AGI/Articulate-Anymesh.git
+UMass-Embodied-AGI/Genesis-Humanoid[main]: https://github.com/UMass-Embodied-AGI/Genesis-Humanoid.git
 UMass-Embodied-AGI/TesserAct[main]: https://github.com/UMass-Embodied-AGI/TesserAct.git
 UMich-BipedLab/Cassie_FlatGround_Controller[master]: https://github.com/UMich-BipedLab/Cassie_FlatGround_Controller.git
 una-dinosauria/3d-pose-baseline[master]: https://github.com/una-dinosauria/3d-pose-baseline.git
@@ -3751,6 +3746,7 @@ XiaoMi/ha_xiaomi_home[main]: https://github.com/XiaoMi/ha_xiaomi_home.git
 XiaoMi/mace[master]: https://github.com/XiaoMi/mace.git
 XiaoMi/mace-models[master]: https://github.com/XiaoMi/mace-models.git
 XiaomingX/indie-hacker-tools-plus[main]: https://github.com/XiaomingX/indie-hacker-tools-plus.git
+XiaomiRobotics/Xiaomi-Robotics-0[main]: https://github.com/XiaomiRobotics/Xiaomi-Robotics-0.git
 xiaowei-hu/CycleGAN-tensorflow[master]: https://github.com/xiaowei-hu/CycleGAN-tensorflow.git
 xiaoxiaoxh/reactive_diffusion_policy[main]: https://github.com/xiaoxiaoxh/reactive_diffusion_policy.git
 xiaoxiaoxh/TactAR_APP[master]: https://github.com/xiaoxiaoxh/TactAR_APP.git
