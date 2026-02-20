@@ -155,6 +155,7 @@ all-in-aigc/gpts-works[main]: https://github.com/all-in-aigc/gpts-works.git
 allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
 allenai/molmo[main]: https://github.com/allenai/molmo.git
 allenai/molmoact[main]: https://github.com/allenai/molmoact.git
+allenai/molmospaces[main]: https://github.com/allenai/molmospaces.git
 allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
@@ -458,6 +459,7 @@ by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
 bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
 ByteDance-Seed/TraceAnything[main]: https://github.com/ByteDance-Seed/TraceAnything.git
+ByteDance-Seed/VideoWorld[main]: https://github.com/ByteDance-Seed/VideoWorld.git
 bytedance/ATI[main]: https://github.com/bytedance/ATI.git
 bytedance/deer-flow[main]: https://github.com/bytedance/deer-flow.git
 bytedance/GR-1[main]: https://github.com/bytedance/GR-1.git
@@ -1531,6 +1533,7 @@ imputnet/cobalt[main]: https://github.com/imputnet/cobalt.git
 inarikami/keras-rl2[master]: https://github.com/inarikami/keras-rl2.git
 Inception3D/Easi3R[main]: https://github.com/Inception3D/Easi3R.git
 Inception3D/GenFusion[main]: https://github.com/Inception3D/GenFusion.git
+Inception3D/Motion324[main]: https://github.com/Inception3D/Motion324.git
 Inception3D/TTT3R[main]: https://github.com/Inception3D/TTT3R.git
 inconshreveable/ngrok[master]: https://github.com/inconshreveable/ngrok.git
 index-tts/index-tts[main]: https://github.com/index-tts/index-tts.git
@@ -2502,6 +2505,7 @@ NVlabs/SPADE[master]: https://github.com/NVlabs/SPADE.git
 NVlabs/stylegan[master]: https://github.com/NVlabs/stylegan.git
 NVlabs/stylegan2[master]: https://github.com/NVlabs/stylegan2.git
 NVlabs/stylegan3[main]: https://github.com/NVlabs/stylegan3.git
+NVlabs/vibetensor[main]: https://github.com/NVlabs/vibetensor.git
 NVlabs/VILA[main]: https://github.com/NVlabs/VILA.git
 NVlabs/VoxFormer[main]: https://github.com/NVlabs/VoxFormer.git
 NVlabs/vt-refine[main]: https://github.com/NVlabs/vt-refine.git
@@ -2952,6 +2956,7 @@ robocasa/robocasa[main]: https://github.com/robocasa/robocasa.git
 roboflow/awesome-openai-vision-api-experiments[main]: https://github.com/roboflow/awesome-openai-vision-api-experiments.git
 roboflow/sports[main]: https://github.com/roboflow/sports.git
 roboflow/supervision[develop]: https://github.com/roboflow/supervision.git
+roboflow/trackers[develop]: https://github.com/roboflow/trackers.git
 RoboHow/robohow_common_msgs[master]: https://github.com/RoboHow/robohow_common_msgs.git
 robomechanics/MiniRHex[main]: https://github.com/robomechanics/MiniRHex.git
 robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
@@ -3092,6 +3097,7 @@ seohongpark/horizon-reduction[master]: https://github.com/seohongpark/horizon-re
 Separius/awesome-fast-attention[master]: https://github.com/Separius/awesome-fast-attention.git
 sepidsh/PuzzleFussion[main]: https://github.com/sepidsh/PuzzleFussion.git
 sequential-dexterity/SeqDex[master]: https://github.com/sequential-dexterity/SeqDex.git
+SergeantFuzzy/NexusCore[main]: https://github.com/SergeantFuzzy/NexusCore.git
 SergiusTheBest/plog[master]: https://github.com/SergiusTheBest/plog.git
 serhii-londar/open-source-mac-os-apps[master]: https://github.com/serhii-londar/open-source-mac-os-apps.git
 sermanet/tcn[master]: https://github.com/sermanet/tcn.git
@@ -3177,6 +3183,7 @@ snap-research/arielai_youtube_3d_hands[master]: https://github.com/snap-research
 sNiper-Qian/pianomime[master]: https://github.com/sNiper-Qian/pianomime.git
 snoack/python-goto[master]: https://github.com/snoack/python-goto.git
 Snouzy/workout-cool[main]: https://github.com/Snouzy/workout-cool.git
+snuvclab/dwm[main]: https://github.com/snuvclab/dwm.git
 snuvclab/perse[main]: https://github.com/snuvclab/perse.git
 SocialAI-tianji/Tianji[main]: https://github.com/SocialAI-tianji/Tianji.git
 soedinglab/MMseqs2[master]: https://github.com/soedinglab/MMseqs2.git
@@ -3668,6 +3675,7 @@ weaviate/Verba[main]: https://github.com/weaviate/Verba.git
 web-infra-dev/midscene[main]: https://github.com/web-infra-dev/midscene.git
 webclipper/web-clipper[master]: https://github.com/webclipper/web-clipper.git
 webfansplz/vite-plugin-vue-mcp[main]: https://github.com/webfansplz/vite-plugin-vue-mcp.git
+webmachinelearning/webmcp[main]: https://github.com/webmachinelearning/webmcp.git
 WebpageFX/emoji-cheat-sheet.com[master]: https://github.com/WebpageFX/emoji-cheat-sheet.com.git
 webpro/awesome-dotfiles[master]: https://github.com/webpro/awesome-dotfiles.git
 wechat-miniprogram/miniprogram-demo[master]: https://github.com/wechat-miniprogram/miniprogram-demo.git
@@ -3941,6 +3949,7 @@ zju3dv/IntrinsicAnything[master]: https://github.com/zju3dv/IntrinsicAnything.gi
 zju3dv/MatchAnything[main]: https://github.com/zju3dv/MatchAnything.git
 zju3dv/Murre[main]: https://github.com/zju3dv/Murre.git
 zju3dv/neuralbody[master]: https://github.com/zju3dv/neuralbody.git
+ZLMediaKit/ZLMediaKit[master]: https://github.com/ZLMediaKit/ZLMediaKit.git
 zm0612/Hybrid_A_Star[main]: https://github.com/zm0612/Hybrid_A_Star.git
 znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN[master]: https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN.git
 znxlwm/tensorflow-MNIST-cGAN-cDCGAN[master]: https://github.com/znxlwm/tensorflow-MNIST-cGAN-cDCGAN.git
