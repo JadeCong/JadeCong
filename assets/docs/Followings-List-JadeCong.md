@@ -1132,6 +1132,7 @@ waylau: https://github.com/waylau
 wazuh: https://github.com/wazuh
 WCHSoftGroup: https://github.com/WCHSoftGroup
 webfansplz: https://github.com/webfansplz
+webmachinelearning: https://github.com/webmachinelearning
 webpro: https://github.com/webpro
 weiaicunzai: https://github.com/weiaicunzai
 WEIFENG2333: https://github.com/WEIFENG2333
@@ -1213,6 +1214,7 @@ ziplab: https://github.com/ziplab
 Zipstack: https://github.com/Zipstack
 ZiqiaoPeng: https://github.com/ZiqiaoPeng
 zju3dv: https://github.com/zju3dv
+ZLMediaKit: https://github.com/ZLMediaKit
 zmh-program: https://github.com/zmh-program
 Zolkin1: https://github.com/Zolkin1
 zsh-users: https://github.com/zsh-users
