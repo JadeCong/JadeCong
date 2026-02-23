@@ -1054,6 +1054,7 @@ FlagAI-Open/FlagAI[master]: https://github.com/FlagAI-Open/FlagAI.git
 FlagOpen/FlagEmbedding[master]: https://github.com/FlagOpen/FlagEmbedding.git
 FlagOpen/RoboBrain[main]: https://github.com/FlagOpen/RoboBrain.git
 FlagOpen/RoboBrain2.5[main]: https://github.com/FlagOpen/RoboBrain2.5.git
+FlagOpen/RoboCOIN[main]: https://github.com/FlagOpen/RoboCOIN.git
 FlagOpen/RoboOS[main]: https://github.com/FlagOpen/RoboOS.git
 flagos-ai/FlagGems[master]: https://github.com/flagos-ai/FlagGems.git
 flagos-ai/FlagScale[main]: https://github.com/flagos-ai/FlagScale.git
@@ -2493,6 +2494,7 @@ NVlabs/Fast-dLLM[main]: https://github.com/NVlabs/Fast-dLLM.git
 NVlabs/FoundationPose[main]: https://github.com/NVlabs/FoundationPose.git
 NVlabs/FoundationStereo[master]: https://github.com/NVlabs/FoundationStereo.git
 NVlabs/FUNIT[master]: https://github.com/NVlabs/FUNIT.git
+NVlabs/GR00T-WholeBodyControl[main]: https://github.com/NVlabs/GR00T-WholeBodyControl.git
 NVlabs/GraspGen[main]: https://github.com/NVlabs/GraspGen.git
 NVlabs/HOVER[main]: https://github.com/NVlabs/HOVER.git
 NVlabs/mimicgen[main]: https://github.com/NVlabs/mimicgen.git
