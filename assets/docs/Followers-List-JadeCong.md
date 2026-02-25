@@ -41,10 +41,12 @@ Kalidshere: https://github.com/Kalidshere
 Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
+locfaker: https://github.com/locfaker
 lodhik9: https://github.com/lodhik9
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
+Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
