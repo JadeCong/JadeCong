@@ -3374,6 +3374,7 @@ teslamotors/linux[amd-5.4]: https://github.com/teslamotors/linux.git
 teslamotors/react-native-camera-kit[master]: https://github.com/teslamotors/react-native-camera-kit.git
 teslamotors/roadster[main]: https://github.com/teslamotors/roadster.git
 test-time-training/ttt-lm-pytorch[main]: https://github.com/test-time-training/ttt-lm-pytorch.git
+test-time-training/ttt-video-dit[main]: https://github.com/test-time-training/ttt-video-dit.git
 testerSunshine/12306[master]: https://github.com/testerSunshine/12306.git
 TetherIA/aero-hand-open[main]: https://github.com/TetherIA/aero-hand-open.git
 Textualize/rich[master]: https://github.com/Textualize/rich.git
