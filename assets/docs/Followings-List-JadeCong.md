@@ -397,6 +397,7 @@ HengyiWang: https://github.com/HengyiWang
 henry123-boy: https://github.com/henry123-boy
 hermanjakobsen: https://github.com/hermanjakobsen
 herrbischoff: https://github.com/herrbischoff
+hesamsheikh: https://github.com/hesamsheikh
 HeyGen-Official: https://github.com/HeyGen-Official
 HFAiLab: https://github.com/HFAiLab
 HiDream-ai: https://github.com/HiDream-ai
@@ -552,6 +553,7 @@ liangpan99: https://github.com/liangpan99
 libing403: https://github.com/libing403
 Ligo-Biosciences: https://github.com/Ligo-Biosciences
 liguodongiot: https://github.com/liguodongiot
+lihzha: https://github.com/lihzha
 lima-vm: https://github.com/lima-vm
 linchangyi1: https://github.com/linchangyi1
 lingxiaomeng: https://github.com/lingxiaomeng
@@ -699,6 +701,7 @@ NovaSky-AI: https://github.com/NovaSky-AI
 nraiden: https://github.com/nraiden
 nubot-nudt: https://github.com/nubot-nudt
 Nuitka: https://github.com/Nuitka
+nullclaw: https://github.com/nullclaw
 Nutlope: https://github.com/Nutlope
 nv-tlabs: https://github.com/nv-tlabs
 nvbn: https://github.com/nvbn
@@ -809,6 +812,7 @@ prakhar1989: https://github.com/prakhar1989
 prathimacode-hub: https://github.com/prathimacode-hub
 prefix-dev: https://github.com/prefix-dev
 premake: https://github.com/premake
+prgumd: https://github.com/prgumd
 PRIME-RL: https://github.com/PRIME-RL
 PrimeIntellect-ai: https://github.com/PrimeIntellect-ai
 princeton: https://github.com/princeton
@@ -842,6 +846,7 @@ qpsolvers: https://github.com/qpsolvers
 qt: https://github.com/qt
 quora: https://github.com/quora
 QwenLM: https://github.com/QwenLM
+qwibitai: https://github.com/qwibitai
 qxiaofan: https://github.com/qxiaofan
 r-spacex: https://github.com/r-spacex
 raghakot: https://github.com/raghakot
@@ -944,6 +949,7 @@ simstudioai: https://github.com/simstudioai
 simular-ai: https://github.com/simular-ai
 sindresorhus: https://github.com/sindresorhus
 sinoyou: https://github.com/sinoyou
+sipeed: https://github.com/sipeed
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
 skywind3000: https://github.com/skywind3000
 SkyworkAI: https://github.com/SkyworkAI
@@ -1204,11 +1210,13 @@ zai-org: https://github.com/zai-org
 zealdocs: https://github.com/zealdocs
 zed-industries: https://github.com/zed-industries
 zen-browser: https://github.com/zen-browser
+zeroclaw-labs: https://github.com/zeroclaw-labs
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
 ZhengyiLuo: https://github.com/ZhengyiLuo
 zhouzypaul: https://github.com/zhouzypaul
 zia-ai: https://github.com/zia-ai
+ziangcao0312: https://github.com/ziangcao0312
 Zie619: https://github.com/Zie619
 ziplab: https://github.com/ziplab
 Zipstack: https://github.com/Zipstack
