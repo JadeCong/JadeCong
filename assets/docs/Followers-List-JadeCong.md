@@ -16,6 +16,7 @@ chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 CriptoNuno2024: https://github.com/CriptoNuno2024
+danielsuta: https://github.com/danielsuta
 DaurDiop: https://github.com/DaurDiop
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
@@ -30,18 +31,15 @@ IDouble: https://github.com/IDouble
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
-Jannowaks: https://github.com/Jannowaks
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
 jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
-kai392: https://github.com/kai392
 Kalidshere: https://github.com/Kalidshere
 Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
-locfaker: https://github.com/locfaker
 lodhik9: https://github.com/lodhik9
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
