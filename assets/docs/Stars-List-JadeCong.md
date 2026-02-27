@@ -1104,6 +1104,7 @@ fshamshirdar/DeepVO[deepvo]: https://github.com/fshamshirdar/DeepVO.git
 fsuarez6/phantom_omni[hydro-devel]: https://github.com/fsuarez6/phantom_omni.git
 FuchsiaOS/Fuchsia-OS-tutorial[master]: https://github.com/FuchsiaOS/Fuchsia-OS-tutorial.git
 FuchsiaOS/FuchsiaOS-docs-zh_CN[2022]: https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN.git
+FuchsiaOS/FuchsiaOS-docs-zh_CN[2022]: https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN.git
 fudan-generative-vision/champ[master]: https://github.com/fudan-generative-vision/champ.git
 fudan-generative-vision/hallo2[main]: https://github.com/fudan-generative-vision/hallo2.git
 fudan-generative-vision/hallo3[main]: https://github.com/fudan-generative-vision/hallo3.git
@@ -1367,6 +1368,7 @@ HenryQW/Awesome-TTRSS[main]: https://github.com/HenryQW/Awesome-TTRSS.git
 hermanjakobsen/robotic-ultrasound-imaging[master]: https://github.com/hermanjakobsen/robotic-ultrasound-imaging.git
 herrbischoff/awesome-macos-command-line[main]: https://github.com/herrbischoff/awesome-macos-command-line.git
 HerXayah/road-to-yuzu-without-switch[slave]: https://github.com/HerXayah/road-to-yuzu-without-switch.git
+hesamsheikh/awesome-openclaw-usecases[main]: https://github.com/hesamsheikh/awesome-openclaw-usecases.git
 hetianle/HousePricingOfBeijing[master]: https://github.com/hetianle/HousePricingOfBeijing.git
 hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
 hexojs/hexo[master]: https://github.com/hexojs/hexo.git
@@ -1936,6 +1938,7 @@ liguodongiot/llm-action[main]: https://github.com/liguodongiot/llm-action.git
 lihanghang/NLP-Knowledge-Graph[master]: https://github.com/lihanghang/NLP-Knowledge-Graph.git
 LiheYoung/Depth-Anything[main]: https://github.com/LiheYoung/Depth-Anything.git
 lihxxx/DisPose[main]: https://github.com/lihxxx/DisPose.git
+lihzha/lap[main]: https://github.com/lihzha/lap.git
 lijx10/uwb-localization[master]: https://github.com/lijx10/uwb-localization.git
 lima-vm/lima[master]: https://github.com/lima-vm/lima.git
 linchangyi1/Awesome-Touch[main]: https://github.com/linchangyi1/Awesome-Touch.git
@@ -2419,6 +2422,7 @@ nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
+nullclaw/nullclaw[main]: https://github.com/nullclaw/nullclaw.git
 Nutlope/llamacoder[main]: https://github.com/Nutlope/llamacoder.git
 Nutlope/llamatutor[main]: https://github.com/Nutlope/llamatutor.git
 Nutlope/napkins[main]: https://github.com/Nutlope/napkins.git
@@ -2785,6 +2789,7 @@ prathimacode-hub/Ezy-Parking[main]: https://github.com/prathimacode-hub/Ezy-Park
 PRBonn/kiss-icp[main]: https://github.com/PRBonn/kiss-icp.git
 prefix-dev/pixi[main]: https://github.com/prefix-dev/pixi.git
 premake/premake-core[master]: https://github.com/premake/premake-core.git
+prgumd/FeelAnyForce[main]: https://github.com/prgumd/FeelAnyForce.git
 PRIME-RL/PRIME[main]: https://github.com/PRIME-RL/PRIME.git
 PRIME-RL/SimpleVLA-RL[main]: https://github.com/PRIME-RL/SimpleVLA-RL.git
 primefaces/primevue[master]: https://github.com/primefaces/primevue.git
@@ -2851,6 +2856,7 @@ QwenLM/Qwen3[main]: https://github.com/QwenLM/Qwen3.git
 QwenLM/Qwen3-Coder[main]: https://github.com/QwenLM/Qwen3-Coder.git
 QwenLM/Qwen3-Omni[main]: https://github.com/QwenLM/Qwen3-Omni.git
 QwenLM/Qwen3-VL[main]: https://github.com/QwenLM/Qwen3-VL.git
+qwibitai/nanoclaw[main]: https://github.com/qwibitai/nanoclaw.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
@@ -3091,6 +3097,7 @@ sdmg15/Best-websites-a-programmer-should-visit[master]: https://github.com/sdmg1
 sdoria/SimpleSelfAttention[master]: https://github.com/sdoria/SimpleSelfAttention.git
 sdwyc/ROLO[main]: https://github.com/sdwyc/ROLO.git
 sea-bass/pinocchio_ros_cpp_example[main]: https://github.com/sea-bass/pinocchio_ros_cpp_example.git
+sebastianvkl/pizero-openclaw[main]: https://github.com/sebastianvkl/pizero-openclaw.git
 secfigo/Awesome-Fuzzing[master]: https://github.com/secfigo/Awesome-Fuzzing.git
 self-improving-efms/self-improving-efms.github.io[main]: https://github.com/self-improving-efms/self-improving-efms.github.io.git
 Sense-X/AGVM[main]: https://github.com/Sense-X/AGVM.git
@@ -3119,7 +3126,7 @@ shadowsocks/shadowsocks-windows[v4]: https://github.com/shadowsocks/shadowsocks-
 shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/ShadowsocksX-NG.git
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
-shareAI-lab/Kode-cli[main]: https://github.com/shareAI-lab/Kode-cli.git
+shareAI-lab/Kode-Agent[main]: https://github.com/shareAI-lab/Kode-Agent.git
 shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
@@ -3169,6 +3176,7 @@ sinaptik-ai/pandas-ai[main]: https://github.com/sinaptik-ai/pandas-ai.git
 sindresorhus/awesome[main]: https://github.com/sindresorhus/awesome.git
 sindresorhus/awesome-chatgpt[main]: https://github.com/sindresorhus/awesome-chatgpt.git
 sindresorhus/awesome-nodejs[main]: https://github.com/sindresorhus/awesome-nodejs.git
+sipeed/picoclaw[main]: https://github.com/sipeed/picoclaw.git
 SizheAn/PanoHead[main]: https://github.com/SizheAn/PanoHead.git
 SJTU-ViSYS/Ground-Fusion[main]: https://github.com/SJTU-ViSYS/Ground-Fusion.git
 sjzar/chatlog[main]: https://github.com/sjzar/chatlog.git
@@ -3877,7 +3885,7 @@ yxyang/locomotion_simulation[master]: https://github.com/yxyang/locomotion_simul
 yzcjtr/GeoNet[master]: https://github.com/yzcjtr/GeoNet.git
 Z1hanW/CRISP-Real2Sim[main]: https://github.com/Z1hanW/CRISP-Real2Sim.git
 zackchase/mxnet-the-straight-dope[master]: https://github.com/zackchase/mxnet-the-straight-dope.git
-Zackriya-Solutions/meeting-minutes[main]: https://github.com/Zackriya-Solutions/meeting-minutes.git
+Zackriya-Solutions/meetily[main]: https://github.com/Zackriya-Solutions/meetily.git
 zai-org/ChatGLM-6B[main]: https://github.com/zai-org/ChatGLM-6B.git
 zai-org/ChatGLM2-6B[main]: https://github.com/zai-org/ChatGLM2-6B.git
 zai-org/ChatGLM3[main]: https://github.com/zai-org/ChatGLM3.git
@@ -3903,6 +3911,7 @@ zen-browser/desktop[dev]: https://github.com/zen-browser/desktop.git
 zeng-yifei/STAG4D[main]: https://github.com/zeng-yifei/STAG4D.git
 ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
+zeroclaw-labs/zeroclaw[main]: https://github.com/zeroclaw-labs/zeroclaw.git
 zeroth-robotics/zeroth-bot[main]: https://github.com/zeroth-robotics/zeroth-bot.git
 Zeta36/chess-alpha-zero[master]: https://github.com/Zeta36/chess-alpha-zero.git
 Zeyi-Lin/HivisionIDPhotos[master]: https://github.com/Zeyi-Lin/HivisionIDPhotos.git
@@ -3931,6 +3940,7 @@ zhouzypaul/wsrl[main]: https://github.com/zhouzypaul/wsrl.git
 ZhuLinsen/daily_stock_analysis[main]: https://github.com/ZhuLinsen/daily_stock_analysis.git
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
 ziadoz/awesome-php[master]: https://github.com/ziadoz/awesome-php.git
+ziangcao0312/PhysX-Anything[main]: https://github.com/ziangcao0312/PhysX-Anything.git
 zibojia/MiniMax-Remover[main]: https://github.com/zibojia/MiniMax-Remover.git
 Zie619/n8n-workflows[main]: https://github.com/Zie619/n8n-workflows.git
 zihangdai/xlnet[master]: https://github.com/zihangdai/xlnet.git
