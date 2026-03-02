@@ -17,6 +17,7 @@ affaan-m: https://github.com/affaan-m
 ag-ui-protocol: https://github.com/ag-ui-protocol
 ag2ai: https://github.com/ag2ai
 agent0ai: https://github.com/agent0ai
+agentscope-ai: https://github.com/agentscope-ai
 AgibotTech: https://github.com/AgibotTech
 agile-robots: https://github.com/agile-robots
 agilexrobotics: https://github.com/agilexrobotics
@@ -669,6 +670,7 @@ nasa: https://github.com/nasa
 naver: https://github.com/naver
 nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
+nearai: https://github.com/nearai
 neobotix: https://github.com/neobotix
 NeoVertex1: https://github.com/NeoVertex1
 neovim: https://github.com/neovim
