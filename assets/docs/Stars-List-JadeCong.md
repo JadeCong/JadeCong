@@ -67,6 +67,7 @@ agent-husky/Husky-v1[main]: https://github.com/agent-husky/Husky-v1.git
 agent0ai/agent-zero[main]: https://github.com/agent0ai/agent-zero.git
 AgentEra/Agently[main]: https://github.com/AgentEra/Agently.git
 agentscope-ai/agentscope[main]: https://github.com/agentscope-ai/agentscope.git
+agentscope-ai/CoPaw[main]: https://github.com/agentscope-ai/CoPaw.git
 ageron/handson-ml[master]: https://github.com/ageron/handson-ml.git
 AGI-Labs/manipulate-by-seeing[main]: https://github.com/AGI-Labs/manipulate-by-seeing.git
 AgibotTech/agibot_x1_hardware[main]: https://github.com/AgibotTech/agibot_x1_hardware.git
@@ -1104,7 +1105,6 @@ fshamshirdar/DeepVO[deepvo]: https://github.com/fshamshirdar/DeepVO.git
 fsuarez6/phantom_omni[hydro-devel]: https://github.com/fsuarez6/phantom_omni.git
 FuchsiaOS/Fuchsia-OS-tutorial[master]: https://github.com/FuchsiaOS/Fuchsia-OS-tutorial.git
 FuchsiaOS/FuchsiaOS-docs-zh_CN[2022]: https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN.git
-FuchsiaOS/FuchsiaOS-docs-zh_CN[2022]: https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN.git
 fudan-generative-vision/champ[master]: https://github.com/fudan-generative-vision/champ.git
 fudan-generative-vision/hallo2[main]: https://github.com/fudan-generative-vision/hallo2.git
 fudan-generative-vision/hallo3[main]: https://github.com/fudan-generative-vision/hallo3.git
@@ -1462,6 +1462,7 @@ huggingface/pytorch-image-models[main]: https://github.com/huggingface/pytorch-i
 huggingface/pytorch-openai-transformer-lm[master]: https://github.com/huggingface/pytorch-openai-transformer-lm.git
 huggingface/pytorch-pretrained-BigGAN[master]: https://github.com/huggingface/pytorch-pretrained-BigGAN.git
 huggingface/sentence-transformers[main]: https://github.com/huggingface/sentence-transformers.git
+huggingface/skills[main]: https://github.com/huggingface/skills.git
 huggingface/transformers[main]: https://github.com/huggingface/transformers.git
 huggingface/transformers-bloom-inference[main]: https://github.com/huggingface/transformers-bloom-inference.git
 huggingface/transformers.js[main]: https://github.com/huggingface/transformers.js.git
@@ -1861,7 +1862,7 @@ kyzhouhzau/BERT-NER[master]: https://github.com/kyzhouhzau/BERT-NER.git
 labmlai/annotated_deep_learning_paper_implementations[master]: https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
 labring/FastGPT[main]: https://github.com/labring/FastGPT.git
 labteral/chatgpt-python[master]: https://github.com/labteral/chatgpt-python.git
-labuladong/fucking-algorithm[master]: https://github.com/labuladong/fucking-algorithm.git
+labuladong/fucking-algorithm[english]: https://github.com/labuladong/fucking-algorithm.git
 Lakr233/Asspp[main]: https://github.com/Lakr233/Asspp.git
 LAMDA-NJU/Deep-Forest[master]: https://github.com/LAMDA-NJU/Deep-Forest.git
 lamm-mit/PRefLexOR[main]: https://github.com/lamm-mit/PRefLexOR.git
@@ -2352,6 +2353,7 @@ nateraw/stable-diffusion-videos[main]: https://github.com/nateraw/stable-diffusi
 naver/dust3r[main]: https://github.com/naver/dust3r.git
 nbfigueroa/franka_interactive_controllers[main]: https://github.com/nbfigueroa/franka_interactive_controllers.git
 ncsoft/CaPa[main]: https://github.com/ncsoft/CaPa.git
+nearai/ironclaw[main]: https://github.com/nearai/ironclaw.git
 neeek2303/EMOPortraits[main]: https://github.com/neeek2303/EMOPortraits.git
 neo4j-labs/llm-graph-builder[main]: https://github.com/neo4j-labs/llm-graph-builder.git
 neobotix/elite-robots2[main]: https://github.com/neobotix/elite-robots2.git
@@ -2487,7 +2489,7 @@ NVIDIAGameWorks/kaolin[master]: https://github.com/NVIDIAGameWorks/kaolin.git
 NVIDIAGameWorks/PhysX[4.1]: https://github.com/NVIDIAGameWorks/PhysX.git
 NVIDIAGameWorks/PhysX-3.4[master]: https://github.com/NVIDIAGameWorks/PhysX-3.4.git
 NVlabs/CALM[main]: https://github.com/NVlabs/CALM.git
-NVlabs/CARI4D[website]: https://github.com/NVlabs/CARI4D.git
+NVlabs/CARI4D[main]: https://github.com/NVlabs/CARI4D.git
 NVlabs/COMPASS[main]: https://github.com/NVlabs/COMPASS.git
 NVlabs/cosmos-policy[main]: https://github.com/NVlabs/cosmos-policy.git
 NVlabs/cule[master]: https://github.com/NVlabs/cule.git
@@ -2729,6 +2731,7 @@ phodal/github[gh-pages]: https://github.com/phodal/github.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
+Physics-Scaling/GeoPT[main]: https://github.com/Physics-Scaling/GeoPT.git
 pickxiguapi/Embodied-R1[main]: https://github.com/pickxiguapi/Embodied-R1.git
 Picsart-AI-Research/StreamingT2V[main]: https://github.com/Picsart-AI-Research/StreamingT2V.git
 pika/pika[main]: https://github.com/pika/pika.git
@@ -3441,6 +3444,7 @@ timeshiftsauce/CeruMusic[main]: https://github.com/timeshiftsauce/CeruMusic.git
 timqian/bambot[main]: https://github.com/timqian/bambot.git
 TingliangZhang/VR_Robot_Thesis[master]: https://github.com/TingliangZhang/VR_Robot_Thesis.git
 TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
+TinyAGI/tinyclaw[main]: https://github.com/TinyAGI/tinyclaw.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
