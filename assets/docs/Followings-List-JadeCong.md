@@ -176,6 +176,7 @@ cline: https://github.com/cline
 CloudEngineHub: https://github.com/CloudEngineHub
 cloudflare: https://github.com/cloudflare
 cloudify-cosmo: https://github.com/cloudify-cosmo
+CMU-IntentLab: https://github.com/CMU-IntentLab
 codecrafters-io: https://github.com/codecrafters-io
 CodedotAl: https://github.com/CodedotAl
 CodePhiliaX: https://github.com/CodePhiliaX
@@ -587,6 +588,7 @@ lumalabs: https://github.com/lumalabs
 luong-komorebi: https://github.com/luong-komorebi
 lutris: https://github.com/lutris
 lyswhut: https://github.com/lyswhut
+m5stack: https://github.com/m5stack
 MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
 magic-research: https://github.com/magic-research
@@ -773,6 +775,7 @@ OrderForce-Intelligence: https://github.com/OrderForce-Intelligence
 OriginAgents: https://github.com/OriginAgents
 orocos: https://github.com/orocos
 OS-Copilot: https://github.com/OS-Copilot
+osudrl: https://github.com/osudrl
 ourongxing: https://github.com/ourongxing
 overleaf: https://github.com/overleaf
 overtake: https://github.com/overtake
@@ -883,6 +886,7 @@ RLinf: https://github.com/RLinf
 Robbyant: https://github.com/Robbyant
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
+robocasa: https://github.com/robocasa
 robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
@@ -917,6 +921,7 @@ RuleOS: https://github.com/RuleOS
 run-llama: https://github.com/run-llama
 rust-lang: https://github.com/rust-lang
 rustdesk: https://github.com/rustdesk
+ruvnet: https://github.com/ruvnet
 RVMI: https://github.com/RVMI
 ry: https://github.com/ry
 sair-lab: https://github.com/sair-lab
@@ -1144,6 +1149,7 @@ webmachinelearning: https://github.com/webmachinelearning
 webpro: https://github.com/webpro
 weiaicunzai: https://github.com/weiaicunzai
 WEIFENG2333: https://github.com/WEIFENG2333
+WenjiaWang0312: https://github.com/WenjiaWang0312
 Westlake-AGI-Lab: https://github.com/Westlake-AGI-Lab
 weston-embedded: https://github.com/weston-embedded
 wheelos: https://github.com/wheelos
