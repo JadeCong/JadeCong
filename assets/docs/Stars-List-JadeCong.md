@@ -565,6 +565,7 @@ cloudify-cosmo/packman[master]: https://github.com/cloudify-cosmo/packman.git
 clvrai/furniture[master]: https://github.com/clvrai/furniture.git
 clvrai/MAML-tf[master]: https://github.com/clvrai/MAML-tf.git
 cmdbug/YOLOv5_NCNN[master]: https://github.com/cmdbug/YOLOv5_NCNN.git
+CMU-IntentLab/Forewarn[main]: https://github.com/CMU-IntentLab/Forewarn.git
 CMU-Perceptual-Computing-Lab/openpose[master]: https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 CMU-Perceptual-Computing-Lab/panoptic-toolbox[master]: https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox.git
 cnrad/keyboard-signature[master]: https://github.com/cnrad/keyboard-signature.git
@@ -1103,6 +1104,7 @@ FreeRTOS/FreeRTOS[main]: https://github.com/FreeRTOS/FreeRTOS.git
 FreshRSS/FreshRSS[edge]: https://github.com/FreshRSS/FreshRSS.git
 fshamshirdar/DeepVO[deepvo]: https://github.com/fshamshirdar/DeepVO.git
 fsuarez6/phantom_omni[hydro-devel]: https://github.com/fsuarez6/phantom_omni.git
+FuchengSu/WorldStereo[main]: https://github.com/FuchengSu/WorldStereo.git
 FuchsiaOS/Fuchsia-OS-tutorial[master]: https://github.com/FuchsiaOS/Fuchsia-OS-tutorial.git
 FuchsiaOS/FuchsiaOS-docs-zh_CN[2022]: https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN.git
 fudan-generative-vision/champ[master]: https://github.com/fudan-generative-vision/champ.git
@@ -1133,6 +1135,7 @@ gaoxiang12/slambook2[master]: https://github.com/gaoxiang12/slambook2.git
 GaParmar/img2img-turbo[main]: https://github.com/GaParmar/img2img-turbo.git
 Gar-b-age/CookLikeHOC[main]: https://github.com/Gar-b-age/CookLikeHOC.git
 GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
+GarlicBa/LiteVGGT-repo[main]: https://github.com/GarlicBa/LiteVGGT-repo.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
 GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
 GaussianCube/GaussianCube[main]: https://github.com/GaussianCube/GaussianCube.git
@@ -2055,6 +2058,7 @@ lyswhut/lx-music-desktop[master]: https://github.com/lyswhut/lx-music-desktop.gi
 lyswhut/lx-music-mobile[master]: https://github.com/lyswhut/lx-music-mobile.git
 lyswhut/lx-music-sync-server[master]: https://github.com/lyswhut/lx-music-sync-server.git
 m-damien/VisualStoryWriting[main]: https://github.com/m-damien/VisualStoryWriting.git
+m5stack/StackChan[main]: https://github.com/m5stack/StackChan.git
 Ma-Lab-Berkeley/ReduNet[master]: https://github.com/Ma-Lab-Berkeley/ReduNet.git
 macanv/BERT-BiLSTM-CRF-NER[master]: https://github.com/macanv/BERT-BiLSTM-CRF-NER.git
 machines-in-motion/mim_robots[main]: https://github.com/machines-in-motion/mim_robots.git
@@ -2655,6 +2659,7 @@ organicmaps/organicmaps[master]: https://github.com/organicmaps/organicmaps.git
 orocos/orocos_kinematics_dynamics[master]: https://github.com/orocos/orocos_kinematics_dynamics.git
 OS-Copilot/OS-Copilot[main]: https://github.com/OS-Copilot/OS-Copilot.git
 OSU-NLP-Group/HippoRAG[main]: https://github.com/OSU-NLP-Group/HippoRAG.git
+osudrl/Humanoid_Hanoi[main]: https://github.com/osudrl/Humanoid_Hanoi.git
 OthersideAI/self-operating-computer[main]: https://github.com/OthersideAI/self-operating-computer.git
 ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
 ourongxing/newsnow[main]: https://github.com/ourongxing/newsnow.git
@@ -2711,6 +2716,7 @@ peng-zhihui/Project-Quantum[master]: https://github.com/peng-zhihui/Project-Quan
 peng-zhihui/XUAN[main]: https://github.com/peng-zhihui/XUAN.git
 PENGZhaoqing/HousePricing[master]: https://github.com/PENGZhaoqing/HousePricing.git
 penrose/penrose[main]: https://github.com/penrose/penrose.git
+Perkins729/OmniXtreme[main]: https://github.com/Perkins729/OmniXtreme.git
 perspective-dev/perspective[master]: https://github.com/perspective-dev/perspective.git
 Peterande/D-FINE[master]: https://github.com/Peterande/D-FINE.git
 petercorke/robotics-toolbox-python[master]: https://github.com/petercorke/robotics-toolbox-python.git
@@ -2774,7 +2780,7 @@ pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.
 pollen-robotics/reachy2-sdk[develop]: https://github.com/pollen-robotics/reachy2-sdk.git
 pollen-robotics/Reachy2-UnityDigitalTwin[master]: https://github.com/pollen-robotics/Reachy2-UnityDigitalTwin.git
 pollen-robotics/reachy_2023[develop]: https://github.com/pollen-robotics/reachy_2023.git
-pollen-robotics/reachy_mini[develop]: https://github.com/pollen-robotics/reachy_mini.git
+pollen-robotics/reachy_mini[main]: https://github.com/pollen-robotics/reachy_mini.git
 poloclub/cnn-explainer[master]: https://github.com/poloclub/cnn-explainer.git
 poloclub/ganlab[master]: https://github.com/poloclub/ganlab.git
 poloclub/transformer-explainer[main]: https://github.com/poloclub/transformer-explainer.git
@@ -3058,6 +3064,7 @@ rust-unofficial/awesome-rust[main]: https://github.com/rust-unofficial/awesome-r
 rustdesk/doc.rustdesk.com[master]: https://github.com/rustdesk/doc.rustdesk.com.git
 rustdesk/rustdesk[master]: https://github.com/rustdesk/rustdesk.git
 rustdesk/rustdesk-server[master]: https://github.com/rustdesk/rustdesk-server.git
+ruvnet/RuView[main]: https://github.com/ruvnet/RuView.git
 RVC-Boss/GPT-SoVITS[main]: https://github.com/RVC-Boss/GPT-SoVITS.git
 rverst/stargazer[main]: https://github.com/rverst/stargazer.git
 ry/tensorflow-resnet[master]: https://github.com/ry/tensorflow-resnet.git
@@ -3704,6 +3711,7 @@ weijielyu/Gaga[main]: https://github.com/weijielyu/Gaga.git
 weiqi-zhang/DiffGS[main]: https://github.com/weiqi-zhang/DiffGS.git
 wenbochang888/house[master]: https://github.com/wenbochang888/house.git
 wendy7756/AI-Video-Transcriber[main]: https://github.com/wendy7756/AI-Video-Transcriber.git
+WenjiaWang0312/EmbodMocap[main]: https://github.com/WenjiaWang0312/EmbodMocap.git
 wenqsun/DimensionX[main]: https://github.com/wenqsun/DimensionX.git
 Wenzhuo-Liu/MMTL-UniAD[main]: https://github.com/Wenzhuo-Liu/MMTL-UniAD.git
 wesbos/JavaScript30[master]: https://github.com/wesbos/JavaScript30.git
@@ -3915,7 +3923,7 @@ zen-browser/desktop[dev]: https://github.com/zen-browser/desktop.git
 zeng-yifei/STAG4D[main]: https://github.com/zeng-yifei/STAG4D.git
 ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
-zeroclaw-labs/zeroclaw[main]: https://github.com/zeroclaw-labs/zeroclaw.git
+zeroclaw-labs/zeroclaw[dev]: https://github.com/zeroclaw-labs/zeroclaw.git
 zeroth-robotics/zeroth-bot[main]: https://github.com/zeroth-robotics/zeroth-bot.git
 Zeta36/chess-alpha-zero[master]: https://github.com/Zeta36/chess-alpha-zero.git
 Zeyi-Lin/HivisionIDPhotos[master]: https://github.com/Zeyi-Lin/HivisionIDPhotos.git
