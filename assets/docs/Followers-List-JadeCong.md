@@ -6,9 +6,9 @@ alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
-arjtriv: https://github.com/arjtriv
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
+blockneural: https://github.com/blockneural
 bludnic: https://github.com/bludnic
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
@@ -29,6 +29,7 @@ Hengle: https://github.com/Hengle
 hmzgtl16: https://github.com/hmzgtl16
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
+ipqwery: https://github.com/ipqwery
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
