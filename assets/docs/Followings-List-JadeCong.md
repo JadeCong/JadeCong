@@ -79,8 +79,8 @@ aravindsrinivas: https://github.com/aravindsrinivas
 ArcInstitute: https://github.com/ArcInstitute
 argusswift: https://github.com/argusswift
 ARISE-Initiative: https://github.com/ARISE-Initiative
+arm-education: https://github.com/arm-education
 ARM-software: https://github.com/ARM-software
-arm-university: https://github.com/arm-university
 armankhondker: https://github.com/armankhondker
 ARMmbed: https://github.com/ARMmbed
 ashawkey: https://github.com/ashawkey
