@@ -3,6 +3,7 @@ JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.gi
   - justicelee: https://github.com/justicelee
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
   - 2175006M: https://github.com/2175006M
+  - ash3spho3nix: https://github.com/ash3spho3nix
   - GiveMeWorld: https://github.com/GiveMeWorld
   - gongxiaoran: https://github.com/gongxiaoran
   - hafewa: https://github.com/hafewa
@@ -22,6 +23,7 @@ JadeCong/Awesome-Metaverse[main]: https://github.com/JadeCong/Awesome-Metaverse.
   - JadeCong: https://github.com/JadeCong
 JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot-Learning.git
   - 1-ou: https://github.com/1-ou
+  - 4fmtwrv: https://github.com/4fmtwrv
   - A-AiLab: https://github.com/A-AiLab
   - anbotab: https://github.com/anbotab
   - Anthony-Cheang: https://github.com/Anthony-Cheang
@@ -49,7 +51,6 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - huangzsdy: https://github.com/huangzsdy
   - huawen-hu: https://github.com/huawen-hu
   - HugeKangroo: https://github.com/HugeKangroo
-  - ivua: https://github.com/ivua
   - jacksparowtxz: https://github.com/jacksparowtxz
   - JadeCong: https://github.com/JadeCong
   - jasonleecode: https://github.com/jasonleecode
