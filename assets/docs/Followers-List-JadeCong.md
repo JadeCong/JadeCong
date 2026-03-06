@@ -6,6 +6,7 @@ alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
+ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 blockneural: https://github.com/blockneural
@@ -53,6 +54,7 @@ motanelson: https://github.com/motanelson
 mounikaprp-blip: https://github.com/mounikaprp-blip
 mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
+nelokusa: https://github.com/nelokusa
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
