@@ -2902,6 +2902,7 @@ real-stanford/diffusion_policy[main]: https://github.com/real-stanford/diffusion
 real-stanford/get_zero[main]: https://github.com/real-stanford/get_zero.git
 real-stanford/im2Flow2Act[main]: https://github.com/real-stanford/im2Flow2Act.git
 real-stanford/maniwav[main]: https://github.com/real-stanford/maniwav.git
+real-stanford/minimalist_compliance_control[main]: https://github.com/real-stanford/minimalist_compliance_control.git
 real-stanford/umi-on-legs[main]: https://github.com/real-stanford/umi-on-legs.git
 real-stanford/universal_manipulation_interface[main]: https://github.com/real-stanford/universal_manipulation_interface.git
 realm/SwiftLint[main]: https://github.com/realm/SwiftLint.git
@@ -3394,6 +3395,7 @@ teslamotors/roadster[main]: https://github.com/teslamotors/roadster.git
 test-time-training/ttt-lm-pytorch[main]: https://github.com/test-time-training/ttt-lm-pytorch.git
 test-time-training/ttt-video-dit[main]: https://github.com/test-time-training/ttt-video-dit.git
 testerSunshine/12306[master]: https://github.com/testerSunshine/12306.git
+tether-research/tether[main]: https://github.com/tether-research/tether.git
 TetherIA/aero-hand-open[main]: https://github.com/TetherIA/aero-hand-open.git
 Textualize/rich[master]: https://github.com/Textualize/rich.git
 tflearn/tflearn[master]: https://github.com/tflearn/tflearn.git
@@ -3810,6 +3812,7 @@ xuxw98/ESAM[main]: https://github.com/xuxw98/ESAM.git
 XuyangBai/TransFusion[master]: https://github.com/XuyangBai/TransFusion.git
 xwmx/nb[master]: https://github.com/xwmx/nb.git
 XX-net/XX-Net[master]: https://github.com/XX-net/XX-Net.git
+xxm19/hommi[main]: https://github.com/xxm19/hommi.git
 xy02-05/ScoreHypo[main]: https://github.com/xy02-05/ScoreHypo.git
 yahoo/CaffeOnSpark[master]: https://github.com/yahoo/CaffeOnSpark.git
 Yam-cn/pyalgotrade-cn[master]: https://github.com/Yam-cn/pyalgotrade-cn.git
@@ -3923,7 +3926,7 @@ zen-browser/desktop[dev]: https://github.com/zen-browser/desktop.git
 zeng-yifei/STAG4D[main]: https://github.com/zeng-yifei/STAG4D.git
 ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
-zeroclaw-labs/zeroclaw[dev]: https://github.com/zeroclaw-labs/zeroclaw.git
+zeroclaw-labs/zeroclaw[master]: https://github.com/zeroclaw-labs/zeroclaw.git
 zeroth-robotics/zeroth-bot[main]: https://github.com/zeroth-robotics/zeroth-bot.git
 Zeta36/chess-alpha-zero[master]: https://github.com/Zeta36/chess-alpha-zero.git
 Zeyi-Lin/HivisionIDPhotos[master]: https://github.com/Zeyi-Lin/HivisionIDPhotos.git
