@@ -49,7 +49,6 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - GGGGGGGGGGN: https://github.com/GGGGGGGGGGN
   - huaizhixu: https://github.com/huaizhixu
   - huangzsdy: https://github.com/huangzsdy
-  - huawen-hu: https://github.com/huawen-hu
   - HugeKangroo: https://github.com/HugeKangroo
   - jacksparowtxz: https://github.com/jacksparowtxz
   - JadeCong: https://github.com/JadeCong
@@ -74,6 +73,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - panyalei1987: https://github.com/panyalei1987
   - Peace1997: https://github.com/Peace1997
   - QipiaoZhou: https://github.com/QipiaoZhou
+  - qiushui0618: https://github.com/qiushui0618
   - qshan2170: https://github.com/qshan2170
   - ruitao-98: https://github.com/ruitao-98
   - ruoniao: https://github.com/ruoniao
