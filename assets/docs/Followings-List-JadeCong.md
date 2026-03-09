@@ -890,6 +890,7 @@ robocasa: https://github.com/robocasa
 robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
+robometer: https://github.com/robometer
 Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 RoboStack: https://github.com/RoboStack
