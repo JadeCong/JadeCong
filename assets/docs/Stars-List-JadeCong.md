@@ -511,6 +511,7 @@ cdjc/goto[master]: https://github.com/cdjc/goto.git
 cdpierse/transformers-interpret[master]: https://github.com/cdpierse/transformers-interpret.git
 ceres-solver/ceres-solver[master]: https://github.com/ceres-solver/ceres-solver.git
 Ceruleanacg/Learning-Notes[master]: https://github.com/Ceruleanacg/Learning-Notes.git
+cft0808/edict[main]: https://github.com/cft0808/edict.git
 cg-dot/vertexai-cf-workers[main]: https://github.com/cg-dot/vertexai-cf-workers.git
 cgtuebingen/SSS-GS[main]: https://github.com/cgtuebingen/SSS-GS.git
 chaconnewu/free-data-science-books[master]: https://github.com/chaconnewu/free-data-science-books.git
@@ -735,7 +736,6 @@ dexmal/dexbotic[main]: https://github.com/dexmal/dexbotic.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
 dfaker/df[master]: https://github.com/dfaker/df.git
-diankun-wu/Spatial-MLLM[master]: https://github.com/diankun-wu/Spatial-MLLM.git
 dibyaghosh/dnc[master]: https://github.com/dibyaghosh/dnc.git
 Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_aided_ocr.git
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
@@ -1316,6 +1316,7 @@ hacklcx/HFish[master]: https://github.com/hacklcx/HFish.git
 hacksider/Deep-Live-Cam[main]: https://github.com/hacksider/Deep-Live-Cam.git
 hadyang/interview[master]: https://github.com/hadyang/interview.git
 Haian-Jin/Neural_Gaffer[main]: https://github.com/Haian-Jin/Neural_Gaffer.git
+Haian-Jin/ZipMap[main]: https://github.com/Haian-Jin/ZipMap.git
 haiwen/seafile[master]: https://github.com/haiwen/seafile.git
 Haiyang-W/TokenFormer[main]: https://github.com/Haiyang-W/TokenFormer.git
 Halbmond/r2_sim[master]: https://github.com/Halbmond/r2_sim.git
@@ -1551,6 +1552,7 @@ initialneil/DEGAS[master]: https://github.com/initialneil/DEGAS.git
 inksci/Monocular-Camera-3D-Restruction[master]: https://github.com/inksci/Monocular-Camera-3D-Restruction.git
 inlets/inlets-pro[master]: https://github.com/inlets/inlets-pro.git
 inlets/inletsctl[master]: https://github.com/inlets/inletsctl.git
+inspatio/worldfm[main]: https://github.com/inspatio/worldfm.git
 inspirelt/Turbo-GS[main]: https://github.com/inspirelt/Turbo-GS.git
 instantX-research/InstantID[main]: https://github.com/instantX-research/InstantID.git
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
@@ -1973,9 +1975,6 @@ LiteOS/LiteOS_Lab[iot-device-sdk-tiny]: https://github.com/LiteOS/LiteOS_Lab.git
 LiteOS/LiteOS_Partner_Development_Kits[master]: https://github.com/LiteOS/LiteOS_Partner_Development_Kits.git
 LiteReality/LiteReality[main]: https://github.com/LiteReality/LiteReality.git
 Little-Podi/AdaWorld[main]: https://github.com/Little-Podi/AdaWorld.git
-liuff19/LangScene-X[main]: https://github.com/liuff19/LangScene-X.git
-liuff19/Make-Your-3D[main]: https://github.com/liuff19/Make-Your-3D.git
-liuff19/ReconX[main]: https://github.com/liuff19/ReconX.git
 liuhuanyong/QASystemOnMedicalKG[master]: https://github.com/liuhuanyong/QASystemOnMedicalKG.git
 liuruoze/mini-AlphaStar[main]: https://github.com/liuruoze/mini-AlphaStar.git
 liuxiaoyu1104/AnimateAnywhere[main]: https://github.com/liuxiaoyu1104/AnimateAnywhere.git
@@ -2978,6 +2977,7 @@ roboflow/trackers[develop]: https://github.com/roboflow/trackers.git
 RoboHow/robohow_common_msgs[master]: https://github.com/RoboHow/robohow_common_msgs.git
 robomechanics/MiniRHex[main]: https://github.com/robomechanics/MiniRHex.git
 robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
+robometer/robometer[main]: https://github.com/robometer/robometer.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
 RoboStack/jupyter-ros[main]: https://github.com/RoboStack/jupyter-ros.git
@@ -3429,6 +3429,10 @@ thu-ml/Motus[main]: https://github.com/thu-ml/Motus.git
 thu-ml/RDT2[main]: https://github.com/thu-ml/RDT2.git
 thu-ml/RoboticsDiffusionTransformer[main]: https://github.com/thu-ml/RoboticsDiffusionTransformer.git
 thu-ml/tianshou[master]: https://github.com/thu-ml/tianshou.git
+THU-SI/LangScene-X[main]: https://github.com/THU-SI/LangScene-X.git
+THU-SI/Make-Your-3D[main]: https://github.com/THU-SI/Make-Your-3D.git
+THU-SI/ReconX[main]: https://github.com/THU-SI/ReconX.git
+THU-SI/Spatial-MLLM[master]: https://github.com/THU-SI/Spatial-MLLM.git
 THUDM/AgentBench[main]: https://github.com/THUDM/AgentBench.git
 THUDM/AgentTuning[main]: https://github.com/THUDM/AgentTuning.git
 THUDM/AlignBench[master]: https://github.com/THUDM/AlignBench.git
@@ -3947,6 +3951,7 @@ ZhengyiLuo/PHC[master]: https://github.com/ZhengyiLuo/PHC.git
 ZhengyiLuo/PULSE[master]: https://github.com/ZhengyiLuo/PULSE.git
 ZhengyiLuo/UHC[master]: https://github.com/ZhengyiLuo/UHC.git
 zhenyuwei2003/DRO-Grasp[master]: https://github.com/zhenyuwei2003/DRO-Grasp.git
+zhenyuwei2003/OHRA[master]: https://github.com/zhenyuwei2003/OHRA.git
 zhisheng17/flink-learning[master]: https://github.com/zhisheng17/flink-learning.git
 zhongleilz/Sketch2Anim[main]: https://github.com/zhongleilz/Sketch2Anim.git
 zhongyang219/TrafficMonitor[master]: https://github.com/zhongyang219/TrafficMonitor.git
