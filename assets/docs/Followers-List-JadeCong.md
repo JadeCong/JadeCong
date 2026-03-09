@@ -9,7 +9,6 @@ ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
-blockneural: https://github.com/blockneural
 bludnic: https://github.com/bludnic
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
@@ -22,8 +21,11 @@ danielsuta: https://github.com/danielsuta
 DaurDiop: https://github.com/DaurDiop
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
+Fredhusne: https://github.com/Fredhusne
+fredlynsy: https://github.com/fredlynsy
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
+gyororo: https://github.com/gyororo
 H-K-R: https://github.com/H-K-R
 harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
@@ -34,6 +36,7 @@ ipqwery: https://github.com/ipqwery
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
+jebsyns: https://github.com/jebsyns
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
 jordiaphane: https://github.com/jordiaphane
@@ -55,6 +58,7 @@ mounikaprp-blip: https://github.com/mounikaprp-blip
 mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
 nelokusa: https://github.com/nelokusa
+neyokata: https://github.com/neyokata
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
@@ -77,6 +81,8 @@ Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
+senoviens: https://github.com/senoviens
+serhatbula: https://github.com/serhatbula
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
 solotech939: https://github.com/solotech939
@@ -97,6 +103,7 @@ wareeshaali2003: https://github.com/wareeshaali2003
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
 XiaChiandXuce: https://github.com/XiaChiandXuce
+yakinosy: https://github.com/yakinosy
 YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
 yogeshvibez: https://github.com/yogeshvibez
@@ -105,3 +112,4 @@ Z3ltrex: https://github.com/Z3ltrex
 z3r0b47: https://github.com/z3r0b47
 zhouxinyu: https://github.com/zhouxinyu
 ZigaoWang: https://github.com/ZigaoWang
+zucklys: https://github.com/zucklys
