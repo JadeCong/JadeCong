@@ -495,6 +495,7 @@ jslee02: https://github.com/jslee02
 juliangarnier: https://github.com/juliangarnier
 junshengzhou: https://github.com/junshengzhou
 junyanz: https://github.com/junyanz
+Junyi42: https://github.com/Junyi42
 justjavac: https://github.com/justjavac
 jwasham: https://github.com/jwasham
 KaimingHe: https://github.com/KaimingHe
@@ -891,6 +892,7 @@ robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
 robometer: https://github.com/robometer
+RoboMME: https://github.com/RoboMME
 Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 RoboStack: https://github.com/RoboStack
@@ -946,6 +948,7 @@ shareAI-lab: https://github.com/shareAI-lab
 SHI-Labs: https://github.com/SHI-Labs
 shidenggui: https://github.com/shidenggui
 showlab: https://github.com/showlab
+ShuangLI59: https://github.com/ShuangLI59
 Shubhamsaboo: https://github.com/Shubhamsaboo
 ShuoYangRobotics: https://github.com/ShuoYangRobotics
 Significant-Gravitas: https://github.com/Significant-Gravitas
