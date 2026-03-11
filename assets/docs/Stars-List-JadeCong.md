@@ -186,6 +186,7 @@ anaconda/docker-images[main]: https://github.com/anaconda/docker-images.git
 anandpawara/Real_Time_Image_Animation[master]: https://github.com/anandpawara/Real_Time_Image_Animation.git
 andreasBihlmaier/pysdf[master]: https://github.com/andreasBihlmaier/pysdf.git
 andrewyng/aisuite[main]: https://github.com/andrewyng/aisuite.git
+andrewyng/context-hub[main]: https://github.com/andrewyng/context-hub.git
 andrewyng/translation-agent[main]: https://github.com/andrewyng/translation-agent.git
 andri27-ts/Reinforcement-Learning[master]: https://github.com/andri27-ts/Reinforcement-Learning.git
 Anduin2017/HowToCook[master]: https://github.com/Anduin2017/HowToCook.git
@@ -1395,9 +1396,17 @@ hku-mars/FAST_LIO[main]: https://github.com/hku-mars/FAST_LIO.git
 hku-mars/IKFoM[main]: https://github.com/hku-mars/IKFoM.git
 hku-mars/loam_livox[master]: https://github.com/hku-mars/loam_livox.git
 hku-mars/M2Mapping[main]: https://github.com/hku-mars/M2Mapping.git
+HKUDS/AI-Trader[main]: https://github.com/HKUDS/AI-Trader.git
+HKUDS/ClawWork[main]: https://github.com/HKUDS/ClawWork.git
+HKUDS/CLI-Anything[main]: https://github.com/HKUDS/CLI-Anything.git
 HKUDS/DeepCode[main]: https://github.com/HKUDS/DeepCode.git
+HKUDS/DeepInnovator[main]: https://github.com/HKUDS/DeepInnovator.git
+HKUDS/DeepTutor[main]: https://github.com/HKUDS/DeepTutor.git
+HKUDS/FastCode[main]: https://github.com/HKUDS/FastCode.git
+HKUDS/LightRAG[main]: https://github.com/HKUDS/LightRAG.git
 HKUDS/MiniRAG[main]: https://github.com/HKUDS/MiniRAG.git
 HKUDS/nanobot[main]: https://github.com/HKUDS/nanobot.git
+HKUDS/RAG-Anything[main]: https://github.com/HKUDS/RAG-Anything.git
 HKUST-Aerial-Robotics/A-LOAM[devel]: https://github.com/HKUST-Aerial-Robotics/A-LOAM.git
 HKUST-Aerial-Robotics/MIND[main]: https://github.com/HKUST-Aerial-Robotics/MIND.git
 HKUST-Aerial-Robotics/VINS-Fusion[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git
@@ -1604,7 +1613,7 @@ isl-org/Open3D[main]: https://github.com/isl-org/Open3D.git
 isocpp/CppCoreGuidelines[master]: https://github.com/isocpp/CppCoreGuidelines.git
 IsshikiHugh/HSMR[main]: https://github.com/IsshikiHugh/HSMR.git
 itbooks1024/books-pdf[main]: https://github.com/itbooks1024/books-pdf.git
-ItzCrazyKns/Perplexica[master]: https://github.com/ItzCrazyKns/Perplexica.git
+ItzCrazyKns/Vane[master]: https://github.com/ItzCrazyKns/Vane.git
 ivalab/grasp_annotation_tool[master]: https://github.com/ivalab/grasp_annotation_tool.git
 ivalab/grasp_multiObject[master]: https://github.com/ivalab/grasp_multiObject.git
 ivalab/grasp_multiObject_multiGrasp[master]: https://github.com/ivalab/grasp_multiObject_multiGrasp.git
@@ -1750,6 +1759,7 @@ JunJie-zhang-o/eliterobot[main]: https://github.com/JunJie-zhang-o/eliterobot.gi
 junyanz/CycleGAN[master]: https://github.com/junyanz/CycleGAN.git
 junyanz/iGAN[master]: https://github.com/junyanz/iGAN.git
 junyanz/pytorch-CycleGAN-and-pix2pix[master]: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
+Junyi42/LoGeR[main]: https://github.com/Junyi42/LoGeR.git
 Junyi42/monst3r[main]: https://github.com/Junyi42/monst3r.git
 JunzheJosephZhu/see_hear_feel[master]: https://github.com/JunzheJosephZhu/see_hear_feel.git
 jurmy24/mechaverse[main]: https://github.com/jurmy24/mechaverse.git
@@ -2356,7 +2366,7 @@ nateraw/stable-diffusion-videos[main]: https://github.com/nateraw/stable-diffusi
 naver/dust3r[main]: https://github.com/naver/dust3r.git
 nbfigueroa/franka_interactive_controllers[main]: https://github.com/nbfigueroa/franka_interactive_controllers.git
 ncsoft/CaPa[main]: https://github.com/ncsoft/CaPa.git
-nearai/ironclaw[main]: https://github.com/nearai/ironclaw.git
+nearai/ironclaw[staging]: https://github.com/nearai/ironclaw.git
 neeek2303/EMOPortraits[main]: https://github.com/neeek2303/EMOPortraits.git
 neo4j-labs/llm-graph-builder[main]: https://github.com/neo4j-labs/llm-graph-builder.git
 neobotix/elite-robots2[main]: https://github.com/neobotix/elite-robots2.git
@@ -2978,6 +2988,8 @@ RoboHow/robohow_common_msgs[master]: https://github.com/RoboHow/robohow_common_m
 robomechanics/MiniRHex[main]: https://github.com/robomechanics/MiniRHex.git
 robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robometer/robometer[main]: https://github.com/robometer/robometer.git
+RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.git
+RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
 RoboStack/jupyter-ros[main]: https://github.com/RoboStack/jupyter-ros.git
@@ -3160,6 +3172,7 @@ shoumenchougou/RWKV-Wiki-CN[main]: https://github.com/shoumenchougou/RWKV-Wiki-C
 showlab/Code2Video[main]: https://github.com/showlab/Code2Video.git
 showlab/Paper2Video[main]: https://github.com/showlab/Paper2Video.git
 showlab/X-Humanoid[main]: https://github.com/showlab/X-Humanoid.git
+ShuangLI59/unified_video_action[main]: https://github.com/ShuangLI59/unified_video_action.git
 Shubhamsaboo/awesome-llm-apps[main]: https://github.com/Shubhamsaboo/awesome-llm-apps.git
 Shunichi09/PythonLinearNonlinearControl[master]: https://github.com/Shunichi09/PythonLinearNonlinearControl.git
 ShuoYangRobotics/A1-QP-MPC-Controller[main]: https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller.git
@@ -3348,6 +3361,7 @@ TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
 TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
+TeleHuman/humanoid_skateboarding[main]: https://github.com/TeleHuman/humanoid_skateboarding.git
 TeleHuman/TextOp[main]: https://github.com/TeleHuman/TextOp.git
 TEN-framework/ten-framework[main]: https://github.com/TEN-framework/ten-framework.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
@@ -3656,6 +3670,7 @@ Vision-CAIR/MiniGPT-4[main]: https://github.com/Vision-CAIR/MiniGPT-4.git
 Vision-CAIR/MiniGPT4-video[main]: https://github.com/Vision-CAIR/MiniGPT4-video.git
 vision-tactile-manip/quest2_ros_msg[main]: https://github.com/vision-tactile-manip/quest2_ros_msg.git
 vision-x-nyu/thinking-in-space[main]: https://github.com/vision-x-nyu/thinking-in-space.git
+Visionary-Laboratory/holi-spatial[main]: https://github.com/Visionary-Laboratory/holi-spatial.git
 vivoCameraResearch/Magic-TryOn[main]: https://github.com/vivoCameraResearch/Magic-TryOn.git
 vlad-ds/whisper-keyboard[main]: https://github.com/vlad-ds/whisper-keyboard.git
 vlfeat/matconvnet[master]: https://github.com/vlfeat/matconvnet.git
@@ -3735,6 +3750,7 @@ wilsonfreitas/awesome-quant[master]: https://github.com/wilsonfreitas/awesome-qu
 win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
 wjwwood/serial[main]: https://github.com/wjwwood/serial.git
 wkentaro/labelme[main]: https://github.com/wkentaro/labelme.git
+WM-PO/WMPO[main]: https://github.com/WM-PO/WMPO.git
 wmjordan/PDFPatcher[master]: https://github.com/wmjordan/PDFPatcher.git
 wong2/awesome-mcp-servers[main]: https://github.com/wong2/awesome-mcp-servers.git
 WongKinYiu/yolov7[main]: https://github.com/WongKinYiu/yolov7.git
