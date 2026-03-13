@@ -485,6 +485,7 @@ camel-ai/camel[master]: https://github.com/camel-ai/camel.git
 camel-ai/owl[main]: https://github.com/camel-ai/owl.git
 cangcz/AnchorCrafter[master]: https://github.com/cangcz/AnchorCrafter.git
 Canner/WrenAI[main]: https://github.com/Canner/WrenAI.git
+CapeAga/bai-it[main]: https://github.com/CapeAga/bai-it.git
 CapSoftware/Cap[main]: https://github.com/CapSoftware/Cap.git
 carbon-language/carbon-lang[trunk]: https://github.com/carbon-language/carbon-lang.git
 carla-simulator/carla[ue5-dev]: https://github.com/carla-simulator/carla.git
@@ -857,6 +858,7 @@ emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
 emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screenshot-to-code.git
 empriselab/feeding-deployment[main]: https://github.com/empriselab/feeding-deployment.git
+EmptyBlueBox/DexLatent[main]: https://github.com/EmptyBlueBox/DexLatent.git
 emqx/emqx[master]: https://github.com/emqx/emqx.git
 enactic/openarm[main]: https://github.com/enactic/openarm.git
 enactic/openarm_can[main]: https://github.com/enactic/openarm_can.git
@@ -1274,6 +1276,7 @@ google/seq2seq[master]: https://github.com/google/seq2seq.git
 google/skywater-pdk[main]: https://github.com/google/skywater-pdk.git
 googleapis/googleapis[master]: https://github.com/googleapis/googleapis.git
 googlesamples/google-services[master]: https://github.com/googlesamples/google-services.git
+googleworkspace/cli[main]: https://github.com/googleworkspace/cli.git
 gpt-omni/mini-omni[main]: https://github.com/gpt-omni/mini-omni.git
 grablab/openhand-hardware[master]: https://github.com/grablab/openhand-hardware.git
 grantjenks/free-python-games[master]: https://github.com/grantjenks/free-python-games.git
@@ -2243,13 +2246,14 @@ Minidoracat/mcp-feedback-enhanced[main]: https://github.com/Minidoracat/mcp-feed
 minqi/learning-to-communicate-pytorch[master]: https://github.com/minqi/learning-to-communicate-pytorch.git
 mint-lab/awesome-robotics-datasets[master]: https://github.com/mint-lab/awesome-robotics-datasets.git
 MINT-SJTU/LeRobot-Anything-U-Arm[main]: https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm.git
+MINT-SJTU/RoboClaw[main]: https://github.com/MINT-SJTU/RoboClaw.git
 mintar/mimic_joint_gazebo_tutorial[kinetic]: https://github.com/mintar/mimic_joint_gazebo_tutorial.git
 mintasca/ros_gluon[master]: https://github.com/mintasca/ros_gluon.git
 mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
 Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
-MiroMindAI/miroflow[main]: https://github.com/MiroMindAI/miroflow.git
+MiroMindAI/MiroFlow[miroflow-1.7]: https://github.com/MiroMindAI/MiroFlow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
 MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
@@ -3175,6 +3179,8 @@ showlab/X-Humanoid[main]: https://github.com/showlab/X-Humanoid.git
 ShuangLI59/unified_video_action[main]: https://github.com/ShuangLI59/unified_video_action.git
 Shubhamsaboo/awesome-llm-apps[main]: https://github.com/Shubhamsaboo/awesome-llm-apps.git
 Shunichi09/PythonLinearNonlinearControl[master]: https://github.com/Shunichi09/PythonLinearNonlinearControl.git
+shuosha/Residual_Copilot[main]: https://github.com/shuosha/Residual_Copilot.git
+shuosha/Residual_Copilot_Deployment[main]: https://github.com/shuosha/Residual_Copilot_Deployment.git
 ShuoYangRobotics/A1-QP-MPC-Controller[main]: https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller.git
 ShuoYangRobotics/TrajectoryOptimization[master]: https://github.com/ShuoYangRobotics/TrajectoryOptimization.git
 shyoshyo/BachelorThesis[master]: https://github.com/shyoshyo/BachelorThesis.git
@@ -3385,6 +3391,7 @@ Tencent/weui[master]: https://github.com/Tencent/weui.git
 TencentARC/BrushEdit[main]: https://github.com/TencentARC/BrushEdit.git
 TencentARC/DI-PCG[main]: https://github.com/TencentARC/DI-PCG.git
 TencentARC/InstantMesh[main]: https://github.com/TencentARC/InstantMesh.git
+TencentARC/Track4World[master]: https://github.com/TencentARC/Track4World.git
 TencentQQGYLab/AppAgent[main]: https://github.com/TencentQQGYLab/AppAgent.git
 TencentYouTu/nodejs_sdk[master]: https://github.com/TencentYouTu/nodejs_sdk.git
 TencentYouTu/python_sdk[master]: https://github.com/TencentYouTu/python_sdk.git
@@ -3447,6 +3454,7 @@ THU-SI/LangScene-X[main]: https://github.com/THU-SI/LangScene-X.git
 THU-SI/Make-Your-3D[main]: https://github.com/THU-SI/Make-Your-3D.git
 THU-SI/ReconX[main]: https://github.com/THU-SI/ReconX.git
 THU-SI/Spatial-MLLM[master]: https://github.com/THU-SI/Spatial-MLLM.git
+THU-SI/Spatial-TTT[main]: https://github.com/THU-SI/Spatial-TTT.git
 THUDM/AgentBench[main]: https://github.com/THUDM/AgentBench.git
 THUDM/AgentTuning[main]: https://github.com/THUDM/AgentTuning.git
 THUDM/AlignBench[master]: https://github.com/THUDM/AlignBench.git
@@ -3472,6 +3480,7 @@ timqian/bambot[main]: https://github.com/timqian/bambot.git
 TingliangZhang/VR_Robot_Thesis[master]: https://github.com/TingliangZhang/VR_Robot_Thesis.git
 TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
 TinyAGI/tinyclaw[main]: https://github.com/TinyAGI/tinyclaw.git
+tiptop-robot/tiptop[main]: https://github.com/tiptop-robot/tiptop.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
@@ -3791,6 +3800,7 @@ xbpeng/DeepMimic[master]: https://github.com/xbpeng/DeepMimic.git
 xbpeng/DeepTerrainRL[master]: https://github.com/xbpeng/DeepTerrainRL.git
 xbpeng/MimicKit[main]: https://github.com/xbpeng/MimicKit.git
 xflr6/graphviz[master]: https://github.com/xflr6/graphviz.git
+Xgorobot/RaspberryPi-CM4-XGO-Rider[RCM4V1]: https://github.com/Xgorobot/RaspberryPi-CM4-XGO-Rider.git
 xhyumiracle/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers.git
 xiamx/awesome-sentiment-analysis[master]: https://github.com/xiamx/awesome-sentiment-analysis.git
 XiandaGuo/OpenStereo[v2]: https://github.com/XiandaGuo/OpenStereo.git
