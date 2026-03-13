@@ -271,6 +271,7 @@ electron: https://github.com/electron
 Elite-Robots: https://github.com/Elite-Robots
 Embodied-Web-Agent: https://github.com/Embodied-Web-Agent
 emidan19: https://github.com/emidan19
+EmptyBlueBox: https://github.com/EmptyBlueBox
 enactic: https://github.com/enactic
 engineai-robotics: https://github.com/engineai-robotics
 EnVision-Research: https://github.com/EnVision-Research
@@ -368,6 +369,7 @@ google-ai-edge: https://github.com/google-ai-edge
 google-deepmind: https://github.com/google-deepmind
 google-gemini: https://github.com/google-gemini
 google-research: https://github.com/google-research
+googleworkspace: https://github.com/googleworkspace
 gpt-engineer-org: https://github.com/gpt-engineer-org
 grablab: https://github.com/grablab
 grantjenks: https://github.com/grantjenks
@@ -1039,6 +1041,7 @@ ThingPulse: https://github.com/ThingPulse
 thkkk: https://github.com/thkkk
 thu-coai: https://github.com/thu-coai
 thu-ml: https://github.com/thu-ml
+THU-SI: https://github.com/THU-SI
 THUDM: https://github.com/THUDM
 thunlp: https://github.com/thunlp
 tianheyu927: https://github.com/tianheyu927
@@ -1081,6 +1084,7 @@ twitter: https://github.com/twitter
 twpayne: https://github.com/twpayne
 txsun1997: https://github.com/txsun1997
 tylerlum: https://github.com/tylerlum
+TypingMind: https://github.com/TypingMind
 ubuntu: https://github.com/ubuntu
 Ucas-HaoranWei: https://github.com/Ucas-HaoranWei
 ucla: https://github.com/ucla
@@ -1177,6 +1181,7 @@ x1xhlol: https://github.com/x1xhlol
 xai-org: https://github.com/xai-org
 xbpeng: https://github.com/xbpeng
 xenova: https://github.com/xenova
+Xgorobot: https://github.com/Xgorobot
 XiaoMi: https://github.com/XiaoMi
 XiaomingX: https://github.com/XiaomingX
 XiaomiRobotics: https://github.com/XiaomiRobotics
