@@ -469,6 +469,7 @@ IRVLUTD: https://github.com/IRVLUTD
 isaac-sim: https://github.com/isaac-sim
 isarandi: https://github.com/isarandi
 isocpp: https://github.com/isocpp
+isri-aist: https://github.com/isri-aist
 j96w: https://github.com/j96w
 jackfrued: https://github.com/jackfrued
 janishar: https://github.com/janishar
@@ -899,6 +900,7 @@ Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 RoboStack: https://github.com/RoboStack
 Robot-VLAs: https://github.com/Robot-VLAs
+RobotControlStack: https://github.com/RobotControlStack
 roboterax: https://github.com/roboterax
 robotlearning123: https://github.com/robotlearning123
 RobotLocomotion: https://github.com/RobotLocomotion
