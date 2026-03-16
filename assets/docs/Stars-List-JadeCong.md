@@ -609,6 +609,7 @@ CorentinJ/Real-Time-Voice-Cloning[master]: https://github.com/CorentinJ/Real-Tim
 CorentinTh/it-tools[main]: https://github.com/CorentinTh/it-tools.git
 CortexFoundation/StyleTransferTrilogy[master]: https://github.com/CortexFoundation/StyleTransferTrilogy.git
 cotes2020/jekyll-theme-chirpy[master]: https://github.com/cotes2020/jekyll-theme-chirpy.git
+cover-vla/cover-vla[main]: https://github.com/cover-vla/cover-vla.git
 craffel/theano-tutorial[master]: https://github.com/craffel/theano-tutorial.git
 Crayon-Shinchan/AnyDressing[master]: https://github.com/Crayon-Shinchan/AnyDressing.git
 crewAIInc/crewAI[main]: https://github.com/crewAIInc/crewAI.git
@@ -874,6 +875,7 @@ endymecy/awesome-deeplearning-resources[master]: https://github.com/endymecy/awe
 engineai-robotics/engineai_humanoid[master]: https://github.com/engineai-robotics/engineai_humanoid.git
 engineai-robotics/engineai_legged_gym[master]: https://github.com/engineai-robotics/engineai_legged_gym.git
 EnoxSoftware/OpenCVForUnity[master]: https://github.com/EnoxSoftware/OpenCVForUnity.git
+EnVision-Research/DVD[main]: https://github.com/EnVision-Research/DVD.git
 EnVision-Research/Gaussian-Property[main]: https://github.com/EnVision-Research/Gaussian-Property.git
 EnVision-Research/Kiss3DGen[main]: https://github.com/EnVision-Research/Kiss3DGen.git
 eosphoros-ai/DB-GPT[main]: https://github.com/eosphoros-ai/DB-GPT.git
@@ -1126,6 +1128,7 @@ fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/f
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/Click-and-Traverse[main]: https://github.com/GalaxyGeneralRobotics/Click-and-Traverse.git
+GalaxyGeneralRobotics/LATENT[master]: https://github.com/GalaxyGeneralRobotics/LATENT.git
 GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
 game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
@@ -1614,6 +1617,7 @@ isaac-sim/OmniIsaacGymEnvs[main]: https://github.com/isaac-sim/OmniIsaacGymEnvs.
 isarandi/nlf[main]: https://github.com/isarandi/nlf.git
 isl-org/Open3D[main]: https://github.com/isl-org/Open3D.git
 isocpp/CppCoreGuidelines[master]: https://github.com/isocpp/CppCoreGuidelines.git
+isri-aist/RoboManipBaselines[master]: https://github.com/isri-aist/RoboManipBaselines.git
 IsshikiHugh/HSMR[main]: https://github.com/IsshikiHugh/HSMR.git
 itbooks1024/books-pdf[main]: https://github.com/itbooks1024/books-pdf.git
 ItzCrazyKns/Vane[master]: https://github.com/ItzCrazyKns/Vane.git
@@ -1787,9 +1791,11 @@ kanster/awesome-slam[master]: https://github.com/kanster/awesome-slam.git
 karfly/learnable-triangulation-pytorch[master]: https://github.com/karfly/learnable-triangulation-pytorch.git
 karminski/one-small-step[main]: https://github.com/karminski/one-small-step.git
 karpathy/char-rnn[master]: https://github.com/karpathy/char-rnn.git
+karpathy/llama2.c[master]: https://github.com/karpathy/llama2.c.git
 karpathy/llm.c[master]: https://github.com/karpathy/llm.c.git
 karpathy/LLM101n[master]: https://github.com/karpathy/LLM101n.git
 karpathy/makemore[master]: https://github.com/karpathy/makemore.git
+karpathy/micrograd[master]: https://github.com/karpathy/micrograd.git
 karpathy/minGPT[master]: https://github.com/karpathy/minGPT.git
 karpathy/nanochat[master]: https://github.com/karpathy/nanochat.git
 karpathy/nanoGPT[master]: https://github.com/karpathy/nanoGPT.git
@@ -2514,6 +2520,7 @@ NVlabs/curobo[main]: https://github.com/NVlabs/curobo.git
 NVlabs/DefGraspSim[main]: https://github.com/NVlabs/DefGraspSim.git
 NVlabs/DiffusionNFT[main]: https://github.com/NVlabs/DiffusionNFT.git
 NVlabs/Fast-dLLM[main]: https://github.com/NVlabs/Fast-dLLM.git
+NVlabs/Fast-FoundationStereo[master]: https://github.com/NVlabs/Fast-FoundationStereo.git
 NVlabs/FoundationPose[main]: https://github.com/NVlabs/FoundationPose.git
 NVlabs/FoundationStereo[master]: https://github.com/NVlabs/FoundationStereo.git
 NVlabs/FUNIT[master]: https://github.com/NVlabs/FUNIT.git
@@ -3004,6 +3011,7 @@ RoboStack/ros-noetic[main]: https://github.com/RoboStack/ros-noetic.git
 robot-learning-co/trlc-dk1[main]: https://github.com/robot-learning-co/trlc-dk1.git
 Robot-MA/manipulate-anything[main]: https://github.com/Robot-MA/manipulate-anything.git
 Robot-VLAs/RoboVLMs[main]: https://github.com/Robot-VLAs/RoboVLMs.git
+RobotControlStack/robot-control-stack[master]: https://github.com/RobotControlStack/robot-control-stack.git
 robotdrummer/robotdrummer.github.io[main]: https://github.com/robotdrummer/robotdrummer.github.io.git
 roboterax/humanoid-gym[main]: https://github.com/roboterax/humanoid-gym.git
 roboterax/video-prediction-policy[main]: https://github.com/roboterax/video-prediction-policy.git
@@ -3367,6 +3375,7 @@ TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
 TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
+TeleHuman/HumanoidGen[main]: https://github.com/TeleHuman/HumanoidGen.git
 TeleHuman/humanoid_skateboarding[main]: https://github.com/TeleHuman/humanoid_skateboarding.git
 TeleHuman/TextOp[main]: https://github.com/TeleHuman/TextOp.git
 TEN-framework/ten-framework[main]: https://github.com/TEN-framework/ten-framework.git
