@@ -296,11 +296,13 @@ ArmastusChen/inverse_painting[main]: https://github.com/ArmastusChen/inverse_pai
 arnold-benchmark/arnold[main]: https://github.com/arnold-benchmark/arnold.git
 ArtalkJS/Artalk[master]: https://github.com/ArtalkJS/Artalk.git
 artemsheludko/lokmont[master]: https://github.com/artemsheludko/lokmont.git
+arth-shukla/mshab[main]: https://github.com/arth-shukla/mshab.git
 artsy/eigen[main]: https://github.com/artsy/eigen.git
 asgeirtj/system_prompts_leaks[main]: https://github.com/asgeirtj/system_prompts_leaks.git
 ashawkey/Segment-Anything-NeRF[main]: https://github.com/ashawkey/Segment-Anything-NeRF.git
 ashishpatel26/500-AI-Agents-Projects[main]: https://github.com/ashishpatel26/500-AI-Agents-Projects.git
 Ashutosh00710/github-readme-activity-graph[main]: https://github.com/Ashutosh00710/github-readme-activity-graph.git
+asimovinc/asimov-v0[main]: https://github.com/asimovinc/asimov-v0.git
 askforalfred/alfred[master]: https://github.com/askforalfred/alfred.git
 askmike/gekko[develop]: https://github.com/askmike/gekko.git
 assafelovic/gpt-researcher[main]: https://github.com/assafelovic/gpt-researcher.git
@@ -813,7 +815,7 @@ dzhng/deep-research[main]: https://github.com/dzhng/deep-research.git
 e-271/awesome-few-shot-learning[master]: https://github.com/e-271/awesome-few-shot-learning.git
 e2b-dev/awesome-ai-agents[main]: https://github.com/e2b-dev/awesome-ai-agents.git
 earthat/NN-tuned-BLDC-motor[master]: https://github.com/earthat/NN-tuned-BLDC-motor.git
-easychen/one-person-businesses-methodology-v2.0[master]: https://github.com/easychen/one-person-businesses-methodology-v2.0.git
+easychen/opc-methodology[master]: https://github.com/easychen/opc-methodology.git
 eBay/akutan[master]: https://github.com/eBay/akutan.git
 EbookFoundation/free-programming-books[main]: https://github.com/EbookFoundation/free-programming-books.git
 EbookFoundation/free-programming-books-search[main]: https://github.com/EbookFoundation/free-programming-books-search.git
@@ -2454,6 +2456,7 @@ Nutlope/napkins[main]: https://github.com/Nutlope/napkins.git
 Nutlope/picMenu[main]: https://github.com/Nutlope/picMenu.git
 nv-tlabs/3dgrut[main]: https://github.com/nv-tlabs/3dgrut.git
 nv-tlabs/ASE[main]: https://github.com/nv-tlabs/ASE.git
+nv-tlabs/kimodo[main]: https://github.com/nv-tlabs/kimodo.git
 nv-tlabs/vipe[main]: https://github.com/nv-tlabs/vipe.git
 nvbn/thefuck[master]: https://github.com/nvbn/thefuck.git
 NVIDIA-AI-IOT/jetbot[master]: https://github.com/NVIDIA-AI-IOT/jetbot.git
