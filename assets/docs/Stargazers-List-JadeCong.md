@@ -141,7 +141,7 @@ JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/Int
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
-  - Glitterstrafe: https://github.com/Glitterstrafe
+  - EnidPinxit: https://github.com/EnidPinxit
   - JadeCong: https://github.com/JadeCong
   - linlinzhanglucky: https://github.com/linlinzhanglucky
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
