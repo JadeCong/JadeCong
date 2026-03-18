@@ -87,6 +87,7 @@ ashawkey: https://github.com/ashawkey
 ashish-kmr: https://github.com/ashish-kmr
 ashishkumar30: https://github.com/ashishkumar30
 ashishpatel26: https://github.com/ashishpatel26
+asimovinc: https://github.com/asimovinc
 asweigart: https://github.com/asweigart
 atenpas: https://github.com/atenpas
 AuboRobot: https://github.com/AuboRobot
