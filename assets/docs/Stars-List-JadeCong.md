@@ -674,7 +674,10 @@ datasets/commons[main]: https://github.com/datasets/commons.git
 datawhalechina/agentic-ai[main]: https://github.com/datawhalechina/agentic-ai.git
 datawhalechina/competition-baseline[master]: https://github.com/datawhalechina/competition-baseline.git
 datawhalechina/easy-rl[master]: https://github.com/datawhalechina/easy-rl.git
+datawhalechina/every-embodied[main]: https://github.com/datawhalechina/every-embodied.git
 datawhalechina/happy-llm[main]: https://github.com/datawhalechina/happy-llm.git
+datawhalechina/hello-agents[main]: https://github.com/datawhalechina/hello-agents.git
+datawhalechina/hello-claw[main]: https://github.com/datawhalechina/hello-claw.git
 datawhalechina/hugging-llm[main]: https://github.com/datawhalechina/hugging-llm.git
 datawhalechina/learn-nlp-with-transformers[main]: https://github.com/datawhalechina/learn-nlp-with-transformers.git
 datawhalechina/leedl-tutorial[master]: https://github.com/datawhalechina/leedl-tutorial.git
@@ -694,7 +697,7 @@ DavidHDev/react-bits[main]: https://github.com/DavidHDev/react-bits.git
 davidmalawey/OpenArm[main]: https://github.com/davidmalawey/OpenArm.git
 davidtellez/contrastive-predictive-coding[master]: https://github.com/davidtellez/contrastive-predictive-coding.git
 dbalatero/monster_mash[master]: https://github.com/dbalatero/monster_mash.git
-dcloudio/uni-app[next]: https://github.com/dcloudio/uni-app.git
+dcloudio/uni-app[uni-app-x]: https://github.com/dcloudio/uni-app.git
 ddbourgin/numpy-ml[master]: https://github.com/ddbourgin/numpy-ml.git
 deanxv/coze-discord-proxy[main]: https://github.com/deanxv/coze-discord-proxy.git
 deanxv/genspark2api[main]: https://github.com/deanxv/genspark2api.git
@@ -1063,6 +1066,7 @@ FlagAI-Open/FlagAI[master]: https://github.com/FlagAI-Open/FlagAI.git
 FlagOpen/FlagEmbedding[master]: https://github.com/FlagOpen/FlagEmbedding.git
 FlagOpen/RoboBrain[main]: https://github.com/FlagOpen/RoboBrain.git
 FlagOpen/RoboBrain2.5[main]: https://github.com/FlagOpen/RoboBrain2.5.git
+FlagOpen/RoboBrain_Dex[main]: https://github.com/FlagOpen/RoboBrain_Dex.git
 FlagOpen/RoboCOIN[main]: https://github.com/FlagOpen/RoboCOIN.git
 FlagOpen/RoboOS[main]: https://github.com/FlagOpen/RoboOS.git
 flagos-ai/FlagGems[master]: https://github.com/flagos-ai/FlagGems.git
@@ -1697,6 +1701,7 @@ Jeff-LiangF/streamv2v[main]: https://github.com/Jeff-LiangF/streamv2v.git
 JefferyHcool/BiliNote[master]: https://github.com/JefferyHcool/BiliNote.git
 jeffgerickson/algorithms[master]: https://github.com/jeffgerickson/algorithms.git
 jekyll/jekyll[master]: https://github.com/jekyll/jekyll.git
+jess-moss/koch-v1-1[main]: https://github.com/jess-moss/koch-v1-1.git
 jesseduffield/lazydocker[master]: https://github.com/jesseduffield/lazydocker.git
 jesseduffield/lazygit[master]: https://github.com/jesseduffield/lazygit.git
 jessevig/bertviz[master]: https://github.com/jessevig/bertviz.git
@@ -2560,6 +2565,7 @@ octotools/octotools[main]: https://github.com/octotools/octotools.git
 ohmyzsh/ohmyzsh[master]: https://github.com/ohmyzsh/ohmyzsh.git
 ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
 Oldpan/Faceswap-Deepfake-Pytorch[master]: https://github.com/Oldpan/Faceswap-Deepfake-Pytorch.git
+Oliver-Cong02/UMO[main]: https://github.com/Oliver-Cong02/UMO.git
 ollama/ollama[main]: https://github.com/ollama/ollama.git
 OmniSVG/OmniSVG[main]: https://github.com/OmniSVG/OmniSVG.git
 ompl/ompl[main]: https://github.com/ompl/ompl.git
@@ -2653,6 +2659,7 @@ openmediavault/openmediavault[master]: https://github.com/openmediavault/openmed
 OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
+openrocket/openrocket[unstable]: https://github.com/openrocket/openrocket.git
 OpenRouterTeam/openrouter-runner[main]: https://github.com/OpenRouterTeam/openrouter-runner.git
 opensim-org/opensim-core[main]: https://github.com/opensim-org/opensim-core.git
 opensim-org/opensim-gui[main]: https://github.com/opensim-org/opensim-gui.git
@@ -2703,7 +2710,7 @@ PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition[master]: htt
 PaddleCV-SIG/EISeg[develop]: https://github.com/PaddleCV-SIG/EISeg.git
 PaddlePaddle/Paddle[develop]: https://github.com/PaddlePaddle/Paddle.git
 PaddlePaddle/Paddle-Lite[develop]: https://github.com/PaddlePaddle/Paddle-Lite.git
-PaddlePaddle/PaddleDetection[release/2.8.1]: https://github.com/PaddlePaddle/PaddleDetection.git
+PaddlePaddle/PaddleDetection[release/2.9]: https://github.com/PaddlePaddle/PaddleDetection.git
 PaddlePaddle/PaddleGAN[develop]: https://github.com/PaddlePaddle/PaddleGAN.git
 PaddlePaddle/PaddleOCR[main]: https://github.com/PaddlePaddle/PaddleOCR.git
 PaddlePaddle/PaddleSeg[release/2.10]: https://github.com/PaddlePaddle/PaddleSeg.git
@@ -2731,6 +2738,7 @@ paulengstler/syncity[main]: https://github.com/paulengstler/syncity.git
 paulirish/dotfiles[main]: https://github.com/paulirish/dotfiles.git
 paulQuei/a-star-algorithm[master]: https://github.com/paulQuei/a-star-algorithm.git
 payloadcms/payload[main]: https://github.com/payloadcms/payload.git
+pcchenxi/Cross-Robot-Behavior-Adaptation-through-Intention-Alignment[main]: https://github.com/pcchenxi/Cross-Robot-Behavior-Adaptation-through-Intention-Alignment.git
 PDFMathTranslate/PDFMathTranslate[main]: https://github.com/PDFMathTranslate/PDFMathTranslate.git
 pdmaker/watermark-master[main]: https://github.com/pdmaker/watermark-master.git
 peng-zhihui/Dummy-Robot[main]: https://github.com/peng-zhihui/Dummy-Robot.git
@@ -3263,6 +3271,7 @@ SpectacularAI/sdk-examples[main]: https://github.com/SpectacularAI/sdk-examples.
 sphinx-doc/sphinx[master]: https://github.com/sphinx-doc/sphinx.git
 spiralray/stm32f1_rosserial[master]: https://github.com/spiralray/stm32f1_rosserial.git
 spiralray/stm32f4_template[master]: https://github.com/spiralray/stm32f4_template.git
+Spirit-AI-Team/spirit-v1.5[main]: https://github.com/Spirit-AI-Team/spirit-v1.5.git
 spring-projects/spring-boot[main]: https://github.com/spring-projects/spring-boot.git
 spro/practical-pytorch[master]: https://github.com/spro/practical-pytorch.git
 sqlalchemy/sqlalchemy[main]: https://github.com/sqlalchemy/sqlalchemy.git
@@ -3491,7 +3500,7 @@ timeshiftsauce/CeruMusic[main]: https://github.com/timeshiftsauce/CeruMusic.git
 timqian/bambot[main]: https://github.com/timqian/bambot.git
 TingliangZhang/VR_Robot_Thesis[master]: https://github.com/TingliangZhang/VR_Robot_Thesis.git
 TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
-TinyAGI/tinyclaw[main]: https://github.com/TinyAGI/tinyclaw.git
+TinyAGI/tinyagi[main]: https://github.com/TinyAGI/tinyagi.git
 tiptop-robot/tiptop[main]: https://github.com/tiptop-robot/tiptop.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
@@ -3549,6 +3558,7 @@ trimstray/the-practical-linux-hardening-guide[master]: https://github.com/trimst
 tristandeleu/pytorch-maml-rl[master]: https://github.com/tristandeleu/pytorch-maml-rl.git
 trojan-gfw/trojan[master]: https://github.com/trojan-gfw/trojan.git
 tsinghua-fib-lab/RoboScape[main]: https://github.com/tsinghua-fib-lab/RoboScape.git
+tsinghua-fib-lab/WorldArena[main]: https://github.com/tsinghua-fib-lab/WorldArena.git
 Tsinghua-MARS-Lab/SLAM-Former[master]: https://github.com/Tsinghua-MARS-Lab/SLAM-Former.git
 TsinghuaC3I/Awesome-RL-for-LRMs[main]: https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
@@ -3778,6 +3788,7 @@ WongKinYiu/yolov7[main]: https://github.com/WongKinYiu/yolov7.git
 WooQi57/Helpful-Doggybot[main]: https://github.com/WooQi57/Helpful-Doggybot.git
 WordPress/WordPress[master]: https://github.com/WordPress/WordPress.git
 world-grow/WorldGrow[main]: https://github.com/world-grow/WorldGrow.git
+worldarena/WorldArena[main]: https://github.com/worldarena/WorldArena.git
 worldcoin/idkit-js[main]: https://github.com/worldcoin/idkit-js.git
 WorldModelBench-Team/WorldModelBench[main]: https://github.com/WorldModelBench-Team/WorldModelBench.git
 wow-world-model/wow-world-model[main]: https://github.com/wow-world-model/wow-world-model.git
@@ -3869,6 +3880,7 @@ Yanghao0506/A-lightweight-prosthetic-hand[main]: https://github.com/Yanghao0506/
 YangLing0818/buffer-of-thought-llm[main]: https://github.com/YangLing0818/buffer-of-thought-llm.git
 YangLing0818/EditWorld[main]: https://github.com/YangLing0818/EditWorld.git
 yangqy1110/NC-SDEdit[main]: https://github.com/yangqy1110/NC-SDEdit.git
+yangtiming/Fast-SAM-3D-Body[main]: https://github.com/yangtiming/Fast-SAM-3D-Body.git
 yangxue0827/RotationDetection[main]: https://github.com/yangxue0827/RotationDetection.git
 YanjieZe/3D-Diffusion-Policy[master]: https://github.com/YanjieZe/3D-Diffusion-Policy.git
 YanjieZe/GMR[master]: https://github.com/YanjieZe/GMR.git
