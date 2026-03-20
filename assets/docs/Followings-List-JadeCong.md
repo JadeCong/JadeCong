@@ -342,6 +342,7 @@ FutureAIRobotics: https://github.com/FutureAIRobotics
 GAIR-NLP: https://github.com/GAIR-NLP
 galaxy-s10: https://github.com/galaxy-s10
 GalaxyGeneralRobotics: https://github.com/GalaxyGeneralRobotics
+gaoyuankidult: https://github.com/gaoyuankidult
 Gar-b-age: https://github.com/Gar-b-age
 GaTech-RL2: https://github.com/GaTech-RL2
 gautamkrishnar: https://github.com/gautamkrishnar
@@ -763,6 +764,7 @@ openmediavault: https://github.com/openmediavault
 OpenMOSS: https://github.com/OpenMOSS
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRLHF: https://github.com/OpenRLHF
+openrocket: https://github.com/openrocket
 OpenRouterTeam: https://github.com/OpenRouterTeam
 opensim-org: https://github.com/opensim-org
 OpenSLAM: https://github.com/OpenSLAM
@@ -982,6 +984,7 @@ soybeanjs: https://github.com/soybeanjs
 SparkAudio: https://github.com/SparkAudio
 SpectacularAI: https://github.com/SpectacularAI
 sphinx-doc: https://github.com/sphinx-doc
+Spirit-AI-Team: https://github.com/Spirit-AI-Team
 spring-projects: https://github.com/spring-projects
 squidfunk: https://github.com/squidfunk
 Stability-AI: https://github.com/Stability-AI
@@ -1168,6 +1171,7 @@ WHU-USI3DV: https://github.com/WHU-USI3DV
 wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
 wkentaro: https://github.com/wkentaro
+worldarena: https://github.com/worldarena
 worldcoin: https://github.com/worldcoin
 wow-world-model: https://github.com/wow-world-model
 wsakobe: https://github.com/wsakobe
