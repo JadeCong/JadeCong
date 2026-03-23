@@ -200,6 +200,7 @@ convergence-ai: https://github.com/convergence-ai
 cool-team-official: https://github.com/cool-team-official
 CoppeliaRobotics: https://github.com/CoppeliaRobotics
 corbt: https://github.com/corbt
+coze-dev: https://github.com/coze-dev
 cremebrule: https://github.com/cremebrule
 crewAIInc: https://github.com/crewAIInc
 cuhk-eda: https://github.com/cuhk-eda
@@ -344,6 +345,7 @@ galaxy-s10: https://github.com/galaxy-s10
 GalaxyGeneralRobotics: https://github.com/GalaxyGeneralRobotics
 gaoyuankidult: https://github.com/gaoyuankidult
 Gar-b-age: https://github.com/Gar-b-age
+garrytan: https://github.com/garrytan
 GaTech-RL2: https://github.com/GaTech-RL2
 gautamkrishnar: https://github.com/gautamkrishnar
 gazebosim: https://github.com/gazebosim
