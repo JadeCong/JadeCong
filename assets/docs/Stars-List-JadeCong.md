@@ -70,6 +70,7 @@ agentscope-ai/agentscope[main]: https://github.com/agentscope-ai/agentscope.git
 agentscope-ai/CoPaw[main]: https://github.com/agentscope-ai/CoPaw.git
 ageron/handson-ml[master]: https://github.com/ageron/handson-ml.git
 AGI-Labs/manipulate-by-seeing[main]: https://github.com/AGI-Labs/manipulate-by-seeing.git
+AgibotTech/ACoT-VLA[main]: https://github.com/AgibotTech/ACoT-VLA.git
 AgibotTech/agibot_x1_hardware[main]: https://github.com/AgibotTech/agibot_x1_hardware.git
 AgibotTech/agibot_x1_infer[main]: https://github.com/AgibotTech/agibot_x1_infer.git
 AgibotTech/agibot_x1_train[main]: https://github.com/AgibotTech/agibot_x1_train.git
@@ -253,7 +254,7 @@ apple/ml-matrix3d[main]: https://github.com/apple/ml-matrix3d.git
 apple/ml-simplefold[main]: https://github.com/apple/ml-simplefold.git
 applied-ai-lab/genesis[master]: https://github.com/applied-ai-lab/genesis.git
 AppliedDataSciencePartners/DeepReinforcementLearning[master]: https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning.git
-appwrite/appwrite[main]: https://github.com/appwrite/appwrite.git
+appwrite/appwrite[1.9.x]: https://github.com/appwrite/appwrite.git
 aqlaboratory/openfold[main]: https://github.com/aqlaboratory/openfold.git
 araffin/robotics-rl-srl[master]: https://github.com/araffin/robotics-rl-srl.git
 aramis-lab/clinica[dev]: https://github.com/aramis-lab/clinica.git
@@ -612,6 +613,7 @@ CorentinTh/it-tools[main]: https://github.com/CorentinTh/it-tools.git
 CortexFoundation/StyleTransferTrilogy[master]: https://github.com/CortexFoundation/StyleTransferTrilogy.git
 cotes2020/jekyll-theme-chirpy[master]: https://github.com/cotes2020/jekyll-theme-chirpy.git
 cover-vla/cover-vla[main]: https://github.com/cover-vla/cover-vla.git
+coze-dev/coze-studio[main]: https://github.com/coze-dev/coze-studio.git
 craffel/theano-tutorial[master]: https://github.com/craffel/theano-tutorial.git
 Crayon-Shinchan/AnyDressing[master]: https://github.com/Crayon-Shinchan/AnyDressing.git
 crewAIInc/crewAI[main]: https://github.com/crewAIInc/crewAI.git
@@ -1148,6 +1150,7 @@ GaParmar/img2img-turbo[main]: https://github.com/GaParmar/img2img-turbo.git
 Gar-b-age/CookLikeHOC[main]: https://github.com/Gar-b-age/CookLikeHOC.git
 GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
 GarlicBa/LiteVGGT-repo[main]: https://github.com/GarlicBa/LiteVGGT-repo.git
+garrytan/gstack[main]: https://github.com/garrytan/gstack.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
 GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
 GaussianCube/GaussianCube[main]: https://github.com/GaussianCube/GaussianCube.git
@@ -2526,6 +2529,7 @@ NVlabs/cosmos-policy[main]: https://github.com/NVlabs/cosmos-policy.git
 NVlabs/cule[master]: https://github.com/NVlabs/cule.git
 NVlabs/curobo[main]: https://github.com/NVlabs/curobo.git
 NVlabs/DefGraspSim[main]: https://github.com/NVlabs/DefGraspSim.git
+NVlabs/dexmimicgen[main]: https://github.com/NVlabs/dexmimicgen.git
 NVlabs/DiffusionNFT[main]: https://github.com/NVlabs/DiffusionNFT.git
 NVlabs/Fast-dLLM[main]: https://github.com/NVlabs/Fast-dLLM.git
 NVlabs/Fast-FoundationStereo[master]: https://github.com/NVlabs/Fast-FoundationStereo.git
@@ -2579,6 +2583,7 @@ open-compass/opencompass[main]: https://github.com/open-compass/opencompass.git
 open-dynamic-robot-initiative/open_robot_actuator_hardware[master]: https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware.git
 open-dynamic-robot-initiative/trifinger_object_tracking[master]: https://github.com/open-dynamic-robot-initiative/trifinger_object_tracking.git
 open-gigaai/giga-brain-0[main]: https://github.com/open-gigaai/giga-brain-0.git
+open-gigaai/giga-world-policy[main]: https://github.com/open-gigaai/giga-world-policy.git
 open-mmlab/Amphion[main]: https://github.com/open-mmlab/Amphion.git
 open-mmlab/Live2Diff[main]: https://github.com/open-mmlab/Live2Diff.git
 open-mmlab/mmagic[main]: https://github.com/open-mmlab/mmagic.git
@@ -2691,6 +2696,7 @@ OS-Copilot/OS-Copilot[main]: https://github.com/OS-Copilot/OS-Copilot.git
 OSU-NLP-Group/HippoRAG[main]: https://github.com/OSU-NLP-Group/HippoRAG.git
 osudrl/Humanoid_Hanoi[main]: https://github.com/osudrl/Humanoid_Hanoi.git
 OthersideAI/self-operating-computer[main]: https://github.com/OthersideAI/self-operating-computer.git
+OthmanAdi/planning-with-files[master]: https://github.com/OthmanAdi/planning-with-files.git
 ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
 ourongxing/newsnow[main]: https://github.com/ourongxing/newsnow.git
 ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
@@ -2960,6 +2966,7 @@ redis/redis[unstable]: https://github.com/redis/redis.git
 redis/RedisInsight[main]: https://github.com/redis/RedisInsight.git
 rednote-hilab/dots.llm1[main]: https://github.com/rednote-hilab/dots.llm1.git
 redpanda-data/console[master]: https://github.com/redpanda-data/console.git
+RefoundAI/lenny-skills[main]: https://github.com/RefoundAI/lenny-skills.git
 reHackable/awesome-reMarkable[master]: https://github.com/reHackable/awesome-reMarkable.git
 reinforcement-learning-kr/lets-do-irl[master]: https://github.com/reinforcement-learning-kr/lets-do-irl.git
 remoteintech/remote-jobs[main]: https://github.com/remoteintech/remote-jobs.git
@@ -3573,6 +3580,7 @@ tum-vision/tandem[master]: https://github.com/tum-vision/tandem.git
 TUMFTM/orbslam-map-saving-extension[master]: https://github.com/TUMFTM/orbslam-map-saving-extension.git
 TUMFTM/ORB_SLAM3_RGBL[rgbl]: https://github.com/TUMFTM/ORB_SLAM3_RGBL.git
 TuragaLab/flybody[main]: https://github.com/TuragaLab/flybody.git
+turnerbuilds/robomotion[master]: https://github.com/turnerbuilds/robomotion.git
 tw93/MiaoYan[main]: https://github.com/tw93/MiaoYan.git
 tw93/Pake[main]: https://github.com/tw93/Pake.git
 tw93/tw93[main]: https://github.com/tw93/tw93.git
@@ -3777,7 +3785,7 @@ WHU-USI3DV/VistaDream[main]: https://github.com/WHU-USI3DV/VistaDream.git
 wileewang/TransPixeler[main]: https://github.com/wileewang/TransPixeler.git
 williamleif/GraphSAGE[master]: https://github.com/williamleif/GraphSAGE.git
 willisma/SiT[main]: https://github.com/willisma/SiT.git
-wilsonfreitas/awesome-quant[master]: https://github.com/wilsonfreitas/awesome-quant.git
+wilsonfreitas/awesome-quant[main]: https://github.com/wilsonfreitas/awesome-quant.git
 win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
 wjwwood/serial[main]: https://github.com/wjwwood/serial.git
 wkentaro/labelme[main]: https://github.com/wkentaro/labelme.git
