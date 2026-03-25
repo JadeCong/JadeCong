@@ -662,6 +662,7 @@ Daniil-Osokin/lightweight-human-pose-estimation.pytorch[master]: https://github.
 danijar/dreamerv3[main]: https://github.com/danijar/dreamerv3.git
 danny-avila/LibreChat[main]: https://github.com/danny-avila/LibreChat.git
 dansoutner/LSTM[master]: https://github.com/dansoutner/LSTM.git
+danveloper/flash-moe[main]: https://github.com/danveloper/flash-moe.git
 Dao-AILab/flash-attention[main]: https://github.com/Dao-AILab/flash-attention.git
 DaojiePENG/LOVON[main]: https://github.com/DaojiePENG/LOVON.git
 darglein/ADOP[main]: https://github.com/darglein/ADOP.git
@@ -751,6 +752,7 @@ Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
 different-ai/openwork[dev]: https://github.com/different-ai/openwork.git
 digital-standard/ThreeDPoseUnityBarracuda[master]: https://github.com/digital-standard/ThreeDPoseUnityBarracuda.git
+dimensionalOS/dimos[main]: https://github.com/dimensionalOS/dimos.git
 Dimillian/RedditOS[master]: https://github.com/Dimillian/RedditOS.git
 dingdingcai/GSPose[main]: https://github.com/dingdingcai/GSPose.git
 Dingry/BunnyVisionPro[main]: https://github.com/Dingry/BunnyVisionPro.git
@@ -1152,6 +1154,7 @@ GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
 GarlicBa/LiteVGGT-repo[main]: https://github.com/GarlicBa/LiteVGGT-repo.git
 garrytan/gstack[main]: https://github.com/garrytan/gstack.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
+GaTech-RL2/EgoVerse[main]: https://github.com/GaTech-RL2/EgoVerse.git
 GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
 GaussianCube/GaussianCube[main]: https://github.com/GaussianCube/GaussianCube.git
 gaussic/text-classification-cnn-rnn[master]: https://github.com/gaussic/text-classification-cnn-rnn.git
@@ -1461,6 +1464,7 @@ HRNet/HRNet-Image-Classification[master]: https://github.com/HRNet/HRNet-Image-C
 HRNet/HRNet-Semantic-Segmentation[HRNet-OCR]: https://github.com/HRNet/HRNet-Semantic-Segmentation.git
 HRNet/Lite-HRNet[hrnet]: https://github.com/HRNet/Lite-HRNet.git
 hshi74/toddlerbot[main]: https://github.com/hshi74/toddlerbot.git
+hsliuping/TradingAgents-CN[main]: https://github.com/hsliuping/TradingAgents-CN.git
 hsp-iit/HannesImitation[main]: https://github.com/hsp-iit/HannesImitation.git
 httpie/cli[master]: https://github.com/httpie/cli.git
 HuangCongQing/3D-Point-Clouds[main]: https://github.com/HuangCongQing/3D-Point-Clouds.git
@@ -1800,6 +1804,7 @@ KanishkNavale/Robot-Physics-Engine[master]: https://github.com/KanishkNavale/Rob
 kanster/awesome-slam[master]: https://github.com/kanster/awesome-slam.git
 karfly/learnable-triangulation-pytorch[master]: https://github.com/karfly/learnable-triangulation-pytorch.git
 karminski/one-small-step[main]: https://github.com/karminski/one-small-step.git
+karpathy/autoresearch[master]: https://github.com/karpathy/autoresearch.git
 karpathy/char-rnn[master]: https://github.com/karpathy/char-rnn.git
 karpathy/llama2.c[master]: https://github.com/karpathy/llama2.c.git
 karpathy/llm.c[master]: https://github.com/karpathy/llm.c.git
@@ -2064,6 +2069,16 @@ LucasAlegre/sumo-rl[main]: https://github.com/LucasAlegre/sumo-rl.git
 lucasjinreal/faceswap_pytorch[master]: https://github.com/lucasjinreal/faceswap_pytorch.git
 lucasjinreal/yolov7_d2[main]: https://github.com/lucasjinreal/yolov7_d2.git
 luccachiang/robots-pretrain-robots[main]: https://github.com/luccachiang/robots-pretrain-robots.git
+lucidrains/alphafold2[main]: https://github.com/lucidrains/alphafold2.git
+lucidrains/alphafold3-pytorch[main]: https://github.com/lucidrains/alphafold3-pytorch.git
+lucidrains/DALLE-pytorch[main]: https://github.com/lucidrains/DALLE-pytorch.git
+lucidrains/DALLE2-pytorch[main]: https://github.com/lucidrains/DALLE2-pytorch.git
+lucidrains/imagen-pytorch[main]: https://github.com/lucidrains/imagen-pytorch.git
+lucidrains/mixture-of-experts[master]: https://github.com/lucidrains/mixture-of-experts.git
+lucidrains/musiclm-pytorch[main]: https://github.com/lucidrains/musiclm-pytorch.git
+lucidrains/titans-pytorch[main]: https://github.com/lucidrains/titans-pytorch.git
+lucidrains/vit-pytorch[main]: https://github.com/lucidrains/vit-pytorch.git
+lucidrains/x-transformers[main]: https://github.com/lucidrains/x-transformers.git
 lucidsim/lucidsim[main]: https://github.com/lucidsim/lucidsim.git
 lufficc/SSD[master]: https://github.com/lufficc/SSD.git
 luigifreda/pyslam[master]: https://github.com/luigifreda/pyslam.git
@@ -2340,6 +2355,7 @@ moveit/moveit2[main]: https://github.com/moveit/moveit2.git
 moveit/moveit2_tutorials[main]: https://github.com/moveit/moveit2_tutorials.git
 moveit/moveit_task_constructor[master]: https://github.com/moveit/moveit_task_constructor.git
 moveit/moveit_tutorials[master]: https://github.com/moveit/moveit_tutorials.git
+MoyangLi00/DROID-W[main]: https://github.com/MoyangLi00/DROID-W.git
 mozilla-ai/llamafile[main]: https://github.com/mozilla-ai/llamafile.git
 mp3guy/ElasticFusion[master]: https://github.com/mp3guy/ElasticFusion.git
 mpaepper/vibevoice[main]: https://github.com/mpaepper/vibevoice.git
@@ -2980,6 +2996,7 @@ restsharp/RestSharp[dev]: https://github.com/restsharp/RestSharp.git
 RethinkRobotics/sawyer_robot[master]: https://github.com/RethinkRobotics/sawyer_robot.git
 reworkd/AgentGPT[main]: https://github.com/reworkd/AgentGPT.git
 rh20t/rh20t_api[main]: https://github.com/rh20t/rh20t_api.git
+rheallyc/MoTok[main]: https://github.com/rheallyc/MoTok.git
 rhgao/ObjectFolder[main]: https://github.com/rhgao/ObjectFolder.git
 rhymes-ai/Aria[main]: https://github.com/rhymes-ai/Aria.git
 Ri-chard-Wu/QT3[master]: https://github.com/Ri-chard-Wu/QT3.git
@@ -2998,6 +3015,7 @@ rlpy/rlpy[master]: https://github.com/rlpy/rlpy.git
 rmsalinas/DBow3[master]: https://github.com/rmsalinas/DBow3.git
 robbiebarrat/art-DCGAN[master]: https://github.com/robbiebarrat/art-DCGAN.git
 robbiehanson/XMPPFramework[master]: https://github.com/robbiehanson/XMPPFramework.git
+RobbinW/EVA[main]: https://github.com/RobbinW/EVA.git
 Robbyant/lingbot-vla[main]: https://github.com/Robbyant/lingbot-vla.git
 robcog-iai/RobCoG[dev]: https://github.com/robcog-iai/RobCoG.git
 robcog-iai/URoboSim-depr[master]: https://github.com/robcog-iai/URoboSim-depr.git
@@ -3378,6 +3396,7 @@ TAMS-Group/mtc_pour[master]: https://github.com/TAMS-Group/mtc_pour.git
 TAMS-Group/TeachNet_Teleoperation[melodic]: https://github.com/TAMS-Group/TeachNet_Teleoperation.git
 TangYihe/unsup-affordance[main]: https://github.com/TangYihe/unsup-affordance.git
 TanixLu/pyfuze[main]: https://github.com/TanixLu/pyfuze.git
+tanweai/pua[main]: https://github.com/tanweai/pua.git
 Taokt/MT-ACT[main]: https://github.com/Taokt/MT-ACT.git
 TapXWorld/ChinaTextbook[master]: https://github.com/TapXWorld/ChinaTextbook.git
 tarm/serial[master]: https://github.com/tarm/serial.git
@@ -3624,6 +3643,7 @@ UMich-BipedLab/Cassie_FlatGround_Controller[master]: https://github.com/UMich-Bi
 una-dinosauria/3d-pose-baseline[master]: https://github.com/una-dinosauria/3d-pose-baseline.git
 unclecode/crawl4ai[main]: https://github.com/unclecode/crawl4ai.git
 Undertone0809/promptulate[main]: https://github.com/Undertone0809/promptulate.git
+unidex-ai/UniDex[main]: https://github.com/unidex-ai/UniDex.git
 unified-field-theory-org/animations[main]: https://github.com/unified-field-theory-org/animations.git
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unified-force/UniFP[main]: https://github.com/unified-force/UniFP.git
