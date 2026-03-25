@@ -8,6 +8,7 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
+betancurn: https://github.com/betancurn
 BigM25: https://github.com/BigM25
 biyachio: https://github.com/biyachio
 bludnic: https://github.com/bludnic
@@ -17,12 +18,12 @@ chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
+COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
 CriptoNuno2024: https://github.com/CriptoNuno2024
 danielsuta: https://github.com/danielsuta
 DaurDiop: https://github.com/DaurDiop
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
-Fredhusne: https://github.com/Fredhusne
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 gyurioka: https://github.com/gyurioka
@@ -65,7 +66,6 @@ n4yand: https://github.com/n4yand
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
-nmbetancur: https://github.com/nmbetancur
 nueryn: https://github.com/nueryn
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
@@ -85,7 +85,6 @@ Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
-serhatbula: https://github.com/serhatbula
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
 solotech939: https://github.com/solotech939
