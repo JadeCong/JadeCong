@@ -240,6 +240,7 @@ DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
 diankun-wu: https://github.com/diankun-wu
 different-ai: https://github.com/different-ai
+dimensionalOS: https://github.com/dimensionalOS
 Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
 DirtyHarryLYL: https://github.com/DirtyHarryLYL
@@ -428,6 +429,7 @@ hpcaitech: https://github.com/hpcaitech
 HRI-EU: https://github.com/HRI-EU
 HRNet: https://github.com/HRNet
 hshi74: https://github.com/hshi74
+hsliuping: https://github.com/hsliuping
 hsp-iit: https://github.com/hsp-iit
 httpie: https://github.com/httpie
 HuangCongQing: https://github.com/HuangCongQing
@@ -590,6 +592,7 @@ lss233: https://github.com/lss233
 lua: https://github.com/lua
 LucasAlegre: https://github.com/LucasAlegre
 lucasjinreal: https://github.com/lucasjinreal
+lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
 luigifreda: https://github.com/luigifreda
 lumalabs: https://github.com/lumalabs
@@ -1019,6 +1022,7 @@ svpino: https://github.com/svpino
 SwanHubX: https://github.com/SwanHubX
 TairanHe: https://github.com/TairanHe
 TAMS-Group: https://github.com/TAMS-Group
+tanweai: https://github.com/tanweai
 TapXWorld: https://github.com/TapXWorld
 tasl-lab: https://github.com/tasl-lab
 tatsu-lab: https://github.com/tatsu-lab
