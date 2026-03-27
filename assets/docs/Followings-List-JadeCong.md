@@ -478,6 +478,7 @@ isocpp: https://github.com/isocpp
 isri-aist: https://github.com/isri-aist
 j96w: https://github.com/j96w
 jackfrued: https://github.com/jackfrued
+jackwener: https://github.com/jackwener
 janishar: https://github.com/janishar
 jart: https://github.com/jart
 JasonJZLiu: https://github.com/JasonJZLiu
@@ -846,7 +847,6 @@ psf: https://github.com/psf
 Psi-Robot: https://github.com/Psi-Robot
 ptrblck: https://github.com/ptrblck
 pulibrary: https://github.com/pulibrary
-punkpeye: https://github.com/punkpeye
 putyy: https://github.com/putyy
 pybind: https://github.com/pybind
 pygame: https://github.com/pygame
