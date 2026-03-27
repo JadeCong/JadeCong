@@ -1316,7 +1316,6 @@ guilk/KAT[main]: https://github.com/guilk/KAT.git
 guillaume-chevalier/LSTM-Human-Activity-Recognition[master]: https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition.git
 gulvarol/bodynet[master]: https://github.com/gulvarol/bodynet.git
 Guobin-Zhu/MARL-LLM[master]: https://github.com/Guobin-Zhu/MARL-LLM.git
-Guybod/CodroidApi[main]: https://github.com/Guybod/CodroidApi.git
 GuyTevet/CLoSD[main]: https://github.com/GuyTevet/CLoSD.git
 GVCLab/FairyGen[main]: https://github.com/GVCLab/FairyGen.git
 gwtaylor/theano-rnn[master]: https://github.com/gwtaylor/theano-rnn.git
@@ -1649,6 +1648,7 @@ Jack-Cherish/python-spider[master]: https://github.com/Jack-Cherish/python-spide
 jackfrued/Python-100-Days[master]: https://github.com/jackfrued/Python-100-Days.git
 jackfrued/Python-Core-50-Courses[master]: https://github.com/jackfrued/Python-Core-50-Courses.git
 jackfrued/Python-Interview-Bible[master]: https://github.com/jackfrued/Python-Interview-Bible.git
+jackwener/opencli[main]: https://github.com/jackwener/opencli.git
 JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
 JadeCong/Awesome-Artificial-Intelligence[main]: https://github.com/JadeCong/Awesome-Artificial-Intelligence.git
@@ -2364,6 +2364,7 @@ mrdbourke/machine-learning-roadmap[master]: https://github.com/mrdbourke/machine
 mrgloom/awesome-semantic-segmentation[master]: https://github.com/mrgloom/awesome-semantic-segmentation.git
 MrTornado24/DreamCraft3D_Plus[main]: https://github.com/MrTornado24/DreamCraft3D_Plus.git
 msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-weekly-robotics.git
+mschneider456/worldmesh[main]: https://github.com/mschneider456/worldmesh.git
 msgpack-rpc/msgpack-rpc[master]: https://github.com/msgpack-rpc/msgpack-rpc.git
 mshoe/PARC[main]: https://github.com/mshoe/PARC.git
 MSiam/motion_adaptation[master]: https://github.com/MSiam/motion_adaptation.git
@@ -2530,6 +2531,7 @@ NVIDIA/Megatron-LM[main]: https://github.com/NVIDIA/Megatron-LM.git
 NVIDIA/NeMo-Framework-Launcher[main]: https://github.com/NVIDIA/NeMo-Framework-Launcher.git
 NVIDIA/nvidia-docker[main]: https://github.com/NVIDIA/nvidia-docker.git
 NVIDIA/pix2pixHD[master]: https://github.com/NVIDIA/pix2pixHD.git
+NVIDIA/soma-retargeter[main]: https://github.com/NVIDIA/soma-retargeter.git
 NVIDIA/tao_pytorch_backend[main]: https://github.com/NVIDIA/tao_pytorch_backend.git
 NVIDIA/TensorRT[main]: https://github.com/NVIDIA/TensorRT.git
 NVIDIAGameWorks/Blast[master]: https://github.com/NVIDIAGameWorks/Blast.git
@@ -2561,6 +2563,7 @@ NVlabs/neuralangelo[main]: https://github.com/NVlabs/neuralangelo.git
 NVlabs/ProtoMotions[main]: https://github.com/NVlabs/ProtoMotions.git
 NVlabs/sage[main]: https://github.com/NVlabs/sage.git
 NVlabs/Sana[main]: https://github.com/NVlabs/Sana.git
+NVlabs/SOMA-X[main]: https://github.com/NVlabs/SOMA-X.git
 NVlabs/SPADE[master]: https://github.com/NVlabs/SPADE.git
 NVlabs/stylegan[master]: https://github.com/NVlabs/stylegan.git
 NVlabs/stylegan2[master]: https://github.com/NVlabs/stylegan2.git
@@ -2876,8 +2879,6 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
-punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
-punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
@@ -3000,6 +3001,7 @@ rheallyc/MoTok[main]: https://github.com/rheallyc/MoTok.git
 rhgao/ObjectFolder[main]: https://github.com/rhgao/ObjectFolder.git
 rhymes-ai/Aria[main]: https://github.com/rhymes-ai/Aria.git
 Ri-chard-Wu/QT3[master]: https://github.com/Ri-chard-Wu/QT3.git
+Rice-RobotPI-Lab/ManiDreams[main]: https://github.com/Rice-RobotPI-Lab/ManiDreams.git
 ricequant/rqalpha[master]: https://github.com/ricequant/rqalpha.git
 richards199999/Thinking-Claude[main]: https://github.com/richards199999/Thinking-Claude.git
 ricmua/ros_force_dimension[main]: https://github.com/ricmua/ros_force_dimension.git
