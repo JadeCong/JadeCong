@@ -172,6 +172,8 @@ ChromeDevTools: https://github.com/ChromeDevTools
 chuanqi305: https://github.com/chuanqi305
 chvmp: https://github.com/chvmp
 CiscoDevNet: https://github.com/CiscoDevNet
+clash-download: https://github.com/clash-download
+clash-verge-rev: https://github.com/clash-verge-rev
 clauderic: https://github.com/clauderic
 cline: https://github.com/cline
 CloudEngineHub: https://github.com/CloudEngineHub
@@ -774,6 +776,7 @@ openrocket: https://github.com/openrocket
 OpenRouterTeam: https://github.com/OpenRouterTeam
 opensim-org: https://github.com/opensim-org
 OpenSLAM: https://github.com/OpenSLAM
+OpenSpace: https://github.com/OpenSpace
 OpenSPG: https://github.com/OpenSPG
 OpenTeleVision: https://github.com/OpenTeleVision
 opentiny: https://github.com/opentiny
@@ -892,6 +895,7 @@ rerun-io: https://github.com/rerun-io
 RethinkRobotics: https://github.com/RethinkRobotics
 rhgao: https://github.com/rhgao
 rhymes-ai: https://github.com/rhymes-ai
+Rice-RobotPI-Lab: https://github.com/Rice-RobotPI-Lab
 richards199999: https://github.com/richards199999
 RIVeR-Lab: https://github.com/RIVeR-Lab
 RLinf: https://github.com/RLinf
@@ -976,6 +980,7 @@ sipeed: https://github.com/sipeed
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
 skywind3000: https://github.com/skywind3000
 SkyworkAI: https://github.com/SkyworkAI
+slopus: https://github.com/slopus
 sniekum: https://github.com/sniekum
 snuvclab: https://github.com/snuvclab
 SocialAI-tianji: https://github.com/SocialAI-tianji
@@ -1136,6 +1141,7 @@ Vector-Wangel: https://github.com/Vector-Wangel
 VectorSpaceLab: https://github.com/VectorSpaceLab
 vellum-ai: https://github.com/vellum-ai
 vercel: https://github.com/vercel
+vernesong: https://github.com/vernesong
 vikashplus: https://github.com/vikashplus
 viliusle: https://github.com/viliusle
 villekuosmanen: https://github.com/villekuosmanen
@@ -1237,10 +1243,10 @@ YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
 Z1hanW: https://github.com/Z1hanW
 zai-org: https://github.com/zai-org
+zarazhangrui: https://github.com/zarazhangrui
 zealdocs: https://github.com/zealdocs
 zed-industries: https://github.com/zed-industries
 zen-browser: https://github.com/zen-browser
-zeroclaw-labs: https://github.com/zeroclaw-labs
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
 ZhengyiLuo: https://github.com/ZhengyiLuo
