@@ -1,6 +1,5 @@
 01-ai/Yi[main]: https://github.com/01-ai/Yi.git
 0x2E/fusion[main]: https://github.com/0x2E/fusion.git
-0xCrunchyy/10x[main]: https://github.com/0xCrunchyy/10x.git
 0xKoda/drone-mcp[main]: https://github.com/0xKoda/drone-mcp.git
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
@@ -36,6 +35,7 @@ aaedmusa/Internal-Cycloidal-Actuator[main]: https://github.com/aaedmusa/Internal
 aaedmusa/OpenQDD-V1[main]: https://github.com/aaedmusa/OpenQDD-V1.git
 aaedmusa/TOPS[main]: https://github.com/aaedmusa/TOPS.git
 aalmah/augmented_cyclegan[master]: https://github.com/aalmah/augmented_cyclegan.git
+AaronZ021/tryvoice-oss[main]: https://github.com/AaronZ021/tryvoice-oss.git
 abcamiletto/frame[main]: https://github.com/abcamiletto/frame.git
 Abd-007/Switch-Emulators-Guide[main]: https://github.com/Abd-007/Switch-Emulators-Guide.git
 abdo-eldesokey/build-a-scene[main]: https://github.com/abdo-eldesokey/build-a-scene.git
@@ -560,6 +560,8 @@ chvmp/robots[master]: https://github.com/chvmp/robots.git
 cirosantilli/awesome-reinforcement-learning-games[master]: https://github.com/cirosantilli/awesome-reinforcement-learning-games.git
 CiscoDevNet/wcae[master]: https://github.com/CiscoDevNet/wcae.git
 civilblur/mazanoke[main]: https://github.com/civilblur/mazanoke.git
+clash-download/Clash[main]: https://github.com/clash-download/Clash.git
+clash-verge-rev/clash-verge-rev[dev]: https://github.com/clash-verge-rev/clash-verge-rev.git
 clauderic/dnd-kit[main]: https://github.com/clauderic/dnd-kit.git
 cli/cli[trunk]: https://github.com/cli/cli.git
 cline/cline[main]: https://github.com/cline/cline.git
@@ -843,6 +845,7 @@ EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 EGalahad/sim2real[main]: https://github.com/EGalahad/sim2real.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
+elder-plinius/G0DM0D3[main]: https://github.com/elder-plinius/G0DM0D3.git
 elecfreaks/XGO-Rider[master]: https://github.com/elecfreaks/XGO-Rider.git
 electech6/ORB_SLAM2_detailed_comments[master]: https://github.com/electech6/ORB_SLAM2_detailed_comments.git
 electech6/ORB_SLAM3_detailed_comments[master]: https://github.com/electech6/ORB_SLAM3_detailed_comments.git
@@ -2372,6 +2375,7 @@ mttga/purejaxql[main]: https://github.com/mttga/purejaxql.git
 mudler/LocalAI[master]: https://github.com/mudler/LocalAI.git
 muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
 mujocolab/mjlab[main]: https://github.com/mujocolab/mjlab.git
+mujocolab/mjviser[main]: https://github.com/mujocolab/mjviser.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
 Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
 musistudio/claude-code-router[main]: https://github.com/musistudio/claude-code-router.git
@@ -2472,6 +2476,7 @@ NovaSky-AI/SkyThought[main]: https://github.com/NovaSky-AI/SkyThought.git
 npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphCourse.git
 nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
+ntegrals/10x[main]: https://github.com/ntegrals/10x.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
 nullclaw/nullclaw[main]: https://github.com/nullclaw/nullclaw.git
@@ -2691,6 +2696,7 @@ opensim-org/opensim-moco[master]: https://github.com/opensim-org/opensim-moco.gi
 opensim-org/opensim-models[master]: https://github.com/opensim-org/opensim-models.git
 opensim-org/opensim-viewer[master]: https://github.com/opensim-org/opensim-viewer.git
 OpenSLAM-org/openslam_gmapping[master]: https://github.com/OpenSLAM-org/openslam_gmapping.git
+OpenSpace/OpenSpace[master]: https://github.com/OpenSpace/OpenSpace.git
 OpenSPG/KAG[master]: https://github.com/OpenSPG/KAG.git
 OpenSPG/openspg[master]: https://github.com/OpenSPG/openspg.git
 openssl/openssl[master]: https://github.com/openssl/openssl.git
@@ -3263,6 +3269,7 @@ Skyvern-AI/skyvern[main]: https://github.com/Skyvern-AI/skyvern.git
 skywind3000/preserve-cd[master]: https://github.com/skywind3000/preserve-cd.git
 SkyworkAI/SkyReels-V1[main]: https://github.com/SkyworkAI/SkyReels-V1.git
 SkyworkAI/Skywork-R1V[main]: https://github.com/SkyworkAI/Skywork-R1V.git
+slopus/happy[main]: https://github.com/slopus/happy.git
 SMPLOlympics/SMPLOlympics[master]: https://github.com/SMPLOlympics/SMPLOlympics.git
 Snailclimb/JavaGuide[main]: https://github.com/Snailclimb/JavaGuide.git
 snap-research/arielai_youtube_3d_hands[master]: https://github.com/snap-research/arielai_youtube_3d_hands.git
@@ -3601,7 +3608,6 @@ tum-vision/tandem[master]: https://github.com/tum-vision/tandem.git
 TUMFTM/orbslam-map-saving-extension[master]: https://github.com/TUMFTM/orbslam-map-saving-extension.git
 TUMFTM/ORB_SLAM3_RGBL[rgbl]: https://github.com/TUMFTM/ORB_SLAM3_RGBL.git
 TuragaLab/flybody[main]: https://github.com/TuragaLab/flybody.git
-turnerbuilds/robomotion[master]: https://github.com/turnerbuilds/robomotion.git
 tw93/MiaoYan[main]: https://github.com/tw93/MiaoYan.git
 tw93/Pake[main]: https://github.com/tw93/Pake.git
 tw93/tw93[main]: https://github.com/tw93/tw93.git
@@ -3714,6 +3720,7 @@ vercel/hyper[canary]: https://github.com/vercel/hyper.git
 vercel/next.js[canary]: https://github.com/vercel/next.js.git
 verigak/progress[master]: https://github.com/verigak/progress.git
 verl-project/verl[main]: https://github.com/verl-project/verl.git
+vernesong/OpenClash[master]: https://github.com/vernesong/OpenClash.git
 vibertthio/awesome-machine-learning-art[master]: https://github.com/vibertthio/awesome-machine-learning-art.git
 vidpanos/vidpanos.github.io[main]: https://github.com/vidpanos/vidpanos.github.io.git
 vietnh1009/ASCII-generator[master]: https://github.com/vietnh1009/ASCII-generator.git
@@ -4000,6 +4007,7 @@ zai-org/GLM-130B[main]: https://github.com/zai-org/GLM-130B.git
 zai-org/GLM-4[main]: https://github.com/zai-org/GLM-4.git
 zai-org/GLM-4-Voice[main]: https://github.com/zai-org/GLM-4-Voice.git
 zai-org/Open-AutoGLM[main]: https://github.com/zai-org/Open-AutoGLM.git
+zarazhangrui/frontend-slides[main]: https://github.com/zarazhangrui/frontend-slides.git
 zbw001/TAPIP3D[main]: https://github.com/zbw001/TAPIP3D.git
 zdchan/RobustDexGrasp[main]: https://github.com/zdchan/RobustDexGrasp.git
 zealdocs/zeal[main]: https://github.com/zealdocs/zeal.git
@@ -4010,7 +4018,6 @@ zen-browser/desktop[dev]: https://github.com/zen-browser/desktop.git
 zeng-yifei/STAG4D[main]: https://github.com/zeng-yifei/STAG4D.git
 ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
-zeroclaw-labs/zeroclaw[master]: https://github.com/zeroclaw-labs/zeroclaw.git
 zeroth-robotics/zeroth-bot[main]: https://github.com/zeroth-robotics/zeroth-bot.git
 Zeta36/chess-alpha-zero[master]: https://github.com/Zeta36/chess-alpha-zero.git
 Zeyi-Lin/HivisionIDPhotos[master]: https://github.com/Zeyi-Lin/HivisionIDPhotos.git
