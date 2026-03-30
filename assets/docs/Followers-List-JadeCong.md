@@ -10,7 +10,6 @@ ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
 betancurn: https://github.com/betancurn
 BigM25: https://github.com/BigM25
-biyachio: https://github.com/biyachio
 bludnic: https://github.com/bludnic
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
@@ -22,11 +21,11 @@ COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
 CriptoNuno2024: https://github.com/CriptoNuno2024
 danielsuta: https://github.com/danielsuta
 DaurDiop: https://github.com/DaurDiop
+Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
-gyurioka: https://github.com/gyurioka
 H-K-R: https://github.com/H-K-R
 harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
@@ -40,9 +39,7 @@ jacobsomer: https://github.com/jacobsomer
 jayDevCodes: https://github.com/jayDevCodes
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
-joehanchi: https://github.com/joehanchi
 jordiaphane: https://github.com/jordiaphane
-juanforde: https://github.com/juanforde
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
@@ -50,14 +47,12 @@ Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
-lunehorb: https://github.com/lunehorb
 maliraptor: https://github.com/maliraptor
 marcelinmurhula: https://github.com/marcelinmurhula
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
-moereira: https://github.com/moereira
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 mounikaprp-blip: https://github.com/mounikaprp-blip
@@ -66,7 +61,6 @@ n4yand: https://github.com/n4yand
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
-nueryn: https://github.com/nueryn
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
@@ -95,12 +89,10 @@ sunlight0102: https://github.com/sunlight0102
 sunnyyouknow: https://github.com/sunnyyouknow
 SyedShaheerHussain: https://github.com/SyedShaheerHussain
 TeacherEvan: https://github.com/TeacherEvan
-tenrukayaba: https://github.com/tenrukayaba
 TheArtPlug: https://github.com/TheArtPlug
 toum120: https://github.com/toum120
 VIDAKHOSHPEY22: https://github.com/VIDAKHOSHPEY22
 vimal0156: https://github.com/vimal0156
-vineyuka: https://github.com/vineyuka
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
@@ -109,7 +101,6 @@ Wu-Fisher: https://github.com/Wu-Fisher
 XiaChiandXuce: https://github.com/XiaChiandXuce
 YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
-yobecroc: https://github.com/yobecroc
 yogeshvibez: https://github.com/yogeshvibez
 youziLab: https://github.com/youziLab
 Z3ltrex: https://github.com/Z3ltrex
