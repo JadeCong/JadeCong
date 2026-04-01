@@ -163,6 +163,7 @@ chatanywhere: https://github.com/chatanywhere
 ChatGPTNextWeb: https://github.com/ChatGPTNextWeb
 chathub-dev: https://github.com/chathub-dev
 chatmcp: https://github.com/chatmcp
+chenglou: https://github.com/chenglou
 CherryHQ: https://github.com/CherryHQ
 chrisalbon: https://github.com/chrisalbon
 chrislgarry: https://github.com/chrislgarry
@@ -453,6 +454,7 @@ IamCreateAI: https://github.com/IamCreateAI
 ibab: https://github.com/ibab
 ICube-Robotics: https://github.com/ICube-Robotics
 IDEA-Research: https://github.com/IDEA-Research
+idoubi: https://github.com/idoubi
 iflow-ai: https://github.com/iflow-ai
 IGL-HKUST: https://github.com/IGL-HKUST
 imba-tjd: https://github.com/imba-tjd
