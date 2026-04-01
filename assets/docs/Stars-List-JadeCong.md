@@ -450,6 +450,7 @@ browser-use/workflow-use[main]: https://github.com/browser-use/workflow-use.git
 browserbase/stagehand[main]: https://github.com/browserbase/stagehand.git
 Brummi/MonoRec[main]: https://github.com/Brummi/MonoRec.git
 brunokeymolen/hough[master]: https://github.com/brunokeymolen/hough.git
+brysonjones/multitask_dit_policy[main]: https://github.com/brysonjones/multitask_dit_policy.git
 bstadie/third_person_im[master]: https://github.com/bstadie/third_person_im.git
 btjawa/BiliTools[master]: https://github.com/btjawa/BiliTools.git
 buaacyw/MeshAnything[main]: https://github.com/buaacyw/MeshAnything.git
@@ -537,8 +538,10 @@ chatboxai/chatbox[main]: https://github.com/chatboxai/chatbox.git
 ChatGPTNextWeb/NextChat[main]: https://github.com/ChatGPTNextWeb/NextChat.git
 chathub-dev/chathub[main]: https://github.com/chathub-dev/chathub.git
 chatmcp/mcpso[main]: https://github.com/chatmcp/mcpso.git
+chauncygu/collection-claude-code-source-code[main]: https://github.com/chauncygu/collection-claude-code-source-code.git
 CHEN-H01/Fast-in-Slow[main]: https://github.com/CHEN-H01/Fast-in-Slow.git
 ChenglongChen/pytorch-DRL[master]: https://github.com/ChenglongChen/pytorch-DRL.git
+chenglou/pretext[main]: https://github.com/chenglou/pretext.git
 ChengshuLi/MoMaGen[main]: https://github.com/ChengshuLi/MoMaGen.git
 chenyuntc/pytorch-book[master]: https://github.com/chenyuntc/pytorch-book.git
 CherryHQ/cherry-studio[main]: https://github.com/CherryHQ/cherry-studio.git
@@ -1343,6 +1346,7 @@ Haiyang-W/TokenFormer[main]: https://github.com/Haiyang-W/TokenFormer.git
 Halbmond/r2_sim[master]: https://github.com/Halbmond/r2_sim.git
 Hanbo-Cheng/DAWN-pytorch[main]: https://github.com/Hanbo-Cheng/DAWN-pytorch.git
 HandsOnLLM/Hands-On-Large-Language-Models[main]: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models.git
+handx-project/HandX[main]: https://github.com/handx-project/HandX.git
 hangwin/mcp-chrome[master]: https://github.com/hangwin/mcp-chrome.git
 hanmekim/SceneLib2[master]: https://github.com/hanmekim/SceneLib2.git
 Hannibal046/Awesome-LLM[main]: https://github.com/Hannibal046/Awesome-LLM.git
@@ -1535,6 +1539,7 @@ hyperai/awesome-ai4s[master]: https://github.com/hyperai/awesome-ai4s.git
 hyperbrowserai/examples[main]: https://github.com/hyperbrowserai/examples.git
 hyperplane-lab/RGBManip[main]: https://github.com/hyperplane-lab/RGBManip.git
 hyz317/StdGEN[main]: https://github.com/hyz317/StdGEN.git
+iAIClub/claude-code[main]: https://github.com/iAIClub/claude-code.git
 IamCreateAI/NeoVerse[main]: https://github.com/IamCreateAI/NeoVerse.git
 iamgio/quarkdown[main]: https://github.com/iamgio/quarkdown.git
 iawia002/lux[master]: https://github.com/iawia002/lux.git
@@ -1585,6 +1590,7 @@ inlets/inletsctl[master]: https://github.com/inlets/inletsctl.git
 inspatio/worldfm[main]: https://github.com/inspatio/worldfm.git
 inspirelt/Turbo-GS[main]: https://github.com/inspirelt/Turbo-GS.git
 instantX-research/InstantID[main]: https://github.com/instantX-research/InstantID.git
+instructkr/claw-code[main]: https://github.com/instructkr/claw-code.git
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
 intel/ros2_openvino_toolkit[master]: https://github.com/intel/ros2_openvino_toolkit.git
 intell-sci-comput/PSE[main]: https://github.com/intell-sci-comput/PSE.git
@@ -1793,6 +1799,7 @@ justinzm/gopup[master]: https://github.com/justinzm/gopup.git
 justjavac/awesome-wechat-weapp[main]: https://github.com/justjavac/awesome-wechat-weapp.git
 justjavac/free-programming-books-zh_CN[main]: https://github.com/justjavac/free-programming-books-zh_CN.git
 Juzezhang/NeuralDome_Toolbox[main]: https://github.com/Juzezhang/NeuralDome_Toolbox.git
+jvanakker/tesla-fsd-can-mod[main]: https://github.com/jvanakker/tesla-fsd-can-mod.git
 jwasham/coding-interview-university[main]: https://github.com/jwasham/coding-interview-university.git
 jwasham/computer-science-flash-cards[main]: https://github.com/jwasham/computer-science-flash-cards.git
 jyjblrd/Low-Cost-Mocap[main]: https://github.com/jyjblrd/Low-Cost-Mocap.git
@@ -2860,6 +2867,7 @@ prathimacode-hub/Ezy-Parking[main]: https://github.com/prathimacode-hub/Ezy-Park
 PRBonn/kiss-icp[main]: https://github.com/PRBonn/kiss-icp.git
 prefix-dev/pixi[main]: https://github.com/prefix-dev/pixi.git
 premake/premake-core[master]: https://github.com/premake/premake-core.git
+PreTeXtBook/pretext[master]: https://github.com/PreTeXtBook/pretext.git
 prgumd/FeelAnyForce[main]: https://github.com/prgumd/FeelAnyForce.git
 PRIME-RL/PRIME[main]: https://github.com/PRIME-RL/PRIME.git
 PRIME-RL/SimpleVLA-RL[main]: https://github.com/PRIME-RL/SimpleVLA-RL.git
@@ -3946,6 +3954,7 @@ YJango/Tensorflow-eager-execution[master]: https://github.com/YJango/Tensorflow-
 YJango/tensorflow_basic_tutorial[master]: https://github.com/YJango/tensorflow_basic_tutorial.git
 yjy0625/equibot[main]: https://github.com/yjy0625/equibot.git
 yjy0625/mobipi[release]: https://github.com/yjy0625/mobipi.git
+yliu-cs/MMaDA-VLA[main]: https://github.com/yliu-cs/MMaDA-VLA.git
 yllhwa/RSSWorker[main]: https://github.com/yllhwa/RSSWorker.git
 ymcui/Chinese-BERT-wwm[master]: https://github.com/ymcui/Chinese-BERT-wwm.git
 ymcui/Chinese-XLNet[master]: https://github.com/ymcui/Chinese-XLNet.git
