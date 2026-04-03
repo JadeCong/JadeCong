@@ -55,7 +55,6 @@ Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
-mounikaprp-blip: https://github.com/mounikaprp-blip
 mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
 nholuongut: https://github.com/nholuongut
