@@ -490,6 +490,7 @@ camel-ai/owl[main]: https://github.com/camel-ai/owl.git
 cangcz/AnchorCrafter[master]: https://github.com/cangcz/AnchorCrafter.git
 Canner/WrenAI[main]: https://github.com/Canner/WrenAI.git
 CapeAga/bai-it[main]: https://github.com/CapeAga/bai-it.git
+capgym/cap-x[main]: https://github.com/capgym/cap-x.git
 CapSoftware/Cap[main]: https://github.com/CapSoftware/Cap.git
 carbon-language/carbon-lang[trunk]: https://github.com/carbon-language/carbon-lang.git
 carla-simulator/carla[ue5-dev]: https://github.com/carla-simulator/carla.git
@@ -1590,7 +1591,6 @@ inlets/inletsctl[master]: https://github.com/inlets/inletsctl.git
 inspatio/worldfm[main]: https://github.com/inspatio/worldfm.git
 inspirelt/Turbo-GS[main]: https://github.com/inspirelt/Turbo-GS.git
 instantX-research/InstantID[main]: https://github.com/instantX-research/InstantID.git
-instructkr/claw-code[main]: https://github.com/instructkr/claw-code.git
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
 intel/ros2_openvino_toolkit[master]: https://github.com/intel/ros2_openvino_toolkit.git
 intell-sci-comput/PSE[main]: https://github.com/intell-sci-comput/PSE.git
@@ -2484,6 +2484,7 @@ npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphC
 nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
 ntegrals/10x[main]: https://github.com/ntegrals/10x.git
+NTUYWANG103/Hand2World[master]: https://github.com/NTUYWANG103/Hand2World.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
 nullclaw/nullclaw[main]: https://github.com/nullclaw/nullclaw.git
@@ -2712,6 +2713,7 @@ OpenTalker/SadTalker[main]: https://github.com/OpenTalker/SadTalker.git
 OpenTeleVision/AMO[main]: https://github.com/OpenTeleVision/AMO.git
 OpenTeleVision/TeleVision[main]: https://github.com/OpenTeleVision/TeleVision.git
 opentiny/tiny-engine[develop]: https://github.com/opentiny/tiny-engine.git
+openverse-orca/OrcaLab[main]: https://github.com/openverse-orca/OrcaLab.git
 openvla/openvla[main]: https://github.com/openvla/openvla.git
 openworm/OpenWorm[master]: https://github.com/openworm/OpenWorm.git
 openwsn-berkeley/coap[develop]: https://github.com/openwsn-berkeley/coap.git
@@ -2722,6 +2724,7 @@ orbbec/OrbbecSDK_ROS2[v2-main]: https://github.com/orbbec/OrbbecSDK_ROS2.git
 orbbec/OrbbecSDK_v2[main]: https://github.com/orbbec/OrbbecSDK_v2.git
 orcahand/orcahand_description[main]: https://github.com/orcahand/orcahand_description.git
 orcahand/orca_core[main]: https://github.com/orcahand/orca_core.git
+orcahand/orca_sim[main]: https://github.com/orcahand/orca_sim.git
 organicmaps/organicmaps[master]: https://github.com/organicmaps/organicmaps.git
 orocos/orocos_kinematics_dynamics[master]: https://github.com/orocos/orocos_kinematics_dynamics.git
 OS-Copilot/OS-Copilot[main]: https://github.com/OS-Copilot/OS-Copilot.git
@@ -2893,6 +2896,8 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
+punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
+punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
@@ -3164,6 +3169,7 @@ Samsung/ONE[master]: https://github.com/Samsung/ONE.git
 Samsung/TizenRT[master]: https://github.com/Samsung/TizenRT.git
 samuelclay/NewsBlur[main]: https://github.com/samuelclay/NewsBlur.git
 SamuelSchmidgall/AgentLaboratory[main]: https://github.com/SamuelSchmidgall/AgentLaboratory.git
+sanbuphy/learn-coding-agent[main]: https://github.com/sanbuphy/learn-coding-agent.git
 SandAI-org/MAGI-1[main]: https://github.com/SandAI-org/MAGI-1.git
 sansan0/TrendRadar[master]: https://github.com/sansan0/TrendRadar.git
 santinic/audiblez[main]: https://github.com/santinic/audiblez.git
@@ -3320,6 +3326,7 @@ sqlalchemy/sqlalchemy[main]: https://github.com/sqlalchemy/sqlalchemy.git
 sqlite/sqlite[master]: https://github.com/sqlite/sqlite.git
 squidfunk/mkdocs-material[master]: https://github.com/squidfunk/mkdocs-material.git
 sreeharierk/datascience[main]: https://github.com/sreeharierk/datascience.git
+ssrajadh/sentrysearch[master]: https://github.com/ssrajadh/sentrysearch.git
 ssyang2020/ZeroSmooth[main]: https://github.com/ssyang2020/ZeroSmooth.git
 Stability-AI/generative-models[main]: https://github.com/Stability-AI/generative-models.git
 Stability-AI/stable-fast-3d[main]: https://github.com/Stability-AI/stable-fast-3d.git
@@ -3652,6 +3659,7 @@ Ujwal2910/Deep-RL-on-Gfootabll-Google-football-OpenAI-style-environment[master]:
 ultralytics/ultralytics[main]: https://github.com/ultralytics/ultralytics.git
 ultralytics/yolov3[master]: https://github.com/ultralytics/yolov3.git
 ultralytics/yolov5[master]: https://github.com/ultralytics/yolov5.git
+ultraworkers/claw-code[main]: https://github.com/ultraworkers/claw-code.git
 UMass-Embodied-AGI/Articulate-Anymesh[main]: https://github.com/UMass-Embodied-AGI/Articulate-Anymesh.git
 UMass-Embodied-AGI/Genesis-Humanoid[main]: https://github.com/UMass-Embodied-AGI/Genesis-Humanoid.git
 UMass-Embodied-AGI/TesserAct[main]: https://github.com/UMass-Embodied-AGI/TesserAct.git
@@ -4027,6 +4035,7 @@ zen-browser/desktop[dev]: https://github.com/zen-browser/desktop.git
 zeng-yifei/STAG4D[main]: https://github.com/zeng-yifei/STAG4D.git
 ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
+zeroclaw-labs/zeroclaw[master]: https://github.com/zeroclaw-labs/zeroclaw.git
 zeroth-robotics/zeroth-bot[main]: https://github.com/zeroth-robotics/zeroth-bot.git
 Zeta36/chess-alpha-zero[master]: https://github.com/Zeta36/chess-alpha-zero.git
 Zeyi-Lin/HivisionIDPhotos[master]: https://github.com/Zeyi-Lin/HivisionIDPhotos.git
