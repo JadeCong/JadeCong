@@ -147,6 +147,7 @@ cambrian-mllm: https://github.com/cambrian-mllm
 camel-ai: https://github.com/camel-ai
 Canner: https://github.com/Canner
 canonical: https://github.com/canonical
+capgym: https://github.com/capgym
 Capri2014: https://github.com/Capri2014
 CapSoftware: https://github.com/CapSoftware
 carbon-language: https://github.com/carbon-language
@@ -782,6 +783,7 @@ OpenSpace: https://github.com/OpenSpace
 OpenSPG: https://github.com/OpenSPG
 OpenTeleVision: https://github.com/OpenTeleVision
 opentiny: https://github.com/opentiny
+openverse-orca: https://github.com/openverse-orca
 openvla: https://github.com/openvla
 openworm: https://github.com/openworm
 openxla: https://github.com/openxla
@@ -852,6 +854,7 @@ psf: https://github.com/psf
 Psi-Robot: https://github.com/Psi-Robot
 ptrblck: https://github.com/ptrblck
 pulibrary: https://github.com/pulibrary
+punkpeye: https://github.com/punkpeye
 putyy: https://github.com/putyy
 pybind: https://github.com/pybind
 pygame: https://github.com/pygame
@@ -949,6 +952,7 @@ sair-lab: https://github.com/sair-lab
 Saiyan-World: https://github.com/Saiyan-World
 SakanaAI: https://github.com/SakanaAI
 SamuelSchmidgall: https://github.com/SamuelSchmidgall
+sanbuphy: https://github.com/sanbuphy
 saprmarks: https://github.com/saprmarks
 sashabaranov: https://github.com/sashabaranov
 scrapy: https://github.com/scrapy
@@ -1115,6 +1119,7 @@ uiuckimlab: https://github.com/uiuckimlab
 uiverse-io: https://github.com/uiverse-io
 UKPLab: https://github.com/UKPLab
 ultralytics: https://github.com/ultralytics
+ultraworkers: https://github.com/ultraworkers
 UMass-Embodied-AGI: https://github.com/UMass-Embodied-AGI
 UMich-BipedLab: https://github.com/UMich-BipedLab
 unified-field-theory-org: https://github.com/unified-field-theory-org
@@ -1249,6 +1254,7 @@ zarazhangrui: https://github.com/zarazhangrui
 zealdocs: https://github.com/zealdocs
 zed-industries: https://github.com/zed-industries
 zen-browser: https://github.com/zen-browser
+zeroclaw-labs: https://github.com/zeroclaw-labs
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
 ZhengyiLuo: https://github.com/ZhengyiLuo
