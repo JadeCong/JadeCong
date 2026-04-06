@@ -953,6 +953,7 @@ facebookarchive/caffe2[master]: https://github.com/facebookarchive/caffe2.git
 facebookarchive/fb.resnet.torch[master]: https://github.com/facebookarchive/fb.resnet.torch.git
 facebookarchive/react-360[master]: https://github.com/facebookarchive/react-360.git
 facebookarchive/UETorch[master]: https://github.com/facebookarchive/UETorch.git
+facebookresearch/ai4animationpy[main]: https://github.com/facebookresearch/ai4animationpy.git
 facebookresearch/AnimatedDrawings[main]: https://github.com/facebookresearch/AnimatedDrawings.git
 facebookresearch/blt[main]: https://github.com/facebookresearch/blt.git
 facebookresearch/chameleon[main]: https://github.com/facebookresearch/chameleon.git
@@ -1184,6 +1185,7 @@ Genesis-Embodied-AI/RoboGen[main]: https://github.com/Genesis-Embodied-AI/RoboGe
 genforce/JOSH[main]: https://github.com/genforce/JOSH.git
 GenieReasoner/ERIQ[main]: https://github.com/GenieReasoner/ERIQ.git
 Geniusay/ChopperBot[master]: https://github.com/Geniusay/ChopperBot.git
+GenRobo/DreamControl[main]: https://github.com/GenRobo/DreamControl.git
 Gerrnperl/outline-map[main]: https://github.com/Gerrnperl/outline-map.git
 GestureGeneration/Speech_driven_gesture_generation_with_autoencoder[master]: https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder.git
 getlantern/lantern[main]: https://github.com/getlantern/lantern.git
@@ -1220,6 +1222,7 @@ GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese[main]: https://
 GitHubDaily/GitHubDaily[master]: https://github.com/GitHubDaily/GitHubDaily.git
 githubnext/copilot-workspace-user-manual[main]: https://github.com/githubnext/copilot-workspace-user-manual.git
 githubwing/GankClient-Kotlin[master]: https://github.com/githubwing/GankClient-Kotlin.git
+Gitlawb/openclaude[main]: https://github.com/Gitlawb/openclaude.git
 GitYCC/NTU_HYLee_MachineLearning_Homework[master]: https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework.git
 gkahn13/gcg[gcg_release]: https://github.com/gkahn13/gcg.git
 gkjohnson/closed-chain-ik-js[main]: https://github.com/gkjohnson/closed-chain-ik-js.git
@@ -1966,6 +1969,7 @@ leggedrobotics/rsl_rl[main]: https://github.com/leggedrobotics/rsl_rl.git
 leggedrobotics/SimBenchmark[master]: https://github.com/leggedrobotics/SimBenchmark.git
 leggedrobotics/viplanner[main]: https://github.com/leggedrobotics/viplanner.git
 leigest519/ScreenCoder[main]: https://github.com/leigest519/ScreenCoder.git
+leilei926524-tech/anti-distill[master]: https://github.com/leilei926524-tech/anti-distill.git
 leimao/Voice-Converter-CycleGAN[master]: https://github.com/leimao/Voice-Converter-CycleGAN.git
 leisurelicht/wtfpython-cn[master]: https://github.com/leisurelicht/wtfpython-cn.git
 lemonhu/stock-knowledge-graph[master]: https://github.com/lemonhu/stock-knowledge-graph.git
@@ -2028,6 +2032,7 @@ liyaowei-stu/ImageConductor[main]: https://github.com/liyaowei-stu/ImageConducto
 liyi14/HAMSTER_beta[main]: https://github.com/liyi14/HAMSTER_beta.git
 liyi14/mx-DeepIM[master]: https://github.com/liyi14/mx-DeepIM.git
 liyiteng/AlohaMini[main]: https://github.com/liyiteng/AlohaMini.git
+liyupi/ai-guide[main]: https://github.com/liyupi/ai-guide.git
 LizardByte/Sunshine[master]: https://github.com/LizardByte/Sunshine.git
 ljean/modbus-tk[master]: https://github.com/ljean/modbus-tk.git
 lllyasviel/ControlNet[main]: https://github.com/lllyasviel/ControlNet.git
@@ -2286,6 +2291,7 @@ mingukkang/GigaGAN[main]: https://github.com/mingukkang/GigaGAN.git
 Minidoracat/mcp-feedback-enhanced[main]: https://github.com/Minidoracat/mcp-feedback-enhanced.git
 minqi/learning-to-communicate-pytorch[master]: https://github.com/minqi/learning-to-communicate-pytorch.git
 mint-lab/awesome-robotics-datasets[master]: https://github.com/mint-lab/awesome-robotics-datasets.git
+MINT-SJTU/Evo-RL[main]: https://github.com/MINT-SJTU/Evo-RL.git
 MINT-SJTU/LeRobot-Anything-U-Arm[main]: https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm.git
 MINT-SJTU/RoboClaw[main]: https://github.com/MINT-SJTU/RoboClaw.git
 mintar/mimic_joint_gazebo_tutorial[kinetic]: https://github.com/mintar/mimic_joint_gazebo_tutorial.git
@@ -2358,6 +2364,7 @@ MorvanZhou/Tensorflow-Tutorial[master]: https://github.com/MorvanZhou/Tensorflow
 MorvanZhou/tutorials[master]: https://github.com/MorvanZhou/tutorials.git
 mosaicml/composer[main]: https://github.com/mosaicml/composer.git
 moses-palmer/pynput[master]: https://github.com/moses-palmer/pynput.git
+motiful/cc-gateway[main]: https://github.com/motiful/cc-gateway.git
 motiondivision/motion[main]: https://github.com/motiondivision/motion.git
 MotrixLab/SMPLer-X[main]: https://github.com/MotrixLab/SMPLer-X.git
 mountain-loop/yaak[main]: https://github.com/mountain-loop/yaak.git
@@ -2378,6 +2385,7 @@ mschneider456/worldmesh[main]: https://github.com/mschneider456/worldmesh.git
 msgpack-rpc/msgpack-rpc[master]: https://github.com/msgpack-rpc/msgpack-rpc.git
 mshoe/PARC[main]: https://github.com/mshoe/PARC.git
 MSiam/motion_adaptation[master]: https://github.com/MSiam/motion_adaptation.git
+msitarzewski/agency-agents[main]: https://github.com/msitarzewski/agency-agents.git
 mttga/purejaxql[main]: https://github.com/mttga/purejaxql.git
 mudler/LocalAI[master]: https://github.com/mudler/LocalAI.git
 muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
@@ -2669,6 +2677,7 @@ OpenBMB/ChatDev[main]: https://github.com/OpenBMB/ChatDev.git
 OpenBMB/MiniCPM-o[main]: https://github.com/OpenBMB/MiniCPM-o.git
 OpenBMB/ProAgent[main]: https://github.com/OpenBMB/ProAgent.git
 OpenBMB/XAgent[main]: https://github.com/OpenBMB/XAgent.git
+openclaw/clawhub[main]: https://github.com/openclaw/clawhub.git
 openclaw/openclaw[main]: https://github.com/openclaw/openclaw.git
 opencv/opencv[4.x]: https://github.com/opencv/opencv.git
 opencv/opencv-python[4.x]: https://github.com/opencv/opencv-python.git
@@ -2765,6 +2774,7 @@ pallets/flask[main]: https://github.com/pallets/flask.git
 pandas-dev/pandas[main]: https://github.com/pandas-dev/pandas.git
 PanJiaChen/vue-element-admin[master]: https://github.com/PanJiaChen/vue-element-admin.git
 paolo-projects/auto-unlocker[master]: https://github.com/paolo-projects/auto-unlocker.git
+paoloanzn/free-code[main]: https://github.com/paoloanzn/free-code.git
 PaoPaoRobot/ICRA2020-paper-list[master]: https://github.com/PaoPaoRobot/ICRA2020-paper-list.git
 PaoPaoRobot/SLAMPaperReading[master]: https://github.com/PaoPaoRobot/SLAMPaperReading.git
 paperless-ngx/paperless-ngx[dev]: https://github.com/paperless-ngx/paperless-ngx.git
@@ -3510,6 +3520,7 @@ TheEngineRoom-UniGe/ARMOR_OWLOOP[master]: https://github.com/TheEngineRoom-UniGe
 TheKingOfDuck/burpFakeIP[master]: https://github.com/TheKingOfDuck/burpFakeIP.git
 TheMistoAI/MistoLine[main]: https://github.com/TheMistoAI/MistoLine.git
 theopfr/somo[master]: https://github.com/theopfr/somo.git
+therealXiaomanChu/ex-skill[main]: https://github.com/therealXiaomanChu/ex-skill.git
 TheRobotStudio/HOPEJr[main]: https://github.com/TheRobotStudio/HOPEJr.git
 TheRobotStudio/SO-ARM100[main]: https://github.com/TheRobotStudio/SO-ARM100.git
 TheRobotStudio/V1.0-Dexhand[main]: https://github.com/TheRobotStudio/V1.0-Dexhand.git
@@ -3552,6 +3563,7 @@ TingliangZhang/VR_Robot_Thesis[master]: https://github.com/TingliangZhang/VR_Rob
 TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
 TinyAGI/tinyagi[main]: https://github.com/TinyAGI/tinyagi.git
 tiptop-robot/tiptop[main]: https://github.com/tiptop-robot/tiptop.git
+titanwings/colleague-skill[main]: https://github.com/titanwings/colleague-skill.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
@@ -3709,6 +3721,7 @@ UT-Austin-RPL/GROOT[master]: https://github.com/UT-Austin-RPL/GROOT.git
 UT-Austin-RPL/TRILL[main]: https://github.com/UT-Austin-RPL/TRILL.git
 UT-HCRL/LEGATO[main]: https://github.com/UT-HCRL/LEGATO.git
 utiasDSL/fiper[main]: https://github.com/utiasDSL/fiper.git
+UW-Lab/UWLab[main]: https://github.com/UW-Lab/UWLab.git
 UWRobotLearning/WheeledLab[main]: https://github.com/UWRobotLearning/WheeledLab.git
 uynitsuj/real2render2real[main]: https://github.com/uynitsuj/real2render2real.git
 UZ-SLAMLab/ORB_SLAM3[master]: https://github.com/UZ-SLAMLab/ORB_SLAM3.git
@@ -3942,6 +3955,7 @@ YanjieZe/Improved-3D-Diffusion-Policy[main]: https://github.com/YanjieZe/Improve
 YanjieZe/TWIST[master]: https://github.com/YanjieZe/TWIST.git
 yannqi/Draw-an-Audio-Code[main]: https://github.com/yannqi/Draw-an-Audio-Code.git
 yao62995/tensorflow[master]: https://github.com/yao62995/tensorflow.git
+Yeachan-Heo/oh-my-codex[main]: https://github.com/Yeachan-Heo/oh-my-codex.git
 yeahhub/Hacking-Security-Ebooks[master]: https://github.com/yeahhub/Hacking-Security-Ebooks.git
 yenchenlin/DeepLearningFlappyBird[master]: https://github.com/yenchenlin/DeepLearningFlappyBird.git
 yenchenlin/pix2pix-tensorflow[master]: https://github.com/yenchenlin/pix2pix-tensorflow.git
