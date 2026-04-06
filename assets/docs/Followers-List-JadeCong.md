@@ -8,9 +8,10 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
-betancurn: https://github.com/betancurn
+betancurnm: https://github.com/betancurnm
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
+buraksocial: https://github.com/buraksocial
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
