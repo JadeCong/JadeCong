@@ -360,6 +360,7 @@ gen-robot: https://github.com/gen-robot
 Gen-Verse: https://github.com/Gen-Verse
 generalroboticslab: https://github.com/generalroboticslab
 Genesis-Embodied-AI: https://github.com/Genesis-Embodied-AI
+GenRobo: https://github.com/GenRobo
 getlantern: https://github.com/getlantern
 getomni-ai: https://github.com/getomni-ai
 GetStream: https://github.com/GetStream
@@ -369,6 +370,7 @@ gggliuye: https://github.com/gggliuye
 GitbookIO: https://github.com/GitbookIO
 github: https://github.com/github
 githubnext: https://github.com/githubnext
+Gitlawb: https://github.com/Gitlawb
 gkjohnson: https://github.com/gkjohnson
 glenn-jocher: https://github.com/glenn-jocher
 go-redis: https://github.com/go-redis
@@ -583,6 +585,7 @@ Lissy93: https://github.com/Lissy93
 LiteOS: https://github.com/LiteOS
 liuff19: https://github.com/liuff19
 liyiteng: https://github.com/liyiteng
+liyupi: https://github.com/liyupi
 LizardByte: https://github.com/LizardByte
 lllyasviel: https://github.com/lllyasviel
 llvm: https://github.com/llvm
@@ -670,6 +673,7 @@ mpaepper: https://github.com/mpaepper
 mrdbourke: https://github.com/mrdbourke
 MrTornado24: https://github.com/MrTornado24
 mshoe: https://github.com/mshoe
+msitarzewski: https://github.com/msitarzewski
 mudler: https://github.com/mudler
 mujocolab: https://github.com/mujocolab
 musistudio: https://github.com/musistudio
@@ -1138,6 +1142,7 @@ ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
 utiasDSL: https://github.com/utiasDSL
+UW-Lab: https://github.com/UW-Lab
 UWRobotLearning: https://github.com/UWRobotLearning
 uynitsuj: https://github.com/uynitsuj
 UZ-SLAMLab: https://github.com/UZ-SLAMLab
@@ -1230,6 +1235,7 @@ yang-zj1026: https://github.com/yang-zj1026
 Yangqing: https://github.com/Yangqing
 yangxue0827: https://github.com/yangxue0827
 YanjieZe: https://github.com/YanjieZe
+Yeachan-Heo: https://github.com/Yeachan-Heo
 yerfor: https://github.com/yerfor
 yformer: https://github.com/yformer
 Yidadaa: https://github.com/Yidadaa
