@@ -1141,6 +1141,7 @@ usememos: https://github.com/usememos
 ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
+utahmobl: https://github.com/utahmobl
 utiasDSL: https://github.com/utiasDSL
 UW-Lab: https://github.com/UW-Lab
 UWRobotLearning: https://github.com/UWRobotLearning
