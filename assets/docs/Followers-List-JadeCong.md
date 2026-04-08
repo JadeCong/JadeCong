@@ -8,7 +8,7 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
-betancurnm: https://github.com/betancurnm
+betancurn: https://github.com/betancurn
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
 buraksocial: https://github.com/buraksocial
