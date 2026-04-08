@@ -894,6 +894,7 @@ EnoxSoftware/OpenCVForUnity[master]: https://github.com/EnoxSoftware/OpenCVForUn
 EnVision-Research/DVD[main]: https://github.com/EnVision-Research/DVD.git
 EnVision-Research/Gaussian-Property[main]: https://github.com/EnVision-Research/Gaussian-Property.git
 EnVision-Research/Kiss3DGen[main]: https://github.com/EnVision-Research/Kiss3DGen.git
+enzyme2013/polanyi-skill[main]: https://github.com/enzyme2013/polanyi-skill.git
 eosphoros-ai/DB-GPT[main]: https://github.com/eosphoros-ai/DB-GPT.git
 eric-ai-lab/swap-anything[main]: https://github.com/eric-ai-lab/swap-anything.git
 eric-mitchell/detect-gpt[main]: https://github.com/eric-mitchell/detect-gpt.git
@@ -1445,6 +1446,7 @@ hmrishavbandy/FlipSketch[main]: https://github.com/hmrishavbandy/FlipSketch.git
 hms-dbmi/CHIEF[main]: https://github.com/hms-dbmi/CHIEF.git
 Ho-lab-jaist/protac[main]: https://github.com/Ho-lab-jaist/protac.git
 hoangminhle/hierarchical_IL_RL[master]: https://github.com/hoangminhle/hierarchical_IL_RL.git
+Holiday-Robot/FlashSAC[main]: https://github.com/Holiday-Robot/FlashSAC.git
 holistic-3d/awesome-holistic-3d[master]: https://github.com/holistic-3d/awesome-holistic-3d.git
 Holistic-Motion2D/Tender[main]: https://github.com/Holistic-Motion2D/Tender.git
 holman/dotfiles[master]: https://github.com/holman/dotfiles.git
@@ -1914,7 +1916,7 @@ kyzhouhzau/BERT-NER[master]: https://github.com/kyzhouhzau/BERT-NER.git
 labmlai/annotated_deep_learning_paper_implementations[master]: https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
 labring/FastGPT[main]: https://github.com/labring/FastGPT.git
 labteral/chatgpt-python[master]: https://github.com/labteral/chatgpt-python.git
-labuladong/fucking-algorithm[english]: https://github.com/labuladong/fucking-algorithm.git
+labuladong/fucking-algorithm[master]: https://github.com/labuladong/fucking-algorithm.git
 Lakr233/Asspp[main]: https://github.com/Lakr233/Asspp.git
 LAMDA-NJU/Deep-Forest[master]: https://github.com/LAMDA-NJU/Deep-Forest.git
 lamm-mit/PRefLexOR[main]: https://github.com/lamm-mit/PRefLexOR.git
@@ -2115,6 +2117,7 @@ LynnHo/CycleGAN-Tensorflow-2[master]: https://github.com/LynnHo/CycleGAN-Tensorf
 lyswhut/lx-music-desktop[master]: https://github.com/lyswhut/lx-music-desktop.git
 lyswhut/lx-music-mobile[master]: https://github.com/lyswhut/lx-music-mobile.git
 lyswhut/lx-music-sync-server[master]: https://github.com/lyswhut/lx-music-sync-server.git
+lzyang2000/twist2_mjlab[master]: https://github.com/lzyang2000/twist2_mjlab.git
 m-damien/VisualStoryWriting[main]: https://github.com/m-damien/VisualStoryWriting.git
 m5stack/StackChan[main]: https://github.com/m5stack/StackChan.git
 Ma-Lab-Berkeley/ReduNet[master]: https://github.com/Ma-Lab-Berkeley/ReduNet.git
@@ -2816,6 +2819,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
+PhyAgentOS/PhyAgentOS[main]: https://github.com/PhyAgentOS/PhyAgentOS.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
@@ -2906,8 +2910,6 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
-punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
-punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
@@ -3233,6 +3235,10 @@ shareAI-lab/Kode-Agent[main]: https://github.com/shareAI-lab/Kode-Agent.git
 shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
+sharpa-robotics/sharpa-manus-sdk[main]: https://github.com/sharpa-robotics/sharpa-manus-sdk.git
+sharpa-robotics/sharpa-rl-lab[main]: https://github.com/sharpa-robotics/sharpa-rl-lab.git
+sharpa-robotics/sharpa-tacmap[main]: https://github.com/sharpa-robotics/sharpa-tacmap.git
+sharpa-robotics/sharpa-tactile-sensor-assets[main]: https://github.com/sharpa-robotics/sharpa-tactile-sensor-assets.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
 shelhamer/revolver[master]: https://github.com/shelhamer/revolver.git
 ShengranHu/ADAS[main]: https://github.com/ShengranHu/ADAS.git
@@ -3720,6 +3726,7 @@ UT-Austin-RPL/deoxys_control[main]: https://github.com/UT-Austin-RPL/deoxys_cont
 UT-Austin-RPL/GROOT[master]: https://github.com/UT-Austin-RPL/GROOT.git
 UT-Austin-RPL/TRILL[main]: https://github.com/UT-Austin-RPL/TRILL.git
 UT-HCRL/LEGATO[main]: https://github.com/UT-HCRL/LEGATO.git
+utahmobl/opencap-monocular[main]: https://github.com/utahmobl/opencap-monocular.git
 utiasDSL/fiper[main]: https://github.com/utiasDSL/fiper.git
 UW-Lab/UWLab[main]: https://github.com/UW-Lab/UWLab.git
 UWRobotLearning/WheeledLab[main]: https://github.com/UWRobotLearning/WheeledLab.git
