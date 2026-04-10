@@ -121,6 +121,7 @@ Akryum/vue-virtual-scroller[master]: https://github.com/Akryum/vue-virtual-scrol
 akullpp/awesome-java[master]: https://github.com/akullpp/awesome-java.git
 Alamofire/Alamofire[master]: https://github.com/Alamofire/Alamofire.git
 AlbertSlam/Lee-SLAM-source[master]: https://github.com/AlbertSlam/Lee-SLAM-source.git
+alchaincyf/zhangxuefeng-skill[main]: https://github.com/alchaincyf/zhangxuefeng-skill.git
 alebcay/awesome-shell[master]: https://github.com/alebcay/awesome-shell.git
 alex-damian/pulse[master]: https://github.com/alex-damian/pulse.git
 AlexanderKoch-Koch/low_cost_robot[main]: https://github.com/AlexanderKoch-Koch/low_cost_robot.git
@@ -312,6 +313,7 @@ assimon/dujiaoka[master]: https://github.com/assimon/dujiaoka.git
 astooke/rlpyt[master]: https://github.com/astooke/rlpyt.git
 AstroHiro/ncm[master]: https://github.com/AstroHiro/ncm.git
 asweigart/pyautogui[master]: https://github.com/asweigart/pyautogui.git
+ATeam-Research/A1[main]: https://github.com/ATeam-Research/A1.git
 atiilla/GeoIntel[main]: https://github.com/atiilla/GeoIntel.git
 AuboRobot/aubo_robot[Noetic]: https://github.com/AuboRobot/aubo_robot.git
 AuboRobot/aubo_ros2_driver[main]: https://github.com/AuboRobot/aubo_ros2_driver.git
@@ -379,9 +381,7 @@ bbussolino/Q-CapsNets[master]: https://github.com/bbussolino/Q-CapsNets.git
 bbycroft/llm-viz[main]: https://github.com/bbycroft/llm-viz.git
 bcicen/ctop[master]: https://github.com/bcicen/ctop.git
 bcmi/Light-A-Video[main]: https://github.com/bcmi/Light-A-Video.git
-bdaiinstitute/judo[main]: https://github.com/bdaiinstitute/judo.git
 bdaiinstitute/spot_ros2[main]: https://github.com/bdaiinstitute/spot_ros2.git
-bdaiinstitute/theia[main]: https://github.com/bdaiinstitute/theia.git
 behavior-robot-suite/brs-algo[main]: https://github.com/behavior-robot-suite/brs-algo.git
 behavior-robot-suite/brs-ctrl[main]: https://github.com/behavior-robot-suite/brs-ctrl.git
 BeingBeyond/Being-H[main]: https://github.com/BeingBeyond/Being-H.git
@@ -594,7 +594,7 @@ codertimo/BERT-pytorch[master]: https://github.com/codertimo/BERT-pytorch.git
 codexu/note-gen[dev]: https://github.com/codexu/note-gen.git
 cohere-ai/cohere-toolkit[main]: https://github.com/cohere-ai/cohere-toolkit.git
 coinbase/coinbase-wallet-sdk[master]: https://github.com/coinbase/coinbase-wallet-sdk.git
-coleam00/Archon[main]: https://github.com/coleam00/Archon.git
+coleam00/Archon[dev]: https://github.com/coleam00/Archon.git
 ColinQiyangLi/qc[main]: https://github.com/ColinQiyangLi/qc.git
 coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/dynamic-gaussian-marbles.git
 Comfy-Org/ComfyUI[master]: https://github.com/Comfy-Org/ComfyUI.git
@@ -1544,6 +1544,7 @@ hydecorp/hydejack-starter-kit[master]: https://github.com/hydecorp/hydejack-star
 hyperai/awesome-ai4s[master]: https://github.com/hyperai/awesome-ai4s.git
 hyperbrowserai/examples[main]: https://github.com/hyperbrowserai/examples.git
 hyperplane-lab/RGBManip[main]: https://github.com/hyperplane-lab/RGBManip.git
+hypery11/flipper-tesla-fsd[main]: https://github.com/hypery11/flipper-tesla-fsd.git
 hyz317/StdGEN[main]: https://github.com/hyz317/StdGEN.git
 iAIClub/claude-code[main]: https://github.com/iAIClub/claude-code.git
 IamCreateAI/NeoVerse[main]: https://github.com/IamCreateAI/NeoVerse.git
@@ -1662,7 +1663,7 @@ Jack-Cherish/python-spider[master]: https://github.com/Jack-Cherish/python-spide
 jackfrued/Python-100-Days[master]: https://github.com/jackfrued/Python-100-Days.git
 jackfrued/Python-Core-50-Courses[master]: https://github.com/jackfrued/Python-Core-50-Courses.git
 jackfrued/Python-Interview-Bible[master]: https://github.com/jackfrued/Python-Interview-Bible.git
-jackwener/opencli[main]: https://github.com/jackwener/opencli.git
+jackwener/OpenCLI[main]: https://github.com/jackwener/OpenCLI.git
 JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
 JadeCong/Awesome-Artificial-Intelligence[main]: https://github.com/JadeCong/Awesome-Artificial-Intelligence.git
@@ -2910,6 +2911,8 @@ psf/black[main]: https://github.com/psf/black.git
 Psi-Robot/DexGraspVLA[main]: https://github.com/Psi-Robot/DexGraspVLA.git
 public-apis/public-apis[master]: https://github.com/public-apis/public-apis.git
 pulkitag/ief[master]: https://github.com/pulkitag/ief.git
+punkpeye/awesome-mcp-clients[main]: https://github.com/punkpeye/awesome-mcp-clients.git
+punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-servers.git
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
@@ -2954,6 +2957,8 @@ qwibitai/nanoclaw[main]: https://github.com/qwibitai/nanoclaw.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
+rai-opensource/judo[main]: https://github.com/rai-opensource/judo.git
+rai-opensource/theia[main]: https://github.com/rai-opensource/theia.git
 rail-berkeley/bridge_data_v2[main]: https://github.com/rail-berkeley/bridge_data_v2.git
 rail-berkeley/crossformer[main]: https://github.com/rail-berkeley/crossformer.git
 rail-berkeley/hil-serl[main]: https://github.com/rail-berkeley/hil-serl.git
@@ -3716,6 +3721,7 @@ upscayl/upscayl[main]: https://github.com/upscayl/upscayl.git
 Upsonic/Upsonic[master]: https://github.com/Upsonic/Upsonic.git
 upstash/context7[master]: https://github.com/upstash/context7.git
 uqfoundation/multiprocess[master]: https://github.com/uqfoundation/multiprocess.git
+URLab-Sim/UnrealRoboticsLab[main]: https://github.com/URLab-Sim/UnrealRoboticsLab.git
 Usagi-org/ai-goofish-monitor[master]: https://github.com/Usagi-org/ai-goofish-monitor.git
 usebruno/bruno[main]: https://github.com/usebruno/bruno.git
 usememos/memos[main]: https://github.com/usememos/memos.git
@@ -4125,6 +4131,7 @@ ZuodaoTech/everyone-can-use-english[main]: https://github.com/ZuodaoTech/everyon
 zuoxingdong/VIN_PyTorch_Visdom[master]: https://github.com/zuoxingdong/VIN_PyTorch_Visdom.git
 zuoym15/craves.ai[master]: https://github.com/zuoym15/craves.ai.git
 zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.git
+ZXP-S-works/EquAct[ICLR2026]: https://github.com/ZXP-S-works/EquAct.git
 ZXP-S-works/SE2-equivariant-grasp-learning[main]: https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning.git
 ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
 zxzm-zak/FastUMI_Data[main]: https://github.com/zxzm-zak/FastUMI_Data.git
