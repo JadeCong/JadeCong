@@ -425,6 +425,7 @@ HKUDS: https://github.com/HKUDS
 HKUST-Aerial-Robotics: https://github.com/HKUST-Aerial-Robotics
 hmrishavbandy: https://github.com/hmrishavbandy
 hms-dbmi: https://github.com/hms-dbmi
+Holiday-Robot: https://github.com/Holiday-Robot
 home-assistant: https://github.com/home-assistant
 hongsukchoi: https://github.com/hongsukchoi
 honojs: https://github.com/honojs
@@ -453,6 +454,7 @@ hyfydy: https://github.com/hyfydy
 hyparxis: https://github.com/hyparxis
 hyperai: https://github.com/hyperai
 hyperbrowserai: https://github.com/hyperbrowserai
+hypery11: https://github.com/hypery11
 IamCreateAI: https://github.com/IamCreateAI
 ibab: https://github.com/ibab
 ICube-Robotics: https://github.com/ICube-Robotics
@@ -971,6 +973,7 @@ SesameAILabs: https://github.com/SesameAILabs
 shadowsocks: https://github.com/shadowsocks
 ShangtongZhang: https://github.com/ShangtongZhang
 shareAI-lab: https://github.com/shareAI-lab
+sharpa-robotics: https://github.com/sharpa-robotics
 SHI-Labs: https://github.com/SHI-Labs
 shidenggui: https://github.com/shidenggui
 showlab: https://github.com/showlab
@@ -1136,6 +1139,7 @@ Unsigned-Long: https://github.com/Unsigned-Long
 unslothai: https://github.com/unslothai
 upscayl: https://github.com/upscayl
 upstash: https://github.com/upstash
+URLab-Sim: https://github.com/URLab-Sim
 usebruno: https://github.com/usebruno
 usememos: https://github.com/usememos
 ustclug: https://github.com/ustclug
