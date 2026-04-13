@@ -8,7 +8,7 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
-betancurn: https://github.com/betancurn
+betcurn: https://github.com/betcurn
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
 buraksocial: https://github.com/buraksocial
@@ -103,6 +103,8 @@ YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
 yogeshvibez: https://github.com/yogeshvibez
 youziLab: https://github.com/youziLab
+yukamanawa: https://github.com/yukamanawa
+yutomiwana: https://github.com/yutomiwana
 Z3ltrex: https://github.com/Z3ltrex
 z3r0b47: https://github.com/z3r0b47
 zhouxinyu: https://github.com/zhouxinyu
