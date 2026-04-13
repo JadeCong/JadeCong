@@ -239,6 +239,7 @@ deepset-ai: https://github.com/deepset-ai
 DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
 DexForce: https://github.com/DexForce
+dexmal: https://github.com/dexmal
 dexmal2025: https://github.com/dexmal2025
 DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
@@ -523,6 +524,7 @@ kaixindelele: https://github.com/kaixindelele
 karminski: https://github.com/karminski
 karpathy: https://github.com/karpathy
 kavishdevar: https://github.com/kavishdevar
+kepano: https://github.com/kepano
 kerrj: https://github.com/kerrj
 kevinzakka: https://github.com/kevinzakka
 khoj-ai: https://github.com/khoj-ai
@@ -678,6 +680,7 @@ mshoe: https://github.com/mshoe
 msitarzewski: https://github.com/msitarzewski
 mudler: https://github.com/mudler
 mujocolab: https://github.com/mujocolab
+multica-ai: https://github.com/multica-ai
 musistudio: https://github.com/musistudio
 MVIG-SJTU: https://github.com/MVIG-SJTU
 myismyname: https://github.com/myismyname
@@ -770,6 +773,7 @@ OpenBMB: https://github.com/OpenBMB
 openclaw: https://github.com/openclaw
 opencv: https://github.com/opencv
 opendatalab: https://github.com/opendatalab
+opendataloader-project: https://github.com/opendataloader-project
 OpenDriveLab: https://github.com/OpenDriveLab
 openeuler-mirror: https://github.com/openeuler-mirror
 OpenGalaxea: https://github.com/OpenGalaxea
