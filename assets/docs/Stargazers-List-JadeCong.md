@@ -24,7 +24,6 @@ JadeCong/Awesome-Metaverse[main]: https://github.com/JadeCong/Awesome-Metaverse.
 JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot-Learning.git
   - 1-ou: https://github.com/1-ou
   - 4VLKR4V: https://github.com/4VLKR4V
-  - A-AiLab: https://github.com/A-AiLab
   - anbotab: https://github.com/anbotab
   - Anthony-Cheang: https://github.com/Anthony-Cheang
   - Arnold-XXY: https://github.com/Arnold-XXY
@@ -44,6 +43,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - dianyeHuang: https://github.com/dianyeHuang
   - Eren-01: https://github.com/Eren-01
   - EricCho13: https://github.com/EricCho13
+  - fluxrix: https://github.com/fluxrix
   - FreezeSoul: https://github.com/FreezeSoul
   - Gaming722: https://github.com/Gaming722
   - GGGGGGGGGGN: https://github.com/GGGGGGGGGGN
