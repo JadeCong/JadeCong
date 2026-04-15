@@ -885,6 +885,7 @@ qwibitai: https://github.com/qwibitai
 qxiaofan: https://github.com/qxiaofan
 r-spacex: https://github.com/r-spacex
 raghakot: https://github.com/raghakot
+rai-opensource: https://github.com/rai-opensource
 rail-berkeley: https://github.com/rail-berkeley
 raminmh: https://github.com/raminmh
 rasbt: https://github.com/rasbt
@@ -1152,6 +1153,7 @@ UT-HCRL: https://github.com/UT-HCRL
 utahmobl: https://github.com/utahmobl
 utiasDSL: https://github.com/utiasDSL
 UW-Lab: https://github.com/UW-Lab
+uwgraphics: https://github.com/uwgraphics
 UWRobotLearning: https://github.com/UWRobotLearning
 uynitsuj: https://github.com/uynitsuj
 UZ-SLAMLab: https://github.com/UZ-SLAMLab
