@@ -20,7 +20,6 @@ cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
 CriptoNuno2024: https://github.com/CriptoNuno2024
-danielsuta: https://github.com/danielsuta
 DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
@@ -90,6 +89,7 @@ sunnyyouknow: https://github.com/sunnyyouknow
 SyedShaheerHussain: https://github.com/SyedShaheerHussain
 TeacherEvan: https://github.com/TeacherEvan
 TheArtPlug: https://github.com/TheArtPlug
+tomasvarga116: https://github.com/tomasvarga116
 toum120: https://github.com/toum120
 VIDAKHOSHPEY22: https://github.com/VIDAKHOSHPEY22
 vimal0156: https://github.com/vimal0156
