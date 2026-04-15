@@ -398,7 +398,7 @@ BerkeleyAutomation/dex-net[master]: https://github.com/BerkeleyAutomation/dex-ne
 BerkeleyAutomation/HIL-MT[master]: https://github.com/BerkeleyAutomation/HIL-MT.git
 BerkeleyAutomation/robodm[main]: https://github.com/BerkeleyAutomation/robodm.git
 berndporr/iir1[master]: https://github.com/berndporr/iir1.git
-BerriAI/litellm[main]: https://github.com/BerriAI/litellm.git
+BerriAI/litellm[litellm_internal_staging]: https://github.com/BerriAI/litellm.git
 bestony/logoly[master]: https://github.com/bestony/logoly.git
 bharathgs/Awesome-pytorch-list[master]: https://github.com/bharathgs/Awesome-pytorch-list.git
 bharatm11/Geomagic_Touch_ROS_Drivers[hydro-devel]: https://github.com/bharatm11/Geomagic_Touch_ROS_Drivers.git
@@ -1038,6 +1038,7 @@ fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
 fastrepl/char[main]: https://github.com/fastrepl/char.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
+fclwtt/wechat-cli[main]: https://github.com/fclwtt/wechat-cli.git
 febert/visual_mpc[master]: https://github.com/febert/visual_mpc.git
 feel-the-force-ftf/feel-the-force[main]: https://github.com/feel-the-force-ftf/feel-the-force.git
 felixendres/rgbdslam_v2[kinetic]: https://github.com/felixendres/rgbdslam_v2.git
@@ -1162,6 +1163,7 @@ GaParmar/img2img-turbo[main]: https://github.com/GaParmar/img2img-turbo.git
 Gar-b-age/CookLikeHOC[main]: https://github.com/Gar-b-age/CookLikeHOC.git
 GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
 GarlicBa/LiteVGGT-repo[main]: https://github.com/GarlicBa/LiteVGGT-repo.git
+garrytan/gbrain[master]: https://github.com/garrytan/gbrain.git
 garrytan/gstack[main]: https://github.com/garrytan/gstack.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
 GaTech-RL2/EgoVerse[main]: https://github.com/GaTech-RL2/EgoVerse.git
@@ -1959,6 +1961,7 @@ LeCAR-Lab/dial-mpc[main]: https://github.com/LeCAR-Lab/dial-mpc.git
 LeCAR-Lab/FALCON[main]: https://github.com/LeCAR-Lab/FALCON.git
 LeCAR-Lab/HDMI[main]: https://github.com/LeCAR-Lab/HDMI.git
 LeCAR-Lab/human2humanoid[main]: https://github.com/LeCAR-Lab/human2humanoid.git
+LeCAR-Lab/HumanoidVerse[master]: https://github.com/LeCAR-Lab/HumanoidVerse.git
 LeCAR-Lab/SoFTA[main]: https://github.com/LeCAR-Lab/SoFTA.git
 ledgetech/lua-resty-http[master]: https://github.com/ledgetech/lua-resty-http.git
 Leemu0822/MQTT_Unity[master]: https://github.com/Leemu0822/MQTT_Unity.git
@@ -2372,6 +2375,7 @@ mosaicml/composer[main]: https://github.com/mosaicml/composer.git
 moses-palmer/pynput[master]: https://github.com/moses-palmer/pynput.git
 motiful/cc-gateway[main]: https://github.com/motiful/cc-gateway.git
 motiondivision/motion[main]: https://github.com/motiondivision/motion.git
+Motphys/MotrixLab[main]: https://github.com/Motphys/MotrixLab.git
 MotrixLab/SMPLer-X[main]: https://github.com/MotrixLab/SMPLer-X.git
 mountain-loop/yaak[main]: https://github.com/mountain-loop/yaak.git
 moveit/moveit2[main]: https://github.com/moveit/moveit2.git
@@ -2539,6 +2543,7 @@ NVIDIA-ISAAC-ROS/isaac_ros_object_detection[main]: https://github.com/NVIDIA-ISA
 NVIDIA-ISAAC-ROS/isaac_ros_visual_slam[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
 NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_benchmark.git
 nvidia-isaac/cumotion[main]: https://github.com/nvidia-isaac/cumotion.git
+nvidia-isaac/WBC-AGILE[main]: https://github.com/nvidia-isaac/WBC-AGILE.git
 NVIDIA-NeMo/NeMo[main]: https://github.com/NVIDIA-NeMo/NeMo.git
 NVIDIA-NeMo/RL[main]: https://github.com/NVIDIA-NeMo/RL.git
 NVIDIA-Omniverse/deep-dive-into-microservices[main]: https://github.com/NVIDIA-Omniverse/deep-dive-into-microservices.git
@@ -2698,6 +2703,7 @@ opendilab/GoBigger[main]: https://github.com/opendilab/GoBigger.git
 OpenDriveLab/AgiBot-World[main]: https://github.com/OpenDriveLab/AgiBot-World.git
 OpenDriveLab/AMS[main]: https://github.com/OpenDriveLab/AMS.git
 OpenDriveLab/OpenScene[main]: https://github.com/OpenDriveLab/OpenScene.git
+OpenDriveLab/TAMEn[main]: https://github.com/OpenDriveLab/TAMEn.git
 OpenDriveLab/WholebodyVLA[main]: https://github.com/OpenDriveLab/WholebodyVLA.git
 OpenEtherCATsociety/SOEM[master]: https://github.com/OpenEtherCATsociety/SOEM.git
 OpenGalaxea/GalaxeaVLA[main]: https://github.com/OpenGalaxea/GalaxeaVLA.git
@@ -2964,6 +2970,7 @@ r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
 rai-opensource/judo[main]: https://github.com/rai-opensource/judo.git
+rai-opensource/sumo[main]: https://github.com/rai-opensource/sumo.git
 rai-opensource/theia[main]: https://github.com/rai-opensource/theia.git
 rail-berkeley/bridge_data_v2[main]: https://github.com/rail-berkeley/bridge_data_v2.git
 rail-berkeley/crossformer[main]: https://github.com/rail-berkeley/crossformer.git
@@ -3034,7 +3041,6 @@ reorproject/reor[main]: https://github.com/reorproject/reor.git
 Replicable-MARL/MARLlib[master]: https://github.com/Replicable-MARL/MARLlib.git
 requarks/wiki[main]: https://github.com/requarks/wiki.git
 rerun-io/rerun[main]: https://github.com/rerun-io/rerun.git
-rese1f/StableVideo[master]: https://github.com/rese1f/StableVideo.git
 restsharp/RestSharp[dev]: https://github.com/restsharp/RestSharp.git
 RethinkRobotics/sawyer_robot[master]: https://github.com/RethinkRobotics/sawyer_robot.git
 reworkd/AgentGPT[main]: https://github.com/reworkd/AgentGPT.git
@@ -3739,6 +3745,7 @@ UT-HCRL/LEGATO[main]: https://github.com/UT-HCRL/LEGATO.git
 utahmobl/opencap-monocular[main]: https://github.com/utahmobl/opencap-monocular.git
 utiasDSL/fiper[main]: https://github.com/utiasDSL/fiper.git
 UW-Lab/UWLab[main]: https://github.com/UW-Lab/UWLab.git
+uwgraphics/MotionComparator[main]: https://github.com/uwgraphics/MotionComparator.git
 UWRobotLearning/WheeledLab[main]: https://github.com/UWRobotLearning/WheeledLab.git
 uynitsuj/real2render2real[main]: https://github.com/uynitsuj/real2render2real.git
 UZ-SLAMLab/ORB_SLAM3[master]: https://github.com/UZ-SLAMLab/ORB_SLAM3.git
@@ -3846,6 +3853,7 @@ weijielyu/Gaga[main]: https://github.com/weijielyu/Gaga.git
 weiqi-zhang/DiffGS[main]: https://github.com/weiqi-zhang/DiffGS.git
 wenbochang888/house[master]: https://github.com/wenbochang888/house.git
 wendy7756/AI-Video-Transcriber[main]: https://github.com/wendy7756/AI-Video-Transcriber.git
+wenhaochai/StableVideo[master]: https://github.com/wenhaochai/StableVideo.git
 WenjiaWang0312/EmbodMocap[main]: https://github.com/WenjiaWang0312/EmbodMocap.git
 wenqsun/DimensionX[main]: https://github.com/wenqsun/DimensionX.git
 Wenzhuo-Liu/MMTL-UniAD[main]: https://github.com/Wenzhuo-Liu/MMTL-UniAD.git
