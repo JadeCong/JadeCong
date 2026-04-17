@@ -49,6 +49,7 @@ ACETeleop/ACETeleop[main]: https://github.com/ACETeleop/ACETeleop.git
 ACETeleop/ACE_hardware[main]: https://github.com/ACETeleop/ACE_hardware.git
 acheong08/ChatGPT[main]: https://github.com/acheong08/ChatGPT.git
 aCodeDog/awesome-loco-manipulation[master]: https://github.com/aCodeDog/awesome-loco-manipulation.git
+AD-EYE/foxglove-opensource[main]: https://github.com/AD-EYE/foxglove-opensource.git
 adam-p/markdown-here[master]: https://github.com/adam-p/markdown-here.git
 adaptyvbio/ProteinFlow[main]: https://github.com/adaptyvbio/ProteinFlow.git
 adithya-s-k/omniparse[main]: https://github.com/adithya-s-k/omniparse.git
@@ -555,6 +556,7 @@ chrisrhymes/bulma-clean-theme[master]: https://github.com/chrisrhymes/bulma-clea
 ChrisTitusTech/winutil[main]: https://github.com/ChrisTitusTech/winutil.git
 ChristosChristofidis/awesome-deep-learning[master]: https://github.com/ChristosChristofidis/awesome-deep-learning.git
 chrisyrniu/Human2LocoMan[main]: https://github.com/chrisyrniu/Human2LocoMan.git
+chrisyrniu/humanoid-touch-dream[main]: https://github.com/chrisyrniu/humanoid-touch-dream.git
 ChromeDevTools/chrome-devtools-mcp[main]: https://github.com/ChromeDevTools/chrome-devtools-mcp.git
 chrxh/alien[develop]: https://github.com/chrxh/alien.git
 chuanqi305/MobileNet-SSD[master]: https://github.com/chuanqi305/MobileNet-SSD.git
@@ -625,6 +627,7 @@ Crayon-Shinchan/AnyDressing[master]: https://github.com/Crayon-Shinchan/AnyDress
 crewAIInc/crewAI[main]: https://github.com/crewAIInc/crewAI.git
 crewAIInc/crewAI-tools[main]: https://github.com/crewAIInc/crewAI-tools.git
 crigroup/openrave-installation[master]: https://github.com/crigroup/openrave-installation.git
+cruise-automation/webviz[master]: https://github.com/cruise-automation/webviz.git
 cryer/D.Silver_RL_Course[master]: https://github.com/cryer/D.Silver_RL_Course.git
 crystalidea/macs-fan-control[master]: https://github.com/crystalidea/macs-fan-control.git
 cryxnet/DeepMCPAgent[main]: https://github.com/cryxnet/DeepMCPAgent.git
@@ -810,7 +813,7 @@ dreamzero0/dreamzero[main]: https://github.com/dreamzero0/dreamzero.git
 Drexubery/ViewCrafter[main]: https://github.com/Drexubery/ViewCrafter.git
 droid-dataset/droid[main]: https://github.com/droid-dataset/droid.git
 droid-dataset/droid_policy_learning[master]: https://github.com/droid-dataset/droid_policy_learning.git
-droidrun/droidrun[main]: https://github.com/droidrun/droidrun.git
+droidrun/mobilerun[main]: https://github.com/droidrun/mobilerun.git
 DrSleep/tensorflow-deeplab-resnet[master]: https://github.com/DrSleep/tensorflow-deeplab-resnet.git
 dstotijn/hetty[main]: https://github.com/dstotijn/hetty.git
 dtyq/magic[master]: https://github.com/dtyq/magic.git
@@ -934,6 +937,7 @@ eveningglow/multitask-CycleGAN[master]: https://github.com/eveningglow/multitask
 evil-huawei/evil-huawei[master]: https://github.com/evil-huawei/evil-huawei.git
 evilsocket/cake[main]: https://github.com/evilsocket/cake.git
 EvolvingLMMs-Lab/NEO[main]: https://github.com/EvolvingLMMs-Lab/NEO.git
+EvoMap/evolver[main]: https://github.com/EvoMap/evolver.git
 ex3ndr/llama-coder[main]: https://github.com/ex3ndr/llama-coder.git
 exacity/deeplearningbook-chinese[master]: https://github.com/exacity/deeplearningbook-chinese.git
 excalidraw/excalidraw[master]: https://github.com/excalidraw/excalidraw.git
@@ -1406,6 +1410,7 @@ hermanjakobsen/robotic-ultrasound-imaging[master]: https://github.com/hermanjako
 herrbischoff/awesome-macos-command-line[main]: https://github.com/herrbischoff/awesome-macos-command-line.git
 HerXayah/road-to-yuzu-without-switch[slave]: https://github.com/HerXayah/road-to-yuzu-without-switch.git
 hesamsheikh/awesome-openclaw-usecases[main]: https://github.com/hesamsheikh/awesome-openclaw-usecases.git
+hesamsheikh/octogent[main]: https://github.com/hesamsheikh/octogent.git
 hetianle/HousePricingOfBeijing[master]: https://github.com/hetianle/HousePricingOfBeijing.git
 hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
 hexojs/hexo[master]: https://github.com/hexojs/hexo.git
@@ -2298,6 +2303,7 @@ minghu0830/OphNet-3D[main]: https://github.com/minghu0830/OphNet-3D.git
 minghu0830/OphNet-benchmark[main]: https://github.com/minghu0830/OphNet-benchmark.git
 mingukkang/GigaGAN[main]: https://github.com/mingukkang/GigaGAN.git
 Minidoracat/mcp-feedback-enhanced[main]: https://github.com/Minidoracat/mcp-feedback-enhanced.git
+Mininglamp-AI/Mano-P[main]: https://github.com/Mininglamp-AI/Mano-P.git
 minqi/learning-to-communicate-pytorch[master]: https://github.com/minqi/learning-to-communicate-pytorch.git
 mint-lab/awesome-robotics-datasets[master]: https://github.com/mint-lab/awesome-robotics-datasets.git
 MINT-SJTU/Evo-RL[main]: https://github.com/MINT-SJTU/Evo-RL.git
@@ -2357,6 +2363,7 @@ modelscope/scepter[main]: https://github.com/modelscope/scepter.git
 modular/modular[main]: https://github.com/modular/modular.git
 moeru-ai/airi[main]: https://github.com/moeru-ai/airi.git
 momentum-robotics-lab/deformgs[main]: https://github.com/momentum-robotics-lab/deformgs.git
+Mondo-Robotics/DiT4DiT[main]: https://github.com/Mondo-Robotics/DiT4DiT.git
 mongodb/mongo[master]: https://github.com/mongodb/mongo.git
 MonitorControl/MonitorControl[main]: https://github.com/MonitorControl/MonitorControl.git
 moojink/openvla-oft[main]: https://github.com/moojink/openvla-oft.git
@@ -2557,6 +2564,7 @@ NVIDIA-Omniverse/OpenUSD-plugin-samples[main]: https://github.com/NVIDIA-Omniver
 NVIDIA-Omniverse/PhysX[main]: https://github.com/NVIDIA-Omniverse/PhysX.git
 NVIDIA-Omniverse/synthetic-data-examples[main]: https://github.com/NVIDIA-Omniverse/synthetic-data-examples.git
 NVIDIA-Omniverse/USD-Tutorials-And-Examples[main]: https://github.com/NVIDIA-Omniverse/USD-Tutorials-And-Examples.git
+NVIDIA-TAO/tao-pytorch[main]: https://github.com/NVIDIA-TAO/tao-pytorch.git
 NVIDIA/Cosmos[main]: https://github.com/NVIDIA/Cosmos.git
 NVIDIA/FasterTransformer[main]: https://github.com/NVIDIA/FasterTransformer.git
 NVIDIA/FastPhotoStyle[master]: https://github.com/NVIDIA/FastPhotoStyle.git
@@ -2567,7 +2575,6 @@ NVIDIA/NeMo-Framework-Launcher[main]: https://github.com/NVIDIA/NeMo-Framework-L
 NVIDIA/nvidia-docker[main]: https://github.com/NVIDIA/nvidia-docker.git
 NVIDIA/pix2pixHD[master]: https://github.com/NVIDIA/pix2pixHD.git
 NVIDIA/soma-retargeter[main]: https://github.com/NVIDIA/soma-retargeter.git
-NVIDIA/tao_pytorch_backend[main]: https://github.com/NVIDIA/tao_pytorch_backend.git
 NVIDIA/TensorRT[main]: https://github.com/NVIDIA/TensorRT.git
 NVIDIAGameWorks/Blast[master]: https://github.com/NVIDIAGameWorks/Blast.git
 NVIDIAGameWorks/FleX[master]: https://github.com/NVIDIAGameWorks/FleX.git
@@ -2672,6 +2679,7 @@ openai/imitation[master]: https://github.com/openai/imitation.git
 openai/mlsh[master]: https://github.com/openai/mlsh.git
 openai/mujoco-py[master]: https://github.com/openai/mujoco-py.git
 openai/mujoco-worldgen[master]: https://github.com/openai/mujoco-worldgen.git
+openai/openai-agents-python[main]: https://github.com/openai/openai-agents-python.git
 openai/openai-chatkit-starter-app[main]: https://github.com/openai/openai-chatkit-starter-app.git
 openai/openai-cookbook[main]: https://github.com/openai/openai-cookbook.git
 openai/openai-cs-agents-demo[main]: https://github.com/openai/openai-cs-agents-demo.git
@@ -2928,6 +2936,7 @@ punkpeye/awesome-mcp-servers[main]: https://github.com/punkpeye/awesome-mcp-serv
 pureink/inkrss[main]: https://github.com/pureink/inkrss.git
 putyy/res-downloader[master]: https://github.com/putyy/res-downloader.git
 puzzledqs/BBox-Label-Tool[master]: https://github.com/puzzledqs/BBox-Label-Tool.git
+px-DataCollection/px_omnisharing_dataprocess_kit[main]: https://github.com/px-DataCollection/px_omnisharing_dataprocess_kit.git
 PX4/PX4-Autopilot[main]: https://github.com/PX4/PX4-Autopilot.git
 pybind/pybind11[master]: https://github.com/pybind/pybind11.git
 pybind/pybind11-stubgen[main]: https://github.com/pybind/pybind11-stubgen.git
@@ -3794,6 +3803,7 @@ vision-x-nyu/thinking-in-space[main]: https://github.com/vision-x-nyu/thinking-i
 Visionary-Laboratory/holi-spatial[main]: https://github.com/Visionary-Laboratory/holi-spatial.git
 vivoCameraResearch/Magic-TryOn[main]: https://github.com/vivoCameraResearch/Magic-TryOn.git
 vlad-ds/whisper-keyboard[main]: https://github.com/vlad-ds/whisper-keyboard.git
+vLAR-group/PhysInOne[main]: https://github.com/vLAR-group/PhysInOne.git
 vlfeat/matconvnet[master]: https://github.com/vlfeat/matconvnet.git
 vllm-project/vllm[main]: https://github.com/vllm-project/vllm.git
 vnpy/vnpy[master]: https://github.com/vnpy/vnpy.git
