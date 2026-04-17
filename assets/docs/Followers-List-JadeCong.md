@@ -36,7 +36,6 @@ ipqwery: https://github.com/ipqwery
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
-jayDevCodes: https://github.com/jayDevCodes
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
 jordiaphane: https://github.com/jordiaphane
