@@ -298,6 +298,7 @@ ethereum: https://github.com/ethereum
 ethz-adrl: https://github.com/ethz-adrl
 eureka-research: https://github.com/eureka-research
 EvolvingLMMs-Lab: https://github.com/EvolvingLMMs-Lab
+EvoMap: https://github.com/EvoMap
 exelban: https://github.com/exelban
 exo-explore: https://github.com/exo-explore
 facebook: https://github.com/facebook
@@ -663,6 +664,7 @@ mlc-ai: https://github.com/mlc-ai
 mmatl: https://github.com/mmatl
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
+Mondo-Robotics: https://github.com/Mondo-Robotics
 mongodb: https://github.com/mongodb
 MonitorControl: https://github.com/MonitorControl
 moojink: https://github.com/moojink
@@ -671,6 +673,7 @@ moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
 MorvanZhou: https://github.com/MorvanZhou
 mosaicml: https://github.com/mosaicml
+Motphys: https://github.com/Motphys
 mountain-loop: https://github.com/mountain-loop
 Mozilla-Ocho: https://github.com/Mozilla-Ocho
 mpaepper: https://github.com/mpaepper
@@ -1175,6 +1178,7 @@ VIS4ROB-lab: https://github.com/VIS4ROB-lab
 Vision-CAIR: https://github.com/Vision-CAIR
 vision-x-nyu: https://github.com/vision-x-nyu
 vivoCameraResearch: https://github.com/vivoCameraResearch
+vLAR-group: https://github.com/vLAR-group
 vnpy: https://github.com/vnpy
 voideditor: https://github.com/voideditor
 volcengine: https://github.com/volcengine
