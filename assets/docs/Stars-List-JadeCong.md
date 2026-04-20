@@ -573,7 +573,6 @@ cli/cli[trunk]: https://github.com/cli/cli.git
 cline/cline[main]: https://github.com/cline/cline.git
 cliport/cliport[master]: https://github.com/cliport/cliport.git
 cloneofsimo/lora[master]: https://github.com/cloneofsimo/lora.git
-cloudcommunity/Free-Certifications[main]: https://github.com/cloudcommunity/Free-Certifications.git
 cloudflare/cloudflared[master]: https://github.com/cloudflare/cloudflared.git
 cloudify-cosmo/packman[master]: https://github.com/cloudify-cosmo/packman.git
 clvrai/furniture[master]: https://github.com/clvrai/furniture.git
@@ -3075,6 +3074,7 @@ rmsalinas/DBow3[master]: https://github.com/rmsalinas/DBow3.git
 robbiebarrat/art-DCGAN[master]: https://github.com/robbiebarrat/art-DCGAN.git
 robbiehanson/XMPPFramework[master]: https://github.com/robbiehanson/XMPPFramework.git
 RobbinW/EVA[main]: https://github.com/RobbinW/EVA.git
+Robbyant/lingbot-map[main]: https://github.com/Robbyant/lingbot-map.git
 Robbyant/lingbot-vla[main]: https://github.com/Robbyant/lingbot-vla.git
 robcog-iai/RobCoG[dev]: https://github.com/robcog-iai/RobCoG.git
 robcog-iai/URoboSim-depr[master]: https://github.com/robcog-iai/URoboSim-depr.git
@@ -3594,7 +3594,7 @@ TingliangZhang/VR_Robot_Thesis[master]: https://github.com/TingliangZhang/VR_Rob
 TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
 TinyAGI/tinyagi[main]: https://github.com/TinyAGI/tinyagi.git
 tiptop-robot/tiptop[main]: https://github.com/tiptop-robot/tiptop.git
-titanwings/colleague-skill[main]: https://github.com/titanwings/colleague-skill.git
+titanwings/colleague-skill[dot-skill]: https://github.com/titanwings/colleague-skill.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
