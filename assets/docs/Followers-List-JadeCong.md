@@ -7,8 +7,9 @@ AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
+batcurn: https://github.com/batcurn
+benalbano: https://github.com/benalbano
 BEPb: https://github.com/BEPb
-betcurn: https://github.com/betcurn
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
 buraksocial: https://github.com/buraksocial
@@ -35,6 +36,7 @@ IDouble: https://github.com/IDouble
 ipqwery: https://github.com/ipqwery
 itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
+jackweirds: https://github.com/jackweirds
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
@@ -102,8 +104,7 @@ YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
 yogeshvibez: https://github.com/yogeshvibez
 youziLab: https://github.com/youziLab
-yukamanawa: https://github.com/yukamanawa
-yutomiwana: https://github.com/yutomiwana
+yulicwan: https://github.com/yulicwan
 Z3ltrex: https://github.com/Z3ltrex
 z3r0b47: https://github.com/z3r0b47
 zhouxinyu: https://github.com/zhouxinyu
