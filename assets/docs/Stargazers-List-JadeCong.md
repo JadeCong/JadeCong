@@ -75,6 +75,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - QipiaoZhou: https://github.com/QipiaoZhou
   - qiushui0618: https://github.com/qiushui0618
   - qshan2170: https://github.com/qshan2170
+  - raphaelhou25: https://github.com/raphaelhou25
   - ruitao-98: https://github.com/ruitao-98
   - ruoniao: https://github.com/ruoniao
   - Schofi: https://github.com/Schofi
