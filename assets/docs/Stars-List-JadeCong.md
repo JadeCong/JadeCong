@@ -864,8 +864,6 @@ Element-Research/rnn[master]: https://github.com/Element-Research/rnn.git
 EleutherAI/gpt-neo[master]: https://github.com/EleutherAI/gpt-neo.git
 EleutherAI/math-lm[main]: https://github.com/EleutherAI/math-lm.git
 Elin24/learning_pyTorch_with_SherlockLiao[master]: https://github.com/Elin24/learning_pyTorch_with_SherlockLiao.git
-Elite-Robots/Elite_Robots_CS_ROS2_Driver[main]: https://github.com/Elite-Robots/Elite_Robots_CS_ROS2_Driver.git
-Elite-Robots/Elite_Robots_CS_SDK[main]: https://github.com/Elite-Robots/Elite_Robots_CS_SDK.git
 Elite-Robots/ROS[master]: https://github.com/Elite-Robots/ROS.git
 eloialonso/diamond[main]: https://github.com/eloialonso/diamond.git
 ElricLiu/AutoGPT-Next-Web[main]: https://github.com/ElricLiu/AutoGPT-Next-Web.git
@@ -1109,6 +1107,7 @@ FoloUp/FoloUp[main]: https://github.com/FoloUp/FoloUp.git
 forezp/SpringCloudLearning[master]: https://github.com/forezp/SpringCloudLearning.git
 formulahendry/944.Life[master]: https://github.com/formulahendry/944.Life.git
 formulahendry/955.WLB[master]: https://github.com/formulahendry/955.WLB.git
+forrestchang/andrej-karpathy-skills[main]: https://github.com/forrestchang/andrej-karpathy-skills.git
 Fosowl/agenticSeek[main]: https://github.com/Fosowl/agenticSeek.git
 FoundationAgents/awesome-foundation-agents[main]: https://github.com/FoundationAgents/awesome-foundation-agents.git
 FoundationAgents/MetaGPT[main]: https://github.com/FoundationAgents/MetaGPT.git
@@ -2038,7 +2037,7 @@ Little-Podi/AdaWorld[main]: https://github.com/Little-Podi/AdaWorld.git
 liuhuanyong/QASystemOnMedicalKG[master]: https://github.com/liuhuanyong/QASystemOnMedicalKG.git
 liuruoze/mini-AlphaStar[main]: https://github.com/liuruoze/mini-AlphaStar.git
 liuxiaoyu1104/AnimateAnywhere[main]: https://github.com/liuxiaoyu1104/AnimateAnywhere.git
-liuzhao1225/YouDub-webui[master]: https://github.com/liuzhao1225/YouDub-webui.git
+liuzhao1225/YouDub-webui[main]: https://github.com/liuzhao1225/YouDub-webui.git
 lixiaowen-xw/DiffuEraser[master]: https://github.com/lixiaowen-xw/DiffuEraser.git
 liyaowei-stu/ImageConductor[main]: https://github.com/liyaowei-stu/ImageConductor.git
 liyi14/HAMSTER_beta[main]: https://github.com/liyi14/HAMSTER_beta.git
@@ -2314,7 +2313,7 @@ mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
 Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
-MiroMindAI/MiroFlow[miroflow-1.7]: https://github.com/MiroMindAI/MiroFlow.git
+MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
 MiroMindAI/MiroThinker[main]: https://github.com/MiroMindAI/MiroThinker.git
@@ -3400,7 +3399,6 @@ star-history/star-history[main]: https://github.com/star-history/star-history.gi
 StarCycle/Awesome-Embodied-AI-Job[main]: https://github.com/StarCycle/Awesome-Embodied-AI-Job.git
 state-spaces/mamba[main]: https://github.com/state-spaces/mamba.git
 stepfun-ai/gelab-zero[main]: https://github.com/stepfun-ai/gelab-zero.git
-stepfun-ai/Step-Audio[main]: https://github.com/stepfun-ai/Step-Audio.git
 stepfun-ai/Step1X-3D[main]: https://github.com/stepfun-ai/Step1X-3D.git
 stephane-caron/pink[main]: https://github.com/stephane-caron/pink.git
 stephane/libmodbus[master]: https://github.com/stephane/libmodbus.git
@@ -3473,6 +3471,7 @@ tavily-ai/tavily-python[master]: https://github.com/tavily-ai/tavily-python.git
 TEA-Lab/DemoGen[master]: https://github.com/TEA-Lab/DemoGen.git
 TEA-Lab/DenseMatcher[master]: https://github.com/TEA-Lab/DenseMatcher.git
 TEA-Lab/Robo-ABC[main]: https://github.com/TEA-Lab/Robo-ABC.git
+team-aprl/MR.ScaleMaster[main]: https://github.com/team-aprl/MR.ScaleMaster.git
 team-openpm/workgpt[master]: https://github.com/team-openpm/workgpt.git
 TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
 TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
@@ -3957,7 +3956,7 @@ XTLS/REALITY[main]: https://github.com/XTLS/REALITY.git
 XTLS/Xray-core[main]: https://github.com/XTLS/Xray-core.git
 xuchaobei/Fang[master]: https://github.com/xuchaobei/Fang.git
 xuchengsheng/spring-reading[master]: https://github.com/xuchengsheng/spring-reading.git
-xudong963/openheygen[master]: https://github.com/xudong963/openheygen.git
+xudong963/openheygen[{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}]: https://github.com/xudong963/openheygen.git
 xuebinqin/U-2-Net[master]: https://github.com/xuebinqin/U-2-Net.git
 XueFuzhao/OpenMoE[main]: https://github.com/XueFuzhao/OpenMoE.git
 xuhangc/ChatGPT-Academic-Prompt[main]: https://github.com/xuhangc/ChatGPT-Academic-Prompt.git
