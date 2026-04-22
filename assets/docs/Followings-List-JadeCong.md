@@ -334,6 +334,7 @@ flow-diffusion: https://github.com/flow-diffusion
 FlowiseAI: https://github.com/FlowiseAI
 flutter: https://github.com/flutter
 fmhy: https://github.com/fmhy
+forrestchang: https://github.com/forrestchang
 FoundationAgents: https://github.com/FoundationAgents
 FoundationVision: https://github.com/FoundationVision
 foxglove: https://github.com/foxglove
@@ -1056,6 +1057,7 @@ tauri-apps: https://github.com/tauri-apps
 TauricResearch: https://github.com/TauricResearch
 tavily-ai: https://github.com/tavily-ai
 TEA-Lab: https://github.com/TEA-Lab
+team-aprl: https://github.com/team-aprl
 TeamWiseFlow: https://github.com/TeamWiseFlow
 TeleHuman: https://github.com/TeleHuman
 Tencent: https://github.com/Tencent
