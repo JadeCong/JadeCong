@@ -7,11 +7,11 @@ AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ash3spho3nix: https://github.com/ash3spho3nix
-batcurn: https://github.com/batcurn
 benalbano: https://github.com/benalbano
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
+btncrn: https://github.com/btncrn
 buraksocial: https://github.com/buraksocial
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
@@ -25,6 +25,7 @@ DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
+ephmo: https://github.com/ephmo
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 H-K-R: https://github.com/H-K-R
@@ -92,6 +93,7 @@ TeacherEvan: https://github.com/TeacherEvan
 TheArtPlug: https://github.com/TheArtPlug
 tomasvarga116: https://github.com/tomasvarga116
 toum120: https://github.com/toum120
+umidjon3455: https://github.com/umidjon3455
 VIDAKHOSHPEY22: https://github.com/VIDAKHOSHPEY22
 vimal0156: https://github.com/vimal0156
 volkn: https://github.com/volkn
