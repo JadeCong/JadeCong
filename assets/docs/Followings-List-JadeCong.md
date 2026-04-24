@@ -79,6 +79,7 @@ aravindsrinivas: https://github.com/aravindsrinivas
 ArcInstitute: https://github.com/ArcInstitute
 argusswift: https://github.com/argusswift
 ARISE-Initiative: https://github.com/ARISE-Initiative
+ariszxxu: https://github.com/ariszxxu
 arm-education: https://github.com/arm-education
 ARM-software: https://github.com/ARM-software
 armankhondker: https://github.com/armankhondker
@@ -342,6 +343,7 @@ frankarobotics: https://github.com/frankarobotics
 freemocap: https://github.com/freemocap
 FreeRTOS: https://github.com/FreeRTOS
 FreshRSS: https://github.com/FreshRSS
+friedrichyuan: https://github.com/friedrichyuan
 FuchsiaOS: https://github.com/FuchsiaOS
 fudan-generative-vision: https://github.com/fudan-generative-vision
 Fudan-MAGIC-Lab: https://github.com/Fudan-MAGIC-Lab
@@ -687,7 +689,6 @@ mujocolab: https://github.com/mujocolab
 multica-ai: https://github.com/multica-ai
 musistudio: https://github.com/musistudio
 MVIG-SJTU: https://github.com/MVIG-SJTU
-myismyname: https://github.com/myismyname
 MyoHub: https://github.com/MyoHub
 myshell-ai: https://github.com/myshell-ai
 mysql: https://github.com/mysql
