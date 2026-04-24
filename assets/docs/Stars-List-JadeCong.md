@@ -274,6 +274,7 @@ ARISE-Initiative/robosuite-benchmark[master]: https://github.com/ARISE-Initiativ
 ARISE-Initiative/robosuite-notebooks[master]: https://github.com/ARISE-Initiative/robosuite-notebooks.git
 ARISE-Initiative/robosuite-task-zoo[main]: https://github.com/ARISE-Initiative/robosuite-task-zoo.git
 ARISE-Initiative/robosuite_models[main]: https://github.com/ARISE-Initiative/robosuite_models.git
+ariszxxu/FingerEye[master]: https://github.com/ariszxxu/FingerEye.git
 arjunmajum/vln-bert[master]: https://github.com/arjunmajum/vln-bert.git
 Arlo0o/uniscene[master]: https://github.com/Arlo0o/uniscene.git
 Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation[master]: https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation.git
@@ -629,7 +630,6 @@ crigroup/openrave-installation[master]: https://github.com/crigroup/openrave-ins
 cruise-automation/webviz[master]: https://github.com/cruise-automation/webviz.git
 cryer/D.Silver_RL_Course[master]: https://github.com/cryer/D.Silver_RL_Course.git
 crystalidea/macs-fan-control[master]: https://github.com/crystalidea/macs-fan-control.git
-cryxnet/DeepMCPAgent[main]: https://github.com/cryxnet/DeepMCPAgent.git
 csmile-1006/DEAS-FQL[main]: https://github.com/csmile-1006/DEAS-FQL.git
 csmile-1006/DEAS-Isaac-GR00T[main]: https://github.com/csmile-1006/DEAS-Isaac-GR00T.git
 cuemacro/finmarketpy[master]: https://github.com/cuemacro/finmarketpy.git
@@ -1008,7 +1008,6 @@ facebookresearch/videoseal[main]: https://github.com/facebookresearch/videoseal.
 facebookresearch/vjepa2[main]: https://github.com/facebookresearch/vjepa2.git
 facefusion/facefusion[master]: https://github.com/facefusion/facefusion.git
 Faceunity/FUZegoLiveDemoDroid[master]: https://github.com/Faceunity/FUZegoLiveDemoDroid.git
-facontidavide/PlotJuggler[main]: https://github.com/facontidavide/PlotJuggler.git
 FAIR-INNOVATION/fairino-cpp-sdk[main]: https://github.com/FAIR-INNOVATION/fairino-cpp-sdk.git
 FAIR-INNOVATION/fairino-python-sdk[main]: https://github.com/FAIR-INNOVATION/fairino-python-sdk.git
 FAIR-INNOVATION/frcobot_cpp_sdk[main]: https://github.com/FAIR-INNOVATION/frcobot_cpp_sdk.git
@@ -1130,6 +1129,7 @@ freemocap/freemocap[main]: https://github.com/freemocap/freemocap.git
 FreeRDP/FreeRDP[master]: https://github.com/FreeRDP/FreeRDP.git
 FreeRTOS/FreeRTOS[main]: https://github.com/FreeRTOS/FreeRTOS.git
 FreshRSS/FreshRSS[edge]: https://github.com/FreshRSS/FreshRSS.git
+friedrichyuan/awesome-bfm-papers[main]: https://github.com/friedrichyuan/awesome-bfm-papers.git
 fshamshirdar/DeepVO[deepvo]: https://github.com/fshamshirdar/DeepVO.git
 fsuarez6/phantom_omni[hydro-devel]: https://github.com/fsuarez6/phantom_omni.git
 FuchengSu/WorldStereo[main]: https://github.com/FuchengSu/WorldStereo.git
@@ -2134,6 +2134,7 @@ macanv/BERT-BiLSTM-CRF-NER[master]: https://github.com/macanv/BERT-BiLSTM-CRF-NE
 machines-in-motion/mim_robots[main]: https://github.com/machines-in-motion/mim_robots.git
 MadcowD/ell[main]: https://github.com/MadcowD/ell.git
 MADEAPPS/newton-dynamics[master]: https://github.com/MADEAPPS/newton-dynamics.git
+maderix/ANE[main]: https://github.com/maderix/ANE.git
 MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
 MagicMirrorOrg/MagicMirror[master]: https://github.com/MagicMirrorOrg/MagicMirror.git
 MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
@@ -2414,7 +2415,6 @@ mustafa-qamaruddin/age-cgan[master]: https://github.com/mustafa-qamaruddin/age-c
 mut-ex/gligen-gui[main]: https://github.com/mut-ex/gligen-gui.git
 muzishen/IMAGDressing[main]: https://github.com/muzishen/IMAGDressing.git
 MVIG-SJTU/AlphaPose[master]: https://github.com/MVIG-SJTU/AlphaPose.git
-myismyname/awesome-bfm-papers[main]: https://github.com/myismyname/awesome-bfm-papers.git
 MyNiuuu/MOFA-Video[main]: https://github.com/MyNiuuu/MOFA-Video.git
 MyoHub/myoconverter[main]: https://github.com/MyoHub/myoconverter.git
 MyoHub/myosuite[main]: https://github.com/MyoHub/myosuite.git
@@ -2870,6 +2870,7 @@ plait-board/drawnix[develop]: https://github.com/plait-board/drawnix.git
 Platane/snk[main]: https://github.com/Platane/snk.git
 plenaryapp/awesome-rss-feeds[master]: https://github.com/plenaryapp/awesome-rss-feeds.git
 PlexPt/awesome-chatgpt-prompts-zh[main]: https://github.com/PlexPt/awesome-chatgpt-prompts-zh.git
+PlotJuggler/PlotJuggler[main]: https://github.com/PlotJuggler/PlotJuggler.git
 plotly/plotly.py[main]: https://github.com/plotly/plotly.py.git
 plusjade/jekyll-bootstrap[master]: https://github.com/plusjade/jekyll-bootstrap.git
 pmagdon/FEPy[master]: https://github.com/pmagdon/FEPy.git
@@ -2918,6 +2919,7 @@ programthink/zhao[master]: https://github.com/programthink/zhao.git
 project-instinct/InstinctLab[main]: https://github.com/project-instinct/InstinctLab.git
 projectchrono/chrono[main]: https://github.com/projectchrono/chrono.git
 projectpages/project-pages[gh-pages]: https://github.com/projectpages/project-pages.git
+promptise-com/Foundry[main]: https://github.com/promptise-com/Foundry.git
 promptslab/Awesome-Prompt-Engineering[main]: https://github.com/promptslab/Awesome-Prompt-Engineering.git
 protocolbuffers/protobuf[main]: https://github.com/protocolbuffers/protobuf.git
 proxifly/free-proxy-list[main]: https://github.com/proxifly/free-proxy-list.git
@@ -3448,6 +3450,7 @@ sz3/libcimbar[master]: https://github.com/sz3/libcimbar.git
 szagoruyko/attention-transfer[master]: https://github.com/szagoruyko/attention-transfer.git
 szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
 szczyglis-dev/py-gpt[master]: https://github.com/szczyglis-dev/py-gpt.git
+szqwu/FrameCrafter[main]: https://github.com/szqwu/FrameCrafter.git
 tabler/tabler[dev]: https://github.com/tabler/tabler.git
 taichi-dev/taichi[master]: https://github.com/taichi-dev/taichi.git
 taki0112/BigGAN-Tensorflow[master]: https://github.com/taki0112/BigGAN-Tensorflow.git
@@ -3950,13 +3953,13 @@ xlite-dev/lite.ai.toolkit[main]: https://github.com/xlite-dev/lite.ai.toolkit.gi
 xming521/WeClone[master]: https://github.com/xming521/WeClone.git
 xmppjs/xmpp.js[main]: https://github.com/xmppjs/xmpp.js.git
 xournalpp/xournalpp[master]: https://github.com/xournalpp/xournalpp.git
+xpeng-robotics/UniT[main]: https://github.com/xpeng-robotics/UniT.git
 xpipe-io/xpipe[master]: https://github.com/xpipe-io/xpipe.git
 xtekky/gpt4free[main]: https://github.com/xtekky/gpt4free.git
 XTLS/REALITY[main]: https://github.com/XTLS/REALITY.git
 XTLS/Xray-core[main]: https://github.com/XTLS/Xray-core.git
 xuchaobei/Fang[master]: https://github.com/xuchaobei/Fang.git
 xuchengsheng/spring-reading[master]: https://github.com/xuchengsheng/spring-reading.git
-xudong963/openheygen[{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}]: https://github.com/xudong963/openheygen.git
 xuebinqin/U-2-Net[master]: https://github.com/xuebinqin/U-2-Net.git
 XueFuzhao/OpenMoE[main]: https://github.com/XueFuzhao/OpenMoE.git
 xuhangc/ChatGPT-Academic-Prompt[main]: https://github.com/xuhangc/ChatGPT-Academic-Prompt.git
