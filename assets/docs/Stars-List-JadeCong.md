@@ -52,6 +52,7 @@ aCodeDog/awesome-loco-manipulation[master]: https://github.com/aCodeDog/awesome-
 AD-EYE/foxglove-opensource[main]: https://github.com/AD-EYE/foxglove-opensource.git
 adam-p/markdown-here[master]: https://github.com/adam-p/markdown-here.git
 adaptyvbio/ProteinFlow[main]: https://github.com/adaptyvbio/ProteinFlow.git
+addyosmani/agent-skills[main]: https://github.com/addyosmani/agent-skills.git
 adithya-s-k/omniparse[main]: https://github.com/adithya-s-k/omniparse.git
 adnappp/Sfm-python[master]: https://github.com/adnappp/Sfm-python.git
 adobe-research/VideoDoodles[main]: https://github.com/adobe-research/VideoDoodles.git
@@ -694,6 +695,7 @@ datawhalechina/learn-nlp-with-transformers[main]: https://github.com/datawhalech
 datawhalechina/leedl-tutorial[master]: https://github.com/datawhalechina/leedl-tutorial.git
 datawhalechina/llm-cookbook[main]: https://github.com/datawhalechina/llm-cookbook.git
 datawhalechina/llm-universe[main]: https://github.com/datawhalechina/llm-universe.git
+datawhalechina/Path2AGI[main]: https://github.com/datawhalechina/Path2AGI.git
 datawhalechina/pumpkin-book[master]: https://github.com/datawhalechina/pumpkin-book.git
 datawhalechina/self-llm[master]: https://github.com/datawhalechina/self-llm.git
 datawhalechina/so-large-lm[main]: https://github.com/datawhalechina/so-large-lm.git
@@ -1035,7 +1037,7 @@ farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
 fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
-fastrepl/char[main]: https://github.com/fastrepl/char.git
+fastrepl/anarlog[main]: https://github.com/fastrepl/anarlog.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
 fclwtt/wechat-cli[main]: https://github.com/fclwtt/wechat-cli.git
@@ -1657,7 +1659,6 @@ ivalab/grasp_annotation_tool[master]: https://github.com/ivalab/grasp_annotation
 ivalab/grasp_multiObject[master]: https://github.com/ivalab/grasp_multiObject.git
 ivalab/grasp_multiObject_multiGrasp[master]: https://github.com/ivalab/grasp_multiObject_multiGrasp.git
 ivaROS/ros_deep_grasp[master]: https://github.com/ivaROS/ros_deep_grasp.git
-ivy-llc/ivy[main]: https://github.com/ivy-llc/ivy.git
 j96w/cogail[main]: https://github.com/j96w/cogail.git
 j96w/DenseFusion[master]: https://github.com/j96w/DenseFusion.git
 j96w/DexCap[main]: https://github.com/j96w/DexCap.git
@@ -1819,7 +1820,6 @@ Kaihua-Chen/diffusion-vas[main]: https://github.com/Kaihua-Chen/diffusion-vas.gi
 kailashahirwar/cheatsheets-ai[master]: https://github.com/kailashahirwar/cheatsheets-ai.git
 kaixindelele/ChatPaper[main]: https://github.com/kaixindelele/ChatPaper.git
 kaiyinzhou/BERT-NER[master]: https://github.com/kaiyinzhou/BERT-NER.git
-kamranahmedse/developer-roadmap[master]: https://github.com/kamranahmedse/developer-roadmap.git
 Kanaries/pygwalker[main]: https://github.com/Kanaries/pygwalker.git
 kangvcar/InfoSpider[master]: https://github.com/kangvcar/InfoSpider.git
 KanishkNavale/Robot-Physics-Engine[master]: https://github.com/KanishkNavale/Robot-Physics-Engine.git
@@ -2482,6 +2482,7 @@ Nightmare-n/DepthAnyVideo[main]: https://github.com/Nightmare-n/DepthAnyVideo.gi
 nihui/opencv-mobile[master]: https://github.com/nihui/opencv-mobile.git
 nikhilbarhate99/PPO-PyTorch[master]: https://github.com/nikhilbarhate99/PPO-PyTorch.git
 nikrich/unreal-assets[master]: https://github.com/nikrich/unreal-assets.git
+nilbuild/developer-roadmap[master]: https://github.com/nilbuild/developer-roadmap.git
 nilsherzig/LLocalSearch[main]: https://github.com/nilsherzig/LLocalSearch.git
 NilsIrl/dockerc[trunk]: https://github.com/NilsIrl/dockerc.git
 ningshuliang/1-2-1-MNVTON[main]: https://github.com/ningshuliang/1-2-1-MNVTON.git
@@ -3490,6 +3491,7 @@ Tencent-Hunyuan/HunyuanCustom[main]: https://github.com/Tencent-Hunyuan/HunyuanC
 Tencent-Hunyuan/HunyuanDiT[main]: https://github.com/Tencent-Hunyuan/HunyuanDiT.git
 Tencent-Hunyuan/HunyuanVideo[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo.git
 Tencent-Hunyuan/HunyuanVideo-Avatar[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar.git
+Tencent-Hunyuan/HY-Embodied[master]: https://github.com/Tencent-Hunyuan/HY-Embodied.git
 Tencent-Hunyuan/InstantCharacter[main]: https://github.com/Tencent-Hunyuan/InstantCharacter.git
 Tencent-RoboticsX/lifelike-agility-and-play[master]: https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
 tencent-wechat/libco[master]: https://github.com/tencent-wechat/libco.git
@@ -3715,6 +3717,7 @@ unidex-ai/UniDex[main]: https://github.com/unidex-ai/UniDex.git
 unified-field-theory-org/animations[main]: https://github.com/unified-field-theory-org/animations.git
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unified-force/UniFP[main]: https://github.com/unified-force/UniFP.git
+unifyai/ivy[main]: https://github.com/unifyai/ivy.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
 unitreerobotics/unifolm-vla[main]: https://github.com/unitreerobotics/unifolm-vla.git
 unitreerobotics/unifolm-world-model-action[main]: https://github.com/unitreerobotics/unifolm-world-model-action.git
