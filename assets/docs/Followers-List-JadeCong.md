@@ -6,12 +6,13 @@ alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
+ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
+batcurn: https://github.com/batcurn
 benalbano: https://github.com/benalbano
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 bludnic: https://github.com/bludnic
-btncrn: https://github.com/btncrn
 buraksocial: https://github.com/buraksocial
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
@@ -28,10 +29,10 @@ dirambora: https://github.com/dirambora
 ephmo: https://github.com/ephmo
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
-H-K-R: https://github.com/H-K-R
 harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
 hmzgtl16: https://github.com/hmzgtl16
+humayrakhanomrime: https://github.com/humayrakhanomrime
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 ipqwery: https://github.com/ipqwery
