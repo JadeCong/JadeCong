@@ -12,6 +12,7 @@ ac-rad: https://github.com/ac-rad
 ACETeleop: https://github.com/ACETeleop
 acheong08: https://github.com/acheong08
 actions: https://github.com/actions
+addyosmani: https://github.com/addyosmani
 adobe: https://github.com/adobe
 affaan-m: https://github.com/affaan-m
 ag-ui-protocol: https://github.com/ag-ui-protocol
