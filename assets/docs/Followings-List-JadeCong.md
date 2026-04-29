@@ -105,6 +105,7 @@ BAAI-Agents: https://github.com/BAAI-Agents
 BAAI-Humanoid: https://github.com/BAAI-Humanoid
 BAAI-WuDao: https://github.com/BAAI-WuDao
 baaivision: https://github.com/baaivision
+badlogic: https://github.com/badlogic
 BadToBest: https://github.com/BadToBest
 baichuan-inc: https://github.com/baichuan-inc
 baidu: https://github.com/baidu
@@ -196,6 +197,7 @@ coleam00: https://github.com/coleam00
 comfyanonymous: https://github.com/comfyanonymous
 commaai: https://github.com/commaai
 community: https://github.com/community
+ComposioHQ: https://github.com/ComposioHQ
 computerhistory: https://github.com/computerhistory
 CompVis: https://github.com/CompVis
 Conarobot: https://github.com/Conarobot
@@ -251,6 +253,7 @@ dimensionalOS: https://github.com/dimensionalOS
 Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
 DirtyHarryLYL: https://github.com/DirtyHarryLYL
+discoverse-dev: https://github.com/discoverse-dev
 disneyresearch: https://github.com/disneyresearch
 DIYgod: https://github.com/DIYgod
 django: https://github.com/django
@@ -571,6 +574,7 @@ LC044: https://github.com/LC044
 lean-dojo: https://github.com/lean-dojo
 leaningtech: https://github.com/leaningtech
 LeapLabTHU: https://github.com/LeapLabTHU
+learnsyslab: https://github.com/learnsyslab
 LeCAR-Lab: https://github.com/LeCAR-Lab
 leggedrobotics: https://github.com/leggedrobotics
 lencx: https://github.com/lencx
@@ -637,6 +641,7 @@ MARS-EAI: https://github.com/MARS-EAI
 massgravel: https://github.com/massgravel
 matplotlib: https://github.com/matplotlib
 matthew-brett: https://github.com/matthew-brett
+mattpocock: https://github.com/mattpocock
 maybe-finance: https://github.com/maybe-finance
 mediar-ai: https://github.com/mediar-ai
 mega-sam: https://github.com/mega-sam
@@ -1046,6 +1051,7 @@ supabase: https://github.com/supabase
 SuperManito: https://github.com/SuperManito
 supermemoryai: https://github.com/supermemoryai
 supertokens: https://github.com/supertokens
+sv-pp: https://github.com/sv-pp
 svlevine: https://github.com/svlevine
 svpino: https://github.com/svpino
 SwanHubX: https://github.com/SwanHubX
@@ -1158,7 +1164,6 @@ ustclug: https://github.com/ustclug
 UT-Austin-RPL: https://github.com/UT-Austin-RPL
 UT-HCRL: https://github.com/UT-HCRL
 utahmobl: https://github.com/utahmobl
-utiasDSL: https://github.com/utiasDSL
 UW-Lab: https://github.com/UW-Lab
 uwgraphics: https://github.com/uwgraphics
 UWRobotLearning: https://github.com/UWRobotLearning
