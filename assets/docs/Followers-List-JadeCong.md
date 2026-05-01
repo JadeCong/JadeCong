@@ -1,5 +1,6 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
+AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
 alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
@@ -29,6 +30,7 @@ dirambora: https://github.com/dirambora
 ephmo: https://github.com/ephmo
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
+HamiParsa: https://github.com/HamiParsa
 harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
 hmzgtl16: https://github.com/hmzgtl16
@@ -66,10 +68,10 @@ nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
+pengvinx: https://github.com/pengvinx
 pie-rise1development: https://github.com/pie-rise1development
 pinhe91: https://github.com/pinhe91
 Pinkuburu: https://github.com/Pinkuburu
-pnguinx: https://github.com/pnguinx
 QingWeng: https://github.com/QingWeng
 Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
