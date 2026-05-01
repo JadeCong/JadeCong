@@ -338,6 +338,7 @@ floodsung: https://github.com/floodsung
 flow-diffusion: https://github.com/flow-diffusion
 FlowiseAI: https://github.com/FlowiseAI
 flutter: https://github.com/flutter
+FluxVLA: https://github.com/FluxVLA
 fmhy: https://github.com/fmhy
 forrestchang: https://github.com/forrestchang
 FoundationAgents: https://github.com/FoundationAgents
@@ -659,6 +660,7 @@ microsoft: https://github.com/microsoft
 mindsdb: https://github.com/mindsdb
 MineDojo: https://github.com/MineDojo
 mingukkang: https://github.com/mingukkang
+Mininglamp-AI: https://github.com/Mininglamp-AI
 MINT-SJTU: https://github.com/MINT-SJTU
 Mintplex-Labs: https://github.com/Mintplex-Labs
 MiroMindAI: https://github.com/MiroMindAI
@@ -721,6 +723,7 @@ neuralize-ai: https://github.com/neuralize-ai
 NeuronDance: https://github.com/NeuronDance
 newton-physics: https://github.com/newton-physics
 nextcloud: https://github.com/nextcloud
+nexu-io: https://github.com/nexu-io
 ngrok: https://github.com/ngrok
 ngxson: https://github.com/ngxson
 nhn: https://github.com/nhn
@@ -1083,6 +1086,7 @@ Textualize: https://github.com/Textualize
 tgeijten: https://github.com/tgeijten
 The-Pocket: https://github.com/The-Pocket
 TheAlgorithms: https://github.com/TheAlgorithms
+thedotmack: https://github.com/thedotmack
 TheKingOfDuck: https://github.com/TheKingOfDuck
 TheRobotStudio: https://github.com/TheRobotStudio
 ThingPulse: https://github.com/ThingPulse
