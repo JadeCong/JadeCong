@@ -3980,6 +3980,7 @@ xpipe-io/xpipe[master]: https://github.com/xpipe-io/xpipe.git
 xtekky/gpt4free[main]: https://github.com/xtekky/gpt4free.git
 XTLS/REALITY[main]: https://github.com/XTLS/REALITY.git
 XTLS/Xray-core[main]: https://github.com/XTLS/Xray-core.git
+XTLS/Xray-install[main]: https://github.com/XTLS/Xray-install.git
 xuchaobei/Fang[master]: https://github.com/xuchaobei/Fang.git
 xuchengsheng/spring-reading[master]: https://github.com/xuchengsheng/spring-reading.git
 xuebinqin/U-2-Net[master]: https://github.com/xuebinqin/U-2-Net.git
