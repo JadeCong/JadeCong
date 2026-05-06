@@ -220,9 +220,9 @@ ant-research/DepthLab[main]: https://github.com/ant-research/DepthLab.git
 ant-research/FLARE[main]: https://github.com/ant-research/FLARE.git
 ant-research/LeviTor[main]: https://github.com/ant-research/LeviTor.git
 ant-research/MagicQuill[main]: https://github.com/ant-research/MagicQuill.git
+antgroup/agentic-ai-landscape[main]: https://github.com/antgroup/agentic-ai-landscape.git
 antgroup/echomimic[main]: https://github.com/antgroup/echomimic.git
 antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
-antgroup/llm-oss-landscape[main]: https://github.com/antgroup/llm-oss-landscape.git
 anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
 anthropics/claude-cookbooks[main]: https://github.com/anthropics/claude-cookbooks.git
 anthropics/claudes-c-compiler[main]: https://github.com/anthropics/claudes-c-compiler.git
@@ -1195,7 +1195,7 @@ gen-robot/RL4VLA[main]: https://github.com/gen-robot/RL4VLA.git
 Gen-Verse/ReasonFlux[main]: https://github.com/Gen-Verse/ReasonFlux.git
 generalroboticslab/DukeHumanoidv1[main]: https://github.com/generalroboticslab/DukeHumanoidv1.git
 generatebio/chroma[main]: https://github.com/generatebio/chroma.git
-Genesis-Embodied-AI/Genesis[main]: https://github.com/Genesis-Embodied-AI/Genesis.git
+Genesis-Embodied-AI/genesis-world[main]: https://github.com/Genesis-Embodied-AI/genesis-world.git
 Genesis-Embodied-AI/RoboGen[main]: https://github.com/Genesis-Embodied-AI/RoboGen.git
 genforce/JOSH[main]: https://github.com/genforce/JOSH.git
 GenieReasoner/ERIQ[main]: https://github.com/GenieReasoner/ERIQ.git
