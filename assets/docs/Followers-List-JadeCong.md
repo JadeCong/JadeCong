@@ -30,7 +30,6 @@ dirambora: https://github.com/dirambora
 ephmo: https://github.com/ephmo
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
-HamiParsa: https://github.com/HamiParsa
 harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
 hmzgtl16: https://github.com/hmzgtl16
