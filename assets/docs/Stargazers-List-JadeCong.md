@@ -119,6 +119,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - zwbx: https://github.com/zwbx
 JadeCong/Awesome-Robotics[main]: https://github.com/JadeCong/Awesome-Robotics.git
   - JadeCong: https://github.com/JadeCong
+  - justicelee: https://github.com/justicelee
 JadeCong/Awesome-Startups[main]: https://github.com/JadeCong/Awesome-Startups.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/Awesome-Utilities[main]: https://github.com/JadeCong/Awesome-Utilities.git
@@ -163,6 +164,7 @@ JadeCong/realman-python[master]: https://github.com/JadeCong/realman-python.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/realman_ros[master]: https://github.com/JadeCong/realman_ros.git
   - JadeCong: https://github.com/JadeCong
+  - justicelee: https://github.com/justicelee
 JadeCong/realsense_ros[master]: https://github.com/JadeCong/realsense_ros.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/Robotic-Softbody-Manipulation[master]: https://github.com/JadeCong/Robotic-Softbody-Manipulation.git
@@ -178,6 +180,7 @@ JadeCong/siemens_ros[main]: https://github.com/JadeCong/siemens_ros.git
   - JadeCong: https://github.com/JadeCong
 JadeCong/Slave-xArm5[master]: https://github.com/JadeCong/Slave-xArm5.git
   - JadeCong: https://github.com/JadeCong
+  - justicelee: https://github.com/justicelee
 JadeCong/touch_ros[master]: https://github.com/JadeCong/touch_ros.git
   - Carrot404: https://github.com/Carrot404
   - evogithub: https://github.com/evogithub
