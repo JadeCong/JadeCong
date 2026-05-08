@@ -27,7 +27,6 @@ DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
-ephmo: https://github.com/ephmo
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 harinadh76: https://github.com/harinadh76
@@ -66,7 +65,6 @@ nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
-pengvinx: https://github.com/pengvinx
 pie-rise1development: https://github.com/pie-rise1development
 pinhe91: https://github.com/pinhe91
 Pinkuburu: https://github.com/Pinkuburu
@@ -92,6 +90,7 @@ sunnyyouknow: https://github.com/sunnyyouknow
 SyedShaheerHussain: https://github.com/SyedShaheerHussain
 TeacherEvan: https://github.com/TeacherEvan
 TheArtPlug: https://github.com/TheArtPlug
+thefakepengvin: https://github.com/thefakepengvin
 tomasvarga116: https://github.com/tomasvarga116
 toum120: https://github.com/toum120
 umidjon3455: https://github.com/umidjon3455
