@@ -364,7 +364,6 @@ baaivision/See3D[master]: https://github.com/baaivision/See3D.git
 baaivision/tokenize-anything[main]: https://github.com/baaivision/tokenize-anything.git
 baaivision/vid2vid-zero[main]: https://github.com/baaivision/vid2vid-zero.git
 badges/shields[master]: https://github.com/badges/shields.git
-badlogic/pi-mono[main]: https://github.com/badlogic/pi-mono.git
 Baekalfen/PyBoy[master]: https://github.com/Baekalfen/PyBoy.git
 baichuan-inc/Baichuan2[main]: https://github.com/baichuan-inc/Baichuan2.git
 baidu/bfs[master]: https://github.com/baidu/bfs.git
@@ -838,6 +837,7 @@ dylanaraps/pure-bash-bible[master]: https://github.com/dylanaraps/pure-bash-bibl
 dzhng/deep-research[main]: https://github.com/dzhng/deep-research.git
 e-271/awesome-few-shot-learning[master]: https://github.com/e-271/awesome-few-shot-learning.git
 e2b-dev/awesome-ai-agents[main]: https://github.com/e2b-dev/awesome-ai-agents.git
+earendil-works/pi[main]: https://github.com/earendil-works/pi.git
 earthat/NN-tuned-BLDC-motor[master]: https://github.com/earthat/NN-tuned-BLDC-motor.git
 easychen/opc-methodology[master]: https://github.com/easychen/opc-methodology.git
 eBay/akutan[master]: https://github.com/eBay/akutan.git
@@ -1275,6 +1275,7 @@ google-deepmind/gemini-robotics-sdk[main]: https://github.com/google-deepmind/ge
 google-deepmind/gemma[main]: https://github.com/google-deepmind/gemma.git
 google-deepmind/ithaca[main]: https://github.com/google-deepmind/ithaca.git
 google-deepmind/mujoco[main]: https://github.com/google-deepmind/mujoco.git
+google-deepmind/mujoco_menagerie[main]: https://github.com/google-deepmind/mujoco_menagerie.git
 google-deepmind/mujoco_mpc[main]: https://github.com/google-deepmind/mujoco_mpc.git
 google-deepmind/mujoco_playground[main]: https://github.com/google-deepmind/mujoco_playground.git
 google-deepmind/mujoco_warp[main]: https://github.com/google-deepmind/mujoco_warp.git
@@ -1420,7 +1421,6 @@ hesamsheikh/awesome-openclaw-usecases[main]: https://github.com/hesamsheikh/awes
 hesamsheikh/octogent[main]: https://github.com/hesamsheikh/octogent.git
 hetianle/HousePricingOfBeijing[master]: https://github.com/hetianle/HousePricingOfBeijing.git
 hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
-hexojs/hexo[master]: https://github.com/hexojs/hexo.git
 hezhangsprinter/ID-CGAN[master]: https://github.com/hezhangsprinter/ID-CGAN.git
 HFAiLab/OpenCastKit[master]: https://github.com/HFAiLab/OpenCastKit.git
 hhstore/awesome-buying-a-house[master]: https://github.com/hhstore/awesome-buying-a-house.git
@@ -3470,7 +3470,9 @@ szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
 szczyglis-dev/py-gpt[master]: https://github.com/szczyglis-dev/py-gpt.git
 szqwu/FrameCrafter[main]: https://github.com/szqwu/FrameCrafter.git
 tabler/tabler[dev]: https://github.com/tabler/tabler.git
+taichi-dev/awesome-taichi[main]: https://github.com/taichi-dev/awesome-taichi.git
 taichi-dev/taichi[master]: https://github.com/taichi-dev/taichi.git
+taichi-dev/taichi_elements[master]: https://github.com/taichi-dev/taichi_elements.git
 taki0112/BigGAN-Tensorflow[master]: https://github.com/taki0112/BigGAN-Tensorflow.git
 taki0112/Self-Attention-GAN-Tensorflow[master]: https://github.com/taki0112/Self-Attention-GAN-Tensorflow.git
 taki0112/StyleGAN-Tensorflow[master]: https://github.com/taki0112/StyleGAN-Tensorflow.git
@@ -3664,6 +3666,7 @@ TransformerOptimus/SuperAGI[main]: https://github.com/TransformerOptimus/SuperAG
 TransformerOptimus/SuperCoder[main]: https://github.com/TransformerOptimus/SuperCoder.git
 trekhleb/javascript-algorithms[master]: https://github.com/trekhleb/javascript-algorithms.git
 TRI-ML/prismatic-vlms[main]: https://github.com/TRI-ML/prismatic-vlms.git
+TRI-ML/vla_foundry[main]: https://github.com/TRI-ML/vla_foundry.git
 trimstray/nginx-admins-handbook[master]: https://github.com/trimstray/nginx-admins-handbook.git
 trimstray/technical-whitepapers[master]: https://github.com/trimstray/technical-whitepapers.git
 trimstray/test-your-sysadmin-skills[master]: https://github.com/trimstray/test-your-sysadmin-skills.git
@@ -3943,6 +3946,7 @@ x1xhlol/system-prompts-and-models-of-ai-tools[main]: https://github.com/x1xhlol/
 xai-org/grok-1[main]: https://github.com/xai-org/grok-1.git
 xArm-Developer/xarm_ros[master]: https://github.com/xArm-Developer/xarm_ros.git
 xavier150/Blender-For-UnrealEngine-Addons[release]: https://github.com/xavier150/Blender-For-UnrealEngine-Addons.git
+Xbotics-Embodied-AI-club/Xbotics-Embodied-Guide[main]: https://github.com/Xbotics-Embodied-AI-club/Xbotics-Embodied-Guide.git
 xbpeng/awr[master]: https://github.com/xbpeng/awr.git
 xbpeng/DeepLoco[master]: https://github.com/xbpeng/DeepLoco.git
 xbpeng/DeepMimic[master]: https://github.com/xbpeng/DeepMimic.git
@@ -4055,6 +4059,7 @@ yuanfei-Wang/AdaManip[main]: https://github.com/yuanfei-Wang/AdaManip.git
 yuanshenli/roller-grasper-v3[main]: https://github.com/yuanshenli/roller-grasper-v3.git
 yuanshenli/RollerGrasperV2[master]: https://github.com/yuanshenli/RollerGrasperV2.git
 yuanshenli/Tactile-Reactive-Roller-Grasper[main]: https://github.com/yuanshenli/Tactile-Reactive-Roller-Grasper.git
+yuantianyuan01/FastWAM[main]: https://github.com/yuantianyuan01/FastWAM.git
 yuaotian/go-cursor-help[master]: https://github.com/yuaotian/go-cursor-help.git
 yuchenlin/LLM-Blender[main]: https://github.com/yuchenlin/LLM-Blender.git
 yuchenlin/rebiber[main]: https://github.com/yuchenlin/rebiber.git
