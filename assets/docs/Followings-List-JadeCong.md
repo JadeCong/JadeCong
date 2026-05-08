@@ -1058,6 +1058,7 @@ sv-pp: https://github.com/sv-pp
 svlevine: https://github.com/svlevine
 svpino: https://github.com/svpino
 SwanHubX: https://github.com/SwanHubX
+taichi-dev: https://github.com/taichi-dev
 TairanHe: https://github.com/TairanHe
 TAMS-Group: https://github.com/TAMS-Group
 tanweai: https://github.com/tanweai
@@ -1123,6 +1124,7 @@ TradeMaster-NTU: https://github.com/TradeMaster-NTU
 trailofbits: https://github.com/trailofbits
 TRI-ML: https://github.com/TRI-ML
 trimstray: https://github.com/trimstray
+Trinkle23897: https://github.com/Trinkle23897
 tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
 Tsinghua-MARS-Lab: https://github.com/Tsinghua-MARS-Lab
 TsinghuaC3I: https://github.com/TsinghuaC3I
@@ -1238,6 +1240,7 @@ X-lab2017: https://github.com/X-lab2017
 X-PLUG: https://github.com/X-PLUG
 x1xhlol: https://github.com/x1xhlol
 xai-org: https://github.com/xai-org
+Xbotics-Embodied-AI-club: https://github.com/Xbotics-Embodied-AI-club
 xbpeng: https://github.com/xbpeng
 xenova: https://github.com/xenova
 Xgorobot: https://github.com/Xgorobot
