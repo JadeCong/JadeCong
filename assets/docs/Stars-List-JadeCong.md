@@ -1514,6 +1514,7 @@ huchunxu/ros_blog_sources[master]: https://github.com/huchunxu/ros_blog_sources.
 huggingface/accelerate[main]: https://github.com/huggingface/accelerate.git
 huggingface/diffusers[main]: https://github.com/huggingface/diffusers.git
 huggingface/lerobot[main]: https://github.com/huggingface/lerobot.git
+huggingface/ml-intern[main]: https://github.com/huggingface/ml-intern.git
 huggingface/pytorch-image-models[main]: https://github.com/huggingface/pytorch-image-models.git
 huggingface/pytorch-openai-transformer-lm[master]: https://github.com/huggingface/pytorch-openai-transformer-lm.git
 huggingface/pytorch-pretrained-BigGAN[master]: https://github.com/huggingface/pytorch-pretrained-BigGAN.git
@@ -1788,11 +1789,10 @@ jonyzhang2023/awesome-embodied-vla-va-vln[main]: https://github.com/jonyzhang202
 joonspk-research/generative_agents[main]: https://github.com/joonspk-research/generative_agents.git
 joschu/trajopt[master]: https://github.com/joschu/trajopt.git
 josephmisiti/awesome-machine-learning[master]: https://github.com/josephmisiti/awesome-machine-learning.git
-joshua-wu/deepfakes_faceswap[master]: https://github.com/joshua-wu/deepfakes_faceswap.git
 JOY-MM/JoyGen[main]: https://github.com/JOY-MM/JoyGen.git
 jquery/jquery[main]: https://github.com/jquery/jquery.git
 Jrohy/trojan[master]: https://github.com/Jrohy/trojan.git
-jslee02/awesome-collision-detection[master]: https://github.com/jslee02/awesome-collision-detection.git
+jslee02/awesome-collision-detection[main]: https://github.com/jslee02/awesome-collision-detection.git
 jslee02/awesome-robotics-libraries[main]: https://github.com/jslee02/awesome-robotics-libraries.git
 jsonresume/registry-functions[master]: https://github.com/jsonresume/registry-functions.git
 jsupancic/deep_hand_pose[master]: https://github.com/jsupancic/deep_hand_pose.git
@@ -2440,6 +2440,7 @@ nakamotoo/dsrl_pi0[main]: https://github.com/nakamotoo/dsrl_pi0.git
 naklecha/llama3-from-scratch[main]: https://github.com/naklecha/llama3-from-scratch.git
 NanmiCoder/MediaCrawler[main]: https://github.com/NanmiCoder/MediaCrawler.git
 nanobrowser/nanobrowser[master]: https://github.com/nanobrowser/nanobrowser.git
+nanocoai/nanoclaw[main]: https://github.com/nanocoai/nanoclaw.git
 NapthaAI/automcp[main]: https://github.com/NapthaAI/automcp.git
 naruya/tecnets-pytorch[master]: https://github.com/naruya/tecnets-pytorch.git
 nasa/fprime[devel]: https://github.com/nasa/fprime.git
@@ -2990,7 +2991,6 @@ QwenLM/Qwen3[main]: https://github.com/QwenLM/Qwen3.git
 QwenLM/Qwen3-Coder[main]: https://github.com/QwenLM/Qwen3-Coder.git
 QwenLM/Qwen3-Omni[main]: https://github.com/QwenLM/Qwen3-Omni.git
 QwenLM/Qwen3-VL[main]: https://github.com/QwenLM/Qwen3-VL.git
-qwibitai/nanoclaw[main]: https://github.com/qwibitai/nanoclaw.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
@@ -4106,6 +4106,8 @@ zai-org/GLM-4-Voice[main]: https://github.com/zai-org/GLM-4-Voice.git
 zai-org/Open-AutoGLM[main]: https://github.com/zai-org/Open-AutoGLM.git
 zarazhangrui/frontend-slides[main]: https://github.com/zarazhangrui/frontend-slides.git
 zbw001/TAPIP3D[main]: https://github.com/zbw001/TAPIP3D.git
+zdchan/GraspXL[main]: https://github.com/zdchan/GraspXL.git
+zdchan/GraspXL_visualization[main]: https://github.com/zdchan/GraspXL_visualization.git
 zdchan/RobustDexGrasp[main]: https://github.com/zdchan/RobustDexGrasp.git
 zealdocs/zeal[main]: https://github.com/zealdocs/zeal.git
 zed-industries/zed[main]: https://github.com/zed-industries/zed.git
