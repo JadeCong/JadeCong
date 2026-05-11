@@ -22,7 +22,6 @@ cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
 CriptoNuno2024: https://github.com/CriptoNuno2024
-DaFi-1: https://github.com/DaFi-1
 DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
