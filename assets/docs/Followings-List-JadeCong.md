@@ -706,6 +706,7 @@ NaiboWang: https://github.com/NaiboWang
 nakamotoo: https://github.com/nakamotoo
 naklecha: https://github.com/naklecha
 NanmiCoder: https://github.com/NanmiCoder
+nanocoai: https://github.com/nanocoai
 NapthaAI: https://github.com/NapthaAI
 nasa: https://github.com/nasa
 naver: https://github.com/naver
@@ -895,7 +896,6 @@ qpsolvers: https://github.com/qpsolvers
 qt: https://github.com/qt
 quora: https://github.com/quora
 QwenLM: https://github.com/QwenLM
-qwibitai: https://github.com/qwibitai
 qxiaofan: https://github.com/qxiaofan
 r-spacex: https://github.com/r-spacex
 raghakot: https://github.com/raghakot
