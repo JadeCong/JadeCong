@@ -316,7 +316,7 @@ Fanqi-Lin: https://github.com/Fanqi-Lin
 Farama-Foundation: https://github.com/Farama-Foundation
 farion1231: https://github.com/farion1231
 fastapi: https://github.com/fastapi
-FastUMIData: https://github.com/FastUMIData
+FastUMI-Data: https://github.com/FastUMI-Data
 fatedier: https://github.com/fatedier
 FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
