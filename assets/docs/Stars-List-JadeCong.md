@@ -1062,6 +1062,7 @@ fenwii/huaweimind[master]: https://github.com/fenwii/huaweimind.git
 fenwii/OpenHarmony[master]: https://github.com/fenwii/OpenHarmony.git
 FestingerVault/FestingerVault[main]: https://github.com/FestingerVault/FestingerVault.git
 fffaraz/awesome-cpp[master]: https://github.com/fffaraz/awesome-cpp.git
+fffstrong/RoboWM-Bench[main]: https://github.com/fffstrong/RoboWM-Bench.git
 FFmpeg/FFmpeg[master]: https://github.com/FFmpeg/FFmpeg.git
 FFTAI/FourierHardwareOpen[main]: https://github.com/FFTAI/FourierHardwareOpen.git
 FFTAI/Wiki-GRx-Deploy[FourierN1]: https://github.com/FFTAI/Wiki-GRx-Deploy.git
@@ -2131,6 +2132,7 @@ lutris/lutris[master]: https://github.com/lutris/lutris.git
 lutzroeder/netron[main]: https://github.com/lutzroeder/netron.git
 Ly0n/awesome-robotic-tooling[main]: https://github.com/Ly0n/awesome-robotic-tooling.git
 lydiahallie/javascript-questions[master]: https://github.com/lydiahallie/javascript-questions.git
+LYFCLOUDFAN/mask-world-model[main]: https://github.com/LYFCLOUDFAN/mask-world-model.git
 Lyken17/pytorch-OpCounter[master]: https://github.com/Lyken17/pytorch-OpCounter.git
 LynnHo/CycleGAN-Tensorflow-2[master]: https://github.com/LynnHo/CycleGAN-Tensorflow-2.git
 lyswhut/lx-music-desktop[master]: https://github.com/lyswhut/lx-music-desktop.git
@@ -2710,7 +2712,7 @@ openai/whisper[main]: https://github.com/openai/whisper.git
 OpenAPITools/openapi-generator[master]: https://github.com/OpenAPITools/openapi-generator.git
 OpenBB-finance/OpenBB[develop]: https://github.com/OpenBB-finance/OpenBB.git
 OpenBMB/ChatDev[main]: https://github.com/OpenBMB/ChatDev.git
-OpenBMB/MiniCPM-o[main]: https://github.com/OpenBMB/MiniCPM-o.git
+OpenBMB/MiniCPM-V[main]: https://github.com/OpenBMB/MiniCPM-V.git
 OpenBMB/ProAgent[main]: https://github.com/OpenBMB/ProAgent.git
 OpenBMB/XAgent[main]: https://github.com/OpenBMB/XAgent.git
 openclaw/clawhub[main]: https://github.com/openclaw/clawhub.git
@@ -3275,10 +3277,11 @@ shadowsocks/shadowsocks-windows[v4]: https://github.com/shadowsocks/shadowsocks-
 shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/ShadowsocksX-NG.git
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
-shareAI-lab/Kode-Agent[main]: https://github.com/shareAI-lab/Kode-Agent.git
+shareAI-lab/Kode-CLI[main]: https://github.com/shareAI-lab/Kode-CLI.git
 shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
+sharinka0715/X-WAM[gh_pages]: https://github.com/sharinka0715/X-WAM.git
 sharpa-robotics/sharpa-manus-sdk[main]: https://github.com/sharpa-robotics/sharpa-manus-sdk.git
 sharpa-robotics/sharpa-rl-lab[main]: https://github.com/sharpa-robotics/sharpa-rl-lab.git
 sharpa-robotics/sharpa-tacmap[main]: https://github.com/sharpa-robotics/sharpa-tacmap.git
@@ -4070,6 +4073,7 @@ yuelinxin/hello-algo-en[yuelinxin-en]: https://github.com/yuelinxin/hello-algo-e
 yufu-wang/PromptHMR[main]: https://github.com/yufu-wang/PromptHMR.git
 yuhaoliu7456/Shape-for-Motion[main]: https://github.com/yuhaoliu7456/Shape-for-Motion.git
 yuhaozhang7/NGD-SLAM[main]: https://github.com/yuhaozhang7/NGD-SLAM.git
+YuhuaJiang2002/CKT-WAM[main]: https://github.com/YuhuaJiang2002/CKT-WAM.git
 yukezhu/tensorflow-reinforce[master]: https://github.com/yukezhu/tensorflow-reinforce.git
 yukihiko/ThreeDPoseUnitySample[master]: https://github.com/yukihiko/ThreeDPoseUnitySample.git
 Yuliang-Liu/MonkeyOCR[main]: https://github.com/Yuliang-Liu/MonkeyOCR.git
