@@ -35,6 +35,7 @@ aaedmusa/Capstan-Drive[main]: https://github.com/aaedmusa/Capstan-Drive.git
 aaedmusa/Internal-Cycloidal-Actuator[main]: https://github.com/aaedmusa/Internal-Cycloidal-Actuator.git
 aaedmusa/OpenQDD-V1[main]: https://github.com/aaedmusa/OpenQDD-V1.git
 aaedmusa/TOPS[main]: https://github.com/aaedmusa/TOPS.git
+aaione/everything-claude-code-zh[main]: https://github.com/aaione/everything-claude-code-zh.git
 aalmah/augmented_cyclegan[master]: https://github.com/aalmah/augmented_cyclegan.git
 AaronZ021/tryvoice-oss[main]: https://github.com/AaronZ021/tryvoice-oss.git
 abcamiletto/frame[main]: https://github.com/abcamiletto/frame.git
@@ -81,6 +82,7 @@ AgibotTech/agibot_x1_train[main]: https://github.com/AgibotTech/agibot_x1_train.
 AgibotTech/EnerVerse-AC[main]: https://github.com/AgibotTech/EnerVerse-AC.git
 AgibotTech/EWMBench[main]: https://github.com/AgibotTech/EWMBench.git
 AgibotTech/genie_sim[main]: https://github.com/AgibotTech/genie_sim.git
+AgibotTech/Omnihand-2025-SDK[main]: https://github.com/AgibotTech/Omnihand-2025-SDK.git
 AgileRobotsAG/RAFCON[develop]: https://github.com/AgileRobotsAG/RAFCON.git
 agiresearch/AIOS[main]: https://github.com/agiresearch/AIOS.git
 agiresearch/Cerebrum[main]: https://github.com/agiresearch/Cerebrum.git
@@ -1116,7 +1118,6 @@ FoloUp/FoloUp[main]: https://github.com/FoloUp/FoloUp.git
 forezp/SpringCloudLearning[master]: https://github.com/forezp/SpringCloudLearning.git
 formulahendry/944.Life[master]: https://github.com/formulahendry/944.Life.git
 formulahendry/955.WLB[master]: https://github.com/formulahendry/955.WLB.git
-forrestchang/andrej-karpathy-skills[main]: https://github.com/forrestchang/andrej-karpathy-skills.git
 Fosowl/agenticSeek[main]: https://github.com/Fosowl/agenticSeek.git
 FoundationAgents/awesome-foundation-agents[main]: https://github.com/FoundationAgents/awesome-foundation-agents.git
 FoundationAgents/MetaGPT[main]: https://github.com/FoundationAgents/MetaGPT.git
@@ -1422,6 +1423,7 @@ hesamsheikh/awesome-openclaw-usecases[main]: https://github.com/hesamsheikh/awes
 hesamsheikh/octogent[main]: https://github.com/hesamsheikh/octogent.git
 hetianle/HousePricingOfBeijing[master]: https://github.com/hetianle/HousePricingOfBeijing.git
 hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
+hexojs/hexo[master]: https://github.com/hexojs/hexo.git
 hezhangsprinter/ID-CGAN[master]: https://github.com/hezhangsprinter/ID-CGAN.git
 HFAiLab/OpenCastKit[master]: https://github.com/HFAiLab/OpenCastKit.git
 hhstore/awesome-buying-a-house[master]: https://github.com/hhstore/awesome-buying-a-house.git
@@ -2019,6 +2021,7 @@ lijx10/uwb-localization[master]: https://github.com/lijx10/uwb-localization.git
 lima-vm/lima[master]: https://github.com/lima-vm/lima.git
 linchangyi1/Awesome-Touch[main]: https://github.com/linchangyi1/Awesome-Touch.git
 linchangyi1/LocoTouch[main]: https://github.com/linchangyi1/LocoTouch.git
+LinDixuan/OmniHands[main]: https://github.com/LinDixuan/OmniHands.git
 lingxiaomeng/VR_Teleoperation_Gen3[main]: https://github.com/lingxiaomeng/VR_Teleoperation_Gen3.git
 linker-bot/human-dex[main]: https://github.com/linker-bot/human-dex.git
 Linketic/CityGaussian[main]: https://github.com/Linketic/CityGaussian.git
@@ -2035,10 +2038,10 @@ liruiw/HPT[main]: https://github.com/liruiw/HPT.git
 liruiw/OMG-Planner[master]: https://github.com/liruiw/OMG-Planner.git
 lis-epfl/robogen[master]: https://github.com/lis-epfl/robogen.git
 lisa-lab/DeepLearningTutorials[master]: https://github.com/lisa-lab/DeepLearningTutorials.git
-Lissy93/dashy[master]: https://github.com/Lissy93/dashy.git
-Lissy93/Lissy93[master]: https://github.com/Lissy93/Lissy93.git
-Lissy93/my-website[master]: https://github.com/Lissy93/my-website.git
-Lissy93/personal-security-checklist[master]: https://github.com/Lissy93/personal-security-checklist.git
+lissy93/dashy[master]: https://github.com/lissy93/dashy.git
+lissy93/Lissy93[master]: https://github.com/lissy93/Lissy93.git
+lissy93/my-website[master]: https://github.com/lissy93/my-website.git
+lissy93/personal-security-checklist[master]: https://github.com/lissy93/personal-security-checklist.git
 LiteOS/LiteOS[master]: https://github.com/LiteOS/LiteOS.git
 LiteOS/LiteOS.github.io2[master]: https://github.com/LiteOS/LiteOS.github.io2.git
 LiteOS/LiteOS_Lab[iot-device-sdk-tiny]: https://github.com/LiteOS/LiteOS_Lab.git
@@ -2308,7 +2311,7 @@ mikel-brostrom/boxmot[master]: https://github.com/mikel-brostrom/boxmot.git
 mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
 milanvarady/Applite[main]: https://github.com/milanvarady/Applite.git
 MindDock/motion-tracker[main]: https://github.com/MindDock/motion-tracker.git
-mindsdb/mindsdb[main]: https://github.com/mindsdb/mindsdb.git
+mindsdb/minds-platform[main]: https://github.com/mindsdb/minds-platform.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
 mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_mujoco.git
 minghu0830/OphNet-3D[main]: https://github.com/minghu0830/OphNet-3D.git
@@ -2421,6 +2424,7 @@ muellerberndt/mini-agi[main]: https://github.com/muellerberndt/mini-agi.git
 mujocolab/mjlab[main]: https://github.com/mujocolab/mjlab.git
 mujocolab/mjviser[main]: https://github.com/mujocolab/mjviser.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
+multica-ai/andrej-karpathy-skills[main]: https://github.com/multica-ai/andrej-karpathy-skills.git
 multica-ai/multica[main]: https://github.com/multica-ai/multica.git
 Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
 musistudio/claude-code-router[main]: https://github.com/musistudio/claude-code-router.git
@@ -3401,7 +3405,6 @@ Stable-X/StableNormal[main]: https://github.com/Stable-X/StableNormal.git
 stack-of-tasks/pinocchio[devel]: https://github.com/stack-of-tasks/pinocchio.git
 stackblitz/bolt.new[main]: https://github.com/stackblitz/bolt.new.git
 stagewise-io/stagewise[main]: https://github.com/stagewise-io/stagewise.git
-stan-smith/FossFLOW[master]: https://github.com/stan-smith/FossFLOW.git
 Standard-Intelligence/hertz-dev[main]: https://github.com/Standard-Intelligence/hertz-dev.git
 stanford-crfm/fmti[main]: https://github.com/stanford-crfm/fmti.git
 Stanford-ILIAD/openvla-mini[main]: https://github.com/Stanford-ILIAD/openvla-mini.git
@@ -3420,6 +3423,7 @@ StanfordVL/iGibson[master]: https://github.com/StanfordVL/iGibson.git
 star-history/star-history[main]: https://github.com/star-history/star-history.git
 StarCycle/Awesome-Embodied-AI-Job[main]: https://github.com/StarCycle/Awesome-Embodied-AI-Job.git
 state-spaces/mamba[main]: https://github.com/state-spaces/mamba.git
+Stella-robot/GaiaHand[main]: https://github.com/Stella-robot/GaiaHand.git
 stepfun-ai/gelab-zero[main]: https://github.com/stepfun-ai/gelab-zero.git
 stepfun-ai/Step1X-3D[main]: https://github.com/stepfun-ai/Step1X-3D.git
 stephane-caron/pink[main]: https://github.com/stephane-caron/pink.git
@@ -3914,7 +3918,7 @@ win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
 wjwwood/serial[main]: https://github.com/wjwwood/serial.git
 wkentaro/labelme[main]: https://github.com/wkentaro/labelme.git
 WM-PO/WMPO[main]: https://github.com/WM-PO/WMPO.git
-wmjordan/PDFPatcher[master]: https://github.com/wmjordan/PDFPatcher.git
+wmjordan/PDFPatcher[v1.2]: https://github.com/wmjordan/PDFPatcher.git
 wong2/awesome-mcp-servers[main]: https://github.com/wong2/awesome-mcp-servers.git
 WongKinYiu/yolov7[main]: https://github.com/WongKinYiu/yolov7.git
 WooQi57/Helpful-Doggybot[main]: https://github.com/WooQi57/Helpful-Doggybot.git
