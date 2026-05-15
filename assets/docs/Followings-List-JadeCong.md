@@ -595,7 +595,7 @@ linkerbotai: https://github.com/linkerbotai
 linuxdeepin: https://github.com/linuxdeepin
 liruilong940607: https://github.com/liruilong940607
 liruiw: https://github.com/liruiw
-Lissy93: https://github.com/Lissy93
+lissy93: https://github.com/lissy93
 LiteOS: https://github.com/LiteOS
 liuff19: https://github.com/liuff19
 liyiteng: https://github.com/liyiteng
@@ -1041,6 +1041,7 @@ stanfordnlp: https://github.com/stanfordnlp
 StanfordVL: https://github.com/StanfordVL
 staruml: https://github.com/staruml
 steipete: https://github.com/steipete
+Stella-robot: https://github.com/Stella-robot
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
 Stirling-Tools: https://github.com/Stirling-Tools
