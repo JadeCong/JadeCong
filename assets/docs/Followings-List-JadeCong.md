@@ -94,6 +94,7 @@ asweigart: https://github.com/asweigart
 atenpas: https://github.com/atenpas
 AuboRobot: https://github.com/AuboRobot
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
+AutoLab-SAI-SJTU: https://github.com/AutoLab-SAI-SJTU
 AutomaApp: https://github.com/AutomaApp
 automata: https://github.com/automata
 AUTOMATIC1111: https://github.com/AUTOMATIC1111
@@ -190,6 +191,7 @@ CodedotAl: https://github.com/CodedotAl
 CodePhiliaX: https://github.com/CodePhiliaX
 coder: https://github.com/coder
 coderabbitai: https://github.com/coderabbitai
+CognitiveAISystems: https://github.com/CognitiveAISystems
 cohere-ai: https://github.com/cohere-ai
 coinbase: https://github.com/coinbase
 colcon: https://github.com/colcon
@@ -218,6 +220,7 @@ cweijan: https://github.com/cweijan
 cyberbotics: https://github.com/cyberbotics
 CyberGrandChallenge: https://github.com/CyberGrandChallenge
 d2l-ai: https://github.com/d2l-ai
+D4Vinci: https://github.com/D4Vinci
 daattali: https://github.com/daattali
 DaiLuyaoME: https://github.com/DaiLuyaoME
 dair-ai: https://github.com/dair-ai
@@ -274,6 +277,7 @@ duixcom: https://github.com/duixcom
 duplicati: https://github.com/duplicati
 dusty-nv: https://github.com/dusty-nv
 dzhng: https://github.com/dzhng
+earthtojake: https://github.com/earthtojake
 easychen: https://github.com/easychen
 EbookFoundation: https://github.com/EbookFoundation
 eclipse-zenoh: https://github.com/eclipse-zenoh
@@ -645,6 +649,7 @@ matthew-brett: https://github.com/matthew-brett
 mattpocock: https://github.com/mattpocock
 maybe-finance: https://github.com/maybe-finance
 mediar-ai: https://github.com/mediar-ai
+mees: https://github.com/mees
 mega-sam: https://github.com/mega-sam
 Megvii-BaseDetection: https://github.com/Megvii-BaseDetection
 megvii-model: https://github.com/megvii-model
@@ -766,6 +771,7 @@ NvPhysX: https://github.com/NvPhysX
 nvpro-samples: https://github.com/nvpro-samples
 nyu-systems: https://github.com/nyu-systems
 OAI: https://github.com/OAI
+obra: https://github.com/obra
 octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
 Oneflow-Inc: https://github.com/Oneflow-Inc
@@ -1004,6 +1010,7 @@ SIGRobotics-UIUC: https://github.com/SIGRobotics-UIUC
 sihyun-yu: https://github.com/sihyun-yu
 Simple-Efficient: https://github.com/Simple-Efficient
 SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
+simpler-env: https://github.com/simpler-env
 simstudioai: https://github.com/simstudioai
 simular-ai: https://github.com/simular-ai
 sindresorhus: https://github.com/sindresorhus
@@ -1044,6 +1051,7 @@ steipete: https://github.com/steipete
 Stella-robot: https://github.com/Stella-robot
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
+stepjam: https://github.com/stepjam
 Stirling-Tools: https://github.com/Stirling-Tools
 straight-tamago: https://github.com/straight-tamago
 strands-agents: https://github.com/strands-agents
@@ -1107,6 +1115,7 @@ timdorr: https://github.com/timdorr
 TimerChen: https://github.com/TimerChen
 timqian: https://github.com/timqian
 TingliangZhang: https://github.com/TingliangZhang
+tinyhumansai: https://github.com/tinyhumansai
 TixiaoShan: https://github.com/TixiaoShan
 TJU-Aerial-Robotics: https://github.com/TJU-Aerial-Robotics
 tjy-gitnub: https://github.com/tjy-gitnub
@@ -1225,6 +1234,7 @@ wheelos: https://github.com/wheelos
 WHU-USI3DV: https://github.com/WHU-USI3DV
 wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
+Wind-River: https://github.com/Wind-River
 wkentaro: https://github.com/wkentaro
 worldarena: https://github.com/worldarena
 worldcoin: https://github.com/worldcoin
