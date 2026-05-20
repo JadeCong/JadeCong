@@ -1187,6 +1187,7 @@ uynitsuj: https://github.com/uynitsuj
 UZ-SLAMLab: https://github.com/UZ-SLAMLab
 v2fly: https://github.com/v2fly
 v2ray: https://github.com/v2ray
+v4rl-ucy: https://github.com/v4rl-ucy
 vanna-ai: https://github.com/vanna-ai
 Vector-Wangel: https://github.com/Vector-Wangel
 VectorSpaceLab: https://github.com/VectorSpaceLab
@@ -1199,7 +1200,6 @@ villekuosmanen: https://github.com/villekuosmanen
 vinjn: https://github.com/vinjn
 vinta: https://github.com/vinta
 virattt: https://github.com/virattt
-VIS4ROB-lab: https://github.com/VIS4ROB-lab
 Vision-CAIR: https://github.com/Vision-CAIR
 vision-x-nyu: https://github.com/vision-x-nyu
 vivoCameraResearch: https://github.com/vivoCameraResearch
