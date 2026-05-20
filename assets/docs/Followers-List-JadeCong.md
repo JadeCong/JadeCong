@@ -1,6 +1,5 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
-adindazu: https://github.com/adindazu
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
 alicevic201610-commits: https://github.com/alicevic201610-commits
@@ -36,8 +35,6 @@ hanyvert: https://github.com/hanyvert
 harinadh76: https://github.com/harinadh76
 hazexone: https://github.com/hazexone
 Hengle: https://github.com/Hengle
-hestiyak: https://github.com/hestiyak
-hidariako: https://github.com/hidariako
 hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
 idimetrix: https://github.com/idimetrix
@@ -47,10 +44,7 @@ itsKayWat: https://github.com/itsKayWat
 ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jaderytm: https://github.com/jaderytm
-jakerother: https://github.com/jakerother
-jamesgeodi: https://github.com/jamesgeodi
 jelspace: https://github.com/jelspace
-jkdevcode: https://github.com/jkdevcode
 jmenture45: https://github.com/jmenture45
 jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
@@ -77,7 +71,6 @@ nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
-olienath: https://github.com/olienath
 oomodan: https://github.com/oomodan
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
 pie-rise1development: https://github.com/pie-rise1development
@@ -112,7 +105,6 @@ umidjon3455: https://github.com/umidjon3455
 VIDAKHOSHPEY22: https://github.com/VIDAKHOSHPEY22
 vierystein: https://github.com/vierystein
 vimal0156: https://github.com/vimal0156
-viraweitse: https://github.com/viraweitse
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
@@ -122,12 +114,8 @@ XiaChiandXuce: https://github.com/XiaChiandXuce
 YALDAKHOSHPEY: https://github.com/YALDAKHOSHPEY
 Ycberger: https://github.com/Ycberger
 yogeshvibez: https://github.com/yogeshvibez
-yolenatch: https://github.com/yolenatch
 youziLab: https://github.com/youziLab
-yupyanyo: https://github.com/yupyanyo
 Z3ltrex: https://github.com/Z3ltrex
 z3r0b47: https://github.com/z3r0b47
 zhouxinyu: https://github.com/zhouxinyu
 ZigaoWang: https://github.com/ZigaoWang
-zowilyhter: https://github.com/zowilyhter
-zunelyat: https://github.com/zunelyat
