@@ -556,6 +556,7 @@ chenglou/pretext[main]: https://github.com/chenglou/pretext.git
 ChengshuLi/MoMaGen[main]: https://github.com/ChengshuLi/MoMaGen.git
 chenyuntc/pytorch-book[master]: https://github.com/chenyuntc/pytorch-book.git
 CherryHQ/cherry-studio[main]: https://github.com/CherryHQ/cherry-studio.git
+china-qijizhifeng/agentic-harness-engineering[main]: https://github.com/china-qijizhifeng/agentic-harness-engineering.git
 chinakook/Awesome-MXNet[master]: https://github.com/chinakook/Awesome-MXNet.git
 chiphuyen/stanford-tensorflow-tutorials[master]: https://github.com/chiphuyen/stanford-tensorflow-tutorials.git
 ChiSu001/SAT-HMR[main]: https://github.com/ChiSu001/SAT-HMR.git
@@ -812,6 +813,7 @@ dontriskit/awesome-ai-system-prompts[main]: https://github.com/dontriskit/awesom
 doocs/advanced-java[main]: https://github.com/doocs/advanced-java.git
 doocs/source-code-hunter[main]: https://github.com/doocs/source-code-hunter.git
 DopplerHQ/awesome-interview-questions[master]: https://github.com/DopplerHQ/awesome-interview-questions.git
+dorianborian/sesame-robot[main]: https://github.com/dorianborian/sesame-robot.git
 dornik/doughnet[main]: https://github.com/dornik/doughnet.git
 Doubiiu/ToonCrafter[main]: https://github.com/Doubiiu/ToonCrafter.git
 dougsm/ggcnn[master]: https://github.com/dougsm/ggcnn.git
@@ -949,6 +951,7 @@ eureka-research/Eureka[main]: https://github.com/eureka-research/Eureka.git
 eureka-research/eurekaverse[main]: https://github.com/eureka-research/eurekaverse.git
 evalstate/fast-agent[main]: https://github.com/evalstate/fast-agent.git
 eveningglow/multitask-CycleGAN[master]: https://github.com/eveningglow/multitask-CycleGAN.git
+EverMind-AI/EverOS[main]: https://github.com/EverMind-AI/EverOS.git
 evil-huawei/evil-huawei[master]: https://github.com/evil-huawei/evil-huawei.git
 evilsocket/cake[main]: https://github.com/evilsocket/cake.git
 EvolvingLMMs-Lab/NEO[main]: https://github.com/EvolvingLMMs-Lab/NEO.git
@@ -3459,7 +3462,6 @@ stephane/pylibmodbus[main]: https://github.com/stephane/pylibmodbus.git
 stepjam/PyRep[master]: https://github.com/stepjam/PyRep.git
 stepjam/RLBench[master]: https://github.com/stepjam/RLBench.git
 stepjam/TecNets[master]: https://github.com/stepjam/TecNets.git
-steve-zeyu-zhang/MotionAnything[main]: https://github.com/steve-zeyu-zhang/MotionAnything.git
 stevenlovegrove/Pangolin[master]: https://github.com/stevenlovegrove/Pangolin.git
 stevenlsw/physgen[main]: https://github.com/stevenlsw/physgen.git
 Stirling-Tools/Stirling-PDF[main]: https://github.com/Stirling-Tools/Stirling-PDF.git
@@ -4059,6 +4061,7 @@ YanjieZe/Improved-3D-Diffusion-Policy[main]: https://github.com/YanjieZe/Improve
 YanjieZe/TWIST[master]: https://github.com/YanjieZe/TWIST.git
 yannqi/Draw-an-Audio-Code[main]: https://github.com/yannqi/Draw-an-Audio-Code.git
 yao62995/tensorflow[master]: https://github.com/yao62995/tensorflow.git
+Yeachan-Heo/oh-my-claudecode[main]: https://github.com/Yeachan-Heo/oh-my-claudecode.git
 Yeachan-Heo/oh-my-codex[main]: https://github.com/Yeachan-Heo/oh-my-codex.git
 yeahhub/Hacking-Security-Ebooks[master]: https://github.com/yeahhub/Hacking-Security-Ebooks.git
 yenchenlin/DeepLearningFlappyBird[master]: https://github.com/yenchenlin/DeepLearningFlappyBird.git
