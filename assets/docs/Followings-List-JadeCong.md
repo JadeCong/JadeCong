@@ -268,6 +268,7 @@ dog-qiuqiu: https://github.com/dog-qiuqiu
 donnemartin: https://github.com/donnemartin
 doocs: https://github.com/doocs
 DopplerHQ: https://github.com/DopplerHQ
+dorianborian: https://github.com/dorianborian
 dougsm: https://github.com/dougsm
 doxygen: https://github.com/doxygen
 DrJimFan: https://github.com/DrJimFan
@@ -306,6 +307,7 @@ EtherDream: https://github.com/EtherDream
 ethereum: https://github.com/ethereum
 ethz-adrl: https://github.com/ethz-adrl
 eureka-research: https://github.com/eureka-research
+EverMind-AI: https://github.com/EverMind-AI
 EvolvingLMMs-Lab: https://github.com/EvolvingLMMs-Lab
 EvoMap: https://github.com/EvoMap
 exelban: https://github.com/exelban
