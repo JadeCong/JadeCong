@@ -3,6 +3,8 @@
 1Panel-dev: https://github.com/1Panel-dev
 21st-dev: https://github.com/21st-dev
 3b1b: https://github.com/3b1b
+567-labs: https://github.com/567-labs
+666ghj: https://github.com/666ghj
 78: https://github.com/78
 996icu: https://github.com/996icu
 aaedmusa: https://github.com/aaedmusa
@@ -36,6 +38,7 @@ aimagelab: https://github.com/aimagelab
 AIRI-Institute: https://github.com/AIRI-Institute
 Akryum: https://github.com/Akryum
 AlaaLab: https://github.com/AlaaLab
+alchaincyf: https://github.com/alchaincyf
 alebcay: https://github.com/alebcay
 alexandrebarachant: https://github.com/alexandrebarachant
 alexbers: https://github.com/alexbers
@@ -194,6 +197,7 @@ coderabbitai: https://github.com/coderabbitai
 CognitiveAISystems: https://github.com/CognitiveAISystems
 cohere-ai: https://github.com/cohere-ai
 coinbase: https://github.com/coinbase
+colbymchenry: https://github.com/colbymchenry
 colcon: https://github.com/colcon
 coleam00: https://github.com/coleam00
 comfyanonymous: https://github.com/comfyanonymous
@@ -624,6 +628,7 @@ lucasjinreal: https://github.com/lucasjinreal
 lucidrains: https://github.com/lucidrains
 lufficc: https://github.com/lufficc
 luigifreda: https://github.com/luigifreda
+Lum1104: https://github.com/Lum1104
 lumalabs: https://github.com/lumalabs
 luong-komorebi: https://github.com/luong-komorebi
 lutris: https://github.com/lutris
@@ -889,6 +894,7 @@ ptrblck: https://github.com/ptrblck
 pulibrary: https://github.com/pulibrary
 punkpeye: https://github.com/punkpeye
 putyy: https://github.com/putyy
+px-DataCollection: https://github.com/px-DataCollection
 pybind: https://github.com/pybind
 pygame: https://github.com/pygame
 pymodbus-dev: https://github.com/pymodbus-dev
