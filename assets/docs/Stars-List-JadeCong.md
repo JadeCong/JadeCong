@@ -25,6 +25,7 @@
 567-labs/instructor[main]: https://github.com/567-labs/instructor.git
 6174/comflowy[main]: https://github.com/6174/comflowy.git
 666ghj/BettaFish[main]: https://github.com/666ghj/BettaFish.git
+666ghj/MiroFish[main]: https://github.com/666ghj/MiroFish.git
 78/xiaozhi-esp32[main]: https://github.com/78/xiaozhi-esp32.git
 996icu/996.ICU[master]: https://github.com/996icu/996.ICU.git
 A-embodied/A0[master]: https://github.com/A-embodied/A0.git
@@ -129,6 +130,7 @@ Akryum/vue-virtual-scroller[master]: https://github.com/Akryum/vue-virtual-scrol
 akullpp/awesome-java[master]: https://github.com/akullpp/awesome-java.git
 Alamofire/Alamofire[master]: https://github.com/Alamofire/Alamofire.git
 AlbertSlam/Lee-SLAM-source[master]: https://github.com/AlbertSlam/Lee-SLAM-source.git
+alchaincyf/darwin-skill[master]: https://github.com/alchaincyf/darwin-skill.git
 alchaincyf/zhangxuefeng-skill[main]: https://github.com/alchaincyf/zhangxuefeng-skill.git
 alebcay/awesome-shell[master]: https://github.com/alebcay/awesome-shell.git
 alex-damian/pulse[master]: https://github.com/alex-damian/pulse.git
@@ -227,6 +229,7 @@ antgroup/echomimic[main]: https://github.com/antgroup/echomimic.git
 antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
 anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
 anthropics/claude-cookbooks[main]: https://github.com/anthropics/claude-cookbooks.git
+anthropics/claude-plugins-official[main]: https://github.com/anthropics/claude-plugins-official.git
 anthropics/claudes-c-compiler[main]: https://github.com/anthropics/claudes-c-compiler.git
 anthropics/skills[main]: https://github.com/anthropics/skills.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
@@ -608,6 +611,7 @@ CognitiveAISystems/MIKASA-Base[main]: https://github.com/CognitiveAISystems/MIKA
 CognitiveAISystems/MIKASA-Robo[main]: https://github.com/CognitiveAISystems/MIKASA-Robo.git
 cohere-ai/cohere-toolkit[main]: https://github.com/cohere-ai/cohere-toolkit.git
 coinbase/coinbase-wallet-sdk[master]: https://github.com/coinbase/coinbase-wallet-sdk.git
+colbymchenry/codegraph[main]: https://github.com/colbymchenry/codegraph.git
 coleam00/Archon[dev]: https://github.com/coleam00/Archon.git
 ColinQiyangLi/qc[main]: https://github.com/ColinQiyangLi/qc.git
 coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/dynamic-gaussian-marbles.git
@@ -872,6 +876,7 @@ ecomfe/awesome-echarts[master]: https://github.com/ecomfe/awesome-echarts.git
 EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 EGalahad/sim2real[main]: https://github.com/EGalahad/sim2real.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
+EKKOLearnAI/hermes-web-ui[main]: https://github.com/EKKOLearnAI/hermes-web-ui.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
 elder-plinius/G0DM0D3[main]: https://github.com/elder-plinius/G0DM0D3.git
 elecfreaks/XGO-Rider[master]: https://github.com/elecfreaks/XGO-Rider.git
@@ -917,7 +922,6 @@ EnVision-Research/DVD[main]: https://github.com/EnVision-Research/DVD.git
 EnVision-Research/Gaussian-Property[main]: https://github.com/EnVision-Research/Gaussian-Property.git
 EnVision-Research/Kiss3DGen[main]: https://github.com/EnVision-Research/Kiss3DGen.git
 eosphoros-ai/DB-GPT[main]: https://github.com/eosphoros-ai/DB-GPT.git
-eric-ai-lab/swap-anything[main]: https://github.com/eric-ai-lab/swap-anything.git
 eric-mitchell/detect-gpt[main]: https://github.com/eric-mitchell/detect-gpt.git
 Ericcsr/ARCap[main]: https://github.com/Ericcsr/ARCap.git
 EricGuo5513/momask-codes[main]: https://github.com/EricGuo5513/momask-codes.git
@@ -1058,6 +1062,7 @@ fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
 fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
 fastrepl/anarlog[main]: https://github.com/fastrepl/anarlog.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
+fathah/hermes-desktop[main]: https://github.com/fathah/hermes-desktop.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
 fclwtt/wechat-cli[main]: https://github.com/fclwtt/wechat-cli.git
 febert/visual_mpc[master]: https://github.com/febert/visual_mpc.git
@@ -1491,6 +1496,7 @@ honojs/hono[main]: https://github.com/honojs/hono.git
 Hopetree/izone[master]: https://github.com/Hopetree/izone.git
 hoppscotch/hoppscotch[main]: https://github.com/hoppscotch/hoppscotch.git
 HorizonRobotics/alf[pytorch]: https://github.com/HorizonRobotics/alf.git
+HorizonRobotics/HoloMotion[master]: https://github.com/HorizonRobotics/HoloMotion.git
 HorizonRobotics/SocialRobot[master]: https://github.com/HorizonRobotics/SocialRobot.git
 horovod/horovod[master]: https://github.com/horovod/horovod.git
 houbb/sensitive-word[master]: https://github.com/houbb/sensitive-word.git
@@ -2145,6 +2151,7 @@ lufficc/SSD[master]: https://github.com/lufficc/SSD.git
 luigifreda/pyslam[master]: https://github.com/luigifreda/pyslam.git
 lukasmolnar/wb-mpc-locoman[main]: https://github.com/lukasmolnar/wb-mpc-locoman.git
 lukasz-madon/awesome-remote-job[master]: https://github.com/lukasz-madon/awesome-remote-job.git
+Lum1104/Understand-Anything[main]: https://github.com/Lum1104/Understand-Anything.git
 lumalabs/lumaapi-python[main]: https://github.com/lumalabs/lumaapi-python.git
 lumina-ai-inc/benchmark[master]: https://github.com/lumina-ai-inc/benchmark.git
 lunarring/lunar_tools[main]: https://github.com/lunarring/lunar_tools.git
@@ -2183,6 +2190,7 @@ ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
 manipulate-in-dream/MinD[main]: https://github.com/manipulate-in-dream/MinD.git
 ManipulationNet/mnet_client[ros_2]: https://github.com/ManipulationNet/mnet_client.git
+ManUtdMoon/ZPRL[main]: https://github.com/ManUtdMoon/ZPRL.git
 manycore-research/SpatialLM[main]: https://github.com/manycore-research/SpatialLM.git
 maplezzz/NTU_ML2017_Hung-yi-Lee_HW[master]: https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW.git
 marcelo-earth/generative-manim[main]: https://github.com/marcelo-earth/generative-manim.git
@@ -2213,6 +2221,7 @@ mattstauffer/Torch[master]: https://github.com/mattstauffer/Torch.git
 mattt/TransformerKit[master]: https://github.com/mattt/TransformerKit.git
 mattvh/jekyllthemes[master]: https://github.com/mattvh/jekyllthemes.git
 mattzcarey/shippie[main]: https://github.com/mattzcarey/shippie.git
+mattzh72/articraft[main]: https://github.com/mattzh72/articraft.git
 maudzung/Complex-YOLOv4-Pytorch[master]: https://github.com/maudzung/Complex-YOLOv4-Pytorch.git
 Max-Fu/icrt[main]: https://github.com/Max-Fu/icrt.git
 maxin-cn/Cinemo[main]: https://github.com/maxin-cn/Cinemo.git
@@ -2332,6 +2341,7 @@ mihdalal/neuralmotionplanner[main]: https://github.com/mihdalal/neuralmotionplan
 mikel-brostrom/boxmot[master]: https://github.com/mikel-brostrom/boxmot.git
 mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
 milanvarady/Applite[main]: https://github.com/milanvarady/Applite.git
+mimic-video/mimic-video[main]: https://github.com/mimic-video/mimic-video.git
 MindDock/motion-tracker[main]: https://github.com/MindDock/motion-tracker.git
 mindsdb/minds-platform[main]: https://github.com/mindsdb/minds-platform.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
@@ -2538,7 +2548,7 @@ nlpyang/BertSum[master]: https://github.com/nlpyang/BertSum.git
 nltk/nltk[develop]: https://github.com/nltk/nltk.git
 NM512/dreamerv3-torch[main]: https://github.com/NM512/dreamerv3-torch.git
 nmhkahn/torchsummaryX[master]: https://github.com/nmhkahn/torchsummaryX.git
-nndl/nndl.github.io[master]: https://github.com/nndl/nndl.github.io.git
+nndl/nndl[main]: https://github.com/nndl/nndl.git
 nocodb/nocodb[develop]: https://github.com/nocodb/nocodb.git
 nodejs/node[main]: https://github.com/nodejs/node.git
 nomic-ai/gpt4all[main]: https://github.com/nomic-ai/gpt4all.git
@@ -2802,9 +2812,11 @@ oracle-samples/oracle-db-examples[main]: https://github.com/oracle-samples/oracl
 orbbec/OrbbecSDK_ROS1[v2-main]: https://github.com/orbbec/OrbbecSDK_ROS1.git
 orbbec/OrbbecSDK_ROS2[v2-main]: https://github.com/orbbec/OrbbecSDK_ROS2.git
 orbbec/OrbbecSDK_v2[main]: https://github.com/orbbec/OrbbecSDK_v2.git
+orcahand/manus-client[main]: https://github.com/orcahand/manus-client.git
 orcahand/orcahand_description[main]: https://github.com/orcahand/orcahand_description.git
 orcahand/orca_core[main]: https://github.com/orcahand/orca_core.git
 orcahand/orca_sim[main]: https://github.com/orcahand/orca_sim.git
+orcahand/orca_teleop[main]: https://github.com/orcahand/orca_teleop.git
 organicmaps/organicmaps[master]: https://github.com/organicmaps/organicmaps.git
 orocos/orocos_kinematics_dynamics[master]: https://github.com/orocos/orocos_kinematics_dynamics.git
 OS-Copilot/OS-Copilot[main]: https://github.com/OS-Copilot/OS-Copilot.git
@@ -3750,6 +3762,7 @@ tyxsspa/AnyText[main]: https://github.com/tyxsspa/AnyText.git
 Ucas-HaoranWei/GOT-OCR2.0[main]: https://github.com/Ucas-HaoranWei/GOT-OCR2.0.git
 ucbepic/docetl[main]: https://github.com/ucbepic/docetl.git
 ucla-mobility/AutoVLA[main]: https://github.com/ucla-mobility/AutoVLA.git
+UCSB-AI/swap-anything[main]: https://github.com/UCSB-AI/swap-anything.git
 UCSC-VLAA/story-iter[main]: https://github.com/UCSC-VLAA/story-iter.git
 udacity/deep-reinforcement-learning[master]: https://github.com/udacity/deep-reinforcement-learning.git
 udecode/plate[main]: https://github.com/udecode/plate.git
@@ -3777,6 +3790,7 @@ unified-field-theory-org/animations[main]: https://github.com/unified-field-theo
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unified-force/UniFP[main]: https://github.com/unified-force/UniFP.git
 unifyai/ivy[main]: https://github.com/unifyai/ivy.git
+UniPat-AI/SaaS-Bench[main]: https://github.com/UniPat-AI/SaaS-Bench.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
 unitreerobotics/unifolm-vla[main]: https://github.com/unitreerobotics/unifolm-vla.git
 unitreerobotics/unifolm-world-model-action[main]: https://github.com/unitreerobotics/unifolm-world-model-action.git
