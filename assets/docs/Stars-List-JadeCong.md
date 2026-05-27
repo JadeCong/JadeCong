@@ -782,6 +782,7 @@ Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
 different-ai/openwork[dev]: https://github.com/different-ai/openwork.git
 digital-standard/ThreeDPoseUnityBarracuda[master]: https://github.com/digital-standard/ThreeDPoseUnityBarracuda.git
+DigitalPlatDev/FreeDomain[main]: https://github.com/DigitalPlatDev/FreeDomain.git
 dimensionalOS/dimos[main]: https://github.com/dimensionalOS/dimos.git
 Dimillian/RedditOS[master]: https://github.com/Dimillian/RedditOS.git
 dingdingcai/GSPose[main]: https://github.com/dingdingcai/GSPose.git
@@ -1046,20 +1047,19 @@ Fanqi-Lin/Data-Scaling-Laws[master]: https://github.com/Fanqi-Lin/Data-Scaling-L
 Fantasy-AMAP/fantasy-id[main]: https://github.com/Fantasy-AMAP/fantasy-id.git
 Fantasy-AMAP/fantasy-talking[main]: https://github.com/Fantasy-AMAP/fantasy-talking.git
 fantasyRqg/mujoco-py[master]: https://github.com/fantasyRqg/mujoco-py.git
-Farama-Foundation/Arcade-Learning-Environment[master]: https://github.com/Farama-Foundation/Arcade-Learning-Environment.git
+Farama-Foundation/Arcade-Learning-Environment[main]: https://github.com/Farama-Foundation/Arcade-Learning-Environment.git
 Farama-Foundation/D4RL[master]: https://github.com/Farama-Foundation/D4RL.git
 Farama-Foundation/D4RL-Evaluations[master]: https://github.com/Farama-Foundation/D4RL-Evaluations.git
 Farama-Foundation/Gymnasium[main]: https://github.com/Farama-Foundation/Gymnasium.git
-Farama-Foundation/Metaworld[master]: https://github.com/Farama-Foundation/Metaworld.git
-Farama-Foundation/Minigrid[master]: https://github.com/Farama-Foundation/Minigrid.git
+Farama-Foundation/Metaworld[main]: https://github.com/Farama-Foundation/Metaworld.git
+Farama-Foundation/Minigrid[main]: https://github.com/Farama-Foundation/Minigrid.git
 Farama-Foundation/MO-Gymnasium[main]: https://github.com/Farama-Foundation/MO-Gymnasium.git
-Farama-Foundation/ViZDoom[master]: https://github.com/Farama-Foundation/ViZDoom.git
+Farama-Foundation/ViZDoom[main]: https://github.com/Farama-Foundation/ViZDoom.git
 FareedKhan-dev/Building-llama3-from-scratch[main]: https://github.com/FareedKhan-dev/Building-llama3-from-scratch.git
 farion1231/cc-switch[main]: https://github.com/farion1231/cc-switch.git
 farizrahman4u/seq2seq[master]: https://github.com/farizrahman4u/seq2seq.git
 fastai/fastai[main]: https://github.com/fastai/fastai.git
 fastapi/fastapi[master]: https://github.com/fastapi/fastapi.git
-fastnlp/fastNLP[master]: https://github.com/fastnlp/fastNLP.git
 fastrepl/anarlog[main]: https://github.com/fastrepl/anarlog.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fathah/hermes-desktop[main]: https://github.com/fathah/hermes-desktop.git
@@ -1170,6 +1170,7 @@ fudan-generative-vision/champ[master]: https://github.com/fudan-generative-visio
 fudan-generative-vision/hallo2[main]: https://github.com/fudan-generative-vision/hallo2.git
 fudan-generative-vision/hallo3[main]: https://github.com/fudan-generative-vision/hallo3.git
 Fudan-MAGIC-Lab/VINGS-Mono[main]: https://github.com/Fudan-MAGIC-Lab/VINGS-Mono.git
+FudanNLP/fastNLP[master]: https://github.com/FudanNLP/fastNLP.git
 FudanNLP/fnlp[master]: https://github.com/FudanNLP/fnlp.git
 fuergaosi233/wechat-chatgpt[main]: https://github.com/fuergaosi233/wechat-chatgpt.git
 FujiwaraChoki/MoneyPrinter[main]: https://github.com/FujiwaraChoki/MoneyPrinter.git
@@ -2185,6 +2186,8 @@ mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.gi
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
+mangdangroboticsclub/mini_pupper_ros[ros2-dev]: https://github.com/mangdangroboticsclub/mini_pupper_ros.git
+mangdangroboticsclub/QuadrupedRobot[mini_pupper]: https://github.com/mangdangroboticsclub/QuadrupedRobot.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
 ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
@@ -2616,7 +2619,7 @@ NVIDIA-Omniverse/PhysX[main]: https://github.com/NVIDIA-Omniverse/PhysX.git
 NVIDIA-Omniverse/synthetic-data-examples[main]: https://github.com/NVIDIA-Omniverse/synthetic-data-examples.git
 NVIDIA-Omniverse/USD-Tutorials-And-Examples[main]: https://github.com/NVIDIA-Omniverse/USD-Tutorials-And-Examples.git
 NVIDIA-TAO/tao-pytorch[main]: https://github.com/NVIDIA-TAO/tao-pytorch.git
-NVIDIA/Cosmos[main]: https://github.com/NVIDIA/Cosmos.git
+NVIDIA/cosmos[main]: https://github.com/NVIDIA/cosmos.git
 NVIDIA/FasterTransformer[main]: https://github.com/NVIDIA/FasterTransformer.git
 NVIDIA/FastPhotoStyle[master]: https://github.com/NVIDIA/FastPhotoStyle.git
 NVIDIA/Isaac-GR00T[main]: https://github.com/NVIDIA/Isaac-GR00T.git
@@ -3459,6 +3462,10 @@ StanfordASL/rompc[master]: https://github.com/StanfordASL/rompc.git
 StanfordASL/Trajectron[master]: https://github.com/StanfordASL/Trajectron.git
 stanfordnlp/dspy[main]: https://github.com/stanfordnlp/dspy.git
 stanfordnmbl/osim-rl[master]: https://github.com/stanfordnmbl/osim-rl.git
+stanfordroboticsclub/PS4Joystick[master]: https://github.com/stanfordroboticsclub/PS4Joystick.git
+stanfordroboticsclub/PupperCommand[master]: https://github.com/stanfordroboticsclub/PupperCommand.git
+stanfordroboticsclub/PupperKeyboardController[master]: https://github.com/stanfordroboticsclub/PupperKeyboardController.git
+stanfordroboticsclub/StanfordQuadruped[master]: https://github.com/stanfordroboticsclub/StanfordQuadruped.git
 StanfordVL/cavin[master]: https://github.com/StanfordVL/cavin.git
 StanfordVL/iGibson[master]: https://github.com/StanfordVL/iGibson.git
 star-history/star-history[main]: https://github.com/star-history/star-history.git
@@ -3871,6 +3878,7 @@ vim/vim[master]: https://github.com/vim/vim.git
 vimalabs/VIMA[main]: https://github.com/vimalabs/VIMA.git
 vinta/awesome-python[master]: https://github.com/vinta/awesome-python.git
 virattt/ai-hedge-fund[main]: https://github.com/virattt/ai-hedge-fund.git
+virgiliojr94/book-to-skill[master]: https://github.com/virgiliojr94/book-to-skill.git
 viser-project/viser[main]: https://github.com/viser-project/viser.git
 Vision-CAIR/LongVU[main]: https://github.com/Vision-CAIR/LongVU.git
 Vision-CAIR/MiniGPT-4[main]: https://github.com/Vision-CAIR/MiniGPT-4.git
