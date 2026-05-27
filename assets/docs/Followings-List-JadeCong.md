@@ -256,6 +256,7 @@ DexRobot: https://github.com/DexRobot
 dgtlmoon: https://github.com/dgtlmoon
 diankun-wu: https://github.com/diankun-wu
 different-ai: https://github.com/different-ai
+DigitalPlatDev: https://github.com/DigitalPlatDev
 dimensionalOS: https://github.com/dimensionalOS
 Dimillian: https://github.com/Dimillian
 DioxusLabs: https://github.com/DioxusLabs
@@ -328,6 +329,7 @@ farion1231: https://github.com/farion1231
 fastapi: https://github.com/fastapi
 FastUMI-Data: https://github.com/FastUMI-Data
 fatedier: https://github.com/fatedier
+fathah: https://github.com/fathah
 FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
 FengQuanLi: https://github.com/FengQuanLi
@@ -641,6 +643,7 @@ MagicMirrorOrg: https://github.com/MagicMirrorOrg
 majacinka: https://github.com/majacinka
 MakeYourPet: https://github.com/MakeYourPet
 MandiZhao: https://github.com/MandiZhao
+mangdangroboticsclub: https://github.com/mangdangroboticsclub
 ManimCommunity: https://github.com/ManimCommunity
 ManipulationNet: https://github.com/ManipulationNet
 mannaandpoem: https://github.com/mannaandpoem
@@ -1053,6 +1056,7 @@ stanford-oval: https://github.com/stanford-oval
 Stanford-TML: https://github.com/Stanford-TML
 StanfordASL: https://github.com/StanfordASL
 stanfordnlp: https://github.com/stanfordnlp
+stanfordroboticsclub: https://github.com/stanfordroboticsclub
 StanfordVL: https://github.com/StanfordVL
 staruml: https://github.com/staruml
 steipete: https://github.com/steipete
@@ -1172,6 +1176,7 @@ ultraworkers: https://github.com/ultraworkers
 UMass-Embodied-AGI: https://github.com/UMass-Embodied-AGI
 UMich-BipedLab: https://github.com/UMich-BipedLab
 unified-field-theory-org: https://github.com/unified-field-theory-org
+UniPat-AI: https://github.com/UniPat-AI
 unit-mesh: https://github.com/unit-mesh
 unitreerobotics: https://github.com/unitreerobotics
 Unity-Technologies: https://github.com/Unity-Technologies
