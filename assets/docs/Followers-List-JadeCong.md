@@ -11,6 +11,7 @@ ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
+binj2901-commits: https://github.com/binj2901-commits
 bludnic: https://github.com/bludnic
 buraksocial: https://github.com/buraksocial
 Cameleon3D: https://github.com/Cameleon3D
@@ -29,6 +30,7 @@ ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 harinadh76: https://github.com/harinadh76
 Hengle: https://github.com/Hengle
+hgh752362-max: https://github.com/hgh752362-max
 hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
 idimetrix: https://github.com/idimetrix
