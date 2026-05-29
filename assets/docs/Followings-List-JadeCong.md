@@ -1213,6 +1213,7 @@ villekuosmanen: https://github.com/villekuosmanen
 vinjn: https://github.com/vinjn
 vinta: https://github.com/vinta
 virattt: https://github.com/virattt
+virgiliojr94: https://github.com/virgiliojr94
 Vision-CAIR: https://github.com/Vision-CAIR
 vision-x-nyu: https://github.com/vision-x-nyu
 vivoCameraResearch: https://github.com/vivoCameraResearch
