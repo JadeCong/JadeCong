@@ -173,7 +173,7 @@ allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.1.2]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.1.3]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 Alpha-VLLM/Lumina-mGPT[main]: https://github.com/Alpha-VLLM/Lumina-mGPT.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
@@ -1153,6 +1153,7 @@ frankarobotics/libfranka[main]: https://github.com/frankarobotics/libfranka.git
 frankarobotics/libfranka-release[master]: https://github.com/frankarobotics/libfranka-release.git
 frankarobotics/the_reference_platform[main]: https://github.com/frankarobotics/the_reference_platform.git
 freeCodeCamp/freeCodeCamp[main]: https://github.com/freeCodeCamp/freeCodeCamp.git
+freecodexyz/free-code[main]: https://github.com/freecodexyz/free-code.git
 freemocap/freemocap[main]: https://github.com/freemocap/freemocap.git
 FreeRDP/FreeRDP[master]: https://github.com/FreeRDP/FreeRDP.git
 FreeRTOS/FreeRTOS[main]: https://github.com/FreeRTOS/FreeRTOS.git
@@ -1218,7 +1219,9 @@ gen-robot/RL4VLA[main]: https://github.com/gen-robot/RL4VLA.git
 Gen-Verse/ReasonFlux[main]: https://github.com/Gen-Verse/ReasonFlux.git
 generalroboticslab/DukeHumanoidv1[main]: https://github.com/generalroboticslab/DukeHumanoidv1.git
 generatebio/chroma[main]: https://github.com/generatebio/chroma.git
+Genesis-Embodied-AI/DiffTactile[main]: https://github.com/Genesis-Embodied-AI/DiffTactile.git
 Genesis-Embodied-AI/genesis-world[main]: https://github.com/Genesis-Embodied-AI/genesis-world.git
+Genesis-Embodied-AI/quadrants[main]: https://github.com/Genesis-Embodied-AI/quadrants.git
 Genesis-Embodied-AI/RoboGen[main]: https://github.com/Genesis-Embodied-AI/RoboGen.git
 genforce/JOSH[main]: https://github.com/genforce/JOSH.git
 GenieReasoner/ERIQ[main]: https://github.com/GenieReasoner/ERIQ.git
@@ -2860,7 +2863,6 @@ pallets/flask[main]: https://github.com/pallets/flask.git
 pandas-dev/pandas[main]: https://github.com/pandas-dev/pandas.git
 PanJiaChen/vue-element-admin[master]: https://github.com/PanJiaChen/vue-element-admin.git
 paolo-projects/auto-unlocker[master]: https://github.com/paolo-projects/auto-unlocker.git
-paoloanzn/free-code[main]: https://github.com/paoloanzn/free-code.git
 PaoPaoRobot/ICRA2020-paper-list[master]: https://github.com/PaoPaoRobot/ICRA2020-paper-list.git
 PaoPaoRobot/SLAMPaperReading[master]: https://github.com/PaoPaoRobot/SLAMPaperReading.git
 paperclipai/paperclip[master]: https://github.com/paperclipai/paperclip.git
@@ -3209,6 +3211,7 @@ ros-industrial-attic/siemens_tutorials[master]: https://github.com/ros-industria
 ros-industrial/fanuc[noetic-devel]: https://github.com/ros-industrial/fanuc.git
 ros-industrial/fanuc_experimental[melodic-devel]: https://github.com/ros-industrial/fanuc_experimental.git
 ros-industrial/universal_robot[noetic-devel]: https://github.com/ros-industrial/universal_robot.git
+ros-infrastructure/ros-apt-source[main]: https://github.com/ros-infrastructure/ros-apt-source.git
 ros-navigation/navigation2[main]: https://github.com/ros-navigation/navigation2.git
 ros-perception/slam_gmapping[melodic-devel]: https://github.com/ros-perception/slam_gmapping.git
 ros-perception/vision_opencv[rolling]: https://github.com/ros-perception/vision_opencv.git
