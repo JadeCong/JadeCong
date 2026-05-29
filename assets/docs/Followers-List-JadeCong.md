@@ -57,6 +57,7 @@ Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
+mrshrivasta: https://github.com/mrshrivasta
 mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
 nelbeu: https://github.com/nelbeu
