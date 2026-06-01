@@ -191,7 +191,6 @@ cloudify-cosmo: https://github.com/cloudify-cosmo
 CMU-IntentLab: https://github.com/CMU-IntentLab
 codecrafters-io: https://github.com/codecrafters-io
 CodedotAl: https://github.com/CodedotAl
-CodePhiliaX: https://github.com/CodePhiliaX
 coder: https://github.com/coder
 coderabbitai: https://github.com/coderabbitai
 CognitiveAISystems: https://github.com/CognitiveAISystems
@@ -837,6 +836,7 @@ OriginAgents: https://github.com/OriginAgents
 orocos: https://github.com/orocos
 OS-Copilot: https://github.com/OS-Copilot
 osudrl: https://github.com/osudrl
+OtterMind: https://github.com/OtterMind
 ourongxing: https://github.com/ourongxing
 overleaf: https://github.com/overleaf
 overtake: https://github.com/overtake
