@@ -603,7 +603,6 @@ code-yeongyu/oh-my-openagent[dev]: https://github.com/code-yeongyu/oh-my-openage
 codecrafters-io/build-your-own-x[master]: https://github.com/codecrafters-io/build-your-own-x.git
 CodedotAl/code-clippy-vscode[master]: https://github.com/CodedotAl/code-clippy-vscode.git
 CodedotAl/gpt-code-clippy[camera-ready]: https://github.com/CodedotAl/gpt-code-clippy.git
-CodePhiliaX/Chat2DB[main]: https://github.com/CodePhiliaX/Chat2DB.git
 coder/code-server[main]: https://github.com/coder/code-server.git
 codertimo/BERT-pytorch[master]: https://github.com/codertimo/BERT-pytorch.git
 codexu/note-gen[dev]: https://github.com/codexu/note-gen.git
@@ -1125,7 +1124,6 @@ floodsung/DRL-FlappyBird[master]: https://github.com/floodsung/DRL-FlappyBird.gi
 floodsung/Meta-Learning-Papers[master]: https://github.com/floodsung/Meta-Learning-Papers.git
 FlorianRhiem/pyGLFW[master]: https://github.com/FlorianRhiem/pyGLFW.git
 flow-diffusion/AVDC[main]: https://github.com/flow-diffusion/AVDC.git
-FlowElement-ai/m_flow[main]: https://github.com/FlowElement-ai/m_flow.git
 FlowiseAI/Flowise[main]: https://github.com/FlowiseAI/Flowise.git
 flutter/flutter[master]: https://github.com/flutter/flutter.git
 flutter/plugins[main]: https://github.com/flutter/plugins.git
@@ -2830,6 +2828,7 @@ OSU-NLP-Group/HippoRAG[main]: https://github.com/OSU-NLP-Group/HippoRAG.git
 osudrl/Humanoid_Hanoi[main]: https://github.com/osudrl/Humanoid_Hanoi.git
 OthersideAI/self-operating-computer[main]: https://github.com/OthersideAI/self-operating-computer.git
 OthmanAdi/planning-with-files[master]: https://github.com/OthmanAdi/planning-with-files.git
+OtterMind/Chat2DB[main]: https://github.com/OtterMind/Chat2DB.git
 ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
 ourongxing/newsnow[main]: https://github.com/ourongxing/newsnow.git
 ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
@@ -2905,7 +2904,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
-PhyAgentOS/PhyAgentOS[main]: https://github.com/PhyAgentOS/PhyAgentOS.git
+PhyAgentOS/PhyAgentOS[preview]: https://github.com/PhyAgentOS/PhyAgentOS.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
