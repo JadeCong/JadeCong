@@ -137,7 +137,6 @@ alex-damian/pulse[master]: https://github.com/alex-damian/pulse.git
 AlexanderKoch-Koch/low_cost_robot[main]: https://github.com/AlexanderKoch-Koch/low_cost_robot.git
 AlexeyAB/darknet[master]: https://github.com/AlexeyAB/darknet.git
 alexjc/neural-enhance[master]: https://github.com/alexjc/neural-enhance.git
-alexwu-bayarea/stereo-dso[master]: https://github.com/alexwu-bayarea/stereo-dso.git
 alfworld/alfworld[master]: https://github.com/alfworld/alfworld.git
 algerkong/AlgerMusicPlayer[main]: https://github.com/algerkong/AlgerMusicPlayer.git
 Algomancer/Bayesian-Flow-Networks[main]: https://github.com/Algomancer/Bayesian-Flow-Networks.git
@@ -620,7 +619,6 @@ commaai/openpilot[master]: https://github.com/commaai/openpilot.git
 ComposioHQ/awesome-codex-skills[master]: https://github.com/ComposioHQ/awesome-codex-skills.git
 computerhistory/AlexNet-Source-Code[main]: https://github.com/computerhistory/AlexNet-Source-Code.git
 CompVis/stable-diffusion[main]: https://github.com/CompVis/stable-diffusion.git
-containers/podman[main]: https://github.com/containers/podman.git
 context-labs/aella-data-explorer[main]: https://github.com/context-labs/aella-data-explorer.git
 ControlVLA/ControlVLA[main]: https://github.com/ControlVLA/ControlVLA.git
 convergence-ai/proxy-lite[main]: https://github.com/convergence-ai/proxy-lite.git
@@ -1785,6 +1783,7 @@ jiahao-shao1/ChronoDepth[main]: https://github.com/jiahao-shao1/ChronoDepth.git
 Jiakui/awesome-bert[master]: https://github.com/Jiakui/awesome-bert.git
 Jianghanxiao/PhysTwin[main]: https://github.com/Jianghanxiao/PhysTwin.git
 jianzongwu/DiffSensei[main]: https://github.com/jianzongwu/DiffSensei.git
+JiatianWu/stereo-dso[master]: https://github.com/JiatianWu/stereo-dso.git
 jiaweihe1996/DexVLG[main]: https://github.com/jiaweihe1996/DexVLG.git
 jiaweizzhao/GaLore[master]: https://github.com/jiaweizzhao/GaLore.git
 jiepengwang/GausSurf[main]: https://github.com/jiepengwang/GausSurf.git
@@ -2943,6 +2942,7 @@ pmagdon/FEPy[master]: https://github.com/pmagdon/FEPy.git
 Po-Jen/awesome-grasping[master]: https://github.com/Po-Jen/awesome-grasping.git
 Po-Jen/awesome-human-robot-interaction[master]: https://github.com/Po-Jen/awesome-human-robot-interaction.git
 pocketxjl/humanoid-control[main]: https://github.com/pocketxjl/humanoid-control.git
+podman-container-tools/podman[main]: https://github.com/podman-container-tools/podman.git
 Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
 policyconsensus/policyconsensus[main]: https://github.com/policyconsensus/policyconsensus.git
 pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
