@@ -23,7 +23,7 @@ JadeCong/Awesome-Metaverse[main]: https://github.com/JadeCong/Awesome-Metaverse.
   - JadeCong: https://github.com/JadeCong
 JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot-Learning.git
   - 1-ou: https://github.com/1-ou
-  - 4VLKR4V: https://github.com/4VLKR4V
+  - 4FMTWRV: https://github.com/4FMTWRV
   - anbotab: https://github.com/anbotab
   - Anthony-Cheang: https://github.com/Anthony-Cheang
   - Arnold-XXY: https://github.com/Arnold-XXY
