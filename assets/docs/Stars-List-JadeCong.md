@@ -900,6 +900,7 @@ emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
 emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screenshot-to-code.git
 empriselab/feeding-deployment[main]: https://github.com/empriselab/feeding-deployment.git
+EmptyBlueBox/ConTrack[main]: https://github.com/EmptyBlueBox/ConTrack.git
 EmptyBlueBox/DexLatent[main]: https://github.com/EmptyBlueBox/DexLatent.git
 emqx/emqx[master]: https://github.com/emqx/emqx.git
 enactic/openarm[main]: https://github.com/enactic/openarm.git
@@ -1076,7 +1077,6 @@ fengq1a0/physhmr[main]: https://github.com/fengq1a0/physhmr.git
 FengQuanLi/ResnetGPT[master]: https://github.com/FengQuanLi/ResnetGPT.git
 fenwii/huaweimind[master]: https://github.com/fenwii/huaweimind.git
 fenwii/OpenHarmony[master]: https://github.com/fenwii/OpenHarmony.git
-FestingerVault/FestingerVault[main]: https://github.com/FestingerVault/FestingerVault.git
 fffaraz/awesome-cpp[master]: https://github.com/fffaraz/awesome-cpp.git
 fffstrong/RoboWM-Bench[main]: https://github.com/fffstrong/RoboWM-Bench.git
 FFmpeg/FFmpeg[master]: https://github.com/FFmpeg/FFmpeg.git
@@ -1180,6 +1180,7 @@ fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/f
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/Click-and-Traverse[main]: https://github.com/GalaxyGeneralRobotics/Click-and-Traverse.git
+GalaxyGeneralRobotics/Humanoid-GPT[main]: https://github.com/GalaxyGeneralRobotics/Humanoid-GPT.git
 GalaxyGeneralRobotics/LATENT[master]: https://github.com/GalaxyGeneralRobotics/LATENT.git
 GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
@@ -1684,6 +1685,7 @@ isaac-sim/IsaacLab-Arena[main]: https://github.com/isaac-sim/IsaacLab-Arena.git
 isaac-sim/IsaacSim[main]: https://github.com/isaac-sim/IsaacSim.git
 isaac-sim/IsaacSim-ros_workspaces[main]: https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
 isaac-sim/OmniIsaacGymEnvs[main]: https://github.com/isaac-sim/OmniIsaacGymEnvs.git
+isabella4444x/Biadapt[main]: https://github.com/isabella4444x/Biadapt.git
 isarandi/nlf[main]: https://github.com/isarandi/nlf.git
 isl-org/Open3D[main]: https://github.com/isl-org/Open3D.git
 isocpp/CppCoreGuidelines[master]: https://github.com/isocpp/CppCoreGuidelines.git
@@ -1917,6 +1919,7 @@ Kinovarobotics/kinova-ros[noetic-devel]: https://github.com/Kinovarobotics/kinov
 Kinovarobotics/ros2_kortex[main]: https://github.com/Kinovarobotics/ros2_kortex.git
 Kinovarobotics/ros_kortex[noetic-devel]: https://github.com/Kinovarobotics/ros_kortex.git
 Kinovarobotics/ros_kortex_vision[master]: https://github.com/Kinovarobotics/ros_kortex_vision.git
+kir-/mpc-imle[public-release]: https://github.com/kir-/mpc-imle.git
 kitasenjudesign/ARFoundationMeisaiDemo[master]: https://github.com/kitasenjudesign/ARFoundationMeisaiDemo.git
 KittenML/KittenTTS[main]: https://github.com/KittenML/KittenTTS.git
 Kitware/CMake[master]: https://github.com/Kitware/CMake.git
@@ -2018,7 +2021,6 @@ leggedrobotics/rsl_rl[main]: https://github.com/leggedrobotics/rsl_rl.git
 leggedrobotics/SimBenchmark[master]: https://github.com/leggedrobotics/SimBenchmark.git
 leggedrobotics/viplanner[main]: https://github.com/leggedrobotics/viplanner.git
 leigest519/ScreenCoder[main]: https://github.com/leigest519/ScreenCoder.git
-leilei926524-tech/anti-distill[master]: https://github.com/leilei926524-tech/anti-distill.git
 leimao/Voice-Converter-CycleGAN[master]: https://github.com/leimao/Voice-Converter-CycleGAN.git
 leisurelicht/wtfpython-cn[master]: https://github.com/leisurelicht/wtfpython-cn.git
 lemonhu/stock-knowledge-graph[master]: https://github.com/lemonhu/stock-knowledge-graph.git
@@ -2183,6 +2185,7 @@ MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
 MagicMirrorOrg/MagicMirror[master]: https://github.com/MagicMirrorOrg/MagicMirror.git
 MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.git
+maillab/cloud-mail[main]: https://github.com/maillab/cloud-mail.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
@@ -2652,6 +2655,7 @@ NVlabs/FoundationStereo[master]: https://github.com/NVlabs/FoundationStereo.git
 NVlabs/FUNIT[master]: https://github.com/NVlabs/FUNIT.git
 NVlabs/GR00T-VisualSim2Real[main]: https://github.com/NVlabs/GR00T-VisualSim2Real.git
 NVlabs/GR00T-WholeBodyControl[main]: https://github.com/NVlabs/GR00T-WholeBodyControl.git
+NVlabs/GRAIL[main]: https://github.com/NVlabs/GRAIL.git
 NVlabs/GraspGen[main]: https://github.com/NVlabs/GraspGen.git
 NVlabs/HOVER[main]: https://github.com/NVlabs/HOVER.git
 NVlabs/mimicgen[main]: https://github.com/NVlabs/mimicgen.git
@@ -2786,6 +2790,7 @@ openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-
 openmediavault/openmediavault[master]: https://github.com/openmediavault/openmediavault.git
 OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
 OpenMOSS/MOSS-TTS-Nano[main]: https://github.com/OpenMOSS/MOSS-TTS-Nano.git
+OpenMOSS/RoboOmni[main]: https://github.com/OpenMOSS/RoboOmni.git
 OpenMOSS/VLABench[main]: https://github.com/OpenMOSS/VLABench.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
@@ -2909,6 +2914,7 @@ Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/ope
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
 Physics-Scaling/GeoPT[main]: https://github.com/Physics-Scaling/GeoPT.git
 pickxiguapi/Embodied-R1[main]: https://github.com/pickxiguapi/Embodied-R1.git
+Picrew/awesome-agent-harness[main]: https://github.com/Picrew/awesome-agent-harness.git
 Picsart-AI-Research/StreamingT2V[main]: https://github.com/Picsart-AI-Research/StreamingT2V.git
 pika/pika[main]: https://github.com/pika/pika.git
 pinokiocomputer/pinokio[main]: https://github.com/pinokiocomputer/pinokio.git
@@ -3151,6 +3157,7 @@ Robert-gyj/Ctrl-World[main]: https://github.com/Robert-gyj/Ctrl-World.git
 robfiras/loco-mujoco[master]: https://github.com/robfiras/loco-mujoco.git
 Roblox/cube[main]: https://github.com/Roblox/cube.git
 robo-alex/gs-dynamics[main]: https://github.com/robo-alex/gs-dynamics.git
+robo-arena/roboarena[main]: https://github.com/robo-arena/roboarena.git
 RoboBrainCode/RoboBrainWiki[master]: https://github.com/RoboBrainCode/RoboBrainWiki.git
 robocasa/robocasa[main]: https://github.com/robocasa/robocasa.git
 roboflow/awesome-openai-vision-api-experiments[main]: https://github.com/roboflow/awesome-openai-vision-api-experiments.git
@@ -3758,6 +3765,7 @@ twitter/the-algorithm[main]: https://github.com/twitter/the-algorithm.git
 twitter/the-algorithm-ml[main]: https://github.com/twitter/the-algorithm-ml.git
 twitter/twemoji[master]: https://github.com/twitter/twemoji.git
 twpayne/chezmoi[master]: https://github.com/twpayne/chezmoi.git
+TX-Leo/HumanEgo[main]: https://github.com/TX-Leo/HumanEgo.git
 txizzle/drl[master]: https://github.com/txizzle/drl.git
 txsun1997/LMaaS-Papers[main]: https://github.com/txsun1997/LMaaS-Papers.git
 txsun1997/MOSS[main]: https://github.com/txsun1997/MOSS.git
