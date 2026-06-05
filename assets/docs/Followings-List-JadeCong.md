@@ -639,6 +639,7 @@ MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
 magic-research: https://github.com/magic-research
 MagicMirrorOrg: https://github.com/MagicMirrorOrg
+maillab: https://github.com/maillab
 majacinka: https://github.com/majacinka
 MakeYourPet: https://github.com/MakeYourPet
 MandiZhao: https://github.com/MandiZhao
@@ -859,6 +860,7 @@ petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
 Phantom-video: https://github.com/Phantom-video
 Physical-Intelligence: https://github.com/Physical-Intelligence
+Picrew: https://github.com/Picrew
 Picsart-AI-Research: https://github.com/Picsart-AI-Research
 pika: https://github.com/pika
 PikaLabs: https://github.com/PikaLabs
@@ -946,6 +948,7 @@ Rice-RobotPI-Lab: https://github.com/Rice-RobotPI-Lab
 richards199999: https://github.com/richards199999
 RIVeR-Lab: https://github.com/RIVeR-Lab
 RLinf: https://github.com/RLinf
+RobbinW: https://github.com/RobbinW
 Robbyant: https://github.com/Robbyant
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
@@ -1158,6 +1161,7 @@ TuragaLab: https://github.com/TuragaLab
 tw93: https://github.com/tw93
 twitter: https://github.com/twitter
 twpayne: https://github.com/twpayne
+TX-Leo: https://github.com/TX-Leo
 txsun1997: https://github.com/txsun1997
 tylerlum: https://github.com/tylerlum
 TypingMind: https://github.com/TypingMind
