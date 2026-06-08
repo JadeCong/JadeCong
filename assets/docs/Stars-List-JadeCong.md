@@ -2465,6 +2465,7 @@ MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/pla
 multica-ai/andrej-karpathy-skills[main]: https://github.com/multica-ai/andrej-karpathy-skills.git
 multica-ai/multica[main]: https://github.com/multica-ai/multica.git
 Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
+MuShibo/Micro-Wheeled_leg-Robot[master]: https://github.com/MuShibo/Micro-Wheeled_leg-Robot.git
 musistudio/claude-code-router[main]: https://github.com/musistudio/claude-code-router.git
 mustafa-qamaruddin/age-cgan[master]: https://github.com/mustafa-qamaruddin/age-cgan.git
 mut-ex/gligen-gui[main]: https://github.com/mut-ex/gligen-gui.git
