@@ -710,6 +710,7 @@ msitarzewski: https://github.com/msitarzewski
 mudler: https://github.com/mudler
 mujocolab: https://github.com/mujocolab
 multica-ai: https://github.com/multica-ai
+MuShibo: https://github.com/MuShibo
 musistudio: https://github.com/musistudio
 MVIG-SJTU: https://github.com/MVIG-SJTU
 MyoHub: https://github.com/MyoHub
@@ -960,6 +961,7 @@ robometer: https://github.com/robometer
 RoboMME: https://github.com/RoboMME
 Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
+roboscienceorg: https://github.com/roboscienceorg
 RoboStack: https://github.com/RoboStack
 Robot-VLAs: https://github.com/Robot-VLAs
 RobotControlStack: https://github.com/RobotControlStack
