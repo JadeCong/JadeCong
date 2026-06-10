@@ -72,6 +72,7 @@ ageitgey/face_recognition[master]: https://github.com/ageitgey/face_recognition.
 agent-husky/Husky-v1[main]: https://github.com/agent-husky/Husky-v1.git
 agent0ai/agent-zero[main]: https://github.com/agent0ai/agent-zero.git
 AgentEra/Agently[main]: https://github.com/AgentEra/Agently.git
+agentrq/agentrq[main]: https://github.com/agentrq/agentrq.git
 agentscope-ai/agentscope[main]: https://github.com/agentscope-ai/agentscope.git
 agentscope-ai/QwenPaw[main]: https://github.com/agentscope-ai/QwenPaw.git
 ageron/handson-ml[master]: https://github.com/ageron/handson-ml.git
@@ -531,7 +532,6 @@ cdpierse/transformers-interpret[master]: https://github.com/cdpierse/transformer
 ceres-solver/ceres-solver[master]: https://github.com/ceres-solver/ceres-solver.git
 Ceruleanacg/Learning-Notes[master]: https://github.com/Ceruleanacg/Learning-Notes.git
 cft0808/edict[main]: https://github.com/cft0808/edict.git
-cg-dot/vertexai-cf-workers[main]: https://github.com/cg-dot/vertexai-cf-workers.git
 cgtuebingen/SSS-GS[main]: https://github.com/cgtuebingen/SSS-GS.git
 chaconnewu/free-data-science-books[master]: https://github.com/chaconnewu/free-data-science-books.git
 chahuilin/Buying-a-house-in-Hangzhou-in-2016[master]: https://github.com/chahuilin/Buying-a-house-in-Hangzhou-in-2016.git
@@ -873,6 +873,7 @@ eclipse-zenoh/zenoh-python[main]: https://github.com/eclipse-zenoh/zenoh-python.
 ecomfe/awesome-echarts[master]: https://github.com/ecomfe/awesome-echarts.git
 EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 EGalahad/sim2real[main]: https://github.com/EGalahad/sim2real.git
+Egonex-AI/Understand-Anything[main]: https://github.com/Egonex-AI/Understand-Anything.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 EKKOLearnAI/hermes-web-ui[main]: https://github.com/EKKOLearnAI/hermes-web-ui.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
@@ -974,7 +975,6 @@ Ezharjan/AcademicGPT[master]: https://github.com/Ezharjan/AcademicGPT.git
 f/prompts.chat[main]: https://github.com/f/prompts.chat.git
 facebook/docusaurus[main]: https://github.com/facebook/docusaurus.git
 facebook/folly[main]: https://github.com/facebook/folly.git
-facebook/react[main]: https://github.com/facebook/react.git
 facebook/stetho[main]: https://github.com/facebook/stetho.git
 facebookarchive/caffe2[master]: https://github.com/facebookarchive/caffe2.git
 facebookarchive/fb.resnet.torch[master]: https://github.com/facebookarchive/fb.resnet.torch.git
@@ -1123,8 +1123,8 @@ floodsung/Meta-Learning-Papers[master]: https://github.com/floodsung/Meta-Learni
 FlorianRhiem/pyGLFW[master]: https://github.com/FlorianRhiem/pyGLFW.git
 flow-diffusion/AVDC[main]: https://github.com/flow-diffusion/AVDC.git
 FlowiseAI/Flowise[main]: https://github.com/FlowiseAI/Flowise.git
+flutter-team-archive/plugins[main]: https://github.com/flutter-team-archive/plugins.git
 flutter/flutter[master]: https://github.com/flutter/flutter.git
-flutter/plugins[main]: https://github.com/flutter/plugins.git
 FluxVLA/FluxVLA[main]: https://github.com/FluxVLA/FluxVLA.git
 fmhy/edit[main]: https://github.com/fmhy/edit.git
 FoloUp/FoloUp[main]: https://github.com/FoloUp/FoloUp.git
@@ -2154,7 +2154,6 @@ lufficc/SSD[master]: https://github.com/lufficc/SSD.git
 luigifreda/pyslam[master]: https://github.com/luigifreda/pyslam.git
 lukasmolnar/wb-mpc-locoman[main]: https://github.com/lukasmolnar/wb-mpc-locoman.git
 lukasz-madon/awesome-remote-job[master]: https://github.com/lukasz-madon/awesome-remote-job.git
-Lum1104/Understand-Anything[main]: https://github.com/Lum1104/Understand-Anything.git
 lumalabs/lumaapi-python[main]: https://github.com/lumalabs/lumaapi-python.git
 lumina-ai-inc/benchmark[master]: https://github.com/lumina-ai-inc/benchmark.git
 lunarring/lunar_tools[main]: https://github.com/lunarring/lunar_tools.git
@@ -2787,7 +2786,7 @@ OpenHelix-Team/ReconVLA[main]: https://github.com/OpenHelix-Team/ReconVLA.git
 OpenHelix-Team/RoboMemArena[main]: https://github.com/OpenHelix-Team/RoboMemArena.git
 OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatial-Forcing.git
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
-openinterpreter/open-interpreter[main]: https://github.com/openinterpreter/open-interpreter.git
+openinterpreter/openinterpreter[main]: https://github.com/openinterpreter/openinterpreter.git
 openmediavault/openmediavault[master]: https://github.com/openmediavault/openmediavault.git
 OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
 OpenMOSS/MOSS-TTS-Nano[main]: https://github.com/OpenMOSS/MOSS-TTS-Nano.git
@@ -3079,6 +3078,7 @@ raymin0223/mixture_of_recursions[main]: https://github.com/raymin0223/mixture_of
 RayVentura/ShortGPT[stable]: https://github.com/RayVentura/ShortGPT.git
 RCHI-Lab/voicepilot[main]: https://github.com/RCHI-Lab/voicepilot.git
 rdiankov/openrave[master]: https://github.com/rdiankov/openrave.git
+react/react[main]: https://github.com/react/react.git
 ReactiveX/RxSwift[main]: https://github.com/ReactiveX/RxSwift.git
 ReactRobotics/DogBotV4[master]: https://github.com/ReactRobotics/DogBotV4.git
 real-stanford/DexUMI[main]: https://github.com/real-stanford/DexUMI.git
@@ -3336,7 +3336,7 @@ shareAI-lab/Kode-CLI[main]: https://github.com/shareAI-lab/Kode-CLI.git
 shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
 sharinka0715/semantic-gaussians[main]: https://github.com/sharinka0715/semantic-gaussians.git
-sharinka0715/X-WAM[gh_pages]: https://github.com/sharinka0715/X-WAM.git
+sharinka0715/X-WAM[main]: https://github.com/sharinka0715/X-WAM.git
 sharpa-robotics/sharpa-manus-sdk[main]: https://github.com/sharpa-robotics/sharpa-manus-sdk.git
 sharpa-robotics/sharpa-rl-lab[main]: https://github.com/sharpa-robotics/sharpa-rl-lab.git
 sharpa-robotics/sharpa-tacmap[main]: https://github.com/sharpa-robotics/sharpa-tacmap.git
