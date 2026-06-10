@@ -20,6 +20,7 @@ affaan-m: https://github.com/affaan-m
 ag-ui-protocol: https://github.com/ag-ui-protocol
 ag2ai: https://github.com/ag2ai
 agent0ai: https://github.com/agent0ai
+agentrq: https://github.com/agentrq
 agentscope-ai: https://github.com/agentscope-ai
 AgibotTech: https://github.com/AgibotTech
 agile-robots: https://github.com/agile-robots
