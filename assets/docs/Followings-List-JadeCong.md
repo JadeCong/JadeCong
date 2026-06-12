@@ -147,6 +147,7 @@ buaacyw: https://github.com/buaacyw
 BuilderIO: https://github.com/BuilderIO
 bulletphysics: https://github.com/bulletphysics
 buresdv: https://github.com/buresdv
+Buzz-Beater: https://github.com/Buzz-Beater
 bytebot-ai: https://github.com/bytebot-ai
 bytedance: https://github.com/bytedance
 ByteDance-Seed: https://github.com/ByteDance-Seed
