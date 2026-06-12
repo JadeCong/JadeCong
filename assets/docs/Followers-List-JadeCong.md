@@ -51,7 +51,6 @@ Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
 maliraptor: https://github.com/maliraptor
-marcelinmurhula: https://github.com/marcelinmurhula
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
