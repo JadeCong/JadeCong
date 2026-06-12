@@ -473,6 +473,7 @@ BuilderIO/micro-agent[main]: https://github.com/BuilderIO/micro-agent.git
 bulletphysics/bullet3[master]: https://github.com/bulletphysics/bullet3.git
 bulletphysics/pybullet_robots[master]: https://github.com/bulletphysics/pybullet_robots.git
 buresdv/Cork[main]: https://github.com/buresdv/Cork.git
+Buzz-Beater/EgoTaskQA[main]: https://github.com/Buzz-Beater/EgoTaskQA.git
 BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
@@ -486,7 +487,6 @@ bytedance/GR-MG[main]: https://github.com/bytedance/GR-MG.git
 bytedance/InfiniteYou[main]: https://github.com/bytedance/InfiniteYou.git
 bytedance/LatentSync[main]: https://github.com/bytedance/LatentSync.git
 bytedance/MegaTTS3[main]: https://github.com/bytedance/MegaTTS3.git
-bytedance/monoio[master]: https://github.com/bytedance/monoio.git
 bytedance/pasa[main]: https://github.com/bytedance/pasa.git
 bytedance/Sa2VA[main]: https://github.com/bytedance/Sa2VA.git
 bytedance/sonic[main]: https://github.com/bytedance/sonic.git
@@ -1011,6 +1011,7 @@ facebookresearch/modem[main]: https://github.com/facebookresearch/modem.git
 facebookresearch/neuralfeels[main]: https://github.com/facebookresearch/neuralfeels.git
 facebookresearch/pifuhd[main]: https://github.com/facebookresearch/pifuhd.git
 facebookresearch/pippo[main]: https://github.com/facebookresearch/pippo.git
+facebookresearch/projectaria_gen2_depth_from_stereo[main]: https://github.com/facebookresearch/projectaria_gen2_depth_from_stereo.git
 facebookresearch/projectaria_tools[main]: https://github.com/facebookresearch/projectaria_tools.git
 facebookresearch/pyrobot[main]: https://github.com/facebookresearch/pyrobot.git
 facebookresearch/PyTorch-BigGraph[main]: https://github.com/facebookresearch/PyTorch-BigGraph.git
@@ -1343,6 +1344,7 @@ google/skywater-pdk[main]: https://github.com/google/skywater-pdk.git
 googleapis/googleapis[master]: https://github.com/googleapis/googleapis.git
 googlesamples/google-services[master]: https://github.com/googlesamples/google-services.git
 googleworkspace/cli[main]: https://github.com/googleworkspace/cli.git
+GordenSun/GordenSuperPPTSkills[main]: https://github.com/GordenSun/GordenSuperPPTSkills.git
 gpt-omni/mini-omni[main]: https://github.com/gpt-omni/mini-omni.git
 grablab/openhand-hardware[master]: https://github.com/grablab/openhand-hardware.git
 grantjenks/free-python-games[master]: https://github.com/grantjenks/free-python-games.git
@@ -2348,7 +2350,7 @@ mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
 milanvarady/Applite[main]: https://github.com/milanvarady/Applite.git
 mimic-video/mimic-video[main]: https://github.com/mimic-video/mimic-video.git
 MindDock/motion-tracker[main]: https://github.com/MindDock/motion-tracker.git
-mindsdb/minds-platform[main]: https://github.com/mindsdb/minds-platform.git
+mindsdb/minds[main]: https://github.com/mindsdb/minds.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
 mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_mujoco.git
 minghu0830/OphNet-3D[main]: https://github.com/minghu0830/OphNet-3D.git
@@ -2418,6 +2420,7 @@ momentum-robotics-lab/deformgs[main]: https://github.com/momentum-robotics-lab/d
 Mondo-Robotics/DiT4DiT[main]: https://github.com/Mondo-Robotics/DiT4DiT.git
 mongodb/mongo[master]: https://github.com/mongodb/mongo.git
 MonitorControl/MonitorControl[main]: https://github.com/MonitorControl/MonitorControl.git
+monoio-rs/monoio[master]: https://github.com/monoio-rs/monoio.git
 moojink/openvla-oft[main]: https://github.com/moojink/openvla-oft.git
 moonlight-stream/moonlight-qt[master]: https://github.com/moonlight-stream/moonlight-qt.git
 moonshine-ai/moonshine[main]: https://github.com/moonshine-ai/moonshine.git
@@ -2786,8 +2789,9 @@ OpenHelix-Team/ReconVLA[main]: https://github.com/OpenHelix-Team/ReconVLA.git
 OpenHelix-Team/RoboMemArena[main]: https://github.com/OpenHelix-Team/RoboMemArena.git
 OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatial-Forcing.git
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
-openinterpreter/openinterpreter[main]: https://github.com/openinterpreter/openinterpreter.git
+openinterpreter/openinterpreter[oix]: https://github.com/openinterpreter/openinterpreter.git
 openmediavault/openmediavault[master]: https://github.com/openmediavault/openmediavault.git
+OpenMOSS/Awesome-WAM[main]: https://github.com/OpenMOSS/Awesome-WAM.git
 OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
 OpenMOSS/MOSS-TTS-Nano[main]: https://github.com/OpenMOSS/MOSS-TTS-Nano.git
 OpenMOSS/RoboOmni[main]: https://github.com/OpenMOSS/RoboOmni.git
