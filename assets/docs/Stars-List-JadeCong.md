@@ -26,6 +26,7 @@
 6174/comflowy[main]: https://github.com/6174/comflowy.git
 666ghj/BettaFish[main]: https://github.com/666ghj/BettaFish.git
 666ghj/MiroFish[main]: https://github.com/666ghj/MiroFish.git
+6cyc6/gausstwin[main]: https://github.com/6cyc6/gausstwin.git
 78/xiaozhi-esp32[main]: https://github.com/78/xiaozhi-esp32.git
 996icu/996.ICU[master]: https://github.com/996icu/996.ICU.git
 A-embodied/A0[master]: https://github.com/A-embodied/A0.git
@@ -875,7 +876,7 @@ EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 EGalahad/sim2real[main]: https://github.com/EGalahad/sim2real.git
 Egonex-AI/Understand-Anything[main]: https://github.com/Egonex-AI/Understand-Anything.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
-EKKOLearnAI/hermes-web-ui[main]: https://github.com/EKKOLearnAI/hermes-web-ui.git
+EKKOLearnAI/hermes-studio[main]: https://github.com/EKKOLearnAI/hermes-studio.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
 elder-plinius/G0DM0D3[main]: https://github.com/elder-plinius/G0DM0D3.git
 elecfreaks/XGO-Rider[master]: https://github.com/elecfreaks/XGO-Rider.git
@@ -1153,6 +1154,7 @@ freeCodeCamp/freeCodeCamp[main]: https://github.com/freeCodeCamp/freeCodeCamp.gi
 freecodexyz/free-code[main]: https://github.com/freecodexyz/free-code.git
 freemocap/freemocap[main]: https://github.com/freemocap/freemocap.git
 FreeRDP/FreeRDP[master]: https://github.com/FreeRDP/FreeRDP.git
+FreeRTOS/coreMQTT[main]: https://github.com/FreeRTOS/coreMQTT.git
 FreeRTOS/FreeRTOS[main]: https://github.com/FreeRTOS/FreeRTOS.git
 FreeRTOS/FreeRTOS-Kernel[main]: https://github.com/FreeRTOS/FreeRTOS-Kernel.git
 FreeRTOS/FreeRTOS-LTS[202604-LTS]: https://github.com/FreeRTOS/FreeRTOS-LTS.git
@@ -2401,7 +2403,7 @@ mmistakes/minimal-mistakes[master]: https://github.com/mmistakes/minimal-mistake
 mnielsen/neural-networks-and-deep-learning[master]: https://github.com/mnielsen/neural-networks-and-deep-learning.git
 moberweger/deep-prior[master]: https://github.com/moberweger/deep-prior.git
 moberweger/deep-prior-pp[master]: https://github.com/moberweger/deep-prior-pp.git
-MobiusLqm/MoDGS[main]: https://github.com/MobiusLqm/MoDGS.git
+Mobiuslqm/MoDGS[main]: https://github.com/Mobiuslqm/MoDGS.git
 modelcontextprotocol/python-sdk[main]: https://github.com/modelcontextprotocol/python-sdk.git
 modelcontextprotocol/servers[main]: https://github.com/modelcontextprotocol/servers.git
 modelcontextprotocol/typescript-sdk[main]: https://github.com/modelcontextprotocol/typescript-sdk.git
@@ -2720,6 +2722,7 @@ open-mmlab/mmsegmentation[main]: https://github.com/open-mmlab/mmsegmentation.gi
 open-policy-agent/gatekeeper[master]: https://github.com/open-policy-agent/gatekeeper.git
 open-source-parsers/jsoncpp[master]: https://github.com/open-source-parsers/jsoncpp.git
 open-vela/nuttx[dev]: https://github.com/open-vela/nuttx.git
+open-webui/desktop[main]: https://github.com/open-webui/desktop.git
 open-webui/mcpo[main]: https://github.com/open-webui/mcpo.git
 open-webui/open-webui[main]: https://github.com/open-webui/open-webui.git
 Open-X-Humanoid/Humanoid-Occupancy[main]: https://github.com/Open-X-Humanoid/Humanoid-Occupancy.git
@@ -3982,6 +3985,7 @@ willisma/SiT[main]: https://github.com/willisma/SiT.git
 wilsonfreitas/awesome-quant[main]: https://github.com/wilsonfreitas/awesome-quant.git
 win12-online/win12[main]: https://github.com/win12-online/win12.git
 win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
+Wind-River/crypto-detector[master]: https://github.com/Wind-River/crypto-detector.git
 Wind-River/vxworks-arduino-lite-lib[master]: https://github.com/Wind-River/vxworks-arduino-lite-lib.git
 Wind-River/vxworks-layer-for-opencv[master]: https://github.com/Wind-River/vxworks-layer-for-opencv.git
 Wind-River/vxworks7-layer-for-ros2[humble-release-24.03]: https://github.com/Wind-River/vxworks7-layer-for-ros2.git
