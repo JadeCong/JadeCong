@@ -5,6 +5,7 @@ AI0228: https://github.com/AI0228
 alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
+annaveth: https://github.com/annaveth
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
@@ -12,9 +13,11 @@ ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
+blegdor: https://github.com/blegdor
 bludnic: https://github.com/bludnic
 buraksocial: https://github.com/buraksocial
 Cameleon3D: https://github.com/Cameleon3D
+canesterin: https://github.com/canesterin
 Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
@@ -25,7 +28,11 @@ CriptoNuno2024: https://github.com/CriptoNuno2024
 DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
+devycyan: https://github.com/devycyan
 dirambora: https://github.com/dirambora
+dollar25k: https://github.com/dollar25k
+frenwinter: https://github.com/frenwinter
+furendyna: https://github.com/furendyna
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
@@ -34,6 +41,7 @@ Hengle: https://github.com/Hengle
 hgh752362-max: https://github.com/hgh752362-max
 hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
+hyuntayo: https://github.com/hyuntayo
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 ipqwery: https://github.com/ipqwery
@@ -42,14 +50,17 @@ ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
+jokeyhter: https://github.com/jokeyhter
 jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
+kerryjanes: https://github.com/kerryjanes
 Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
+lokiwyler: https://github.com/lokiwyler
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
