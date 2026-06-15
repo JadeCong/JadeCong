@@ -119,6 +119,7 @@ BaiShuanghao: https://github.com/BaiShuanghao
 balancap: https://github.com/balancap
 BaowenZ: https://github.com/BaowenZ
 barryclark: https://github.com/barryclark
+BasedHardware: https://github.com/BasedHardware
 bbfamily: https://github.com/bbfamily
 bbycroft: https://github.com/bbycroft
 bcmi: https://github.com/bcmi
@@ -923,6 +924,7 @@ r-spacex: https://github.com/r-spacex
 raghakot: https://github.com/raghakot
 rai-opensource: https://github.com/rai-opensource
 rail-berkeley: https://github.com/rail-berkeley
+RaindragonD: https://github.com/RaindragonD
 raminmh: https://github.com/raminmh
 rasbt: https://github.com/rasbt
 raymin0223: https://github.com/raymin0223
