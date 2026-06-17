@@ -767,6 +767,7 @@ DepthAnything/Depth-Anything-V2[main]: https://github.com/DepthAnything/Depth-An
 DepthAnything/PromptDA[main]: https://github.com/DepthAnything/PromptDA.git
 DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video-Depth-Anything.git
 desktop/desktop[development]: https://github.com/desktop/desktop.git
+deusyu/harness-engineering[main]: https://github.com/deusyu/harness-engineering.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
 DexForce/EmbodiChain[main]: https://github.com/DexForce/EmbodiChain.git
@@ -778,6 +779,7 @@ dfaker/df[master]: https://github.com/dfaker/df.git
 dibyaghosh/dnc[master]: https://github.com/dibyaghosh/dnc.git
 Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_aided_ocr.git
 diegocr/netcat[master]: https://github.com/diegocr/netcat.git
+DietrichGebert/ponytail[main]: https://github.com/DietrichGebert/ponytail.git
 different-ai/openwork[dev]: https://github.com/different-ai/openwork.git
 digital-standard/ThreeDPoseUnityBarracuda[master]: https://github.com/digital-standard/ThreeDPoseUnityBarracuda.git
 DigitalPlatDev/FreeDomain[main]: https://github.com/DigitalPlatDev/FreeDomain.git
@@ -2792,7 +2794,7 @@ OpenHelix-Team/ReconVLA[main]: https://github.com/OpenHelix-Team/ReconVLA.git
 OpenHelix-Team/RoboMemArena[main]: https://github.com/OpenHelix-Team/RoboMemArena.git
 OpenHelix-Team/Spatial-Forcing[master]: https://github.com/OpenHelix-Team/Spatial-Forcing.git
 OpenHelix-Team/VLA-Adapter[main]: https://github.com/OpenHelix-Team/VLA-Adapter.git
-openinterpreter/openinterpreter[oix]: https://github.com/openinterpreter/openinterpreter.git
+openinterpreter/openinterpreter[main]: https://github.com/openinterpreter/openinterpreter.git
 openmediavault/openmediavault[master]: https://github.com/openmediavault/openmediavault.git
 OpenMOSS/Awesome-WAM[main]: https://github.com/OpenMOSS/Awesome-WAM.git
 OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
@@ -3624,7 +3626,7 @@ test-time-training/ttt-video-dit[main]: https://github.com/test-time-training/tt
 testerSunshine/12306[master]: https://github.com/testerSunshine/12306.git
 tether-research/tether[main]: https://github.com/tether-research/tether.git
 TetherIA/aero-hand-open[main]: https://github.com/TetherIA/aero-hand-open.git
-Textualize/rich[master]: https://github.com/Textualize/rich.git
+Textualize/rich[main]: https://github.com/Textualize/rich.git
 tflearn/tflearn[master]: https://github.com/tflearn/tflearn.git
 tgeijten/sconegym[main]: https://github.com/tgeijten/sconegym.git
 The-Pocket/PocketFlow[main]: https://github.com/The-Pocket/PocketFlow.git
@@ -3931,6 +3933,7 @@ VVeiCao/Motion2VecSets[main]: https://github.com/VVeiCao/Motion2VecSets.git
 vybhav-ibr/genesis_ros[main]: https://github.com/vybhav-ibr/genesis_ros.git
 vye16/shape-of-motion[main]: https://github.com/vye16/shape-of-motion.git
 waditu/tushare[master]: https://github.com/waditu/tushare.git
+walkinglabs/awesome-harness-engineering[main]: https://github.com/walkinglabs/awesome-harness-engineering.git
 Wan-Video/Wan2.2[main]: https://github.com/Wan-Video/Wan2.2.git
 wanglin2/mind-map[main]: https://github.com/wanglin2/mind-map.git
 WangRongsheng/awesome-LLM-resources[main]: https://github.com/WangRongsheng/awesome-LLM-resources.git
@@ -4011,6 +4014,7 @@ wuhaoran996/openRobotics[master]: https://github.com/wuhaoran996/openRobotics.gi
 wuphilipp/gello_mechanical[main]: https://github.com/wuphilipp/gello_mechanical.git
 wuphilipp/gello_software[main]: https://github.com/wuphilipp/gello_software.git
 wuyouzhuguli/SpringAll[master]: https://github.com/wuyouzhuguli/SpringAll.git
+wuzy2115/oscar-public[main]: https://github.com/wuzy2115/oscar-public.git
 wwsource/SceneTracker[main]: https://github.com/wwsource/SceneTracker.git
 wwxFromTju/awesome-reinforcement-learning-zh[master]: https://github.com/wwxFromTju/awesome-reinforcement-learning-zh.git
 wxflamy/siasun_ws[master]: https://github.com/wxflamy/siasun_ws.git
