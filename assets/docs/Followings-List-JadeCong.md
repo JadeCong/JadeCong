@@ -1234,6 +1234,7 @@ volcengine: https://github.com/volcengine
 VoltAgent: https://github.com/VoltAgent
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
+walkinglabs: https://github.com/walkinglabs
 Wan-Video: https://github.com/Wan-Video
 wanglin2: https://github.com/wanglin2
 WangRongsheng: https://github.com/WangRongsheng
