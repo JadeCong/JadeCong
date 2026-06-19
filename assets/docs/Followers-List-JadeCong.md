@@ -63,9 +63,11 @@ lodhik9: https://github.com/lodhik9
 lokiwyler: https://github.com/lokiwyler
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
+MarkoJovanovic261183: https://github.com/MarkoJovanovic261183
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
+Michel66: https://github.com/Michel66
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 mrshrivasta: https://github.com/mrshrivasta
