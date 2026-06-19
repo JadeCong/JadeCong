@@ -873,6 +873,7 @@ pipecat-ai: https://github.com/pipecat-ai
 PKU-EPIC: https://github.com/PKU-EPIC
 PKU-MARL: https://github.com/PKU-MARL
 PKU-YuanGroup: https://github.com/PKU-YuanGroup
+PlotJuggler: https://github.com/PlotJuggler
 pollen-robotics: https://github.com/pollen-robotics
 poloclub: https://github.com/poloclub
 PolymathicAI: https://github.com/PolymathicAI
