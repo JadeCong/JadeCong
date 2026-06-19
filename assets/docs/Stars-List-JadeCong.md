@@ -168,6 +168,7 @@ all-in-aigc/chatgpt-webapi[main]: https://github.com/all-in-aigc/chatgpt-webapi.
 all-in-aigc/gpts-works[main]: https://github.com/all-in-aigc/gpts-works.git
 allenai/ai2thor[main]: https://github.com/allenai/ai2thor.git
 allenai/molmo[main]: https://github.com/allenai/molmo.git
+allenai/molmo-motion[main]: https://github.com/allenai/molmo-motion.git
 allenai/molmoact[main]: https://github.com/allenai/molmoact.git
 allenai/molmospaces[main]: https://github.com/allenai/molmospaces.git
 allenai/OLMo[main]: https://github.com/allenai/OLMo.git
@@ -1456,6 +1457,7 @@ hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
 hexojs/hexo[master]: https://github.com/hexojs/hexo.git
 hezhangsprinter/ID-CGAN[master]: https://github.com/hezhangsprinter/ID-CGAN.git
 HFAiLab/OpenCastKit[master]: https://github.com/HFAiLab/OpenCastKit.git
+HHHHHejia/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/HHHHHejia/Awesome-AgenticLLM-RL-Papers.git
 hhstore/awesome-buying-a-house[master]: https://github.com/hhstore/awesome-buying-a-house.git
 HiDream-ai/MotionPro[main]: https://github.com/HiDream-ai/MotionPro.git
 hieunc229/copilot-clone[master]: https://github.com/hieunc229/copilot-clone.git
@@ -2169,6 +2171,7 @@ luosiallen/Diff-Foley[main]: https://github.com/luosiallen/Diff-Foley.git
 luoxier/CycleGAN_Tensorlayer[master]: https://github.com/luoxier/CycleGAN_Tensorlayer.git
 lutris/lutris[master]: https://github.com/lutris/lutris.git
 lutzroeder/netron[main]: https://github.com/lutzroeder/netron.git
+LuwuDynamics/RaspberryPi-CM4-XGO-Rider[RCM4V1]: https://github.com/LuwuDynamics/RaspberryPi-CM4-XGO-Rider.git
 Ly0n/awesome-robotic-tooling[main]: https://github.com/Ly0n/awesome-robotic-tooling.git
 lydiahallie/javascript-questions[master]: https://github.com/lydiahallie/javascript-questions.git
 LYFCLOUDFAN/mask-world-model[main]: https://github.com/LYFCLOUDFAN/mask-world-model.git
@@ -2372,7 +2375,6 @@ mintasca/ros_gluon[master]: https://github.com/mintasca/ros_gluon.git
 mintisan/awesome-kan[main]: https://github.com/mintisan/awesome-kan.git
 Mintplex-Labs/anything-llm[master]: https://github.com/Mintplex-Labs/anything-llm.git
 Minyoung1005/motif[main]: https://github.com/Minyoung1005/motif.git
-Miousik974/LeLamp[master]: https://github.com/Miousik974/LeLamp.git
 MiroMindAI/MiroFlow[main]: https://github.com/MiroMindAI/MiroFlow.git
 MiroMindAI/MiroMind-M1[main]: https://github.com/MiroMindAI/MiroMind-M1.git
 MiroMindAI/MiroRL[main]: https://github.com/MiroMindAI/MiroRL.git
@@ -3138,6 +3140,7 @@ reworkd/AgentGPT[main]: https://github.com/reworkd/AgentGPT.git
 rh20t/rh20t_api[main]: https://github.com/rh20t/rh20t_api.git
 rheallyc/MoTok[main]: https://github.com/rheallyc/MoTok.git
 rhgao/ObjectFolder[main]: https://github.com/rhgao/ObjectFolder.git
+rhos-ai/GM-X[main]: https://github.com/rhos-ai/GM-X.git
 rhymes-ai/Aria[main]: https://github.com/rhymes-ai/Aria.git
 Ri-chard-Wu/QT3[master]: https://github.com/Ri-chard-Wu/QT3.git
 Rice-RobotPI-Lab/ManiDreams[main]: https://github.com/Rice-RobotPI-Lab/ManiDreams.git
@@ -3570,8 +3573,8 @@ TEA-Lab/Robo-ABC[main]: https://github.com/TEA-Lab/Robo-ABC.git
 team-aprl/MR.ScaleMaster[main]: https://github.com/team-aprl/MR.ScaleMaster.git
 team-openpm/workgpt[master]: https://github.com/team-openpm/workgpt.git
 TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
-TechmanRobotInc/tmr_ros1[melodic]: https://github.com/TechmanRobotInc/tmr_ros1.git
-TechmanRobotInc/tmr_ros2[foxy]: https://github.com/TechmanRobotInc/tmr_ros2.git
+TechmanRobotInc/tmr_ros1[noetic]: https://github.com/TechmanRobotInc/tmr_ros1.git
+TechmanRobotInc/tmr_ros2[humble]: https://github.com/TechmanRobotInc/tmr_ros2.git
 TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
 TeleHuman/HumanoidGen[main]: https://github.com/TeleHuman/HumanoidGen.git
 TeleHuman/humanoid_skateboarding[main]: https://github.com/TeleHuman/humanoid_skateboarding.git
@@ -3584,6 +3587,7 @@ Tencent-Hunyuan/HunyuanDiT[main]: https://github.com/Tencent-Hunyuan/HunyuanDiT.
 Tencent-Hunyuan/HunyuanVideo[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo.git
 Tencent-Hunyuan/HunyuanVideo-Avatar[main]: https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar.git
 Tencent-Hunyuan/HY-Embodied[master]: https://github.com/Tencent-Hunyuan/HY-Embodied.git
+Tencent-Hunyuan/Hy-Embodied-0.5-VLA[main]: https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA.git
 Tencent-Hunyuan/InstantCharacter[main]: https://github.com/Tencent-Hunyuan/InstantCharacter.git
 Tencent-RoboticsX/lifelike-agility-and-play[master]: https://github.com/Tencent-RoboticsX/lifelike-agility-and-play.git
 tencent-wechat/libco[master]: https://github.com/tencent-wechat/libco.git
@@ -4039,8 +4043,6 @@ xbpeng/DeepMimic[master]: https://github.com/xbpeng/DeepMimic.git
 xbpeng/DeepTerrainRL[master]: https://github.com/xbpeng/DeepTerrainRL.git
 xbpeng/MimicKit[main]: https://github.com/xbpeng/MimicKit.git
 xflr6/graphviz[master]: https://github.com/xflr6/graphviz.git
-Xgorobot/RaspberryPi-CM4-XGO-Rider[RCM4V1]: https://github.com/Xgorobot/RaspberryPi-CM4-XGO-Rider.git
-xhyumiracle/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers.git
 xiamx/awesome-sentiment-analysis[master]: https://github.com/xiamx/awesome-sentiment-analysis.git
 XiandaGuo/OpenStereo[v2]: https://github.com/XiandaGuo/OpenStereo.git
 xiangjiana/Android-MS[master]: https://github.com/xiangjiana/Android-MS.git
@@ -4169,7 +4171,6 @@ yunjey/pytorch-tutorial[master]: https://github.com/yunjey/pytorch-tutorial.git
 yusufkaraaslan/Skill_Seekers[development]: https://github.com/yusufkaraaslan/Skill_Seekers.git
 YuvDwi/Steve[main]: https://github.com/YuvDwi/Steve.git
 yuxng/PoseCNN[master]: https://github.com/yuxng/PoseCNN.git
-yuz1wan/GM-X[main]: https://github.com/yuz1wan/GM-X.git
 YvanYin/DrivingWorld[main]: https://github.com/YvanYin/DrivingWorld.git
 yxyang/fast_and_efficient[master]: https://github.com/yxyang/fast_and_efficient.git
 yxyang/jumping_cod[master]: https://github.com/yxyang/jumping_cod.git
