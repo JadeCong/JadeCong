@@ -30,9 +30,6 @@ Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 devycyan: https://github.com/devycyan
 dirambora: https://github.com/dirambora
-dollar25k: https://github.com/dollar25k
-frenwinter: https://github.com/frenwinter
-furendyna: https://github.com/furendyna
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
@@ -50,7 +47,6 @@ ixiqvpixi: https://github.com/ixiqvpixi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
-jokeyhter: https://github.com/jokeyhter
 jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
@@ -60,7 +56,6 @@ Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
-lokiwyler: https://github.com/lokiwyler
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 MarkoJovanovic261183: https://github.com/MarkoJovanovic261183
@@ -79,6 +74,7 @@ nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
+opd-ai: https://github.com/opd-ai
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
 pengvynn: https://github.com/pengvynn
 pie-rise1development: https://github.com/pie-rise1development
