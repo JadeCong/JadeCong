@@ -327,6 +327,7 @@ assimon/dujiaoka[master]: https://github.com/assimon/dujiaoka.git
 astooke/rlpyt[master]: https://github.com/astooke/rlpyt.git
 AstroHiro/ncm[master]: https://github.com/AstroHiro/ncm.git
 asweigart/pyautogui[master]: https://github.com/asweigart/pyautogui.git
+Atarilab/sbto[main]: https://github.com/Atarilab/sbto.git
 ATeam-Research/A1[main]: https://github.com/ATeam-Research/A1.git
 atiilla/GeoIntel[main]: https://github.com/atiilla/GeoIntel.git
 AuboRobot/aubo_robot[Noetic]: https://github.com/AuboRobot/aubo_robot.git
@@ -535,6 +536,7 @@ ceres-solver/ceres-solver[master]: https://github.com/ceres-solver/ceres-solver.
 Ceruleanacg/Learning-Notes[master]: https://github.com/Ceruleanacg/Learning-Notes.git
 cft0808/edict[main]: https://github.com/cft0808/edict.git
 cgtuebingen/SSS-GS[main]: https://github.com/cgtuebingen/SSS-GS.git
+Chachamaru127/claude-code-harness[main]: https://github.com/Chachamaru127/claude-code-harness.git
 chaconnewu/free-data-science-books[master]: https://github.com/chaconnewu/free-data-science-books.git
 chahuilin/Buying-a-house-in-Hangzhou-in-2016[master]: https://github.com/chahuilin/Buying-a-house-in-Hangzhou-in-2016.git
 chai3d/chai3d[master]: https://github.com/chai3d/chai3d.git
@@ -659,6 +661,7 @@ cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
 cyberbotics/webots[master]: https://github.com/cyberbotics/webots.git
 cyjdlhy/TeleOpBench[main]: https://github.com/cyjdlhy/TeleOpBench.git
+cynthia-you/TJ_FX_ROBOT_CONTRL_SDK[main]: https://github.com/cynthia-you/TJ_FX_ROBOT_CONTRL_SDK.git
 cypw/MXNet2Caffe[master]: https://github.com/cypw/MXNet2Caffe.git
 cypypccpy/Isaac-ManipulaRL[master]: https://github.com/cypypccpy/Isaac-ManipulaRL.git
 cytostack/openwolf[main]: https://github.com/cytostack/openwolf.git
@@ -768,6 +771,7 @@ DepthAnything/Depth-Anything-V2[main]: https://github.com/DepthAnything/Depth-An
 DepthAnything/PromptDA[main]: https://github.com/DepthAnything/PromptDA.git
 DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video-Depth-Anything.git
 desktop/desktop[development]: https://github.com/desktop/desktop.git
+DeusData/codebase-memory-mcp[main]: https://github.com/DeusData/codebase-memory-mcp.git
 deusyu/harness-engineering[main]: https://github.com/deusyu/harness-engineering.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
@@ -2336,6 +2340,7 @@ microsoft/react-native-windows[main]: https://github.com/microsoft/react-native-
 microsoft/RecAI[main]: https://github.com/microsoft/RecAI.git
 microsoft/renderformer[main]: https://github.com/microsoft/renderformer.git
 microsoft/Security-101[main]: https://github.com/microsoft/Security-101.git
+microsoft/SkillOpt[main]: https://github.com/microsoft/SkillOpt.git
 microsoft/sql-server-samples[master]: https://github.com/microsoft/sql-server-samples.git
 microsoft/Swin-Transformer[main]: https://github.com/microsoft/Swin-Transformer.git
 microsoft/SynthMoCap[main]: https://github.com/microsoft/SynthMoCap.git
@@ -2512,6 +2517,7 @@ NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
 nepfaff/scalable-real2sim[main]: https://github.com/nepfaff/scalable-real2sim.git
 nepfaff/scenesmith[main]: https://github.com/nepfaff/scenesmith.git
+nerfies/nerfies.github.io[main]: https://github.com/nerfies/nerfies.github.io.git
 NervJS/taro[main]: https://github.com/NervJS/taro.git
 netbirdio/netbird[main]: https://github.com/netbirdio/netbird.git
 netease-youdao/QAnything[qanything-v2]: https://github.com/netease-youdao/QAnything.git
@@ -2674,6 +2680,7 @@ NVlabs/ProtoMotions[main]: https://github.com/NVlabs/ProtoMotions.git
 NVlabs/RoboLab[main]: https://github.com/NVlabs/RoboLab.git
 NVlabs/sage[main]: https://github.com/NVlabs/sage.git
 NVlabs/Sana[main]: https://github.com/NVlabs/Sana.git
+NVlabs/SoftMimicGen[main]: https://github.com/NVlabs/SoftMimicGen.git
 NVlabs/SOMA-X[main]: https://github.com/NVlabs/SOMA-X.git
 NVlabs/SPADE[master]: https://github.com/NVlabs/SPADE.git
 NVlabs/stylegan[master]: https://github.com/NVlabs/stylegan.git
@@ -3344,6 +3351,7 @@ shadowsocks/shadowsocks-windows[v4]: https://github.com/shadowsocks/shadowsocks-
 shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/ShadowsocksX-NG.git
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
+shaoyifei96/Symskill[sim]: https://github.com/shaoyifei96/Symskill.git
 shareAI-lab/Kode-CLI[main]: https://github.com/shareAI-lab/Kode-CLI.git
 shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
 ShareX/ShareX[develop]: https://github.com/ShareX/ShareX.git
