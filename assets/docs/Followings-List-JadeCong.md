@@ -95,6 +95,7 @@ ashishkumar30: https://github.com/ashishkumar30
 ashishpatel26: https://github.com/ashishpatel26
 asimovinc: https://github.com/asimovinc
 asweigart: https://github.com/asweigart
+Atarilab: https://github.com/Atarilab
 atenpas: https://github.com/atenpas
 AuboRobot: https://github.com/AuboRobot
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
@@ -225,6 +226,7 @@ cvg: https://github.com/cvg
 cweijan: https://github.com/cweijan
 cyberbotics: https://github.com/cyberbotics
 CyberGrandChallenge: https://github.com/CyberGrandChallenge
+cynthia-you: https://github.com/cynthia-you
 d2l-ai: https://github.com/d2l-ai
 D4Vinci: https://github.com/D4Vinci
 daattali: https://github.com/daattali
@@ -329,7 +331,6 @@ Fanqi-Lin: https://github.com/Fanqi-Lin
 Farama-Foundation: https://github.com/Farama-Foundation
 farion1231: https://github.com/farion1231
 fastapi: https://github.com/fastapi
-FastUMI-Data: https://github.com/FastUMI-Data
 fatedier: https://github.com/fatedier
 fathah: https://github.com/fathah
 FellouAI: https://github.com/FellouAI
@@ -558,6 +559,7 @@ KindXiaoming: https://github.com/KindXiaoming
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
 KlingAIResearch: https://github.com/KlingAIResearch
+KM-Data-Pipeline: https://github.com/KM-Data-Pipeline
 Kong: https://github.com/Kong
 KOREATECH-IRIMLab: https://github.com/KOREATECH-IRIMLab
 kortix-ai: https://github.com/kortix-ai
