@@ -233,6 +233,7 @@ anthropics/claude-code[main]: https://github.com/anthropics/claude-code.git
 anthropics/claude-cookbooks[main]: https://github.com/anthropics/claude-cookbooks.git
 anthropics/claude-plugins-official[main]: https://github.com/anthropics/claude-plugins-official.git
 anthropics/claudes-c-compiler[main]: https://github.com/anthropics/claudes-c-compiler.git
+anthropics/financial-services[main]: https://github.com/anthropics/financial-services.git
 anthropics/skills[main]: https://github.com/anthropics/skills.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
 antonkomarev/github-profile-views-counter[master]: https://github.com/antonkomarev/github-profile-views-counter.git
@@ -268,7 +269,7 @@ apple/ml-matrix3d[main]: https://github.com/apple/ml-matrix3d.git
 apple/ml-simplefold[main]: https://github.com/apple/ml-simplefold.git
 applied-ai-lab/genesis[master]: https://github.com/applied-ai-lab/genesis.git
 AppliedDataSciencePartners/DeepReinforcementLearning[master]: https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning.git
-appwrite/appwrite[1.9.x]: https://github.com/appwrite/appwrite.git
+appwrite/appwrite[main]: https://github.com/appwrite/appwrite.git
 aqlaboratory/openfold[main]: https://github.com/aqlaboratory/openfold.git
 araffin/robotics-rl-srl[master]: https://github.com/araffin/robotics-rl-srl.git
 aramis-lab/clinica[dev]: https://github.com/aramis-lab/clinica.git
@@ -2061,6 +2062,7 @@ lihxxx/DisPose[main]: https://github.com/lihxxx/DisPose.git
 lihzha/lap[main]: https://github.com/lihzha/lap.git
 lijx10/uwb-localization[master]: https://github.com/lijx10/uwb-localization.git
 lima-vm/lima[master]: https://github.com/lima-vm/lima.git
+linchangyi1/9DTact[main]: https://github.com/linchangyi1/9DTact.git
 linchangyi1/Awesome-Touch[main]: https://github.com/linchangyi1/Awesome-Touch.git
 linchangyi1/LocoTouch[main]: https://github.com/linchangyi1/LocoTouch.git
 LinDixuan/OmniHands[main]: https://github.com/LinDixuan/OmniHands.git
@@ -2199,6 +2201,7 @@ MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.git
 maillab/cloud-mail[main]: https://github.com/maillab/cloud-mail.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
+malik-group/do-as-i-do[main]: https://github.com/malik-group/do-as-i-do.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
 mangdangroboticsclub/mini_pupper_ros[ros2-dev]: https://github.com/mangdangroboticsclub/mini_pupper_ros.git
