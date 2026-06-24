@@ -647,6 +647,7 @@ MagicMirrorOrg: https://github.com/MagicMirrorOrg
 maillab: https://github.com/maillab
 majacinka: https://github.com/majacinka
 MakeYourPet: https://github.com/MakeYourPet
+malik-group: https://github.com/malik-group
 MandiZhao: https://github.com/MandiZhao
 mangdangroboticsclub: https://github.com/mangdangroboticsclub
 ManimCommunity: https://github.com/ManimCommunity
@@ -1020,6 +1021,7 @@ serpapi: https://github.com/serpapi
 SesameAILabs: https://github.com/SesameAILabs
 shadowsocks: https://github.com/shadowsocks
 ShangtongZhang: https://github.com/ShangtongZhang
+shaoyifei96: https://github.com/shaoyifei96
 shareAI-lab: https://github.com/shareAI-lab
 sharpa-robotics: https://github.com/sharpa-robotics
 SHI-Labs: https://github.com/SHI-Labs
