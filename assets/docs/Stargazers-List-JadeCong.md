@@ -47,6 +47,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - FreezeSoul: https://github.com/FreezeSoul
   - Gaming722: https://github.com/Gaming722
   - GGGGGGGGGGN: https://github.com/GGGGGGGGGGN
+  - giuyyt: https://github.com/giuyyt
   - HK017: https://github.com/HK017
   - huaizhixu: https://github.com/huaizhixu
   - huangzsdy: https://github.com/huangzsdy
