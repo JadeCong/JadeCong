@@ -10,7 +10,7 @@ JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.
   - Hengle: https://github.com/Hengle
   - tt-52101: https://github.com/tt-52101
 JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot-Learning.git
-  - Forenly: https://github.com/Forenly
+  - ForenlyAI: https://github.com/ForenlyAI
   - FreezeSoul: https://github.com/FreezeSoul
   - JiahongWu1995: https://github.com/JiahongWu1995
   - raphaelhou25: https://github.com/raphaelhou25
