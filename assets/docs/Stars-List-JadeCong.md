@@ -1890,7 +1890,6 @@ karpathy/nanoGPT[master]: https://github.com/karpathy/nanoGPT.git
 karpathy/nn-zero-to-hero[master]: https://github.com/karpathy/nn-zero-to-hero.git
 katerakelly/pytorch-maml[master]: https://github.com/katerakelly/pytorch-maml.git
 kaushalshetty/Structured-Self-Attention[master]: https://github.com/kaushalshetty/Structured-Self-Attention.git
-kavishdevar/librepods[main]: https://github.com/kavishdevar/librepods.git
 Kebii/MikuDance[main]: https://github.com/Kebii/MikuDance.git
 kebijuelun/Awesome-LLM-Learning[main]: https://github.com/kebijuelun/Awesome-LLM-Learning.git
 keijiro/CMUMocap[master]: https://github.com/keijiro/CMUMocap.git
@@ -2051,6 +2050,7 @@ lgsvl/simulator[master]: https://github.com/lgsvl/simulator.git
 liam-hq/liam[main]: https://github.com/liam-hq/liam.git
 liangpan99/TokenHSI[main]: https://github.com/liangpan99/TokenHSI.git
 lib-pku/libpku[master]: https://github.com/lib-pku/libpku.git
+librepods-org/librepods[main]: https://github.com/librepods-org/librepods.git
 libuvc/libuvc[master]: https://github.com/libuvc/libuvc.git
 lichy2004/GazeVLA[main]: https://github.com/lichy2004/GazeVLA.git
 lichy2004/GazeVLA-Data[main]: https://github.com/lichy2004/GazeVLA-Data.git
@@ -2626,8 +2626,8 @@ NVIDIA-ISAAC-ROS/isaac_ros_visual_slam[main]: https://github.com/NVIDIA-ISAAC-RO
 NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_benchmark.git
 nvidia-isaac/cumotion[main]: https://github.com/nvidia-isaac/cumotion.git
 nvidia-isaac/WBC-AGILE[main]: https://github.com/nvidia-isaac/WBC-AGILE.git
-NVIDIA-NeMo/NeMo[main]: https://github.com/NVIDIA-NeMo/NeMo.git
 NVIDIA-NeMo/RL[main]: https://github.com/NVIDIA-NeMo/RL.git
+NVIDIA-NeMo/Speech[main]: https://github.com/NVIDIA-NeMo/Speech.git
 NVIDIA-Omniverse/deep-dive-into-microservices[main]: https://github.com/NVIDIA-Omniverse/deep-dive-into-microservices.git
 NVIDIA-Omniverse/iot-samples[main]: https://github.com/NVIDIA-Omniverse/iot-samples.git
 NVIDIA-Omniverse/kit-app-template[main]: https://github.com/NVIDIA-Omniverse/kit-app-template.git
@@ -2971,6 +2971,7 @@ Po-Jen/awesome-human-robot-interaction[master]: https://github.com/Po-Jen/awesom
 pocketxjl/humanoid-control[main]: https://github.com/pocketxjl/humanoid-control.git
 podman-container-tools/podman[main]: https://github.com/podman-container-tools/podman.git
 Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
+PokuangZhou/ContactWorld[main]: https://github.com/PokuangZhou/ContactWorld.git
 policyconsensus/policyconsensus[main]: https://github.com/policyconsensus/policyconsensus.git
 pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
@@ -3528,7 +3529,7 @@ subbarayudu-j/TheAlgorithms-Python[master]: https://github.com/subbarayudu-j/The
 sudharsan13296/Awesome-Meta-Learning[master]: https://github.com/sudharsan13296/Awesome-Meta-Learning.git
 sudharsan13296/Hands-On-Meta-Learning-With-Python[master]: https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python.git
 sukeesh/Jarvis[master]: https://github.com/sukeesh/Jarvis.git
-SumeLabs/clawra[main]: https://github.com/SumeLabs/clawra.git
+sumelabs/clawra[main]: https://github.com/sumelabs/clawra.git
 sumuzhao/CycleGAN-Music-Style-Transfer[master]: https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer.git
 suno-ai/bark[main]: https://github.com/suno-ai/bark.git
 sunsmarterjie/yolov12[main]: https://github.com/sunsmarterjie/yolov12.git
@@ -3557,6 +3558,7 @@ szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
 szczyglis-dev/py-gpt[master]: https://github.com/szczyglis-dev/py-gpt.git
 szqwu/FrameCrafter[main]: https://github.com/szqwu/FrameCrafter.git
 tabler/tabler[dev]: https://github.com/tabler/tabler.git
+TacForeSight/TacForeSight[main]: https://github.com/TacForeSight/TacForeSight.git
 taichi-dev/awesome-taichi[main]: https://github.com/taichi-dev/awesome-taichi.git
 taichi-dev/taichi[master]: https://github.com/taichi-dev/taichi.git
 taichi-dev/taichi_elements[master]: https://github.com/taichi-dev/taichi_elements.git
@@ -3763,6 +3765,7 @@ trimstray/the-book-of-secret-knowledge[master]: https://github.com/trimstray/the
 trimstray/the-practical-linux-hardening-guide[master]: https://github.com/trimstray/the-practical-linux-hardening-guide.git
 tristandeleu/pytorch-maml-rl[master]: https://github.com/tristandeleu/pytorch-maml-rl.git
 trojan-gfw/trojan[master]: https://github.com/trojan-gfw/trojan.git
+trycua/cua[main]: https://github.com/trycua/cua.git
 tsinghua-fib-lab/RoboScape[main]: https://github.com/tsinghua-fib-lab/RoboScape.git
 tsinghua-fib-lab/WorldArena[main]: https://github.com/tsinghua-fib-lab/WorldArena.git
 Tsinghua-MARS-Lab/SLAM-Former[master]: https://github.com/Tsinghua-MARS-Lab/SLAM-Former.git
@@ -4001,7 +4004,6 @@ wileewang/TransPixeler[main]: https://github.com/wileewang/TransPixeler.git
 williamleif/GraphSAGE[master]: https://github.com/williamleif/GraphSAGE.git
 willisma/SiT[main]: https://github.com/willisma/SiT.git
 wilsonfreitas/awesome-quant[main]: https://github.com/wilsonfreitas/awesome-quant.git
-win12-online/win12[main]: https://github.com/win12-online/win12.git
 win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
 Wind-River/crypto-detector[master]: https://github.com/Wind-River/crypto-detector.git
 Wind-River/vxworks-arduino-lite-lib[master]: https://github.com/Wind-River/vxworks-arduino-lite-lib.git
