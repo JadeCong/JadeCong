@@ -48,14 +48,17 @@ JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
 Knighthood2001: https://github.com/Knighthood2001
+kynaderd: https://github.com/kynaderd
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
+lynechic: https://github.com/lynechic
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
+mirainiki: https://github.com/mirainiki
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 mrshrivasta: https://github.com/mrshrivasta
@@ -68,6 +71,7 @@ nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
+otosmane: https://github.com/otosmane
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
 pengvynn: https://github.com/pengvynn
 pie-rise1development: https://github.com/pie-rise1development
@@ -104,6 +108,7 @@ vimal0156: https://github.com/vimal0156
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
+Wenyveo: https://github.com/Wenyveo
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
 XiaChiandXuce: https://github.com/XiaChiandXuce
