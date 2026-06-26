@@ -1082,7 +1082,7 @@ Stirling-Tools: https://github.com/Stirling-Tools
 straight-tamago: https://github.com/straight-tamago
 strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
-SumeLabs: https://github.com/SumeLabs
+sumelabs: https://github.com/sumelabs
 sunner: https://github.com/sunner
 suno-ai: https://github.com/suno-ai
 supabase: https://github.com/supabase
@@ -1161,6 +1161,7 @@ trailofbits: https://github.com/trailofbits
 TRI-ML: https://github.com/TRI-ML
 trimstray: https://github.com/trimstray
 Trinkle23897: https://github.com/Trinkle23897
+trycua: https://github.com/trycua
 tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
 Tsinghua-MARS-Lab: https://github.com/Tsinghua-MARS-Lab
 TsinghuaC3I: https://github.com/TsinghuaC3I
