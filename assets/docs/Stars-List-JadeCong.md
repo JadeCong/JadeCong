@@ -85,7 +85,6 @@ AgibotTech/agibot_x1_train[main]: https://github.com/AgibotTech/agibot_x1_train.
 AgibotTech/EnerVerse-AC[main]: https://github.com/AgibotTech/EnerVerse-AC.git
 AgibotTech/EWMBench[main]: https://github.com/AgibotTech/EWMBench.git
 AgibotTech/genie_sim[main]: https://github.com/AgibotTech/genie_sim.git
-AgibotTech/Omnihand-2025-SDK[main]: https://github.com/AgibotTech/Omnihand-2025-SDK.git
 AgileRobotsAG/RAFCON[develop]: https://github.com/AgileRobotsAG/RAFCON.git
 agiresearch/AIOS[main]: https://github.com/agiresearch/AIOS.git
 agiresearch/Cerebrum[main]: https://github.com/agiresearch/Cerebrum.git
@@ -93,6 +92,7 @@ agiresearch/OpenAGI[main]: https://github.com/agiresearch/OpenAGI.git
 agiresearch/OpenP5[main]: https://github.com/agiresearch/OpenP5.git
 agno-agi/agno[main]: https://github.com/agno-agi/agno.git
 agrinman/tunnelto[master]: https://github.com/agrinman/tunnelto.git
+AhmadDarKhalil/HOI-DETR[main]: https://github.com/AhmadDarKhalil/HOI-DETR.git
 ahmedkhaleel2004/gitdiagram[main]: https://github.com/ahmedkhaleel2004/gitdiagram.git
 ahq1993/MPNet[master]: https://github.com/ahq1993/MPNet.git
 ahujasid/blender-mcp[main]: https://github.com/ahujasid/blender-mcp.git
@@ -242,6 +242,8 @@ AntreasAntoniou/HowToTrainYourMAMLPytorch[master]: https://github.com/AntreasAnt
 anuraghazra/github-readme-stats[master]: https://github.com/anuraghazra/github-readme-stats.git
 anuranbaka/OpenDTAM[2.4.9_experimental]: https://github.com/anuranbaka/OpenDTAM.git
 any-listen/any-listen[main]: https://github.com/any-listen/any-listen.git
+anysearch-ai/anysearch-mcp-server[main]: https://github.com/anysearch-ai/anysearch-mcp-server.git
+anysearch-ai/anysearch-skill[main]: https://github.com/anysearch-ai/anysearch-skill.git
 anysphere/gpt-4-for-code[main]: https://github.com/anysphere/gpt-4-for-code.git
 anysphere/priompt[main]: https://github.com/anysphere/priompt.git
 Anytop2025/Anytop[main]: https://github.com/Anytop2025/Anytop.git
@@ -1226,6 +1228,7 @@ gemlab-vt/motionshop[main]: https://github.com/gemlab-vt/motionshop.git
 gen-robot/RL4VLA[main]: https://github.com/gen-robot/RL4VLA.git
 Gen-Verse/ReasonFlux[main]: https://github.com/Gen-Verse/ReasonFlux.git
 generalroboticslab/DukeHumanoidv1[main]: https://github.com/generalroboticslab/DukeHumanoidv1.git
+generalroboticslab/TSIL[main]: https://github.com/generalroboticslab/TSIL.git
 generatebio/chroma[main]: https://github.com/generatebio/chroma.git
 Genesis-Embodied-AI/DiffTactile[main]: https://github.com/Genesis-Embodied-AI/DiffTactile.git
 Genesis-Embodied-AI/genesis-world[main]: https://github.com/Genesis-Embodied-AI/genesis-world.git
@@ -1460,6 +1463,7 @@ hesamsheikh/octogent[main]: https://github.com/hesamsheikh/octogent.git
 hetianle/HousePricingOfBeijing[master]: https://github.com/hetianle/HousePricingOfBeijing.git
 hetolin/PourIt[main]: https://github.com/hetolin/PourIt.git
 hexojs/hexo[master]: https://github.com/hexojs/hexo.git
+heygen-com/hyperframes[main]: https://github.com/heygen-com/hyperframes.git
 hezhangsprinter/ID-CGAN[master]: https://github.com/hezhangsprinter/ID-CGAN.git
 HFAiLab/OpenCastKit[master]: https://github.com/HFAiLab/OpenCastKit.git
 HHHHHejia/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/HHHHHejia/Awesome-AgenticLLM-RL-Papers.git
@@ -1961,7 +1965,7 @@ kscalelabs/ksim-gym[master]: https://github.com/kscalelabs/ksim-gym.git
 kth-ros-pkg/force_torque_tools[kinetic]: https://github.com/kth-ros-pkg/force_torque_tools.git
 kubernetes-sigs/headlamp[main]: https://github.com/kubernetes-sigs/headlamp.git
 Kulbear/deep-learning-coursera[master]: https://github.com/Kulbear/deep-learning-coursera.git
-kungfu-origin/kungfu[main]: https://github.com/kungfu-origin/kungfu.git
+kungfu-systems/kungfu[main]: https://github.com/kungfu-systems/kungfu.git
 kuzudb/kuzu[master]: https://github.com/kuzudb/kuzu.git
 kvcache-ai/ktransformers[main]: https://github.com/kvcache-ai/ktransformers.git
 kxhit/EscherNet[main]: https://github.com/kxhit/EscherNet.git
@@ -2293,6 +2297,7 @@ Miaosheng1/EVolSplat4D[main]: https://github.com/Miaosheng1/EVolSplat4D.git
 Michael-A-Kuykendall/shimmy[main]: https://github.com/Michael-A-Kuykendall/shimmy.git
 michaellin/OmniGrip[master]: https://github.com/michaellin/OmniGrip.git
 Michaelszj/pro-tracker[new]: https://github.com/Michaelszj/pro-tracker.git
+michaelyuancb/ftp1-policy[main]: https://github.com/michaelyuancb/ftp1-policy.git
 michaelyuancb/motiontrans[main]: https://github.com/michaelyuancb/motiontrans.git
 michaelyuancb/motiontrans-pi0[main]: https://github.com/michaelyuancb/motiontrans-pi0.git
 michalfaber/keras_Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation.git
@@ -2507,6 +2512,7 @@ naruya/tecnets-pytorch[master]: https://github.com/naruya/tecnets-pytorch.git
 nasa/fprime[devel]: https://github.com/nasa/fprime.git
 nasa/openmct[master]: https://github.com/nasa/openmct.git
 nashsu/FreeAskInternet[main]: https://github.com/nashsu/FreeAskInternet.git
+nashsu/llm_wiki[main]: https://github.com/nashsu/llm_wiki.git
 nateraw/stable-diffusion-videos[main]: https://github.com/nateraw/stable-diffusion-videos.git
 naver/dust3r[main]: https://github.com/naver/dust3r.git
 nbfigueroa/franka_interactive_controllers[main]: https://github.com/nbfigueroa/franka_interactive_controllers.git
@@ -2918,6 +2924,7 @@ petercorke/robotics-toolbox-python[main]: https://github.com/petercorke/robotics
 PeterH0323/Streamer-Sales[main]: https://github.com/PeterH0323/Streamer-Sales.git
 PeterL1n/BackgroundMattingV2[master]: https://github.com/PeterL1n/BackgroundMattingV2.git
 PetoiCamp/OpenCat-Quadruped-Robot[main]: https://github.com/PetoiCamp/OpenCat-Quadruped-Robot.git
+pewdiepie-archdaemon/odysseus[dev]: https://github.com/pewdiepie-archdaemon/odysseus.git
 Phantom-video/HuMo[main]: https://github.com/Phantom-video/HuMo.git
 Phantom-video/Phantom[main]: https://github.com/Phantom-video/Phantom.git
 philc/vimium[master]: https://github.com/philc/vimium.git
@@ -3059,6 +3066,7 @@ quantopian/zipline[master]: https://github.com/quantopian/zipline.git
 QuentinFuxa/WhisperLiveKit[main]: https://github.com/QuentinFuxa/WhisperLiveKit.git
 QuivrHQ/quivr[main]: https://github.com/QuivrHQ/quivr.git
 qusers/Q6[master]: https://github.com/qusers/Q6.git
+QwenLM/Qwen[main]: https://github.com/QwenLM/Qwen.git
 QwenLM/Qwen-Agent[main]: https://github.com/QwenLM/Qwen-Agent.git
 QwenLM/qwen-code[main]: https://github.com/QwenLM/qwen-code.git
 QwenLM/Qwen-Image[main]: https://github.com/QwenLM/Qwen-Image.git
@@ -3209,6 +3217,11 @@ robotdrummer/robotdrummer.github.io[main]: https://github.com/robotdrummer/robot
 roboterax/humanoid-gym[main]: https://github.com/roboterax/humanoid-gym.git
 roboterax/video-prediction-policy[main]: https://github.com/roboterax/video-prediction-policy.git
 roboticsgroup/roboticsgroup_gazebo_plugins[master]: https://github.com/roboticsgroup/roboticsgroup_gazebo_plugins.git
+ROBOTIS-GIT/cyclo[main]: https://github.com/ROBOTIS-GIT/cyclo.git
+ROBOTIS-GIT/cyclo_control[main]: https://github.com/ROBOTIS-GIT/cyclo_control.git
+ROBOTIS-GIT/cyclo_intelligence[main]: https://github.com/ROBOTIS-GIT/cyclo_intelligence.git
+ROBOTIS-GIT/cyclo_lab[main]: https://github.com/ROBOTIS-GIT/cyclo_lab.git
+ROBOTIS-GIT/lerobot-cyclo[main]: https://github.com/ROBOTIS-GIT/lerobot-cyclo.git
 ROBOTIS-GIT/ROBOTIS-OP3[master]: https://github.com/ROBOTIS-GIT/ROBOTIS-OP3.git
 RobotLabLTH/SkiROS2[master]: https://github.com/RobotLabLTH/SkiROS2.git
 robotlearn/pyrobolearn[master]: https://github.com/robotlearn/pyrobolearn.git
@@ -3504,6 +3517,7 @@ StanfordVL/cavin[master]: https://github.com/StanfordVL/cavin.git
 StanfordVL/iGibson[master]: https://github.com/StanfordVL/iGibson.git
 star-history/star-history[main]: https://github.com/star-history/star-history.git
 StarCycle/Awesome-Embodied-AI-Job[main]: https://github.com/StarCycle/Awesome-Embodied-AI-Job.git
+StarTrail-org/PixelRAG[main]: https://github.com/StarTrail-org/PixelRAG.git
 state-spaces/mamba[main]: https://github.com/state-spaces/mamba.git
 Stella-robot/GaiaHand[main]: https://github.com/Stella-robot/GaiaHand.git
 stepfun-ai/gelab-zero[main]: https://github.com/stepfun-ai/gelab-zero.git
@@ -3786,7 +3800,6 @@ TurixAI/TuriX-CUA[main]: https://github.com/TurixAI/TuriX-CUA.git
 tw93/MiaoYan[main]: https://github.com/tw93/MiaoYan.git
 tw93/Pake[main]: https://github.com/tw93/Pake.git
 tw93/tw93[main]: https://github.com/tw93/tw93.git
-tw93/tw93.github.io[main]: https://github.com/tw93/tw93.github.io.git
 tw93/Weekly[main]: https://github.com/tw93/Weekly.git
 twbs/bootstrap[main]: https://github.com/twbs/bootstrap.git
 twitter/the-algorithm[main]: https://github.com/twitter/the-algorithm.git
