@@ -18,6 +18,7 @@ Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
+chrisipanaque: https://github.com/chrisipanaque
 cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
@@ -49,6 +50,7 @@ justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
 Knighthood2001: https://github.com/Knighthood2001
 kynaderd: https://github.com/kynaderd
+Leslie-Wong-H: https://github.com/Leslie-Wong-H
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
@@ -58,7 +60,6 @@ marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
-mirainiki: https://github.com/mirainiki
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 mrshrivasta: https://github.com/mrshrivasta
@@ -108,6 +109,7 @@ vimal0156: https://github.com/vimal0156
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
+webbrain-one: https://github.com/webbrain-one
 Wenyveo: https://github.com/Wenyveo
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
