@@ -72,6 +72,7 @@ ant-research: https://github.com/ant-research
 antgroup: https://github.com/antgroup
 anthropics: https://github.com/anthropics
 anuraghazra: https://github.com/anuraghazra
+anysearch-ai: https://github.com/anysearch-ai
 anysphere: https://github.com/anysphere
 apache: https://github.com/apache
 apilayer: https://github.com/apilayer
@@ -438,6 +439,7 @@ henry123-boy: https://github.com/henry123-boy
 hermanjakobsen: https://github.com/hermanjakobsen
 herrbischoff: https://github.com/herrbischoff
 hesamsheikh: https://github.com/hesamsheikh
+heygen-com: https://github.com/heygen-com
 HeyGen-Official: https://github.com/HeyGen-Official
 HFAiLab: https://github.com/HFAiLab
 HiDream-ai: https://github.com/HiDream-ai
@@ -731,6 +733,7 @@ NanmiCoder: https://github.com/NanmiCoder
 nanocoai: https://github.com/nanocoai
 NapthaAI: https://github.com/NapthaAI
 nasa: https://github.com/nasa
+nashsu: https://github.com/nashsu
 naver: https://github.com/naver
 nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
@@ -865,6 +868,7 @@ penrose: https://github.com/penrose
 pesser: https://github.com/pesser
 petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
+pewdiepie-archdaemon: https://github.com/pewdiepie-archdaemon
 Phantom-video: https://github.com/Phantom-video
 Physical-Intelligence: https://github.com/Physical-Intelligence
 Picrew: https://github.com/Picrew
@@ -974,6 +978,7 @@ RoboStack: https://github.com/RoboStack
 Robot-VLAs: https://github.com/Robot-VLAs
 RobotControlStack: https://github.com/RobotControlStack
 roboterax: https://github.com/roboterax
+ROBOTIS-GIT: https://github.com/ROBOTIS-GIT
 robotlearning123: https://github.com/robotlearning123
 RobotLocomotion: https://github.com/RobotLocomotion
 RoboTwin-Platform: https://github.com/RoboTwin-Platform
@@ -1072,6 +1077,7 @@ StanfordASL: https://github.com/StanfordASL
 stanfordnlp: https://github.com/stanfordnlp
 stanfordroboticsclub: https://github.com/stanfordroboticsclub
 StanfordVL: https://github.com/StanfordVL
+StarTrail-org: https://github.com/StarTrail-org
 staruml: https://github.com/staruml
 steipete: https://github.com/steipete
 Stella-robot: https://github.com/Stella-robot
@@ -1093,6 +1099,7 @@ sv-pp: https://github.com/sv-pp
 svlevine: https://github.com/svlevine
 svpino: https://github.com/svpino
 SwanHubX: https://github.com/SwanHubX
+TacForeSight: https://github.com/TacForeSight
 taichi-dev: https://github.com/taichi-dev
 TairanHe: https://github.com/TairanHe
 TAMS-Group: https://github.com/TAMS-Group
