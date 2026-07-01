@@ -1193,6 +1193,9 @@ fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/f
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
 galaxy-s10/billd-desk[main]: https://github.com/galaxy-s10/billd-desk.git
 GalaxyGeneralRobotics/Click-and-Traverse[main]: https://github.com/GalaxyGeneralRobotics/Click-and-Traverse.git
+GalaxyGeneralRobotics/GalbotSDK[main]: https://github.com/GalaxyGeneralRobotics/GalbotSDK.git
+GalaxyGeneralRobotics/galbot_one_golf_description[main]: https://github.com/GalaxyGeneralRobotics/galbot_one_golf_description.git
+GalaxyGeneralRobotics/galbot_s1_description[main]: https://github.com/GalaxyGeneralRobotics/galbot_s1_description.git
 GalaxyGeneralRobotics/Humanoid-GPT[main]: https://github.com/GalaxyGeneralRobotics/Humanoid-GPT.git
 GalaxyGeneralRobotics/LATENT[master]: https://github.com/GalaxyGeneralRobotics/LATENT.git
 GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/OpenTrack.git
@@ -1372,8 +1375,6 @@ graykode/xlnet-Pytorch[master]: https://github.com/graykode/xlnet-Pytorch.git
 Graylab/IgFold[main]: https://github.com/Graylab/IgFold.git
 greedying/tctip[master]: https://github.com/greedying/tctip.git
 grisoon/DreamActor-M1[main]: https://github.com/grisoon/DreamActor-M1.git
-GrowingGit/GitHub-Chinese-Top-Charts[master]: https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git
-GrowingGit/GitHub-English-Top-Charts[main]: https://github.com/GrowingGit/GitHub-English-Top-Charts.git
 grpc/grpc[master]: https://github.com/grpc/grpc.git
 gsa-tts-archived/ai.gov[main]: https://github.com/gsa-tts-archived/ai.gov.git
 guanguans/music-dl[master]: https://github.com/guanguans/music-dl.git
@@ -1648,6 +1649,7 @@ inconshreveable/ngrok[master]: https://github.com/inconshreveable/ngrok.git
 index-tts/index-tts[main]: https://github.com/index-tts/index-tts.git
 IndieSmiths/nodezator[main]: https://github.com/IndieSmiths/nodezator.git
 infiniflow/ragflow[main]: https://github.com/infiniflow/ragflow.git
+Ingrid789/OmniContact_sim2sim[main]: https://github.com/Ingrid789/OmniContact_sim2sim.git
 ingyamilmolinar/doctorgpt[master]: https://github.com/ingyamilmolinar/doctorgpt.git
 initialneil/DEGAS[master]: https://github.com/initialneil/DEGAS.git
 inksci/Monocular-Camera-3D-Restruction[master]: https://github.com/inksci/Monocular-Camera-3D-Restruction.git
@@ -1965,7 +1967,7 @@ kscalelabs/ksim-gym[master]: https://github.com/kscalelabs/ksim-gym.git
 kth-ros-pkg/force_torque_tools[kinetic]: https://github.com/kth-ros-pkg/force_torque_tools.git
 kubernetes-sigs/headlamp[main]: https://github.com/kubernetes-sigs/headlamp.git
 Kulbear/deep-learning-coursera[master]: https://github.com/Kulbear/deep-learning-coursera.git
-kungfu-systems/kungfu[main]: https://github.com/kungfu-systems/kungfu.git
+kungfu-systems/kungfu[dev/v4/v4.0]: https://github.com/kungfu-systems/kungfu.git
 kuzudb/kuzu[master]: https://github.com/kuzudb/kuzu.git
 kvcache-ai/ktransformers[main]: https://github.com/kvcache-ai/ktransformers.git
 kxhit/EscherNet[main]: https://github.com/kxhit/EscherNet.git
@@ -2037,6 +2039,7 @@ leggedrobotics/rsl_rl[main]: https://github.com/leggedrobotics/rsl_rl.git
 leggedrobotics/SimBenchmark[master]: https://github.com/leggedrobotics/SimBenchmark.git
 leggedrobotics/viplanner[main]: https://github.com/leggedrobotics/viplanner.git
 leigest519/ScreenCoder[main]: https://github.com/leigest519/ScreenCoder.git
+leilei926524-tech/anti-distill[master]: https://github.com/leilei926524-tech/anti-distill.git
 leimao/Voice-Converter-CycleGAN[master]: https://github.com/leimao/Voice-Converter-CycleGAN.git
 leisurelicht/wtfpython-cn[master]: https://github.com/leisurelicht/wtfpython-cn.git
 lemonhu/stock-knowledge-graph[master]: https://github.com/lemonhu/stock-knowledge-graph.git
@@ -2051,6 +2054,7 @@ levihsu/OOTDiffusion[main]: https://github.com/levihsu/OOTDiffusion.git
 lewagon/dotfiles[master]: https://github.com/lewagon/dotfiles.git
 lewislulu/html-ppt-skill[main]: https://github.com/lewislulu/html-ppt-skill.git
 lgsvl/simulator[master]: https://github.com/lgsvl/simulator.git
+LHRLAB/HyperGraphRAG[main]: https://github.com/LHRLAB/HyperGraphRAG.git
 liam-hq/liam[main]: https://github.com/liam-hq/liam.git
 liangpan99/TokenHSI[main]: https://github.com/liangpan99/TokenHSI.git
 lib-pku/libpku[master]: https://github.com/lib-pku/libpku.git
@@ -2892,6 +2896,7 @@ pairlab/leibnizgym[master]: https://github.com/pairlab/leibnizgym.git
 pallets/flask[main]: https://github.com/pallets/flask.git
 pandas-dev/pandas[main]: https://github.com/pandas-dev/pandas.git
 PanJiaChen/vue-element-admin[master]: https://github.com/PanJiaChen/vue-element-admin.git
+Panniantong/Agent-Reach[main]: https://github.com/Panniantong/Agent-Reach.git
 paolo-projects/auto-unlocker[master]: https://github.com/paolo-projects/auto-unlocker.git
 PaoPaoRobot/ICRA2020-paper-list[master]: https://github.com/PaoPaoRobot/ICRA2020-paper-list.git
 PaoPaoRobot/SLAMPaperReading[master]: https://github.com/PaoPaoRobot/SLAMPaperReading.git
@@ -4023,6 +4028,7 @@ Wind-River/vxworks-arduino-lite-lib[master]: https://github.com/Wind-River/vxwor
 Wind-River/vxworks-layer-for-opencv[master]: https://github.com/Wind-River/vxworks-layer-for-opencv.git
 Wind-River/vxworks7-layer-for-ros2[humble-release-24.03]: https://github.com/Wind-River/vxworks7-layer-for-ros2.git
 Wind-River/vxworks7-ros2-build[master]: https://github.com/Wind-River/vxworks7-ros2-build.git
+Winston-Gu/IMPACT[main]: https://github.com/Winston-Gu/IMPACT.git
 wjwwood/serial[main]: https://github.com/wjwwood/serial.git
 wkentaro/labelme[main]: https://github.com/wkentaro/labelme.git
 WM-PO/WMPO[main]: https://github.com/WM-PO/WMPO.git
