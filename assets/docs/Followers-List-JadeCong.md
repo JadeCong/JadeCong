@@ -27,7 +27,6 @@ DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
-filzehoka: https://github.com/filzehoka
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
@@ -49,12 +48,9 @@ JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
 Knighthood2001: https://github.com/Knighthood2001
-kynaderd: https://github.com/kynaderd
-Leslie-Wong-H: https://github.com/Leslie-Wong-H
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
-lynechic: https://github.com/lynechic
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
@@ -72,7 +68,6 @@ nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
-otosmane: https://github.com/otosmane
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
 pengvynn: https://github.com/pengvynn
 pie-rise1development: https://github.com/pie-rise1development
@@ -110,7 +105,6 @@ volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
 webbrain-one: https://github.com/webbrain-one
-Wenyveo: https://github.com/Wenyveo
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
 XiaChiandXuce: https://github.com/XiaChiandXuce
