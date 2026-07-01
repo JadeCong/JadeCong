@@ -415,7 +415,6 @@ graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
 gravitational: https://github.com/gravitational
 Graylab: https://github.com/Graylab
-GrowingGit: https://github.com/GrowingGit
 grpc: https://github.com/grpc
 GuanxingLu: https://github.com/GuanxingLu
 h2oai: https://github.com/h2oai
@@ -858,6 +857,7 @@ p-christ: https://github.com/p-christ
 PacktPublishing: https://github.com/PacktPublishing
 pairlab: https://github.com/pairlab
 pallets: https://github.com/pallets
+Panniantong: https://github.com/Panniantong
 pastelnetwork: https://github.com/pastelnetwork
 pathak22: https://github.com/pathak22
 paul-gauthier: https://github.com/paul-gauthier
@@ -1273,6 +1273,7 @@ WHU-USI3DV: https://github.com/WHU-USI3DV
 wikimedia: https://github.com/wikimedia
 win4r: https://github.com/win4r
 Wind-River: https://github.com/Wind-River
+Winston-Gu: https://github.com/Winston-Gu
 wkentaro: https://github.com/wkentaro
 worldarena: https://github.com/worldarena
 worldcoin: https://github.com/worldcoin
