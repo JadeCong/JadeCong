@@ -41,6 +41,7 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - ddrccfdll: https://github.com/ddrccfdll
   - DengyingFu: https://github.com/DengyingFu
   - dianyeHuang: https://github.com/dianyeHuang
+  - DockHan: https://github.com/DockHan
   - Eren-01: https://github.com/Eren-01
   - EricCho13: https://github.com/EricCho13
   - fluxrix: https://github.com/fluxrix
