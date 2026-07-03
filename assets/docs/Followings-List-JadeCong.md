@@ -30,7 +30,6 @@ agno-agi: https://github.com/agno-agi
 ai-in-pm: https://github.com/ai-in-pm
 ai4ce: https://github.com/ai4ce
 AI4Finance-Foundation: https://github.com/AI4Finance-Foundation
-AIDC-AI: https://github.com/AIDC-AI
 aidenybai: https://github.com/aidenybai
 aigc3d: https://github.com/aigc3d
 AILab-CVC: https://github.com/AILab-CVC
@@ -98,6 +97,7 @@ asimovinc: https://github.com/asimovinc
 asweigart: https://github.com/asweigart
 Atarilab: https://github.com/Atarilab
 atenpas: https://github.com/atenpas
+ATH-MaaS: https://github.com/ATH-MaaS
 AuboRobot: https://github.com/AuboRobot
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
 AutoLab-SAI-SJTU: https://github.com/AutoLab-SAI-SJTU
@@ -221,6 +221,7 @@ corbt: https://github.com/corbt
 coze-dev: https://github.com/coze-dev
 cremebrule: https://github.com/cremebrule
 crewAIInc: https://github.com/crewAIInc
+Crosstalk-Solutions: https://github.com/Crosstalk-Solutions
 cuhk-eda: https://github.com/cuhk-eda
 CursorTouch: https://github.com/CursorTouch
 cvg: https://github.com/cvg
@@ -318,6 +319,7 @@ ethereum: https://github.com/ethereum
 ethz-adrl: https://github.com/ethz-adrl
 eureka-research: https://github.com/eureka-research
 EverMind-AI: https://github.com/EverMind-AI
+EveryInc: https://github.com/EveryInc
 EvolvingLMMs-Lab: https://github.com/EvolvingLMMs-Lab
 EvoMap: https://github.com/EvoMap
 exelban: https://github.com/exelban
@@ -495,6 +497,7 @@ imputnet: https://github.com/imputnet
 Inception3D: https://github.com/Inception3D
 index-tts: https://github.com/index-tts
 infiniflow: https://github.com/infiniflow
+Ingrid789: https://github.com/Ingrid789
 initialneil: https://github.com/initialneil
 inlets: https://github.com/inlets
 InsightAGI: https://github.com/InsightAGI
@@ -1288,6 +1291,7 @@ wzzheng: https://github.com/wzzheng
 x-humanoid-robomind: https://github.com/x-humanoid-robomind
 X-lab2017: https://github.com/X-lab2017
 X-PLUG: https://github.com/X-PLUG
+X-Square-Robot: https://github.com/X-Square-Robot
 x1xhlol: https://github.com/x1xhlol
 xai-org: https://github.com/xai-org
 Xbotics-Embodied-AI-club: https://github.com/Xbotics-Embodied-AI-club
