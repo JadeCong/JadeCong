@@ -107,7 +107,6 @@ AI4Finance-Foundation/FinRL-Trading[master]: https://github.com/AI4Finance-Found
 AI4Finance-Foundation/FinRobot[master]: https://github.com/AI4Finance-Foundation/FinRobot.git
 ai4r/Co-Speech-Gesture-Generation[master]: https://github.com/ai4r/Co-Speech-Gesture-Generation.git
 AidanRocke/Free_Energy_experiments[master]: https://github.com/AidanRocke/Free_Energy_experiments.git
-AIDC-AI/Pixelle-MCP[main]: https://github.com/AIDC-AI/Pixelle-MCP.git
 aidenybai/million[main]: https://github.com/aidenybai/million.git
 Aider-AI/aider[main]: https://github.com/Aider-AI/aider.git
 aigc-apps/EasyAnimate[main]: https://github.com/aigc-apps/EasyAnimate.git
@@ -332,6 +331,7 @@ AstroHiro/ncm[master]: https://github.com/AstroHiro/ncm.git
 asweigart/pyautogui[master]: https://github.com/asweigart/pyautogui.git
 Atarilab/sbto[main]: https://github.com/Atarilab/sbto.git
 ATeam-Research/A1[main]: https://github.com/ATeam-Research/A1.git
+ATH-MaaS/Pixelle-MCP[main]: https://github.com/ATH-MaaS/Pixelle-MCP.git
 atiilla/GeoIntel[main]: https://github.com/atiilla/GeoIntel.git
 AuboRobot/aubo_robot[Noetic]: https://github.com/AuboRobot/aubo_robot.git
 AuboRobot/aubo_ros2_driver[main]: https://github.com/AuboRobot/aubo_ros2_driver.git
@@ -648,6 +648,7 @@ Crayon-Shinchan/AnyDressing[master]: https://github.com/Crayon-Shinchan/AnyDress
 crewAIInc/crewAI[main]: https://github.com/crewAIInc/crewAI.git
 crewAIInc/crewAI-tools[main]: https://github.com/crewAIInc/crewAI-tools.git
 crigroup/openrave-installation[master]: https://github.com/crigroup/openrave-installation.git
+Crosstalk-Solutions/project-nomad[main]: https://github.com/Crosstalk-Solutions/project-nomad.git
 cruise-automation/webviz[master]: https://github.com/cruise-automation/webviz.git
 cryer/D.Silver_RL_Course[master]: https://github.com/cryer/D.Silver_RL_Course.git
 crystalidea/macs-fan-control[master]: https://github.com/crystalidea/macs-fan-control.git
@@ -967,6 +968,7 @@ eureka-research/eurekaverse[main]: https://github.com/eureka-research/eurekavers
 evalstate/fast-agent[main]: https://github.com/evalstate/fast-agent.git
 eveningglow/multitask-CycleGAN[master]: https://github.com/eveningglow/multitask-CycleGAN.git
 EverMind-AI/EverOS[main]: https://github.com/EverMind-AI/EverOS.git
+EveryInc/compound-engineering-plugin[main]: https://github.com/EveryInc/compound-engineering-plugin.git
 evil-huawei/evil-huawei[master]: https://github.com/evil-huawei/evil-huawei.git
 evilsocket/cake[main]: https://github.com/evilsocket/cake.git
 EvolvingLMMs-Lab/NEO[main]: https://github.com/EvolvingLMMs-Lab/NEO.git
@@ -1956,6 +1958,7 @@ kortix-ai/suna[main]: https://github.com/kortix-ai/suna.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
 krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
 krillinai/KrillinAI[master]: https://github.com/krillinai/KrillinAI.git
+krish-suresh/flying_knots_public[main]: https://github.com/krish-suresh/flying_knots_public.git
 krishauser/Klampt[master]: https://github.com/krishauser/Klampt.git
 krishauser/Klampt-examples[master]: https://github.com/krishauser/Klampt-examples.git
 KrishKrosh/TrackWeight[main]: https://github.com/KrishKrosh/TrackWeight.git
@@ -4064,6 +4067,7 @@ wzzheng/Stag[main]: https://github.com/wzzheng/Stag.git
 x-humanoid-robomind/x-humanoid-robomind.github.io[main]: https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io.git
 X-LANCE/AniTalker[main]: https://github.com/X-LANCE/AniTalker.git
 X-PLUG/MobileAgent[main]: https://github.com/X-PLUG/MobileAgent.git
+X-Square-Robot/wall-x[main]: https://github.com/X-Square-Robot/wall-x.git
 x1xhlol/system-prompts-and-models-of-ai-tools[main]: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git
 xai-org/grok-1[main]: https://github.com/xai-org/grok-1.git
 xArm-Developer/xarm_ros[master]: https://github.com/xArm-Developer/xarm_ros.git
@@ -4111,11 +4115,13 @@ xuebinqin/U-2-Net[master]: https://github.com/xuebinqin/U-2-Net.git
 XueFuzhao/OpenMoE[main]: https://github.com/XueFuzhao/OpenMoE.git
 xuhangc/ChatGPT-Academic-Prompt[main]: https://github.com/xuhangc/ChatGPT-Academic-Prompt.git
 xuhao1/Unreal-ROS-Plugin[master]: https://github.com/xuhao1/Unreal-ROS-Plugin.git
+xukechun/APT[main]: https://github.com/xukechun/APT.git
 xupei0610/guitar[main]: https://github.com/xupei0610/guitar.git
 xuxw98/ESAM[main]: https://github.com/xuxw98/ESAM.git
 XuyangBai/TransFusion[master]: https://github.com/XuyangBai/TransFusion.git
 xwmx/nb[master]: https://github.com/xwmx/nb.git
 XX-net/XX-Net[master]: https://github.com/XX-net/XX-Net.git
+XxHuberrr/Mineradio[main]: https://github.com/XxHuberrr/Mineradio.git
 xxm19/hommi[main]: https://github.com/xxm19/hommi.git
 xy02-05/ScoreHypo[main]: https://github.com/xy02-05/ScoreHypo.git
 yahoo/CaffeOnSpark[master]: https://github.com/yahoo/CaffeOnSpark.git
