@@ -1,4 +1,5 @@
 01-ai: https://github.com/01-ai
+0xNyk: https://github.com/0xNyk
 1c7: https://github.com/1c7
 1Panel-dev: https://github.com/1Panel-dev
 21st-dev: https://github.com/21st-dev
