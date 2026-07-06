@@ -2,6 +2,7 @@
 0x2E/fusion[main]: https://github.com/0x2E/fusion.git
 0xenzyme/polanyi-skill[main]: https://github.com/0xenzyme/polanyi-skill.git
 0xKoda/drone-mcp[main]: https://github.com/0xKoda/drone-mcp.git
+0xNyk/awesome-hermes-agent[main]: https://github.com/0xNyk/awesome-hermes-agent.git
 101dotxyz/GPTeam[main]: https://github.com/101dotxyz/GPTeam.git
 1111mp/nvm-desktop[tauri]: https://github.com/1111mp/nvm-desktop.git
 11cafe/jaaz[main]: https://github.com/11cafe/jaaz.git
@@ -623,6 +624,7 @@ coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/d
 Comfy-Org/ComfyUI[master]: https://github.com/Comfy-Org/ComfyUI.git
 commaai/neo[master]: https://github.com/commaai/neo.git
 commaai/openpilot[master]: https://github.com/commaai/openpilot.git
+ComposioHQ/awesome-claude-skills[master]: https://github.com/ComposioHQ/awesome-claude-skills.git
 ComposioHQ/awesome-codex-skills[master]: https://github.com/ComposioHQ/awesome-codex-skills.git
 computerhistory/AlexNet-Source-Code[main]: https://github.com/computerhistory/AlexNet-Source-Code.git
 CompVis/stable-diffusion[main]: https://github.com/CompVis/stable-diffusion.git
@@ -1675,7 +1677,7 @@ InternRobotics/HIMLoco[main]: https://github.com/InternRobotics/HIMLoco.git
 InternRobotics/Infinite-Mobility[main]: https://github.com/InternRobotics/Infinite-Mobility.git
 InternRobotics/InternScenes[main]: https://github.com/InternRobotics/InternScenes.git
 InternRobotics/InternUtopia[main]: https://github.com/InternRobotics/InternUtopia.git
-InternRobotics/InternVLA-A1[master]: https://github.com/InternRobotics/InternVLA-A1.git
+InternRobotics/InternVLA-A-series[master]: https://github.com/InternRobotics/InternVLA-A-series.git
 InternRobotics/NavDP[master]: https://github.com/InternRobotics/NavDP.git
 InternRobotics/OpenHomie[main]: https://github.com/InternRobotics/OpenHomie.git
 InternRobotics/PointLLM[master]: https://github.com/InternRobotics/PointLLM.git
@@ -2078,6 +2080,7 @@ linchangyi1/Awesome-Touch[main]: https://github.com/linchangyi1/Awesome-Touch.gi
 linchangyi1/LocoTouch[main]: https://github.com/linchangyi1/LocoTouch.git
 LinDixuan/OmniHands[main]: https://github.com/LinDixuan/OmniHands.git
 lingxiaomeng/VR_Teleoperation_Gen3[main]: https://github.com/lingxiaomeng/VR_Teleoperation_Gen3.git
+lingxling/awesome-skills-cn[main]: https://github.com/lingxling/awesome-skills-cn.git
 linker-bot/human-dex[main]: https://github.com/linker-bot/human-dex.git
 Linketic/CityGaussian[main]: https://github.com/Linketic/CityGaussian.git
 Linketic/StableMoFusion[master]: https://github.com/Linketic/StableMoFusion.git
@@ -2714,7 +2717,7 @@ OAI/OpenAPI-Specification[main]: https://github.com/OAI/OpenAPI-Specification.gi
 obgm/libcoap[develop]: https://github.com/obgm/libcoap.git
 OBKoro1/koro1FileHeader[master]: https://github.com/OBKoro1/koro1FileHeader.git
 obra/superpowers[main]: https://github.com/obra/superpowers.git
-oceanbase/oceanbase[develop]: https://github.com/oceanbase/oceanbase.git
+oceanbase/oceanbase[master]: https://github.com/oceanbase/oceanbase.git
 ocrmypdf/OCRmyPDF[main]: https://github.com/ocrmypdf/OCRmyPDF.git
 octo-models/octo[main]: https://github.com/octo-models/octo.git
 OctoMap/octomap[devel]: https://github.com/OctoMap/octomap.git
@@ -3455,6 +3458,7 @@ sNiper-Qian/pianomime[master]: https://github.com/sNiper-Qian/pianomime.git
 snoack/python-goto[master]: https://github.com/snoack/python-goto.git
 Snouzy/workout-cool[main]: https://github.com/Snouzy/workout-cool.git
 snuvclab/dwm[main]: https://github.com/snuvclab/dwm.git
+snuvclab/HRDexDB[main]: https://github.com/snuvclab/HRDexDB.git
 snuvclab/perse[main]: https://github.com/snuvclab/perse.git
 SocialAI-tianji/Tianji[main]: https://github.com/SocialAI-tianji/Tianji.git
 soedinglab/MMseqs2[master]: https://github.com/soedinglab/MMseqs2.git
@@ -3607,7 +3611,7 @@ TEA-Lab/DenseMatcher[master]: https://github.com/TEA-Lab/DenseMatcher.git
 TEA-Lab/Robo-ABC[main]: https://github.com/TEA-Lab/Robo-ABC.git
 team-aprl/MR.ScaleMaster[main]: https://github.com/team-aprl/MR.ScaleMaster.git
 team-openpm/workgpt[master]: https://github.com/team-openpm/workgpt.git
-TeamWiseFlow/wiseflow[master]: https://github.com/TeamWiseFlow/wiseflow.git
+TeamWiseFlow/xiaobei[master]: https://github.com/TeamWiseFlow/xiaobei.git
 TechmanRobotInc/tmr_ros1[noetic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[humble]: https://github.com/TechmanRobotInc/tmr_ros2.git
 TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.git
@@ -3686,6 +3690,7 @@ thedotmack/claude-mem[main]: https://github.com/thedotmack/claude-mem.git
 TheEngineRoom-UniGe/ARMOR_OWLOOP[master]: https://github.com/TheEngineRoom-UniGe/ARMOR_OWLOOP.git
 TheKingOfDuck/burpFakeIP[master]: https://github.com/TheKingOfDuck/burpFakeIP.git
 TheMistoAI/MistoLine[main]: https://github.com/TheMistoAI/MistoLine.git
+theneoai/awesome-skills[main]: https://github.com/theneoai/awesome-skills.git
 theopfr/somo[master]: https://github.com/theopfr/somo.git
 therealXiaomanChu/ex-skill[main]: https://github.com/therealXiaomanChu/ex-skill.git
 TheRobotStudio/HOPEJr[main]: https://github.com/TheRobotStudio/HOPEJr.git
@@ -3777,6 +3782,7 @@ trailofbits/algo[main]: https://github.com/trailofbits/algo.git
 TrajectoryCrafter/TrajectoryCrafter[main]: https://github.com/TrajectoryCrafter/TrajectoryCrafter.git
 TransformerOptimus/SuperAGI[main]: https://github.com/TransformerOptimus/SuperAGI.git
 TransformerOptimus/SuperCoder[main]: https://github.com/TransformerOptimus/SuperCoder.git
+travisvn/awesome-claude-skills[main]: https://github.com/travisvn/awesome-claude-skills.git
 trekhleb/javascript-algorithms[master]: https://github.com/trekhleb/javascript-algorithms.git
 TRI-ML/prismatic-vlms[main]: https://github.com/TRI-ML/prismatic-vlms.git
 TRI-ML/vla_foundry[main]: https://github.com/TRI-ML/vla_foundry.git
@@ -3900,6 +3906,7 @@ UW-Lab/UWLab[main]: https://github.com/UW-Lab/UWLab.git
 uwgraphics/MotionComparator[main]: https://github.com/uwgraphics/MotionComparator.git
 UWRobotLearning/WheeledLab[main]: https://github.com/UWRobotLearning/WheeledLab.git
 uynitsuj/real2render2real[main]: https://github.com/uynitsuj/real2render2real.git
+uynitsuj/WARP-RM[main]: https://github.com/uynitsuj/WARP-RM.git
 UZ-SLAMLab/ORB_SLAM3[master]: https://github.com/UZ-SLAMLab/ORB_SLAM3.git
 uzh-rpg/dagr[master]: https://github.com/uzh-rpg/dagr.git
 uzh-rpg/dsec-det[master]: https://github.com/uzh-rpg/dsec-det.git
@@ -4049,7 +4056,7 @@ WPI-AIM/ros_geomagic[master]: https://github.com/WPI-AIM/ros_geomagic.git
 wsakobe/TrackVLA[main]: https://github.com/wsakobe/TrackVLA.git
 wsdjeg/SpaceVim[master]: https://github.com/wsdjeg/SpaceVim.git
 wshobson/agents[main]: https://github.com/wshobson/agents.git
-wuhaoran996/openRobotics[master]: https://github.com/wuhaoran996/openRobotics.git
+wuhaoran6/openRobotics[master]: https://github.com/wuhaoran6/openRobotics.git
 wuphilipp/gello_mechanical[main]: https://github.com/wuphilipp/gello_mechanical.git
 wuphilipp/gello_software[main]: https://github.com/wuphilipp/gello_software.git
 wuyouzhuguli/SpringAll[master]: https://github.com/wuyouzhuguli/SpringAll.git
