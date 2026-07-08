@@ -137,6 +137,7 @@ binary-husky: https://github.com/binary-husky
 biomejs: https://github.com/biomejs
 bitcoin: https://github.com/bitcoin
 BlinkDL: https://github.com/BlinkDL
+BlueBubblesApp: https://github.com/BlueBubblesApp
 BlueOrigin: https://github.com/BlueOrigin
 bmild: https://github.com/bmild
 BoosterRobotics: https://github.com/BoosterRobotics
@@ -666,6 +667,8 @@ marktext: https://github.com/marktext
 MARS-EAI: https://github.com/MARS-EAI
 massgravel: https://github.com/massgravel
 matplotlib: https://github.com/matplotlib
+matrix-org: https://github.com/matrix-org
+mattermost: https://github.com/mattermost
 matthew-brett: https://github.com/matthew-brett
 mattpocock: https://github.com/mattpocock
 maybe-finance: https://github.com/maybe-finance
@@ -805,6 +808,7 @@ onuratakan: https://github.com/onuratakan
 open-compass: https://github.com/open-compass
 open-dynamic-robot-initiative: https://github.com/open-dynamic-robot-initiative
 open-gigaai: https://github.com/open-gigaai
+Open-Industry-Project: https://github.com/Open-Industry-Project
 open-mmlab: https://github.com/open-mmlab
 open-vela: https://github.com/open-vela
 open-webui: https://github.com/open-webui
