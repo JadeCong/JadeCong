@@ -445,6 +445,8 @@ bitzhangcy/Neural-PDE-Solver[main]: https://github.com/bitzhangcy/Neural-PDE-Sol
 black-forest-labs/flux[main]: https://github.com/black-forest-labs/flux.git
 BlinkDL/ChatRWKV[main]: https://github.com/BlinkDL/ChatRWKV.git
 BlinkDL/RWKV-LM[main]: https://github.com/BlinkDL/RWKV-LM.git
+BlueBubblesApp/bluebubbles-app[master]: https://github.com/BlueBubblesApp/bluebubbles-app.git
+BlueBubblesApp/bluebubbles-server[master]: https://github.com/BlueBubblesApp/bluebubbles-server.git
 bluemapleman/MapleAI[master]: https://github.com/bluemapleman/MapleAI.git
 bmild/nerf[master]: https://github.com/bmild/nerf.git
 Boese0601/MagicDance[main]: https://github.com/Boese0601/MagicDance.git
@@ -472,7 +474,7 @@ Brummi/MonoRec[main]: https://github.com/Brummi/MonoRec.git
 brunokeymolen/hough[master]: https://github.com/brunokeymolen/hough.git
 brysonjones/multitask_dit_policy[main]: https://github.com/brysonjones/multitask_dit_policy.git
 bstadie/third_person_im[master]: https://github.com/bstadie/third_person_im.git
-btjawa/BiliTools[master]: https://github.com/btjawa/BiliTools.git
+btjawa/BiliTools[rm]: https://github.com/btjawa/BiliTools.git
 buaacyw/MeshAnything[main]: https://github.com/buaacyw/MeshAnything.git
 bugst/go-serial[master]: https://github.com/bugst/go-serial.git
 BuilderIO/gpt-crawler[main]: https://github.com/BuilderIO/gpt-crawler.git
@@ -1731,6 +1733,7 @@ jackfrued/Python-100-Days[master]: https://github.com/jackfrued/Python-100-Days.
 jackfrued/Python-Core-50-Courses[master]: https://github.com/jackfrued/Python-Core-50-Courses.git
 jackfrued/Python-Interview-Bible[master]: https://github.com/jackfrued/Python-Interview-Bible.git
 jackwener/OpenCLI[main]: https://github.com/jackwener/OpenCLI.git
+JadeCong/AGI[main]: https://github.com/JadeCong/AGI.git
 JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
 JadeCong/Awesome-Artificial-Intelligence[main]: https://github.com/JadeCong/Awesome-Artificial-Intelligence.git
@@ -1751,6 +1754,7 @@ JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.i
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
 JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
+JadeCong/OmniRoboticsSuite[main]: https://github.com/JadeCong/OmniRoboticsSuite.git
 JadeCong/plugin_ros[main]: https://github.com/JadeCong/plugin_ros.git
 JadeCong/plugin_ros2[main]: https://github.com/JadeCong/plugin_ros2.git
 JadeCong/realman-python[master]: https://github.com/JadeCong/realman-python.git
@@ -1869,8 +1873,8 @@ jurmy24/mechaverse[main]: https://github.com/jurmy24/mechaverse.git
 just-the-docs/just-the-docs[main]: https://github.com/just-the-docs/just-the-docs.git
 justinjfu/inverse_rl[master]: https://github.com/justinjfu/inverse_rl.git
 justinzm/gopup[master]: https://github.com/justinzm/gopup.git
-justjavac/awesome-wechat-weapp[main]: https://github.com/justjavac/awesome-wechat-weapp.git
 justjavac/free-programming-books-zh_CN[main]: https://github.com/justjavac/free-programming-books-zh_CN.git
+justjavac/wechat-miniapp-radar[main]: https://github.com/justjavac/wechat-miniapp-radar.git
 Juzezhang/NeuralDome_Toolbox[main]: https://github.com/Juzezhang/NeuralDome_Toolbox.git
 jvanakker/tesla-fsd-can-mod[main]: https://github.com/jvanakker/tesla-fsd-can-mod.git
 jwasham/coding-interview-university[main]: https://github.com/jwasham/coding-interview-university.git
@@ -2248,8 +2252,13 @@ mathiasbynens/dotfiles[main]: https://github.com/mathiasbynens/dotfiles.git
 Mathpix/mathpix-markdown-it[master]: https://github.com/Mathpix/mathpix-markdown-it.git
 matlab2tikz/matlab2tikz[master]: https://github.com/matlab2tikz/matlab2tikz.git
 matplotlib/matplotlib[main]: https://github.com/matplotlib/matplotlib.git
+matrix-org/matrix-js-sdk[develop]: https://github.com/matrix-org/matrix-js-sdk.git
+matrix-org/matrix-rust-sdk[main]: https://github.com/matrix-org/matrix-rust-sdk.git
 MatrixSeven/file-transfer-go[main]: https://github.com/MatrixSeven/file-transfer-go.git
 matteocrippa/awesome-swift[master]: https://github.com/matteocrippa/awesome-swift.git
+mattermost/desktop[master]: https://github.com/mattermost/desktop.git
+mattermost/mattermost[master]: https://github.com/mattermost/mattermost.git
+mattermost/mattermost-mobile[main]: https://github.com/mattermost/mattermost-mobile.git
 matthew-brett/transforms3d[main]: https://github.com/matthew-brett/transforms3d.git
 mattpocock/skills[main]: https://github.com/mattpocock/skills.git
 mattstauffer/Torch[master]: https://github.com/mattstauffer/Torch.git
@@ -2741,6 +2750,7 @@ open-dynamic-robot-initiative/open_robot_actuator_hardware[master]: https://gith
 open-dynamic-robot-initiative/trifinger_object_tracking[master]: https://github.com/open-dynamic-robot-initiative/trifinger_object_tracking.git
 open-gigaai/giga-brain-0[main]: https://github.com/open-gigaai/giga-brain-0.git
 open-gigaai/giga-world-policy[main]: https://github.com/open-gigaai/giga-world-policy.git
+Open-Industry-Project/Open-Industry-Project[master]: https://github.com/Open-Industry-Project/Open-Industry-Project.git
 open-mmlab/Amphion[main]: https://github.com/open-mmlab/Amphion.git
 open-mmlab/Live2Diff[main]: https://github.com/open-mmlab/Live2Diff.git
 open-mmlab/mmagic[main]: https://github.com/open-mmlab/mmagic.git
