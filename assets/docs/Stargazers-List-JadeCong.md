@@ -1,3 +1,9 @@
+JadeCong/AGI[main]: https://github.com/JadeCong/AGI.git
+  - {"message":"Resource: https://github.com/{"message":"Resource
+  - not: https://github.com/not
+  - accessible: https://github.com/accessible
+  - by: https://github.com/by
+  - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
 JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
@@ -109,6 +115,12 @@ JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
 JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
+  - {"message":"Resource: https://github.com/{"message":"Resource
+  - not: https://github.com/not
+  - accessible: https://github.com/accessible
+  - by: https://github.com/by
+  - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
+JadeCong/OmniRoboticsSuite[main]: https://github.com/JadeCong/OmniRoboticsSuite.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
