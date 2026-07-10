@@ -59,6 +59,7 @@ AD-EYE/foxglove-opensource[main]: https://github.com/AD-EYE/foxglove-opensource.
 adam-p/markdown-here[master]: https://github.com/adam-p/markdown-here.git
 adaptyvbio/ProteinFlow[main]: https://github.com/adaptyvbio/ProteinFlow.git
 addyosmani/agent-skills[main]: https://github.com/addyosmani/agent-skills.git
+aden-hive/hive[main]: https://github.com/aden-hive/hive.git
 adithya-s-k/omniparse[main]: https://github.com/adithya-s-k/omniparse.git
 adnappp/Sfm-python[master]: https://github.com/adnappp/Sfm-python.git
 adobe-research/VideoDoodles[main]: https://github.com/adobe-research/VideoDoodles.git
@@ -151,6 +152,7 @@ ali-vilab/VACE[main]: https://github.com/ali-vilab/VACE.git
 AliaksandrSiarohin/first-order-model[master]: https://github.com/AliaksandrSiarohin/first-order-model.git
 alibaba-damo-academy/RynnBrain[main]: https://github.com/alibaba-damo-academy/RynnBrain.git
 alibaba-damo-academy/RynnVLA-002[main]: https://github.com/alibaba-damo-academy/RynnVLA-002.git
+alibaba-damo-academy/RynnWorld-Teleop[main]: https://github.com/alibaba-damo-academy/RynnWorld-Teleop.git
 alibaba-damo-academy/Uni3C[main]: https://github.com/alibaba-damo-academy/Uni3C.git
 alibaba-developer/Alibaba-Interview-Skill[master]: https://github.com/alibaba-developer/Alibaba-Interview-Skill.git
 Alibaba-NLP/DeepResearch[main]: https://github.com/Alibaba-NLP/DeepResearch.git
@@ -184,6 +186,7 @@ alshedivat/al-folio[main]: https://github.com/alshedivat/al-folio.git
 AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
 alyssaq/hough_transform[master]: https://github.com/alyssaq/hough_transform.git
 alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
+amathislab/musclemimic[main]: https://github.com/amathislab/musclemimic.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
 amazon-far/fpo-control[main]: https://github.com/amazon-far/fpo-control.git
 amazon-far/holosoma[main]: https://github.com/amazon-far/holosoma.git
@@ -683,6 +686,7 @@ daattali/beautiful-jekyll[master]: https://github.com/daattali/beautiful-jekyll.
 DachunKai/Ev-DeblurVSR[main]: https://github.com/DachunKai/Ev-DeblurVSR.git
 DachunKai/EvTexture[main]: https://github.com/DachunKai/EvTexture.git
 dafish-ai/NTU-Machine-learning[master]: https://github.com/dafish-ai/NTU-Machine-learning.git
+DAGroup-PKU/HumanNet[main]: https://github.com/DAGroup-PKU/HumanNet.git
 DaiLuyaoME/Auto-tuning-of-model-based-feedforward-controller-in-ultraprecision-motion-systems[master]: https://github.com/DaiLuyaoME/Auto-tuning-of-model-based-feedforward-controller-in-ultraprecision-motion-systems.git
 DaiLuyaoME/disturbanceFittingSimulink[master]: https://github.com/DaiLuyaoME/disturbanceFittingSimulink.git
 dair-ai/Prompt-Engineering-Guide[main]: https://github.com/dair-ai/Prompt-Engineering-Guide.git
@@ -1301,6 +1305,8 @@ golang/vscode-go[master]: https://github.com/golang/vscode-go.git
 gomzyakov/github-achievements[main]: https://github.com/gomzyakov/github-achievements.git
 goodfeli/theano_exercises[master]: https://github.com/goodfeli/theano_exercises.git
 google-ai-edge/mediapipe[master]: https://github.com/google-ai-edge/mediapipe.git
+google-antigravity/antigravity-cli[main]: https://github.com/google-antigravity/antigravity-cli.git
+google-antigravity/antigravity-sdk-python[main]: https://github.com/google-antigravity/antigravity-sdk-python.git
 google-deepmind/acme[master]: https://github.com/google-deepmind/acme.git
 google-deepmind/ai-safety-gridworlds[master]: https://github.com/google-deepmind/ai-safety-gridworlds.git
 google-deepmind/alphadev[main]: https://github.com/google-deepmind/alphadev.git
@@ -1370,6 +1376,8 @@ GordenSun/GordenSuperPPTSkills[main]: https://github.com/GordenSun/GordenSuperPP
 gpt-omni/mini-omni[main]: https://github.com/gpt-omni/mini-omni.git
 grablab/openhand-hardware[master]: https://github.com/grablab/openhand-hardware.git
 grantjenks/free-python-games[master]: https://github.com/grantjenks/free-python-games.git
+graph-robots/graph-as-policy[main]: https://github.com/graph-robots/graph-as-policy.git
+graph-robots/open-robot-skills[main]: https://github.com/graph-robots/open-robot-skills.git
 graphdeco-inria/gaussian-splatting[main]: https://github.com/graphdeco-inria/gaussian-splatting.git
 graphific/DeepDreamVideo[master]: https://github.com/graphific/DeepDreamVideo.git
 graspit-simulator/graspit[master]: https://github.com/graspit-simulator/graspit.git
@@ -1785,6 +1793,7 @@ jc-bao/spider[main]: https://github.com/jc-bao/spider.git
 jcjohnson/fast-neural-style[master]: https://github.com/jcjohnson/fast-neural-style.git
 jcjohnson/neural-style[master]: https://github.com/jcjohnson/neural-style.git
 jcjohnson/torch-rnn[master]: https://github.com/jcjohnson/torch-rnn.git
+JCodesMore/ai-website-cloner-template[master]: https://github.com/JCodesMore/ai-website-cloner-template.git
 jdh-algo/JoyHallo[main]: https://github.com/jdh-algo/JoyHallo.git
 jdh-algo/JoyVASA[main]: https://github.com/jdh-algo/JoyVASA.git
 jdrew1303/ros_geomagic_touch_phantom_omni[master]: https://github.com/jdrew1303/ros_geomagic_touch_phantom_omni.git
@@ -2389,7 +2398,7 @@ mila-iqia/babyai[master]: https://github.com/mila-iqia/babyai.git
 milanvarady/Applite[main]: https://github.com/milanvarady/Applite.git
 mimic-video/mimic-video[main]: https://github.com/mimic-video/mimic-video.git
 MindDock/motion-tracker[main]: https://github.com/MindDock/motion-tracker.git
-mindsdb/minds[main]: https://github.com/mindsdb/minds.git
+mindsdb/mindshub[main]: https://github.com/mindsdb/mindshub.git
 MineDojo/Voyager[main]: https://github.com/MineDojo/Voyager.git
 mingfeisun/DeepMimic_mujoco[master]: https://github.com/mingfeisun/DeepMimic_mujoco.git
 minghu0830/OphNet-3D[main]: https://github.com/minghu0830/OphNet-3D.git
@@ -2534,6 +2543,7 @@ nashsu/FreeAskInternet[main]: https://github.com/nashsu/FreeAskInternet.git
 nashsu/llm_wiki[main]: https://github.com/nashsu/llm_wiki.git
 nateraw/stable-diffusion-videos[main]: https://github.com/nateraw/stable-diffusion-videos.git
 naver/dust3r[main]: https://github.com/naver/dust3r.git
+NawfalMotii79/PLFM_RADAR[main]: https://github.com/NawfalMotii79/PLFM_RADAR.git
 nbfigueroa/franka_interactive_controllers[main]: https://github.com/nbfigueroa/franka_interactive_controllers.git
 ncsoft/CaPa[main]: https://github.com/ncsoft/CaPa.git
 nearai/ironclaw[main]: https://github.com/nearai/ironclaw.git
