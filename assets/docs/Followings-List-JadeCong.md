@@ -16,6 +16,7 @@ ACETeleop: https://github.com/ACETeleop
 acheong08: https://github.com/acheong08
 actions: https://github.com/actions
 addyosmani: https://github.com/addyosmani
+aden-hive: https://github.com/aden-hive
 adobe: https://github.com/adobe
 affaan-m: https://github.com/affaan-m
 ag-ui-protocol: https://github.com/ag-ui-protocol
@@ -54,6 +55,7 @@ allenai: https://github.com/allenai
 Alpha-VLLM: https://github.com/Alpha-VLLM
 alphacep: https://github.com/alphacep
 amandlek: https://github.com/amandlek
+amathislab: https://github.com/amathislab
 amazon-far: https://github.com/amazon-far
 ambots3D: https://github.com/ambots3D
 amd: https://github.com/amd
@@ -234,6 +236,7 @@ cynthia-you: https://github.com/cynthia-you
 d2l-ai: https://github.com/d2l-ai
 D4Vinci: https://github.com/D4Vinci
 daattali: https://github.com/daattali
+DAGroup-PKU: https://github.com/DAGroup-PKU
 DaiLuyaoME: https://github.com/DaiLuyaoME
 dair-ai: https://github.com/dair-ai
 DAIRLab: https://github.com/DAIRLab
@@ -407,6 +410,7 @@ go-redis: https://github.com/go-redis
 gohugoio: https://github.com/gohugoio
 google: https://github.com/google
 google-ai-edge: https://github.com/google-ai-edge
+google-antigravity: https://github.com/google-antigravity
 google-deepmind: https://github.com/google-deepmind
 google-gemini: https://github.com/google-gemini
 google-research: https://github.com/google-research
@@ -414,6 +418,7 @@ googleworkspace: https://github.com/googleworkspace
 gpt-engineer-org: https://github.com/gpt-engineer-org
 grablab: https://github.com/grablab
 grantjenks: https://github.com/grantjenks
+graph-robots: https://github.com/graph-robots
 graphdeco-inria: https://github.com/graphdeco-inria
 graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
@@ -526,6 +531,7 @@ jaywcjlove: https://github.com/jaywcjlove
 jbiaojerry: https://github.com/jbiaojerry
 jc-bao: https://github.com/jc-bao
 jcjohnson: https://github.com/jcjohnson
+JCodesMore: https://github.com/JCodesMore
 jeecgboot: https://github.com/jeecgboot
 JenniferBuehler: https://github.com/JenniferBuehler
 jesseduffield: https://github.com/jesseduffield
@@ -741,6 +747,7 @@ NapthaAI: https://github.com/NapthaAI
 nasa: https://github.com/nasa
 nashsu: https://github.com/nashsu
 naver: https://github.com/naver
+NawfalMotii79: https://github.com/NawfalMotii79
 nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
 nearai: https://github.com/nearai
