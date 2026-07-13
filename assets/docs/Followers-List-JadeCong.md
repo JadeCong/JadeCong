@@ -43,7 +43,7 @@ idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 ipqwery: https://github.com/ipqwery
 itsKayWat: https://github.com/itsKayWat
-ixiqvpixi: https://github.com/ixiqvpixi
+ixqSCpxi: https://github.com/ixqSCpxi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
 jmenture45: https://github.com/jmenture45
