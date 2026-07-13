@@ -320,6 +320,7 @@ ArtalkJS/Artalk[master]: https://github.com/ArtalkJS/Artalk.git
 artemsheludko/lokmont[master]: https://github.com/artemsheludko/lokmont.git
 arth-shukla/mshab[main]: https://github.com/arth-shukla/mshab.git
 artsy/eigen[main]: https://github.com/artsy/eigen.git
+arxhr007/Aliens_eye[main]: https://github.com/arxhr007/Aliens_eye.git
 asgeirtj/system_prompts_leaks[main]: https://github.com/asgeirtj/system_prompts_leaks.git
 ashawkey/Segment-Anything-NeRF[main]: https://github.com/ashawkey/Segment-Anything-NeRF.git
 ashishpatel26/500-AI-Agents-Projects[main]: https://github.com/ashishpatel26/500-AI-Agents-Projects.git
@@ -1712,6 +1713,7 @@ irom-princeton/dppo[main]: https://github.com/irom-princeton/dppo.git
 irom-princeton/PAC-Imitation[master]: https://github.com/irom-princeton/PAC-Imitation.git
 Ironclad/rivet[main]: https://github.com/Ironclad/rivet.git
 IRVLUTD/HO-Cap[main]: https://github.com/IRVLUTD/HO-Cap.git
+IRVLUTD/UHAS_sim[main]: https://github.com/IRVLUTD/UHAS_sim.git
 isaac-sim/IsaacGymEnvs[main]: https://github.com/isaac-sim/IsaacGymEnvs.git
 isaac-sim/IsaacLab[main]: https://github.com/isaac-sim/IsaacLab.git
 isaac-sim/IsaacLab-Arena[main]: https://github.com/isaac-sim/IsaacLab-Arena.git
@@ -2631,6 +2633,7 @@ Nutlope/llamatutor[main]: https://github.com/Nutlope/llamatutor.git
 Nutlope/napkins[main]: https://github.com/Nutlope/napkins.git
 Nutlope/picMenu[main]: https://github.com/Nutlope/picMenu.git
 nv-tlabs/3dgrut[main]: https://github.com/nv-tlabs/3dgrut.git
+nv-tlabs/ardy[main]: https://github.com/nv-tlabs/ardy.git
 nv-tlabs/ASE[main]: https://github.com/nv-tlabs/ASE.git
 nv-tlabs/kimodo[main]: https://github.com/nv-tlabs/kimodo.git
 nv-tlabs/vipe[main]: https://github.com/nv-tlabs/vipe.git
@@ -2980,6 +2983,7 @@ pinokiocomputer/pinokio[main]: https://github.com/pinokiocomputer/pinokio.git
 pipecat-ai/pipecat[main]: https://github.com/pipecat-ai/pipecat.git
 pipecat-ai/rtvi-web-demo[main]: https://github.com/pipecat-ai/rtvi-web-demo.git
 PixarAnimationStudios/OpenUSD[dev]: https://github.com/PixarAnimationStudios/OpenUSD.git
+pixelprotodev/NexusCore[main]: https://github.com/pixelprotodev/NexusCore.git
 pjialin/py12306[master]: https://github.com/pjialin/py12306.git
 PKU-EPIC/DexGraspNet[main]: https://github.com/PKU-EPIC/DexGraspNet.git
 PKU-EPIC/DexGraspNet2[main]: https://github.com/PKU-EPIC/DexGraspNet2.git
@@ -3379,7 +3383,6 @@ seohongpark/horizon-reduction[master]: https://github.com/seohongpark/horizon-re
 Separius/awesome-fast-attention[master]: https://github.com/Separius/awesome-fast-attention.git
 sepidsh/PuzzleFussion[main]: https://github.com/sepidsh/PuzzleFussion.git
 sequential-dexterity/SeqDex[master]: https://github.com/sequential-dexterity/SeqDex.git
-SergeantFuzzy/NexusCore[main]: https://github.com/SergeantFuzzy/NexusCore.git
 SergiusTheBest/plog[master]: https://github.com/SergiusTheBest/plog.git
 serhii-londar/open-source-mac-os-apps[master]: https://github.com/serhii-londar/open-source-mac-os-apps.git
 sermanet/tcn[master]: https://github.com/sermanet/tcn.git
@@ -4052,6 +4055,7 @@ wileewang/TransPixeler[main]: https://github.com/wileewang/TransPixeler.git
 williamleif/GraphSAGE[master]: https://github.com/williamleif/GraphSAGE.git
 willisma/SiT[main]: https://github.com/willisma/SiT.git
 wilsonfreitas/awesome-quant[main]: https://github.com/wilsonfreitas/awesome-quant.git
+win12-online/win12[main]: https://github.com/win12-online/win12.git
 win4r/AISuperDomain[main]: https://github.com/win4r/AISuperDomain.git
 Wind-River/crypto-detector[master]: https://github.com/Wind-River/crypto-detector.git
 Wind-River/vxworks-arduino-lite-lib[master]: https://github.com/Wind-River/vxworks-arduino-lite-lib.git
