@@ -232,6 +232,7 @@ cvg: https://github.com/cvg
 cweijan: https://github.com/cweijan
 cyberbotics: https://github.com/cyberbotics
 CyberGrandChallenge: https://github.com/CyberGrandChallenge
+CyberOrigin2077: https://github.com/CyberOrigin2077
 cynthia-you: https://github.com/cynthia-you
 d2l-ai: https://github.com/d2l-ai
 D4Vinci: https://github.com/D4Vinci
