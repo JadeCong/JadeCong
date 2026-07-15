@@ -630,8 +630,8 @@ coltonstearns/dynamic-gaussian-marbles[main]: https://github.com/coltonstearns/d
 Comfy-Org/ComfyUI[master]: https://github.com/Comfy-Org/ComfyUI.git
 commaai/neo[master]: https://github.com/commaai/neo.git
 commaai/openpilot[master]: https://github.com/commaai/openpilot.git
+composio-community/awesome-codex-skills[master]: https://github.com/composio-community/awesome-codex-skills.git
 ComposioHQ/awesome-claude-skills[master]: https://github.com/ComposioHQ/awesome-claude-skills.git
-ComposioHQ/awesome-codex-skills[master]: https://github.com/ComposioHQ/awesome-codex-skills.git
 computerhistory/AlexNet-Source-Code[main]: https://github.com/computerhistory/AlexNet-Source-Code.git
 CompVis/stable-diffusion[main]: https://github.com/CompVis/stable-diffusion.git
 context-labs/aella-data-explorer[main]: https://github.com/context-labs/aella-data-explorer.git
@@ -672,6 +672,9 @@ cvg/mpsfm[main]: https://github.com/cvg/mpsfm.git
 cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
 cyberbotics/webots[master]: https://github.com/cyberbotics/webots.git
+CyberOrigin2077/Cyber[main]: https://github.com/CyberOrigin2077/Cyber.git
+CyberOrigin2077/labelU-Marker[main]: https://github.com/CyberOrigin2077/labelU-Marker.git
+CyberOrigin2077/open_cyber_glove[main]: https://github.com/CyberOrigin2077/open_cyber_glove.git
 cyjdlhy/TeleOpBench[main]: https://github.com/cyjdlhy/TeleOpBench.git
 cynthia-you/TJ_FX_ROBOT_CONTRL_SDK[main]: https://github.com/cynthia-you/TJ_FX_ROBOT_CONTRL_SDK.git
 cypw/MXNet2Caffe[master]: https://github.com/cypw/MXNet2Caffe.git
@@ -2625,6 +2628,7 @@ nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
 ntegrals/10x[main]: https://github.com/ntegrals/10x.git
 NTUYWANG103/Hand2World[master]: https://github.com/NTUYWANG103/Hand2World.git
+NTUYWANG103/ViDiHand[main]: https://github.com/NTUYWANG103/ViDiHand.git
 Nuitka/Nuitka[develop]: https://github.com/Nuitka/Nuitka.git
 nullbyte91/Driver-Monitoring-System-Gaze_Detection[master]: https://github.com/nullbyte91/Driver-Monitoring-System-Gaze_Detection.git
 nullclaw/nullclaw[main]: https://github.com/nullclaw/nullclaw.git
@@ -3237,6 +3241,7 @@ robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robometer/robometer[main]: https://github.com/robometer/robometer.git
 RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.git
 RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
+Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
 RoboStack/jupyter-ros[main]: https://github.com/RoboStack/jupyter-ros.git
