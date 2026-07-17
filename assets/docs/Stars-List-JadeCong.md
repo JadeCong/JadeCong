@@ -898,6 +898,9 @@ ecomfe/awesome-echarts[master]: https://github.com/ecomfe/awesome-echarts.git
 EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 EGalahad/sim2real[main]: https://github.com/EGalahad/sim2real.git
 Egonex-AI/Understand-Anything[main]: https://github.com/Egonex-AI/Understand-Anything.git
+egosteer/egosmith[main]: https://github.com/egosteer/egosmith.git
+egosteer/egosteer[main]: https://github.com/egosteer/egosteer.git
+egosteer/robot-stack[main]: https://github.com/egosteer/robot-stack.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 EKKOLearnAI/hermes-studio[main]: https://github.com/EKKOLearnAI/hermes-studio.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
@@ -1384,6 +1387,7 @@ graph-robots/graph-as-policy[main]: https://github.com/graph-robots/graph-as-pol
 graph-robots/open-robot-skills[main]: https://github.com/graph-robots/open-robot-skills.git
 graphdeco-inria/gaussian-splatting[main]: https://github.com/graphdeco-inria/gaussian-splatting.git
 graphific/DeepDreamVideo[master]: https://github.com/graphific/DeepDreamVideo.git
+Graphify-Labs/graphify[v8]: https://github.com/Graphify-Labs/graphify.git
 graspit-simulator/graspit[master]: https://github.com/graspit-simulator/graspit.git
 graspnet/AnyDexGrasp[main]: https://github.com/graspnet/AnyDexGrasp.git
 graspnet/graspnet-baseline[main]: https://github.com/graspnet/graspnet-baseline.git
@@ -2749,6 +2753,7 @@ octo-models/octo[main]: https://github.com/octo-models/octo.git
 OctoMap/octomap[devel]: https://github.com/OctoMap/octomap.git
 OctoMap/octomap_mapping[ros2]: https://github.com/OctoMap/octomap_mapping.git
 octotools/octotools[main]: https://github.com/octotools/octotools.git
+odysseus-dev/odysseus[dev]: https://github.com/odysseus-dev/odysseus.git
 ohmyzsh/ohmyzsh[master]: https://github.com/ohmyzsh/ohmyzsh.git
 ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
 Oldpan/Faceswap-Deepfake-Pytorch[master]: https://github.com/Oldpan/Faceswap-Deepfake-Pytorch.git
@@ -2859,7 +2864,7 @@ OpenMOSS/VLABench[main]: https://github.com/OpenMOSS/VLABench.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
 openrocket/openrocket[unstable]: https://github.com/openrocket/openrocket.git
-OpenRouterTeam/openrouter-runner[main]: https://github.com/OpenRouterTeam/openrouter-runner.git
+OpenRouterArchived/openrouter-runner[main]: https://github.com/OpenRouterArchived/openrouter-runner.git
 opensim-org/opensim-core[main]: https://github.com/opensim-org/opensim-core.git
 opensim-org/opensim-gui[main]: https://github.com/opensim-org/opensim-gui.git
 opensim-org/opensim-moco[master]: https://github.com/opensim-org/opensim-moco.git
@@ -2962,7 +2967,6 @@ petercorke/robotics-toolbox-python[main]: https://github.com/petercorke/robotics
 PeterH0323/Streamer-Sales[main]: https://github.com/PeterH0323/Streamer-Sales.git
 PeterL1n/BackgroundMattingV2[master]: https://github.com/PeterL1n/BackgroundMattingV2.git
 PetoiCamp/OpenCat-Quadruped-Robot[main]: https://github.com/PetoiCamp/OpenCat-Quadruped-Robot.git
-pewdiepie-archdaemon/odysseus[dev]: https://github.com/pewdiepie-archdaemon/odysseus.git
 Phantom-video/HuMo[main]: https://github.com/Phantom-video/HuMo.git
 Phantom-video/Phantom[main]: https://github.com/Phantom-video/Phantom.git
 philc/vimium[master]: https://github.com/philc/vimium.git
