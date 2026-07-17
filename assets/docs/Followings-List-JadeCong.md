@@ -300,6 +300,7 @@ easychen: https://github.com/easychen
 EbookFoundation: https://github.com/EbookFoundation
 eclipse-zenoh: https://github.com/eclipse-zenoh
 EGalahad: https://github.com/EGalahad
+egosteer: https://github.com/egosteer
 elecfreaks: https://github.com/elecfreaks
 electech6: https://github.com/electech6
 electron: https://github.com/electron
@@ -421,6 +422,7 @@ grablab: https://github.com/grablab
 grantjenks: https://github.com/grantjenks
 graph-robots: https://github.com/graph-robots
 graphdeco-inria: https://github.com/graphdeco-inria
+Graphify-Labs: https://github.com/Graphify-Labs
 graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
 gravitational: https://github.com/gravitational
@@ -1024,6 +1026,7 @@ rustdesk: https://github.com/rustdesk
 ruvnet: https://github.com/ruvnet
 RVMI: https://github.com/RVMI
 ry: https://github.com/ry
+safishamsi: https://github.com/safishamsi
 sair-lab: https://github.com/sair-lab
 Saiyan-World: https://github.com/Saiyan-World
 SakanaAI: https://github.com/SakanaAI
