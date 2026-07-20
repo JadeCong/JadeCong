@@ -845,6 +845,7 @@ OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRLHF: https://github.com/OpenRLHF
 openrocket: https://github.com/openrocket
 OpenRouterTeam: https://github.com/OpenRouterTeam
+OpenSenseNova: https://github.com/OpenSenseNova
 opensim-org: https://github.com/opensim-org
 OpenSLAM: https://github.com/OpenSLAM
 OpenSpace: https://github.com/OpenSpace
@@ -889,6 +890,7 @@ PetoiCamp: https://github.com/PetoiCamp
 pewdiepie-archdaemon: https://github.com/pewdiepie-archdaemon
 Phantom-video: https://github.com/Phantom-video
 Physical-Intelligence: https://github.com/Physical-Intelligence
+physical-superintelligence-lab: https://github.com/physical-superintelligence-lab
 Picrew: https://github.com/Picrew
 Picsart-AI-Research: https://github.com/Picsart-AI-Research
 pika: https://github.com/pika
@@ -989,6 +991,7 @@ roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
 robometer: https://github.com/robometer
 RoboMME: https://github.com/RoboMME
+robonet-ai: https://github.com/robonet-ai
 Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 roboscienceorg: https://github.com/roboscienceorg
