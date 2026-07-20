@@ -926,6 +926,7 @@ Embodied-Web-Agent/Embodied-Web-Agent[main]: https://github.com/Embodied-Web-Age
 EmbodiedCity/AirScape.code[main]: https://github.com/EmbodiedCity/AirScape.code.git
 emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
+emilkowalski/skills[main]: https://github.com/emilkowalski/skills.git
 emilwallner/Screenshot-to-code[master]: https://github.com/emilwallner/Screenshot-to-code.git
 empriselab/feeding-deployment[main]: https://github.com/empriselab/feeding-deployment.git
 EmptyBlueBox/ConTrack[main]: https://github.com/EmptyBlueBox/ConTrack.git
@@ -2130,6 +2131,7 @@ LiteReality/LiteReality[main]: https://github.com/LiteReality/LiteReality.git
 Little-Podi/AdaWorld[main]: https://github.com/Little-Podi/AdaWorld.git
 liuhuanyong/QASystemOnMedicalKG[master]: https://github.com/liuhuanyong/QASystemOnMedicalKG.git
 liuruoze/mini-AlphaStar[main]: https://github.com/liuruoze/mini-AlphaStar.git
+liushb9/TACO[main]: https://github.com/liushb9/TACO.git
 liuxiaoyu1104/AnimateAnywhere[main]: https://github.com/liuxiaoyu1104/AnimateAnywhere.git
 liuzhao1225/YouDub-webui[main]: https://github.com/liuzhao1225/YouDub-webui.git
 lixiaowen-xw/DiffuEraser[master]: https://github.com/lixiaowen-xw/DiffuEraser.git
@@ -2671,6 +2673,7 @@ NVIDIA-ISAAC-ROS/isaac_ros_object_detection[main]: https://github.com/NVIDIA-ISA
 NVIDIA-ISAAC-ROS/isaac_ros_visual_slam[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
 NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_benchmark.git
 nvidia-isaac/cumotion[main]: https://github.com/nvidia-isaac/cumotion.git
+nvidia-isaac/cuVSLAM[main]: https://github.com/nvidia-isaac/cuVSLAM.git
 nvidia-isaac/WBC-AGILE[main]: https://github.com/nvidia-isaac/WBC-AGILE.git
 NVIDIA-NeMo/RL[main]: https://github.com/NVIDIA-NeMo/RL.git
 NVIDIA-NeMo/Speech[main]: https://github.com/NVIDIA-NeMo/Speech.git
@@ -2865,6 +2868,7 @@ OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
 openrocket/openrocket[unstable]: https://github.com/openrocket/openrocket.git
 OpenRouterArchived/openrouter-runner[main]: https://github.com/OpenRouterArchived/openrouter-runner.git
+OpenSenseNova/SenseNova-U1[main]: https://github.com/OpenSenseNova/SenseNova-U1.git
 opensim-org/opensim-core[main]: https://github.com/opensim-org/opensim-core.git
 opensim-org/opensim-gui[main]: https://github.com/opensim-org/opensim-gui.git
 opensim-org/opensim-moco[master]: https://github.com/opensim-org/opensim-moco.git
@@ -2982,6 +2986,7 @@ PhyAgentOS/PhyAgentOS[preview]: https://github.com/PhyAgentOS/PhyAgentOS.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
+physical-superintelligence-lab/SIMPLE[main]: https://github.com/physical-superintelligence-lab/SIMPLE.git
 Physics-Scaling/GeoPT[main]: https://github.com/Physics-Scaling/GeoPT.git
 pickxiguapi/Embodied-R1[main]: https://github.com/pickxiguapi/Embodied-R1.git
 Picrew/awesome-agent-harness[main]: https://github.com/Picrew/awesome-agent-harness.git
@@ -3245,6 +3250,9 @@ robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robometer/robometer[main]: https://github.com/robometer/robometer.git
 RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.git
 RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
+robonet-ai/handumi-hw[main]: https://github.com/robonet-ai/handumi-hw.git
+robonet-ai/handumi-quest-app[main]: https://github.com/robonet-ai/handumi-quest-app.git
+robonet-ai/handumi-sw[main]: https://github.com/robonet-ai/handumi-sw.git
 Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
