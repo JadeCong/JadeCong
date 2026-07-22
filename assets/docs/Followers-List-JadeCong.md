@@ -37,7 +37,9 @@ hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
+infinityabundance: https://github.com/infinityabundance
 ipqwery: https://github.com/ipqwery
+ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 ixqSCpxi: https://github.com/ixqSCpxi
 jacobsomer: https://github.com/jacobsomer
