@@ -252,6 +252,7 @@ DAVIAN-Robotics: https://github.com/DAVIAN-Robotics
 davideuler: https://github.com/davideuler
 DavidHDev: https://github.com/DavidHDev
 davidmalawey: https://github.com/davidmalawey
+davila7: https://github.com/davila7
 ddbourgin: https://github.com/ddbourgin
 DeeLMind: https://github.com/DeeLMind
 deep-diver: https://github.com/deep-diver
@@ -307,6 +308,7 @@ electron: https://github.com/electron
 Elite-Robots: https://github.com/Elite-Robots
 Embodied-Web-Agent: https://github.com/Embodied-Web-Agent
 emidan19: https://github.com/emidan19
+emilkowalski: https://github.com/emilkowalski
 EmptyBlueBox: https://github.com/EmptyBlueBox
 enactic: https://github.com/enactic
 engineai-robotics: https://github.com/engineai-robotics
@@ -884,6 +886,8 @@ payloadcms: https://github.com/payloadcms
 paypal: https://github.com/paypal
 peng-zhihui: https://github.com/peng-zhihui
 penrose: https://github.com/penrose
+perceptron-ai-inc: https://github.com/perceptron-ai-inc
+personalrobotics: https://github.com/personalrobotics
 pesser: https://github.com/pesser
 petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
@@ -968,7 +972,6 @@ Red-Rabbit-Robotics: https://github.com/Red-Rabbit-Robotics
 reddit: https://github.com/reddit
 reddit-archive: https://github.com/reddit-archive
 redis: https://github.com/redis
-rednote-hilab: https://github.com/rednote-hilab
 redpanda-data: https://github.com/redpanda-data
 remoteintech: https://github.com/remoteintech
 replit: https://github.com/replit
@@ -979,6 +982,7 @@ rhgao: https://github.com/rhgao
 rhymes-ai: https://github.com/rhymes-ai
 Rice-RobotPI-Lab: https://github.com/Rice-RobotPI-Lab
 richards199999: https://github.com/richards199999
+ripienaar: https://github.com/ripienaar
 RIVeR-Lab: https://github.com/RIVeR-Lab
 RLinf: https://github.com/RLinf
 RobbinW: https://github.com/RobbinW
@@ -1105,11 +1109,13 @@ steipete: https://github.com/steipete
 Stella-robot: https://github.com/Stella-robot
 stepfun-ai: https://github.com/stepfun-ai
 stephane: https://github.com/stephane
+stephane-caron: https://github.com/stephane-caron
 stepjam: https://github.com/stepjam
 Stirling-Tools: https://github.com/Stirling-Tools
 straight-tamago: https://github.com/straight-tamago
 strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
+studio-dots-ai: https://github.com/studio-dots-ai
 sumelabs: https://github.com/sumelabs
 sunner: https://github.com/sunner
 suno-ai: https://github.com/suno-ai
@@ -1199,6 +1205,7 @@ tum-phoenix: https://github.com/tum-phoenix
 tum-vision: https://github.com/tum-vision
 TUMFTM: https://github.com/TUMFTM
 TuragaLab: https://github.com/TuragaLab
+tvvocold: https://github.com/tvvocold
 tw93: https://github.com/tw93
 twitter: https://github.com/twitter
 twpayne: https://github.com/twpayne
@@ -1269,6 +1276,7 @@ volcengine: https://github.com/volcengine
 VoltAgent: https://github.com/VoltAgent
 vsislab: https://github.com/vsislab
 vuejs: https://github.com/vuejs
+vxcontrol: https://github.com/vxcontrol
 walkinglabs: https://github.com/walkinglabs
 Wan-Video: https://github.com/Wan-Video
 wanglin2: https://github.com/wanglin2
@@ -1322,6 +1330,7 @@ XiaomingX: https://github.com/XiaomingX
 XiaomiRobotics: https://github.com/XiaomiRobotics
 xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
+xingkongliang: https://github.com/xingkongliang
 xixu-me: https://github.com/xixu-me
 xming521: https://github.com/xming521
 xpipe-io: https://github.com/xpipe-io
