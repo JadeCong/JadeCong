@@ -89,6 +89,7 @@ saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
+smartjimmy090-png: https://github.com/smartjimmy090-png
 solotech939: https://github.com/solotech939
 songminlhy: https://github.com/songminlhy
 sphinxzerd: https://github.com/sphinxzerd
