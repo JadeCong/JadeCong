@@ -95,18 +95,7 @@ JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/Int
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
-  - {"message":"You: https://github.com/{"message":"You
-  - do: https://github.com/do
-  - not: https://github.com/not
-  - have: https://github.com/have
-  - permission: https://github.com/permission
-  - to: https://github.com/to
-  - view: https://github.com/view
-  - the: https://github.com/the
-  - stargazers: https://github.com/stargazers
-  - of: https://github.com/of
-  - this: https://github.com/this
-  - repository","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/repository","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
+  - JadeCong: https://github.com/JadeCong
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
