@@ -1833,6 +1833,7 @@ jiachengliu3/OpenWBC[master]: https://github.com/jiachengliu3/OpenWBC.git
 jiah-cloud/Align3R[main]: https://github.com/jiah-cloud/Align3R.git
 jiahao-shao1/ChronoDepth[main]: https://github.com/jiahao-shao1/ChronoDepth.git
 Jiakui/awesome-bert[master]: https://github.com/Jiakui/awesome-bert.git
+jiaming-ai/OpenGeneralist[main]: https://github.com/jiaming-ai/OpenGeneralist.git
 Jianghanxiao/PhysTwin[main]: https://github.com/Jianghanxiao/PhysTwin.git
 jianzongwu/DiffSensei[main]: https://github.com/jianzongwu/DiffSensei.git
 JiatianWu/stereo-dso[master]: https://github.com/JiatianWu/stereo-dso.git
@@ -3822,6 +3823,7 @@ toml-lang/toml[main]: https://github.com/toml-lang/toml.git
 tomlunderwood/fep[master]: https://github.com/tomlunderwood/fep.git
 TommyZihao/vlm_arm[main]: https://github.com/TommyZihao/vlm_arm.git
 tomwhite/hadoop-book[master]: https://github.com/tomwhite/hadoop-book.git
+tonhowtf/omniget[main]: https://github.com/tonhowtf/omniget.git
 TonyRobotics/RoboWare[master]: https://github.com/TonyRobotics/RoboWare.git
 TonyRobotics/RoboWare-Studio[master]: https://github.com/TonyRobotics/RoboWare-Studio.git
 tonyzhaozh/act[main]: https://github.com/tonyzhaozh/act.git
