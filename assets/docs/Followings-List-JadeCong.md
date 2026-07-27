@@ -15,6 +15,7 @@ ac-rad: https://github.com/ac-rad
 ACETeleop: https://github.com/ACETeleop
 acheong08: https://github.com/acheong08
 actions: https://github.com/actions
+AdaptiveMotorControlLab: https://github.com/AdaptiveMotorControlLab
 addyosmani: https://github.com/addyosmani
 aden-hive: https://github.com/aden-hive
 adobe: https://github.com/adobe
@@ -62,6 +63,7 @@ amd: https://github.com/amd
 amdegroot: https://github.com/amdegroot
 ament: https://github.com/ament
 ami-iit: https://github.com/ami-iit
+AmmarkoV: https://github.com/AmmarkoV
 amzn: https://github.com/amzn
 anaconda: https://github.com/anaconda
 andrewyng: https://github.com/andrewyng
@@ -77,6 +79,7 @@ anuraghazra: https://github.com/anuraghazra
 anysearch-ai: https://github.com/anysearch-ai
 anysphere: https://github.com/anysphere
 apache: https://github.com/apache
+apachecn: https://github.com/apachecn
 apilayer: https://github.com/apilayer
 apirrone: https://github.com/apirrone
 apple: https://github.com/apple
@@ -293,6 +296,7 @@ DrJimFan: https://github.com/DrJimFan
 droid-dataset: https://github.com/droid-dataset
 dtyq: https://github.com/dtyq
 duixcom: https://github.com/duixcom
+duongductrong: https://github.com/duongductrong
 duplicati: https://github.com/duplicati
 dusty-nv: https://github.com/dusty-nv
 dzhng: https://github.com/dzhng
@@ -429,6 +433,7 @@ graspit-simulator: https://github.com/graspit-simulator
 graspnet: https://github.com/graspnet
 gravitational: https://github.com/gravitational
 Graylab: https://github.com/Graylab
+greensock: https://github.com/greensock
 grpc: https://github.com/grpc
 GuanxingLu: https://github.com/GuanxingLu
 h2oai: https://github.com/h2oai
@@ -503,6 +508,7 @@ idoubi: https://github.com/idoubi
 iflow-ai: https://github.com/iflow-ai
 IGL-HKUST: https://github.com/IGL-HKUST
 imba-tjd: https://github.com/imba-tjd
+img2threejs: https://github.com/img2threejs
 immich-app: https://github.com/immich-app
 Improbable-AI: https://github.com/Improbable-AI
 imputnet: https://github.com/imputnet
@@ -838,6 +844,7 @@ OpenDriveLab: https://github.com/OpenDriveLab
 openeuler-mirror: https://github.com/openeuler-mirror
 OpenGalaxea: https://github.com/OpenGalaxea
 OpenGVLab: https://github.com/OpenGVLab
+OpenHands: https://github.com/OpenHands
 openharmony: https://github.com/openharmony
 OpenHelix-Team: https://github.com/OpenHelix-Team
 openinterpreter: https://github.com/openinterpreter
