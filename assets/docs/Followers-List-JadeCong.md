@@ -9,6 +9,7 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
+aza-ali: https://github.com/aza-ali
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
@@ -61,7 +62,6 @@ MeriemBoujamza: https://github.com/MeriemBoujamza
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 mrshrivasta: https://github.com/mrshrivasta
-mustafacagri: https://github.com/mustafacagri
 n4yand: https://github.com/n4yand
 nelbeu: https://github.com/nelbeu
 nholuongut: https://github.com/nholuongut
