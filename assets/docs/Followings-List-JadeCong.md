@@ -324,6 +324,7 @@ epoch-research: https://github.com/epoch-research
 Ericcsr: https://github.com/Ericcsr
 erwincoumans: https://github.com/erwincoumans
 escontra: https://github.com/escontra
+espressif: https://github.com/espressif
 EstunSWRD: https://github.com/EstunSWRD
 etched-ai: https://github.com/etched-ai
 eth-sri: https://github.com/eth-sri
@@ -502,6 +503,7 @@ hyperbrowserai: https://github.com/hyperbrowserai
 hypery11: https://github.com/hypery11
 IamCreateAI: https://github.com/IamCreateAI
 ibab: https://github.com/ibab
+ibelick: https://github.com/ibelick
 ICube-Robotics: https://github.com/ICube-Robotics
 IDEA-Research: https://github.com/IDEA-Research
 idoubi: https://github.com/idoubi
