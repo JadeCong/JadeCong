@@ -597,6 +597,7 @@ chvmp/champ[master]: https://github.com/chvmp/champ.git
 chvmp/robots[master]: https://github.com/chvmp/robots.git
 cirosantilli/awesome-reinforcement-learning-games[master]: https://github.com/cirosantilli/awesome-reinforcement-learning-games.git
 CiscoDevNet/wcae[master]: https://github.com/CiscoDevNet/wcae.git
+citronCode/modpack[main]: https://github.com/citronCode/modpack.git
 civilblur/mazanoke[main]: https://github.com/civilblur/mazanoke.git
 clash-download/Clash[main]: https://github.com/clash-download/Clash.git
 clash-verge-rev/clash-verge-rev[dev]: https://github.com/clash-verge-rev/clash-verge-rev.git
@@ -753,6 +754,7 @@ DavidHDev/react-bits[main]: https://github.com/DavidHDev/react-bits.git
 davidmalawey/OpenArm[main]: https://github.com/davidmalawey/OpenArm.git
 davidtellez/contrastive-predictive-coding[master]: https://github.com/davidtellez/contrastive-predictive-coding.git
 davila7/claude-code-templates[main]: https://github.com/davila7/claude-code-templates.git
+DAXIAORobotics/ACE-Brain-0.5[main]: https://github.com/DAXIAORobotics/ACE-Brain-0.5.git
 dbalatero/monster_mash[master]: https://github.com/dbalatero/monster_mash.git
 dcloudio/uni-app[uni-app-x]: https://github.com/dcloudio/uni-app.git
 ddbourgin/numpy-ml[master]: https://github.com/ddbourgin/numpy-ml.git
@@ -972,6 +974,7 @@ erwincoumans/motion_imitation[master]: https://github.com/erwincoumans/motion_im
 escontra/AMP_for_hardware[main]: https://github.com/escontra/AMP_for_hardware.git
 escontra/gauss_gym[main]: https://github.com/escontra/gauss_gym.git
 eseckel/ai-for-grant-writing[main]: https://github.com/eseckel/ai-for-grant-writing.git
+espressif/esp-skainet[master]: https://github.com/espressif/esp-skainet.git
 etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
 eth-ait/MultiPly[main]: https://github.com/eth-ait/MultiPly.git
@@ -1162,6 +1165,7 @@ floodsung/DRL-FlappyBird[master]: https://github.com/floodsung/DRL-FlappyBird.gi
 floodsung/Meta-Learning-Papers[master]: https://github.com/floodsung/Meta-Learning-Papers.git
 FlorianRhiem/pyGLFW[master]: https://github.com/FlorianRhiem/pyGLFW.git
 flow-diffusion/AVDC[main]: https://github.com/flow-diffusion/AVDC.git
+FlowElement-ai/m_flow[main]: https://github.com/FlowElement-ai/m_flow.git
 FlowiseAI/Flowise[main]: https://github.com/FlowiseAI/Flowise.git
 flutter-team-archive/plugins[main]: https://github.com/flutter-team-archive/plugins.git
 flutter/flutter[master]: https://github.com/flutter/flutter.git
@@ -1646,6 +1650,7 @@ iamgio/quarkdown[main]: https://github.com/iamgio/quarkdown.git
 iawia002/lux[master]: https://github.com/iawia002/lux.git
 ibab/tensorflow-wavenet[master]: https://github.com/ibab/tensorflow-wavenet.git
 ibaiGorordo/ONNX-YOLOv6-Object-Detection[main]: https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection.git
+ibelick/ui-skills[main]: https://github.com/ibelick/ui-skills.git
 IBM/pytorch-seq2seq[master]: https://github.com/IBM/pytorch-seq2seq.git
 ICube-Robotics/forcedimension_ros2[main]: https://github.com/ICube-Robotics/forcedimension_ros2.git
 IDEA-Research/DINO-X-API[main]: https://github.com/IDEA-Research/DINO-X-API.git
@@ -1829,6 +1834,8 @@ jess-moss/koch-v1-1[main]: https://github.com/jess-moss/koch-v1-1.git
 jesseduffield/lazydocker[master]: https://github.com/jesseduffield/lazydocker.git
 jesseduffield/lazygit[master]: https://github.com/jesseduffield/lazygit.git
 jessevig/bertviz[master]: https://github.com/jessevig/bertviz.git
+jessicayin/osmo_tactile_glove[main]: https://github.com/jessicayin/osmo_tactile_glove.git
+jessicayin/tactile_skin_model[main]: https://github.com/jessicayin/tactile_skin_model.git
 jestjs/jest[main]: https://github.com/jestjs/jest.git
 jhejna/hierarchical_morphology_transfer[master]: https://github.com/jhejna/hierarchical_morphology_transfer.git
 jhoffman/lsda[master]: https://github.com/jhoffman/lsda.git
@@ -3358,7 +3365,7 @@ rrahmati/roboinstruct-1[master]: https://github.com/rrahmati/roboinstruct-1.git
 rsalmei/alive-progress[main]: https://github.com/rsalmei/alive-progress.git
 RSSNext/Followise[main]: https://github.com/RSSNext/Followise.git
 RSSNext/Folo[dev]: https://github.com/RSSNext/Folo.git
-RT-Thread-packages/freemodbus[master]: https://github.com/RT-Thread-packages/freemodbus.git
+RT-Thread-packages/freemodbus-rtt[master]: https://github.com/RT-Thread-packages/freemodbus-rtt.git
 RT-Thread/rt-thread[master]: https://github.com/RT-Thread/rt-thread.git
 ruanyf/free-books[master]: https://github.com/ruanyf/free-books.git
 RUCAIBox/LLMSurvey[main]: https://github.com/RUCAIBox/LLMSurvey.git
@@ -3843,6 +3850,7 @@ TonyRobotics/RoboWare[master]: https://github.com/TonyRobotics/RoboWare.git
 TonyRobotics/RoboWare-Studio[master]: https://github.com/TonyRobotics/RoboWare-Studio.git
 tonyzhaozh/act[main]: https://github.com/tonyzhaozh/act.git
 tonyzhaozh/aloha[main]: https://github.com/tonyzhaozh/aloha.git
+TOPReward/TOPReward[main]: https://github.com/TOPReward/TOPReward.git
 torch/torch7[master]: https://github.com/torch/torch7.git
 tormach/hal_ros_control[humble-devel]: https://github.com/tormach/hal_ros_control.git
 tornadomeet/ResNet[master]: https://github.com/tornadomeet/ResNet.git
