@@ -902,6 +902,7 @@ petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
 pewdiepie-archdaemon: https://github.com/pewdiepie-archdaemon
 Phantom-video: https://github.com/Phantom-video
+PhyAgentOS: https://github.com/PhyAgentOS
 Physical-Intelligence: https://github.com/Physical-Intelligence
 physical-superintelligence-lab: https://github.com/physical-superintelligence-lab
 Picrew: https://github.com/Picrew
