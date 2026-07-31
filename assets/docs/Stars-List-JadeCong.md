@@ -597,7 +597,6 @@ chvmp/champ[master]: https://github.com/chvmp/champ.git
 chvmp/robots[master]: https://github.com/chvmp/robots.git
 cirosantilli/awesome-reinforcement-learning-games[master]: https://github.com/cirosantilli/awesome-reinforcement-learning-games.git
 CiscoDevNet/wcae[master]: https://github.com/CiscoDevNet/wcae.git
-citronCode/modpack[main]: https://github.com/citronCode/modpack.git
 civilblur/mazanoke[main]: https://github.com/civilblur/mazanoke.git
 clash-download/Clash[main]: https://github.com/clash-download/Clash.git
 clash-verge-rev/clash-verge-rev[dev]: https://github.com/clash-verge-rev/clash-verge-rev.git
@@ -1493,6 +1492,7 @@ henry123-boy/SpaTracker[main]: https://github.com/henry123-boy/SpaTracker.git
 henry123-boy/SpaTrackerV2[main]: https://github.com/henry123-boy/SpaTrackerV2.git
 henryhcliu/robodex_vlm[main]: https://github.com/henryhcliu/robodex_vlm.git
 HenryQW/Awesome-TTRSS[main]: https://github.com/HenryQW/Awesome-TTRSS.git
+herdrdev/herdr[master]: https://github.com/herdrdev/herdr.git
 hermanjakobsen/robotic-ultrasound-imaging[master]: https://github.com/hermanjakobsen/robotic-ultrasound-imaging.git
 herrbischoff/awesome-macos-command-line[main]: https://github.com/herrbischoff/awesome-macos-command-line.git
 HerXayah/road-to-yuzu-without-switch[slave]: https://github.com/HerXayah/road-to-yuzu-without-switch.git
@@ -2783,7 +2783,6 @@ OctoMap/octomap[devel]: https://github.com/OctoMap/octomap.git
 OctoMap/octomap_mapping[ros2]: https://github.com/OctoMap/octomap_mapping.git
 octotools/octotools[main]: https://github.com/octotools/octotools.git
 odysseus-dev/odysseus[dev]: https://github.com/odysseus-dev/odysseus.git
-ogulcancelik/herdr[master]: https://github.com/ogulcancelik/herdr.git
 ohmyzsh/ohmyzsh[master]: https://github.com/ohmyzsh/ohmyzsh.git
 ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
 Oldpan/Faceswap-Deepfake-Pytorch[master]: https://github.com/Oldpan/Faceswap-Deepfake-Pytorch.git
@@ -3199,6 +3198,7 @@ real-stanford/get_zero[main]: https://github.com/real-stanford/get_zero.git
 real-stanford/im2Flow2Act[main]: https://github.com/real-stanford/im2Flow2Act.git
 real-stanford/maniwav[main]: https://github.com/real-stanford/maniwav.git
 real-stanford/minimalist_compliance_control[main]: https://github.com/real-stanford/minimalist_compliance_control.git
+real-stanford/modpack[main]: https://github.com/real-stanford/modpack.git
 real-stanford/umi-on-legs[main]: https://github.com/real-stanford/umi-on-legs.git
 real-stanford/universal_manipulation_interface[main]: https://github.com/real-stanford/universal_manipulation_interface.git
 realm/SwiftLint[main]: https://github.com/realm/SwiftLint.git
@@ -3349,6 +3349,7 @@ ros/pluginlib[rolling]: https://github.com/ros/pluginlib.git
 ros/ros[noetic-devel]: https://github.com/ros/ros.git
 ros/rosdistro[master]: https://github.com/ros/rosdistro.git
 ros/solidworks_urdf_exporter[master]: https://github.com/ros/solidworks_urdf_exporter.git
+ros2/domain_bridge[main]: https://github.com/ros2/domain_bridge.git
 ros2/examples[rolling]: https://github.com/ros2/examples.git
 ros2/example_interfaces[rolling]: https://github.com/ros2/example_interfaces.git
 ros2/ros1_bridge[master]: https://github.com/ros2/ros1_bridge.git
@@ -3553,7 +3554,6 @@ soulmachine/leetcode[master]: https://github.com/soulmachine/leetcode.git
 soumith/dcgan.torch[master]: https://github.com/soumith/dcgan.torch.git
 soumith/ganhacks[master]: https://github.com/soumith/ganhacks.git
 soybeanjs/soybean-admin[main]: https://github.com/soybeanjs/soybean-admin.git
-spacekitteh/zephyrgc[master]: https://github.com/spacekitteh/zephyrgc.git
 sparckles/Robyn[main]: https://github.com/sparckles/Robyn.git
 SparkAudio/Spark-TTS[main]: https://github.com/SparkAudio/Spark-TTS.git
 SpatialVision/Orient-Anything[main]: https://github.com/SpatialVision/Orient-Anything.git
@@ -4161,6 +4161,7 @@ wyhuai/SkillMimic[main]: https://github.com/wyhuai/SkillMimic.git
 wyndwarrior/imitation_from_observation[master]: https://github.com/wyndwarrior/imitation_from_observation.git
 wzzheng/LDM[main]: https://github.com/wzzheng/LDM.git
 wzzheng/Stag[main]: https://github.com/wzzheng/Stag.git
+X-EraAI/ActPhysCause-Challenge[main]: https://github.com/X-EraAI/ActPhysCause-Challenge.git
 x-humanoid-robomind/x-humanoid-robomind.github.io[main]: https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io.git
 X-LANCE/AniTalker[main]: https://github.com/X-LANCE/AniTalker.git
 X-PLUG/MobileAgent[main]: https://github.com/X-PLUG/MobileAgent.git
