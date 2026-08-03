@@ -441,7 +441,6 @@ binance/binance-connector-python[master]: https://github.com/binance/binance-con
 binance/binance-public-data[master]: https://github.com/binance/binance-public-data.git
 binance/binance-spot-api-docs[master]: https://github.com/binance/binance-spot-api-docs.git
 binary-husky/gpt_academic[master]: https://github.com/binary-husky/gpt_academic.git
-BinaryDex/DexHub[main]: https://github.com/BinaryDex/DexHub.git
 Binyr/NormalCrafter[main]: https://github.com/Binyr/NormalCrafter.git
 biomejs/biome[main]: https://github.com/biomejs/biome.git
 bionicdl-sustech/DeepClawBenchmark[master]: https://github.com/bionicdl-sustech/DeepClawBenchmark.git
@@ -1435,6 +1434,7 @@ Hack-with-Github/Free-Security-eBooks[master]: https://github.com/Hack-with-Gith
 hackjutsu/Lepton[master]: https://github.com/hackjutsu/Lepton.git
 hacklcx/HFish[master]: https://github.com/hacklcx/HFish.git
 hacksider/Deep-Live-Cam[main]: https://github.com/hacksider/Deep-Live-Cam.git
+HadiZayer/masked-visual-actions[main]: https://github.com/HadiZayer/masked-visual-actions.git
 hadyang/interview[master]: https://github.com/hadyang/interview.git
 Haian-Jin/Neural_Gaffer[main]: https://github.com/Haian-Jin/Neural_Gaffer.git
 Haian-Jin/ZipMap[main]: https://github.com/Haian-Jin/ZipMap.git
@@ -1552,6 +1552,7 @@ honojs/hono[main]: https://github.com/honojs/hono.git
 Hopetree/izone[master]: https://github.com/Hopetree/izone.git
 hoppscotch/hoppscotch[main]: https://github.com/hoppscotch/hoppscotch.git
 HorizonRobotics/alf[pytorch]: https://github.com/HorizonRobotics/alf.git
+HorizonRobotics/EmbodiedGen[master]: https://github.com/HorizonRobotics/EmbodiedGen.git
 HorizonRobotics/HoloMotion[master]: https://github.com/HorizonRobotics/HoloMotion.git
 HorizonRobotics/SocialRobot[master]: https://github.com/HorizonRobotics/SocialRobot.git
 horovod/horovod[master]: https://github.com/horovod/horovod.git
