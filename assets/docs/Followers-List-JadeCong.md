@@ -9,7 +9,6 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
-aza-ali: https://github.com/aza-ali
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
@@ -86,6 +85,7 @@ S4IL21: https://github.com/S4IL21
 Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
+sarveshsea: https://github.com/sarveshsea
 scapelinked: https://github.com/scapelinked
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
