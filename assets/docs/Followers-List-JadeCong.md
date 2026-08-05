@@ -85,7 +85,6 @@ S4IL21: https://github.com/S4IL21
 Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
-sarveshsea: https://github.com/sarveshsea
 scapelinked: https://github.com/scapelinked
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
