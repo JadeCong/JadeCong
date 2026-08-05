@@ -1163,7 +1163,7 @@ floodsung/DRL-FlappyBird[master]: https://github.com/floodsung/DRL-FlappyBird.gi
 floodsung/Meta-Learning-Papers[master]: https://github.com/floodsung/Meta-Learning-Papers.git
 FlorianRhiem/pyGLFW[master]: https://github.com/FlorianRhiem/pyGLFW.git
 flow-diffusion/AVDC[main]: https://github.com/flow-diffusion/AVDC.git
-FlowElement-ai/m_flow[main]: https://github.com/FlowElement-ai/m_flow.git
+FlowElement-xinliuyuansu/m_flow[main]: https://github.com/FlowElement-xinliuyuansu/m_flow.git
 FlowiseAI/Flowise[main]: https://github.com/FlowiseAI/Flowise.git
 flutter-team-archive/plugins[main]: https://github.com/flutter-team-archive/plugins.git
 flutter/flutter[master]: https://github.com/flutter/flutter.git
@@ -1582,6 +1582,7 @@ HuangCongQing/ROS[master]: https://github.com/HuangCongQing/ROS.git
 huanghanzhilian/c-shopping[main]: https://github.com/huanghanzhilian/c-shopping.git
 huangjia2019/ai-agents[main]: https://github.com/huangjia2019/ai-agents.git
 huangjia2019/llm-gpt[main]: https://github.com/huangjia2019/llm-gpt.git
+huangruiteng/loopx[main]: https://github.com/huangruiteng/loopx.git
 huangwl18/PointWorld[main]: https://github.com/huangwl18/PointWorld.git
 huangwl18/ReKep[main]: https://github.com/huangwl18/ReKep.git
 huangwl18/VoxPoser[main]: https://github.com/huangwl18/VoxPoser.git
@@ -3012,7 +3013,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
-PhyAgentOS/PhyAgentOS[preview]: https://github.com/PhyAgentOS/PhyAgentOS.git
+PhyAgentOS-Dev/PhyAgentOS[preview]: https://github.com/PhyAgentOS-Dev/PhyAgentOS.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
@@ -4197,6 +4198,7 @@ xinghaochen/TinySAM[main]: https://github.com/xinghaochen/TinySAM.git
 xingkongliang/skills-manager[main]: https://github.com/xingkongliang/skills-manager.git
 xinglie/report-designer[master]: https://github.com/xinglie/report-designer.git
 xingyizhou/CenterNet2[master]: https://github.com/xingyizhou/CenterNet2.git
+XinyueZhuXY/touch_in_the_wild[main]: https://github.com/XinyueZhuXY/touch_in_the_wild.git
 xiph/libao[master]: https://github.com/xiph/libao.git
 xixu-me/xget[main]: https://github.com/xixu-me/xget.git
 xlite-dev/lite.ai.toolkit[main]: https://github.com/xlite-dev/lite.ai.toolkit.git
@@ -4275,7 +4277,6 @@ ymcui/Chinese-BERT-wwm[master]: https://github.com/ymcui/Chinese-BERT-wwm.git
 ymcui/Chinese-XLNet[master]: https://github.com/ymcui/Chinese-XLNet.git
 yoheinakajima/babyagi[main]: https://github.com/yoheinakajima/babyagi.git
 yoheinakajima/prettygraph[main]: https://github.com/yoheinakajima/prettygraph.git
-YolandaXinyueZhu/touch_in_the_wild[main]: https://github.com/YolandaXinyueZhu/touch_in_the_wild.git
 yoneken/rosserial_stm32[master]: https://github.com/yoneken/rosserial_stm32.git
 YouDream3D/YouDream[main]: https://github.com/YouDream3D/YouDream.git
 younggyoseo/FastTD3[main]: https://github.com/younggyoseo/FastTD3.git
