@@ -486,6 +486,7 @@ hsliuping: https://github.com/hsliuping
 hsp-iit: https://github.com/hsp-iit
 httpie: https://github.com/httpie
 HuangCongQing: https://github.com/HuangCongQing
+huangruiteng: https://github.com/huangruiteng
 huangwl18: https://github.com/huangwl18
 hucebot: https://github.com/hucebot
 huchunxu: https://github.com/huchunxu
