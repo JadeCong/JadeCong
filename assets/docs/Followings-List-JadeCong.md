@@ -417,6 +417,7 @@ gkjohnson: https://github.com/gkjohnson
 glenn-jocher: https://github.com/glenn-jocher
 go-redis: https://github.com/go-redis
 gohugoio: https://github.com/gohugoio
+GoldenGait: https://github.com/GoldenGait
 google: https://github.com/google
 google-ai-edge: https://github.com/google-ai-edge
 google-antigravity: https://github.com/google-antigravity
@@ -647,6 +648,7 @@ lllyasviel: https://github.com/lllyasviel
 llvm: https://github.com/llvm
 lmstudio-ai: https://github.com/lmstudio-ai
 lobehub: https://github.com/lobehub
+localai-org: https://github.com/localai-org
 localsend: https://github.com/localsend
 locomanip-duet: https://github.com/locomanip-duet
 loggerhead: https://github.com/loggerhead
@@ -903,7 +905,7 @@ petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
 pewdiepie-archdaemon: https://github.com/pewdiepie-archdaemon
 Phantom-video: https://github.com/Phantom-video
-PhyAgentOS: https://github.com/PhyAgentOS
+PhyAgentOS-Dev: https://github.com/PhyAgentOS-Dev
 Physical-Intelligence: https://github.com/Physical-Intelligence
 physical-superintelligence-lab: https://github.com/physical-superintelligence-lab
 Picrew: https://github.com/Picrew
@@ -1134,6 +1136,7 @@ supabase: https://github.com/supabase
 SuperManito: https://github.com/SuperManito
 supermemoryai: https://github.com/supermemoryai
 supertokens: https://github.com/supertokens
+superxslam: https://github.com/superxslam
 sv-pp: https://github.com/sv-pp
 svlevine: https://github.com/svlevine
 svpino: https://github.com/svpino
@@ -1360,6 +1363,7 @@ Yangqing: https://github.com/Yangqing
 yangxue0827: https://github.com/yangxue0827
 YanjieZe: https://github.com/YanjieZe
 Yeachan-Heo: https://github.com/Yeachan-Heo
+yehonathanlitman: https://github.com/yehonathanlitman
 yerfor: https://github.com/yerfor
 yformer: https://github.com/yformer
 Yidadaa: https://github.com/Yidadaa
