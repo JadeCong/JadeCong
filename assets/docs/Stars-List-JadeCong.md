@@ -496,6 +496,7 @@ BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
 bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
+ByteDance-Seed/Depth-Anything-3[main]: https://github.com/ByteDance-Seed/Depth-Anything-3.git
 ByteDance-Seed/TraceAnything[main]: https://github.com/ByteDance-Seed/TraceAnything.git
 ByteDance-Seed/VideoWorld[main]: https://github.com/ByteDance-Seed/VideoWorld.git
 bytedance/ATI[main]: https://github.com/bytedance/ATI.git
@@ -1320,6 +1321,7 @@ gohar-malik/InterMask[main]: https://github.com/gohar-malik/InterMask.git
 gohugoio/hugo[master]: https://github.com/gohugoio/hugo.git
 golang/go[master]: https://github.com/golang/go.git
 golang/vscode-go[master]: https://github.com/golang/vscode-go.git
+GoldenGait/FARM-Project[main]: https://github.com/GoldenGait/FARM-Project.git
 gomzyakov/github-achievements[main]: https://github.com/gomzyakov/github-achievements.git
 goodfeli/theano_exercises[master]: https://github.com/goodfeli/theano_exercises.git
 google-ai-edge/mediapipe[master]: https://github.com/google-ai-edge/mediapipe.git
@@ -2186,6 +2188,7 @@ llSourcell/OpenAI_Five_vs_Dota2_Explained[master]: https://github.com/llSourcell
 llvm/llvm-project[main]: https://github.com/llvm/llvm-project.git
 lmstudio-ai/model-catalog[main]: https://github.com/lmstudio-ai/model-catalog.git
 lobehub/lobehub[canary]: https://github.com/lobehub/lobehub.git
+localai-org/depth-anything.cpp[master]: https://github.com/localai-org/depth-anything.cpp.git
 localsend/localsend[main]: https://github.com/localsend/localsend.git
 localtunnel/localtunnel[master]: https://github.com/localtunnel/localtunnel.git
 loco-3d/crocoddyl[devel]: https://github.com/loco-3d/crocoddyl.git
@@ -2243,6 +2246,7 @@ luoxier/CycleGAN_Tensorlayer[master]: https://github.com/luoxier/CycleGAN_Tensor
 lutris/lutris[master]: https://github.com/lutris/lutris.git
 lutzroeder/netron[main]: https://github.com/lutzroeder/netron.git
 LuwuDynamics/RaspberryPi-CM4-XGO-Rider[RCM4V1]: https://github.com/LuwuDynamics/RaspberryPi-CM4-XGO-Rider.git
+lvsean/reviv4d[main]: https://github.com/lvsean/reviv4d.git
 Ly0n/awesome-robotic-tooling[main]: https://github.com/Ly0n/awesome-robotic-tooling.git
 lydiahallie/javascript-questions[master]: https://github.com/lydiahallie/javascript-questions.git
 LYFCLOUDFAN/mask-world-model[main]: https://github.com/LYFCLOUDFAN/mask-world-model.git
@@ -3019,6 +3023,7 @@ Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/ope
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
 physical-superintelligence-lab/SIMPLE[main]: https://github.com/physical-superintelligence-lab/SIMPLE.git
 Physics-Scaling/GeoPT[main]: https://github.com/Physics-Scaling/GeoPT.git
+pi-r2-flow/pi-r2-flow[main]: https://github.com/pi-r2-flow/pi-r2-flow.git
 pickxiguapi/Embodied-R1[main]: https://github.com/pickxiguapi/Embodied-R1.git
 Picrew/awesome-agent-harness[main]: https://github.com/Picrew/awesome-agent-harness.git
 Picsart-AI-Research/StreamingT2V[main]: https://github.com/Picsart-AI-Research/StreamingT2V.git
@@ -3645,6 +3650,7 @@ supergseg/supergseg[main]: https://github.com/supergseg/supergseg.git
 SuperManito/LinuxMirrors[main]: https://github.com/SuperManito/LinuxMirrors.git
 supermemoryai/supermemory[main]: https://github.com/supermemoryai/supermemory.git
 supertokens/supertokens-core[master]: https://github.com/supertokens/supertokens-core.git
+superxslam/SuperMap[master]: https://github.com/superxslam/SuperMap.git
 SurrealAI/surreal[master]: https://github.com/SurrealAI/surreal.git
 Susie-Lu/driftworld[main]: https://github.com/Susie-Lu/driftworld.git
 sv-pp/SceneVersepp[master]: https://github.com/sv-pp/SceneVersepp.git
@@ -4251,6 +4257,7 @@ yao62995/tensorflow[master]: https://github.com/yao62995/tensorflow.git
 Yeachan-Heo/oh-my-claudecode[main]: https://github.com/Yeachan-Heo/oh-my-claudecode.git
 Yeachan-Heo/oh-my-codex[main]: https://github.com/Yeachan-Heo/oh-my-codex.git
 yeahhub/Hacking-Security-Ebooks[master]: https://github.com/yeahhub/Hacking-Security-Ebooks.git
+yehonathanlitman/Lift4D[main]: https://github.com/yehonathanlitman/Lift4D.git
 yenchenlin/DeepLearningFlappyBird[master]: https://github.com/yenchenlin/DeepLearningFlappyBird.git
 yenchenlin/pix2pix-tensorflow[master]: https://github.com/yenchenlin/pix2pix-tensorflow.git
 yerfor/MimicTalk[main]: https://github.com/yerfor/MimicTalk.git
