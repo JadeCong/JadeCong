@@ -582,6 +582,7 @@ khoj-ai: https://github.com/khoj-ai
 Khrylx: https://github.com/Khrylx
 khyu: https://github.com/khyu
 Kiln-AI: https://github.com/Kiln-AI
+kimiyoung: https://github.com/kimiyoung
 KindXiaoming: https://github.com/KindXiaoming
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
@@ -740,6 +741,7 @@ mountain-loop: https://github.com/mountain-loop
 Mozilla-Ocho: https://github.com/Mozilla-Ocho
 mpaepper: https://github.com/mpaepper
 mrdbourke: https://github.com/mrdbourke
+mrexodia: https://github.com/mrexodia
 MrTornado24: https://github.com/MrTornado24
 mshoe: https://github.com/mshoe
 msitarzewski: https://github.com/msitarzewski
@@ -845,6 +847,7 @@ openclaw: https://github.com/openclaw
 opencv: https://github.com/opencv
 opendatalab: https://github.com/opendatalab
 opendataloader-project: https://github.com/opendataloader-project
+OpenDCAI: https://github.com/OpenDCAI
 OpenDriveLab: https://github.com/OpenDriveLab
 openeuler-mirror: https://github.com/openeuler-mirror
 OpenGalaxea: https://github.com/OpenGalaxea
