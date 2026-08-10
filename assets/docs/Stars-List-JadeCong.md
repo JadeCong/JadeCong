@@ -71,7 +71,7 @@ affinelayer/pix2pix-tensorflow[master]: https://github.com/affinelayer/pix2pix-t
 AfterJourney00/IMHD-Dataset[master]: https://github.com/AfterJourney00/IMHD-Dataset.git
 ag-ui-protocol/ag-ui[main]: https://github.com/ag-ui-protocol/ag-ui.git
 ag2ai/ag2[main]: https://github.com/ag2ai/ag2.git
-agalwood/Motrix[master]: https://github.com/agalwood/Motrix.git
+agalwood/Motrix[main]: https://github.com/agalwood/Motrix.git
 ageitgey/face_recognition[master]: https://github.com/ageitgey/face_recognition.git
 agent-husky/Husky-v1[main]: https://github.com/agent-husky/Husky-v1.git
 agent0ai/agent-zero[main]: https://github.com/agent0ai/agent-zero.git
@@ -98,7 +98,6 @@ agrinman/tunnelto[master]: https://github.com/agrinman/tunnelto.git
 AhmadDarKhalil/HOI-DETR[main]: https://github.com/AhmadDarKhalil/HOI-DETR.git
 ahmedkhaleel2004/gitdiagram[main]: https://github.com/ahmedkhaleel2004/gitdiagram.git
 ahq1993/MPNet[master]: https://github.com/ahq1993/MPNet.git
-ahujasid/blender-mcp[main]: https://github.com/ahujasid/blender-mcp.git
 ahundt/awesome-robotics[master]: https://github.com/ahundt/awesome-robotics.git
 AI-liu/Complex-YOLO[master]: https://github.com/AI-liu/Complex-YOLO.git
 ai-shifu/ChatALL[main]: https://github.com/ai-shifu/ChatALL.git
@@ -1287,6 +1286,8 @@ geyan21/ManiFlow_Policy[main]: https://github.com/geyan21/ManiFlow_Policy.git
 ggerganov/ggwave[master]: https://github.com/ggerganov/ggwave.git
 ggml-org/llama.cpp[master]: https://github.com/ggml-org/llama.cpp.git
 ggml-org/whisper.cpp[master]: https://github.com/ggml-org/whisper.cpp.git
+ghanning/MultiViewRoomLayout[main]: https://github.com/ghanning/MultiViewRoomLayout.git
+ghanning/PolyLayout[main]: https://github.com/ghanning/PolyLayout.git
 gicheonkang/prograsp[master]: https://github.com/gicheonkang/prograsp.git
 GigaAI-research/DriveDreamer4D[main]: https://github.com/GigaAI-research/DriveDreamer4D.git
 GigaAI-research/EmbodieDreamer[main]: https://github.com/GigaAI-research/EmbodieDreamer.git
@@ -2171,6 +2172,7 @@ liyiteng/AlohaMini[main]: https://github.com/liyiteng/AlohaMini.git
 liyupi/ai-guide[main]: https://github.com/liyupi/ai-guide.git
 LizardByte/Sunshine[master]: https://github.com/LizardByte/Sunshine.git
 ljean/modbus-tk[master]: https://github.com/ljean/modbus-tk.git
+ll220/qwen3d[main]: https://github.com/ll220/qwen3d.git
 lllyasviel/ControlNet[main]: https://github.com/lllyasviel/ControlNet.git
 lllyasviel/ControlNet-v1-1-nightly[main]: https://github.com/lllyasviel/ControlNet-v1-1-nightly.git
 lllyasviel/Fooocus[main]: https://github.com/lllyasviel/Fooocus.git
@@ -2539,6 +2541,7 @@ mp3guy/ElasticFusion[master]: https://github.com/mp3guy/ElasticFusion.git
 mpaepper/vibevoice[main]: https://github.com/mpaepper/vibevoice.git
 mqttjs/MQTT.js[main]: https://github.com/mqttjs/MQTT.js.git
 mrdbourke/machine-learning-roadmap[master]: https://github.com/mrdbourke/machine-learning-roadmap.git
+mrexodia/ida-pro-mcp[main]: https://github.com/mrexodia/ida-pro-mcp.git
 mrgloom/awesome-semantic-segmentation[master]: https://github.com/mrgloom/awesome-semantic-segmentation.git
 MrTornado24/DreamCraft3D_Plus[main]: https://github.com/MrTornado24/DreamCraft3D_Plus.git
 msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-weekly-robotics.git
@@ -2870,6 +2873,7 @@ opencv/opencv-python[4.x]: https://github.com/opencv/opencv-python.git
 opendatalab/MinerU[master]: https://github.com/opendatalab/MinerU.git
 opendatalab/PDF-Extract-Kit[main]: https://github.com/opendatalab/PDF-Extract-Kit.git
 opendataloader-project/opendataloader-pdf[main]: https://github.com/opendataloader-project/opendataloader-pdf.git
+OpenDCAI/DataFlow-WebUI[main]: https://github.com/OpenDCAI/DataFlow-WebUI.git
 OpenDDS/OpenDDS[master]: https://github.com/OpenDDS/OpenDDS.git
 opendilab/GoBigger[main]: https://github.com/opendilab/GoBigger.git
 OpenDriveLab/AgiBot-World[main]: https://github.com/OpenDriveLab/AgiBot-World.git
@@ -2916,7 +2920,6 @@ OpenTalker/SadTalker[main]: https://github.com/OpenTalker/SadTalker.git
 OpenTeleVision/AMO[main]: https://github.com/OpenTeleVision/AMO.git
 OpenTeleVision/TeleVision[main]: https://github.com/OpenTeleVision/TeleVision.git
 opentiny/tiny-engine[develop]: https://github.com/opentiny/tiny-engine.git
-openverse-orca/OrcaLab[main]: https://github.com/openverse-orca/OrcaLab.git
 openvla/openvla[main]: https://github.com/openvla/openvla.git
 openworm/OpenWorm[master]: https://github.com/openworm/OpenWorm.git
 openwsn-berkeley/coap[develop]: https://github.com/openwsn-berkeley/coap.git
@@ -4315,6 +4318,7 @@ Yuliang-Liu/MonkeyOCR[main]: https://github.com/Yuliang-Liu/MonkeyOCR.git
 yuliangguo/OmniFusion[main]: https://github.com/yuliangguo/OmniFusion.git
 yuneming/DeepLearningTutorial[master]: https://github.com/yuneming/DeepLearningTutorial.git
 yunhaif/reflect-vlm[main]: https://github.com/yunhaif/reflect-vlm.git
+yunhaif/regrind[main]: https://github.com/yunhaif/regrind.git
 yunjey/pytorch-tutorial[master]: https://github.com/yunjey/pytorch-tutorial.git
 yusufkaraaslan/Skill_Seekers[development]: https://github.com/yusufkaraaslan/Skill_Seekers.git
 YuvDwi/Steve[main]: https://github.com/YuvDwi/Steve.git
