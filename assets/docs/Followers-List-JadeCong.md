@@ -1,5 +1,6 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
+AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
 alicevic201610-commits: https://github.com/alicevic201610-commits
@@ -10,6 +11,7 @@ ardaltunel: https://github.com/ardaltunel
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
+badiranssen: https://github.com/badiranssen
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
@@ -40,7 +42,6 @@ idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 infinityabundance: https://github.com/infinityabundance
 ipqwery: https://github.com/ipqwery
-ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 ixqSCpxi: https://github.com/ixqSCpxi
 jacobsomer: https://github.com/jacobsomer
@@ -64,6 +65,7 @@ motanelson: https://github.com/motanelson
 mrshrivasta: https://github.com/mrshrivasta
 n4yand: https://github.com/n4yand
 nelbeu: https://github.com/nelbeu
+neon-x-hub: https://github.com/neon-x-hub
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
@@ -79,6 +81,7 @@ QingWeng: https://github.com/QingWeng
 Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
+RashidSaeedAlMazrouei18: https://github.com/RashidSaeedAlMazrouei18
 raviwijerathna1: https://github.com/raviwijerathna1
 ritakaneu: https://github.com/ritakaneu
 rodrigogalura: https://github.com/rodrigogalura
