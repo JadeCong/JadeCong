@@ -150,6 +150,7 @@ Borda: https://github.com/Borda
 bowang-lab: https://github.com/bowang-lab
 box2ai-robotics: https://github.com/box2ai-robotics
 BrainCoTech: https://github.com/BrainCoTech
+BridgeVLA: https://github.com/BridgeVLA
 browser-use: https://github.com/browser-use
 browserbase: https://github.com/browserbase
 BruceYanghy: https://github.com/BruceYanghy
@@ -800,6 +801,7 @@ NoNoid: https://github.com/NoNoid
 NousResearch: https://github.com/NousResearch
 NovaSky-AI: https://github.com/NovaSky-AI
 nraiden: https://github.com/nraiden
+NTUMARS: https://github.com/NTUMARS
 nubot-nudt: https://github.com/nubot-nudt
 Nuitka: https://github.com/Nuitka
 nullclaw: https://github.com/nullclaw
