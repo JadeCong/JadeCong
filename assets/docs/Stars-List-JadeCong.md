@@ -332,7 +332,6 @@ asgeirtj/system_prompts_leaks[main]: https://github.com/asgeirtj/system_prompts_
 ashawkey/Segment-Anything-NeRF[main]: https://github.com/ashawkey/Segment-Anything-NeRF.git
 ashishpatel26/500-AI-Agents-Projects[main]: https://github.com/ashishpatel26/500-AI-Agents-Projects.git
 Ashutosh00710/github-readme-activity-graph[main]: https://github.com/Ashutosh00710/github-readme-activity-graph.git
-asimovinc/asimov-v0[main]: https://github.com/asimovinc/asimov-v0.git
 askforalfred/alfred[master]: https://github.com/askforalfred/alfred.git
 askmike/gekko[develop]: https://github.com/askmike/gekko.git
 assafelovic/gpt-researcher[main]: https://github.com/assafelovic/gpt-researcher.git
@@ -774,10 +773,12 @@ deepinsight/insightface[master]: https://github.com/deepinsight/insightface.git
 deeplearning-ai/machine-learning-yearning-cn[master]: https://github.com/deeplearning-ai/machine-learning-yearning-cn.git
 deepqmc/deepqmc[master]: https://github.com/deepqmc/deepqmc.git
 deepseek-ai/3FS[main]: https://github.com/deepseek-ai/3FS.git
+deepseek-ai/awesome-deepseek-agent[main]: https://github.com/deepseek-ai/awesome-deepseek-agent.git
 deepseek-ai/awesome-deepseek-integration[main]: https://github.com/deepseek-ai/awesome-deepseek-integration.git
 deepseek-ai/DeepEP[main]: https://github.com/deepseek-ai/DeepEP.git
 deepseek-ai/DeepSeek-Coder[main]: https://github.com/deepseek-ai/DeepSeek-Coder.git
 deepseek-ai/DeepSeek-Coder-V2[main]: https://github.com/deepseek-ai/DeepSeek-Coder-V2.git
+deepseek-ai/deepseek-harness[master]: https://github.com/deepseek-ai/deepseek-harness.git
 deepseek-ai/DeepSeek-LLM[main]: https://github.com/deepseek-ai/DeepSeek-LLM.git
 deepseek-ai/DeepSeek-R1[main]: https://github.com/deepseek-ai/DeepSeek-R1.git
 deepseek-ai/DeepSeek-V2[main]: https://github.com/deepseek-ai/DeepSeek-V2.git
@@ -1146,6 +1147,7 @@ fish2018/pansou[main]: https://github.com/fish2018/pansou.git
 fishaudio/fish-speech[main]: https://github.com/fishaudio/fish-speech.git
 fishmarch/Stereo-Plane-SLAM[main]: https://github.com/fishmarch/Stereo-Plane-SLAM.git
 Fission-AI/OpenSpec[main]: https://github.com/Fission-AI/OpenSpec.git
+fivetran/great_expectations[develop]: https://github.com/fivetran/great_expectations.git
 fjwillemsen/NativeOverleaf[main]: https://github.com/fjwillemsen/NativeOverleaf.git
 fkryan/gazelle[main]: https://github.com/fkryan/gazelle.git
 FlagAI-Open/Aquila2[main]: https://github.com/FlagAI-Open/Aquila2.git
@@ -2365,6 +2367,7 @@ mementum/backtrader[master]: https://github.com/mementum/backtrader.git
 memoavatar/memo[main]: https://github.com/memoavatar/memo.git
 memovai/mimiclaw[main]: https://github.com/memovai/mimiclaw.git
 MemTensor/MemOS[main]: https://github.com/MemTensor/MemOS.git
+menloresearch/asimov-v0[main]: https://github.com/menloresearch/asimov-v0.git
 menyifang/MIMO[main]: https://github.com/menyifang/MIMO.git
 Meowuu7/DexTrack[main]: https://github.com/Meowuu7/DexTrack.git
 merge-lab/FORTE[main]: https://github.com/merge-lab/FORTE.git
@@ -2719,16 +2722,22 @@ nvidia-cosmos/cosmos-predict2.5[main]: https://github.com/nvidia-cosmos/cosmos-p
 nvidia-cosmos/cosmos-reason2[main]: https://github.com/nvidia-cosmos/cosmos-reason2.git
 nvidia-cosmos/cosmos-rl[main]: https://github.com/nvidia-cosmos/cosmos-rl.git
 nvidia-cosmos/cosmos-transfer2.5[main]: https://github.com/nvidia-cosmos/cosmos-transfer2.5.git
+NVIDIA-ISAAC-ROS/isaac-ros-cli[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac-ros-cli.git
 NVIDIA-ISAAC-ROS/isaac_ros_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_benchmark.git
 NVIDIA-ISAAC-ROS/isaac_ros_common[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_common.git
 NVIDIA-ISAAC-ROS/isaac_ros_cumotion[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_cumotion.git
 NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference.git
+NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth.git
 NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
+NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation.git
+NVIDIA-ISAAC-ROS/isaac_ros_manipulation[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_manipulation.git
 NVIDIA-ISAAC-ROS/isaac_ros_nitros[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros.git
 NVIDIA-ISAAC-ROS/isaac_ros_nitros_bridge[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros_bridge.git
 NVIDIA-ISAAC-ROS/isaac_ros_nvblox[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nvblox.git
 NVIDIA-ISAAC-ROS/isaac_ros_object_detection[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection.git
+NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation.git
 NVIDIA-ISAAC-ROS/isaac_ros_visual_slam[main]: https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
+NVIDIA-ISAAC-ROS/mujoco_ros2_control[main]: https://github.com/NVIDIA-ISAAC-ROS/mujoco_ros2_control.git
 NVIDIA-ISAAC-ROS/ros2_benchmark[main]: https://github.com/NVIDIA-ISAAC-ROS/ros2_benchmark.git
 nvidia-isaac/cumotion[main]: https://github.com/nvidia-isaac/cumotion.git
 nvidia-isaac/cuVSLAM[main]: https://github.com/nvidia-isaac/cuVSLAM.git
@@ -2751,6 +2760,7 @@ NVIDIA/cosmos[main]: https://github.com/NVIDIA/cosmos.git
 NVIDIA/FasterTransformer[main]: https://github.com/NVIDIA/FasterTransformer.git
 NVIDIA/FastPhotoStyle[master]: https://github.com/NVIDIA/FastPhotoStyle.git
 NVIDIA/Isaac-GR00T[main]: https://github.com/NVIDIA/Isaac-GR00T.git
+NVIDIA/IsaacTeleop[main]: https://github.com/NVIDIA/IsaacTeleop.git
 NVIDIA/MDL-SDK[master]: https://github.com/NVIDIA/MDL-SDK.git
 NVIDIA/Megatron-LM[main]: https://github.com/NVIDIA/Megatron-LM.git
 NVIDIA/NeMo-Framework-Launcher[main]: https://github.com/NVIDIA/NeMo-Framework-Launcher.git
@@ -3043,7 +3053,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
-PhyAgentOS-Dev/PhyAgentOS[preview]: https://github.com/PhyAgentOS-Dev/PhyAgentOS.git
+PhyAgentOS-dev/PhyAgentOS[preview]: https://github.com/PhyAgentOS-dev/PhyAgentOS.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
