@@ -1,5 +1,6 @@
 00mjk: https://github.com/00mjk
 156afl: https://github.com/156afl
+9Michael-Cooley: https://github.com/9Michael-Cooley
 AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
@@ -11,6 +12,7 @@ ardaltunel: https://github.com/ardaltunel
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
+azkaabds: https://github.com/azkaabds
 badiranssen: https://github.com/badiranssen
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
@@ -30,6 +32,7 @@ DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
+ElvinHasanov3d: https://github.com/ElvinHasanov3d
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
@@ -51,6 +54,7 @@ jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
+KevinWong455: https://github.com/KevinWong455
 Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
@@ -69,6 +73,7 @@ neon-x-hub: https://github.com/neon-x-hub
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
+Nisyalz01: https://github.com/Nisyalz01
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
@@ -90,6 +95,7 @@ Samson05301are: https://github.com/Samson05301are
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
+Seo-yeonLee: https://github.com/Seo-yeonLee
 sjzsbgwb: https://github.com/sjzsbgwb
 skrlong: https://github.com/skrlong
 smartjimmy090-png: https://github.com/smartjimmy090-png
