@@ -254,6 +254,7 @@ anysearch-ai/anysearch-skill[main]: https://github.com/anysearch-ai/anysearch-sk
 anysphere/gpt-4-for-code[main]: https://github.com/anysphere/gpt-4-for-code.git
 anysphere/priompt[main]: https://github.com/anysphere/priompt.git
 Anytop2025/Anytop[main]: https://github.com/Anytop2025/Anytop.git
+anywhere-labs/deepseek-harness-desktop[master]: https://github.com/anywhere-labs/deepseek-harness-desktop.git
 apache/echarts[master]: https://github.com/apache/echarts.git
 apache/flink[master]: https://github.com/apache/flink.git
 apache/hadoop[trunk]: https://github.com/apache/hadoop.git
@@ -546,6 +547,7 @@ cbfinn/rllab[master]: https://github.com/cbfinn/rllab.git
 cbh123/stickerbaker[main]: https://github.com/cbh123/stickerbaker.git
 cbsudux/awesome-human-pose-estimation[master]: https://github.com/cbsudux/awesome-human-pose-estimation.git
 cccedric/conrft[main]: https://github.com/cccedric/conrft.git
+ccch1mneyyy/dsh-TUI[main]: https://github.com/ccch1mneyyy/dsh-TUI.git
 ccyyycy/ycy[master]: https://github.com/ccyyycy/ycy.git
 cdevin/objectattention[master]: https://github.com/cdevin/objectattention.git
 cdjc/goto[master]: https://github.com/cdjc/goto.git
@@ -676,6 +678,7 @@ cumulo-autumn/StreamDiffusion[main]: https://github.com/cumulo-autumn/StreamDiff
 cursor/cursor[main]: https://github.com/cursor/cursor.git
 CursorTouch/Android-MCP[master]: https://github.com/CursorTouch/Android-MCP.git
 CursorTouch/Windows-MCP[main]: https://github.com/CursorTouch/Windows-MCP.git
+cvat-ai/cvat[develop]: https://github.com/cvat-ai/cvat.git
 cvg/mpsfm[main]: https://github.com/cvg/mpsfm.git
 cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
@@ -2558,7 +2561,7 @@ MotrixLab/SMPLer-X[main]: https://github.com/MotrixLab/SMPLer-X.git
 mountain-loop/yaak[main]: https://github.com/mountain-loop/yaak.git
 moveit/moveit2[main]: https://github.com/moveit/moveit2.git
 moveit/moveit2_tutorials[main]: https://github.com/moveit/moveit2_tutorials.git
-moveit/moveit_task_constructor[master]: https://github.com/moveit/moveit_task_constructor.git
+moveit/moveit_task_constructor[ros2]: https://github.com/moveit/moveit_task_constructor.git
 moveit/moveit_tutorials[master]: https://github.com/moveit/moveit_tutorials.git
 MoyangLi00/DROID-W[main]: https://github.com/MoyangLi00/DROID-W.git
 mozilla-ai/llamafile[main]: https://github.com/mozilla-ai/llamafile.git
@@ -3035,6 +3038,7 @@ PENGZhaoqing/HousePricing[master]: https://github.com/PENGZhaoqing/HousePricing.
 penrose/penrose[main]: https://github.com/penrose/penrose.git
 perceptron-ai-inc/perceptron[main]: https://github.com/perceptron-ai-inc/perceptron.git
 Perkins729/OmniXtreme[main]: https://github.com/Perkins729/OmniXtreme.git
+permissionlesstech/bitchat[main]: https://github.com/permissionlesstech/bitchat.git
 personalrobotics/ssik[main]: https://github.com/personalrobotics/ssik.git
 perspective-dev/perspective[master]: https://github.com/perspective-dev/perspective.git
 Peterande/D-FINE[master]: https://github.com/Peterande/D-FINE.git
@@ -3595,6 +3599,7 @@ solid/solid[main]: https://github.com/solid/solid.git
 song-wensong/insert-anything[main]: https://github.com/song-wensong/insert-anything.git
 sonyccd/ros_plc_modbus[master]: https://github.com/sonyccd/ros_plc_modbus.git
 sonywork/Shadowsocks-VPN-Wiki[master]: https://github.com/sonywork/Shadowsocks-VPN-Wiki.git
+sophiamyang/finger-frame-effect-ai[main]: https://github.com/sophiamyang/finger-frame-effect-ai.git
 sorrycc/awesome-javascript[master]: https://github.com/sorrycc/awesome-javascript.git
 soskek/attention_is_all_you_need[master]: https://github.com/soskek/attention_is_all_you_need.git
 soulmachine/leetcode[master]: https://github.com/soulmachine/leetcode.git
@@ -3882,6 +3887,7 @@ TMElyralab/MusePose[main]: https://github.com/TMElyralab/MusePose.git
 TMElyralab/MuseTalk[main]: https://github.com/TMElyralab/MuseTalk.git
 TMElyralab/MuseV[main]: https://github.com/TMElyralab/MuseV.git
 tmikolov/word2vec[master]: https://github.com/tmikolov/word2vec.git
+tmjeong1103/RIMKit[main]: https://github.com/tmjeong1103/RIMKit.git
 toeverything/AFFiNE[canary]: https://github.com/toeverything/AFFiNE.git
 togethercomputer/MoA[main]: https://github.com/togethercomputer/MoA.git
 toke/docker-mosquitto[master]: https://github.com/toke/docker-mosquitto.git
@@ -4444,6 +4450,7 @@ zixuan417/humanoid-general-motion-tracking[master]: https://github.com/zixuan417
 zixuan417/smooth-humanoid-locomotion[main]: https://github.com/zixuan417/smooth-humanoid-locomotion.git
 ziyc/drivestudio[main]: https://github.com/ziyc/drivestudio.git
 zjp-shadow/CharacterGen[main]: https://github.com/zjp-shadow/CharacterGen.git
+ZJU-OmniAI/embodied_reasoner[main]: https://github.com/ZJU-OmniAI/embodied_reasoner.git
 zju3dv/EasyMocap[master]: https://github.com/zju3dv/EasyMocap.git
 zju3dv/EasyVolcap[main]: https://github.com/zju3dv/EasyVolcap.git
 zju3dv/EfficientLoFTR[main]: https://github.com/zju3dv/EfficientLoFTR.git
@@ -4468,7 +4475,6 @@ zst1406217/VR-Robo[main]: https://github.com/zst1406217/VR-Robo.git
 ZuodaoTech/everyone-can-use-english[main]: https://github.com/ZuodaoTech/everyone-can-use-english.git
 zuoxingdong/VIN_PyTorch_Visdom[master]: https://github.com/zuoxingdong/VIN_PyTorch_Visdom.git
 zuoym15/craves.ai[master]: https://github.com/zuoym15/craves.ai.git
-zwq2018/embodied_reasoner[main]: https://github.com/zwq2018/embodied_reasoner.git
 ZXP-S-works/EquAct[ICLR2026]: https://github.com/ZXP-S-works/EquAct.git
 ZXP-S-works/SE2-equivariant-grasp-learning[main]: https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning.git
 ZXP-S-works/Vision_Force_Estimation[main]: https://github.com/ZXP-S-works/Vision_Force_Estimation.git
