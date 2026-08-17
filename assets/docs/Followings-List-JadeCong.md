@@ -232,6 +232,7 @@ crewAIInc: https://github.com/crewAIInc
 Crosstalk-Solutions: https://github.com/Crosstalk-Solutions
 cuhk-eda: https://github.com/cuhk-eda
 CursorTouch: https://github.com/CursorTouch
+cvat-ai: https://github.com/cvat-ai
 cvg: https://github.com/cvg
 cweijan: https://github.com/cweijan
 cyberbotics: https://github.com/cyberbotics
@@ -910,7 +911,7 @@ petercorke: https://github.com/petercorke
 PetoiCamp: https://github.com/PetoiCamp
 pewdiepie-archdaemon: https://github.com/pewdiepie-archdaemon
 Phantom-video: https://github.com/Phantom-video
-PhyAgentOS: https://github.com/PhyAgentOS
+PhyAgentOS-dev: https://github.com/PhyAgentOS-dev
 Physical-Intelligence: https://github.com/Physical-Intelligence
 physical-superintelligence-lab: https://github.com/physical-superintelligence-lab
 Picrew: https://github.com/Picrew
