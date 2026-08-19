@@ -78,6 +78,7 @@ anthropics: https://github.com/anthropics
 anuraghazra: https://github.com/anuraghazra
 anysearch-ai: https://github.com/anysearch-ai
 anysphere: https://github.com/anysphere
+anywhere-labs: https://github.com/anywhere-labs
 apache: https://github.com/apache
 apachecn: https://github.com/apachecn
 apilayer: https://github.com/apilayer
@@ -750,6 +751,7 @@ msitarzewski: https://github.com/msitarzewski
 mudler: https://github.com/mudler
 mujocolab: https://github.com/mujocolab
 multica-ai: https://github.com/multica-ai
+murobotics-ai: https://github.com/murobotics-ai
 MuShibo: https://github.com/MuShibo
 musistudio: https://github.com/musistudio
 MVIG-SJTU: https://github.com/MVIG-SJTU
@@ -766,6 +768,7 @@ nanocoai: https://github.com/nanocoai
 NapthaAI: https://github.com/NapthaAI
 nasa: https://github.com/nasa
 nashsu: https://github.com/nashsu
+NationalSecurityAgency: https://github.com/NationalSecurityAgency
 naver: https://github.com/naver
 NawfalMotii79: https://github.com/NawfalMotii79
 nbfigueroa: https://github.com/nbfigueroa
@@ -1014,7 +1017,6 @@ roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
 robometer: https://github.com/robometer
 RoboMME: https://github.com/RoboMME
-robonet-ai: https://github.com/robonet-ai
 Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 roboscienceorg: https://github.com/roboscienceorg
