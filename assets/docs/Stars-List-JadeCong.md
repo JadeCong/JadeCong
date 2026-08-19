@@ -683,8 +683,6 @@ cvg/mpsfm[main]: https://github.com/cvg/mpsfm.git
 cvlab-kaist/locotrack[main]: https://github.com/cvlab-kaist/locotrack.git
 cwchenwang/geco[main]: https://github.com/cwchenwang/geco.git
 cyberbotics/webots[master]: https://github.com/cyberbotics/webots.git
-CyberOrigin2077/Cyber[main]: https://github.com/CyberOrigin2077/Cyber.git
-CyberOrigin2077/labelU-Marker[main]: https://github.com/CyberOrigin2077/labelU-Marker.git
 CyberOrigin2077/open_cyber_glove[main]: https://github.com/CyberOrigin2077/open_cyber_glove.git
 cyjdlhy/TeleOpBench[main]: https://github.com/cyjdlhy/TeleOpBench.git
 cynthia-you/TJ_FX_ROBOT_CONTRL_SDK[main]: https://github.com/cynthia-you/TJ_FX_ROBOT_CONTRL_SDK.git
@@ -1114,7 +1112,6 @@ fastrepl/anarlog[main]: https://github.com/fastrepl/anarlog.git
 fatedier/frp[dev]: https://github.com/fatedier/frp.git
 fathah/hermes-desktop[main]: https://github.com/fathah/hermes-desktop.git
 fatwang2/siri-ultra[main]: https://github.com/fatwang2/siri-ultra.git
-fclwtt/wechat-cli[main]: https://github.com/fclwtt/wechat-cli.git
 febert/visual_mpc[master]: https://github.com/febert/visual_mpc.git
 feel-the-force-ftf/feel-the-force[main]: https://github.com/feel-the-force-ftf/feel-the-force.git
 felixendres/rgbdslam_v2[kinetic]: https://github.com/felixendres/rgbdslam_v2.git
@@ -2586,6 +2583,9 @@ mujocolab/mjviser[main]: https://github.com/mujocolab/mjviser.git
 MultiAgentLearning/playground[master]: https://github.com/MultiAgentLearning/playground.git
 multica-ai/andrej-karpathy-skills[main]: https://github.com/multica-ai/andrej-karpathy-skills.git
 multica-ai/multica[main]: https://github.com/multica-ai/multica.git
+murobotics-ai/handumi-hw[main]: https://github.com/murobotics-ai/handumi-hw.git
+murobotics-ai/handumi-quest-app[main]: https://github.com/murobotics-ai/handumi-quest-app.git
+murobotics-ai/handumi-sw[main]: https://github.com/murobotics-ai/handumi-sw.git
 Murrol/StableMotion[main]: https://github.com/Murrol/StableMotion.git
 MuShibo/Micro-Wheeled_leg-Robot[master]: https://github.com/MuShibo/Micro-Wheeled_leg-Robot.git
 musistudio/claude-code-router[main]: https://github.com/musistudio/claude-code-router.git
@@ -2615,6 +2615,7 @@ nasa/openmct[master]: https://github.com/nasa/openmct.git
 nashsu/FreeAskInternet[main]: https://github.com/nashsu/FreeAskInternet.git
 nashsu/llm_wiki[main]: https://github.com/nashsu/llm_wiki.git
 nateraw/stable-diffusion-videos[main]: https://github.com/nateraw/stable-diffusion-videos.git
+NationalSecurityAgency/ghidra[master]: https://github.com/NationalSecurityAgency/ghidra.git
 naver/dust3r[main]: https://github.com/naver/dust3r.git
 NawfalMotii79/PLFM_RADAR[main]: https://github.com/NawfalMotii79/PLFM_RADAR.git
 nbfigueroa/franka_interactive_controllers[main]: https://github.com/nbfigueroa/franka_interactive_controllers.git
@@ -2803,6 +2804,7 @@ NVlabs/ProtoMotions[main]: https://github.com/NVlabs/ProtoMotions.git
 NVlabs/RoboLab[main]: https://github.com/NVlabs/RoboLab.git
 NVlabs/sage[main]: https://github.com/NVlabs/sage.git
 NVlabs/Sana[main]: https://github.com/NVlabs/Sana.git
+NVlabs/SimFoundry[main]: https://github.com/NVlabs/SimFoundry.git
 NVlabs/SoftMimicGen[main]: https://github.com/NVlabs/SoftMimicGen.git
 NVlabs/SOMA-X[main]: https://github.com/NVlabs/SOMA-X.git
 NVlabs/SPADE[master]: https://github.com/NVlabs/SPADE.git
@@ -3057,7 +3059,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
-PhyAgentOS-dev/PhyAgentOS[preview]: https://github.com/PhyAgentOS-dev/PhyAgentOS.git
+PhyAgentOS/PhyAgentOS-core[preview]: https://github.com/PhyAgentOS/PhyAgentOS-core.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
@@ -3331,9 +3333,6 @@ robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robometer/robometer[main]: https://github.com/robometer/robometer.git
 RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.git
 RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
-robonet-ai/handumi-hw[main]: https://github.com/robonet-ai/handumi-hw.git
-robonet-ai/handumi-quest-app[main]: https://github.com/robonet-ai/handumi-quest-app.git
-robonet-ai/handumi-sw[main]: https://github.com/robonet-ai/handumi-sw.git
 Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 Roboparty/UFO[main]: https://github.com/Roboparty/UFO.git
@@ -4450,7 +4449,7 @@ zixuan417/humanoid-general-motion-tracking[master]: https://github.com/zixuan417
 zixuan417/smooth-humanoid-locomotion[main]: https://github.com/zixuan417/smooth-humanoid-locomotion.git
 ziyc/drivestudio[main]: https://github.com/ziyc/drivestudio.git
 zjp-shadow/CharacterGen[main]: https://github.com/zjp-shadow/CharacterGen.git
-ZJU-OmniAI/embodied_reasoner[main]: https://github.com/ZJU-OmniAI/embodied_reasoner.git
+ZJU-OmniAI/Embodied-Omni[main]: https://github.com/ZJU-OmniAI/Embodied-Omni.git
 zju3dv/EasyMocap[master]: https://github.com/zju3dv/EasyMocap.git
 zju3dv/EasyVolcap[main]: https://github.com/zju3dv/EasyVolcap.git
 zju3dv/EfficientLoFTR[main]: https://github.com/zju3dv/EfficientLoFTR.git
