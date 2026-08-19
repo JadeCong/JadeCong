@@ -10,8 +10,6 @@ anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 ash3spho3nix: https://github.com/ash3spho3nix
-azkaabds: https://github.com/azkaabds
-badiranssen: https://github.com/badiranssen
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
@@ -23,7 +21,6 @@ Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
-chrisipanaque: https://github.com/chrisipanaque
 cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
@@ -79,7 +76,6 @@ neon-x-hub: https://github.com/neon-x-hub
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
-Nisyalz01: https://github.com/Nisyalz01
 nordestediego: https://github.com/nordestediego
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
@@ -92,7 +88,6 @@ QingWeng: https://github.com/QingWeng
 Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
-RashidSaeedAlMazrouei18: https://github.com/RashidSaeedAlMazrouei18
 raviwijerathna1: https://github.com/raviwijerathna1
 ritakaneu: https://github.com/ritakaneu
 rodrigogalura: https://github.com/rodrigogalura
