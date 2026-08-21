@@ -475,7 +475,6 @@ HKUDS: https://github.com/HKUDS
 HKUST-Aerial-Robotics: https://github.com/HKUST-Aerial-Robotics
 hmrishavbandy: https://github.com/hmrishavbandy
 hms-dbmi: https://github.com/hms-dbmi
-Holiday-Robot: https://github.com/Holiday-Robot
 home-assistant: https://github.com/home-assistant
 hongsukchoi: https://github.com/hongsukchoi
 honojs: https://github.com/honojs
