@@ -2906,7 +2906,7 @@ OpenBMB/ProAgent[main]: https://github.com/OpenBMB/ProAgent.git
 OpenBMB/XAgent[main]: https://github.com/OpenBMB/XAgent.git
 openclaw/clawhub[main]: https://github.com/openclaw/clawhub.git
 openclaw/openclaw[main]: https://github.com/openclaw/openclaw.git
-opencv/opencv[4.x]: https://github.com/opencv/opencv.git
+opencv/opencv[5.x]: https://github.com/opencv/opencv.git
 opencv/opencv-python[4.x]: https://github.com/opencv/opencv-python.git
 opendatalab/MinerU[master]: https://github.com/opendatalab/MinerU.git
 opendatalab/PDF-Extract-Kit[main]: https://github.com/opendatalab/PDF-Extract-Kit.git
