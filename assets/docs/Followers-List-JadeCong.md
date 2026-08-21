@@ -14,9 +14,7 @@ BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
 bludnic: https://github.com/bludnic
-boomray: https://github.com/boomray
 buraksocial: https://github.com/buraksocial
-cambot86: https://github.com/cambot86
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
@@ -29,9 +27,6 @@ DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
-dweatherston11: https://github.com/dweatherston11
-Endo1933: https://github.com/Endo1933
-furkan012: https://github.com/furkan012
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
@@ -52,16 +47,14 @@ jelspace: https://github.com/jelspace
 jessica66e: https://github.com/jessica66e
 jmenture45: https://github.com/jmenture45
 jordiaphane: https://github.com/jordiaphane
-juandjesus20009: https://github.com/juandjesus20009
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
+kgarbacinski: https://github.com/kgarbacinski
 Knighthood2001: https://github.com/Knighthood2001
-laloloco89: https://github.com/laloloco89
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
-luisotakubanda: https://github.com/luisotakubanda
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
@@ -76,8 +69,8 @@ neon-x-hub: https://github.com/neon-x-hub
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
-nordestediego: https://github.com/nordestediego
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
+OnFinality9: https://github.com/OnFinality9
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
@@ -93,7 +86,6 @@ ritakaneu: https://github.com/ritakaneu
 rodrigogalura: https://github.com/rodrigogalura
 S4IL21: https://github.com/S4IL21
 Samson05301are: https://github.com/Samson05301are
-Sanghyun-0h: https://github.com/Sanghyun-0h
 sarahofai: https://github.com/sarahofai
 saravanansam2997: https://github.com/saravanansam2997
 scapelinked: https://github.com/scapelinked
