@@ -475,6 +475,7 @@ HKUDS: https://github.com/HKUDS
 HKUST-Aerial-Robotics: https://github.com/HKUST-Aerial-Robotics
 hmrishavbandy: https://github.com/hmrishavbandy
 hms-dbmi: https://github.com/hms-dbmi
+Holiday-Robot: https://github.com/Holiday-Robot
 home-assistant: https://github.com/home-assistant
 hongsukchoi: https://github.com/hongsukchoi
 honojs: https://github.com/honojs
@@ -589,7 +590,6 @@ KindXiaoming: https://github.com/KindXiaoming
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
 KlingAIResearch: https://github.com/KlingAIResearch
-KM-Data-Pipeline: https://github.com/KM-Data-Pipeline
 Kong: https://github.com/Kong
 KOREATECH-IRIMLab: https://github.com/KOREATECH-IRIMLab
 kortix-ai: https://github.com/kortix-ai
@@ -1247,6 +1247,7 @@ UKPLab: https://github.com/UKPLab
 ultralytics: https://github.com/ultralytics
 ultraworkers: https://github.com/ultraworkers
 UMass-Embodied-AGI: https://github.com/UMass-Embodied-AGI
+UMI-Data-Infra: https://github.com/UMI-Data-Infra
 UMich-BipedLab: https://github.com/UMich-BipedLab
 unified-field-theory-org: https://github.com/unified-field-theory-org
 UniPat-AI: https://github.com/UniPat-AI
@@ -1352,7 +1353,6 @@ XiaomiRobotics: https://github.com/XiaomiRobotics
 xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
 xingkongliang: https://github.com/xingkongliang
-xixu-me: https://github.com/xixu-me
 xming521: https://github.com/xming521
 xpipe-io: https://github.com/xpipe-io
 xpqiu: https://github.com/xpqiu
