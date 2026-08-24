@@ -228,6 +228,7 @@ ANSSI-FR/SecuML[master]: https://github.com/ANSSI-FR/SecuML.git
 AnswerDotAI/fsdp_qlora[main]: https://github.com/AnswerDotAI/fsdp_qlora.git
 ant-design/ant-design[master]: https://github.com/ant-design/ant-design.git
 ant-design/x[main]: https://github.com/ant-design/x.git
+ant-research/4DAnyone[main]: https://github.com/ant-research/4DAnyone.git
 ant-research/CoDeF[main]: https://github.com/ant-research/CoDeF.git
 ant-research/DepthLab[main]: https://github.com/ant-research/DepthLab.git
 ant-research/FLARE[main]: https://github.com/ant-research/FLARE.git
@@ -1587,6 +1588,7 @@ HRNet/HRNet-Human-Pose-Estimation[master]: https://github.com/HRNet/HRNet-Human-
 HRNet/HRNet-Image-Classification[master]: https://github.com/HRNet/HRNet-Image-Classification.git
 HRNet/HRNet-Semantic-Segmentation[HRNet-OCR]: https://github.com/HRNet/HRNet-Semantic-Segmentation.git
 HRNet/Lite-HRNet[hrnet]: https://github.com/HRNet/Lite-HRNet.git
+hshi74/robocook[main]: https://github.com/hshi74/robocook.git
 hshi74/toddlerbot[main]: https://github.com/hshi74/toddlerbot.git
 hsliuping/TradingAgents-CN[main]: https://github.com/hsliuping/TradingAgents-CN.git
 hsp-iit/HannesImitation[main]: https://github.com/hsp-iit/HannesImitation.git
@@ -1650,7 +1652,7 @@ hustvl/YOLOS[main]: https://github.com/hustvl/YOLOS.git
 Huxpro/huxpro.github.io[master]: https://github.com/Huxpro/huxpro.github.io.git
 HVision-NKU/StoryDiffusion[main]: https://github.com/HVision-NKU/StoryDiffusion.git
 hwdsl2/setup-ipsec-vpn[master]: https://github.com/hwdsl2/setup-ipsec-vpn.git
-HybridRobotics/Berkeley-Humanoid-Lite[main]: https://github.com/HybridRobotics/Berkeley-Humanoid-Lite.git
+HybridRobotics/berkeley-humanoid-lite[main]: https://github.com/HybridRobotics/berkeley-humanoid-lite.git
 HybridRobotics/Ego-VCP[main]: https://github.com/HybridRobotics/Ego-VCP.git
 HybridRobotics/isaac_berkeley_humanoid[main]: https://github.com/HybridRobotics/isaac_berkeley_humanoid.git
 HybridRobotics/whole_body_tracking[main]: https://github.com/HybridRobotics/whole_body_tracking.git
@@ -2418,6 +2420,7 @@ microsoft/CNTK[master]: https://github.com/microsoft/CNTK.git
 microsoft/CogACT[main]: https://github.com/microsoft/CogACT.git
 microsoft/Data-Science-For-Beginners[main]: https://github.com/microsoft/Data-Science-For-Beginners.git
 microsoft/FERPlus[master]: https://github.com/microsoft/FERPlus.git
+microsoft/FlowDAgger[main]: https://github.com/microsoft/FlowDAgger.git
 microsoft/folx[main]: https://github.com/microsoft/folx.git
 microsoft/generative-ai-for-beginners[main]: https://github.com/microsoft/generative-ai-for-beginners.git
 microsoft/GPT4Vision-Robot-Manipulation-Prompts[main]: https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts.git
@@ -3872,7 +3875,7 @@ TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
 TinyAGI/tinyagi[main]: https://github.com/TinyAGI/tinyagi.git
 tinyhumansai/openhuman[main]: https://github.com/tinyhumansai/openhuman.git
 tiptop-robot/tiptop[main]: https://github.com/tiptop-robot/tiptop.git
-titanwings/colleague-skill[dot-skill]: https://github.com/titanwings/colleague-skill.git
+titanwings/distilly[dot-skill]: https://github.com/titanwings/distilly.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
@@ -4254,7 +4257,6 @@ xinglie/report-designer[master]: https://github.com/xinglie/report-designer.git
 xingyizhou/CenterNet2[master]: https://github.com/xingyizhou/CenterNet2.git
 XinyueZhuXY/touch_in_the_wild[main]: https://github.com/XinyueZhuXY/touch_in_the_wild.git
 xiph/libao[master]: https://github.com/xiph/libao.git
-xixu-me/xget[main]: https://github.com/xixu-me/xget.git
 xlite-dev/lite.ai.toolkit[main]: https://github.com/xlite-dev/lite.ai.toolkit.git
 xming521/WeClone[master]: https://github.com/xming521/WeClone.git
 xmppjs/xmpp.js[main]: https://github.com/xmppjs/xmpp.js.git
@@ -4434,6 +4436,7 @@ Zhoues/RoboRefer[main]: https://github.com/Zhoues/RoboRefer.git
 zhouzypaul/wsrl[main]: https://github.com/zhouzypaul/wsrl.git
 ZhuLinsen/daily_stock_analysis[main]: https://github.com/ZhuLinsen/daily_stock_analysis.git
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
+ZhuoyangLiu2005/T-Rex[main]: https://github.com/ZhuoyangLiu2005/T-Rex.git
 ziadoz/awesome-php[master]: https://github.com/ziadoz/awesome-php.git
 ziangcao0312/PhysX-Anything[main]: https://github.com/ziangcao0312/PhysX-Anything.git
 zibojia/MiniMax-Remover[main]: https://github.com/zibojia/MiniMax-Remover.git
