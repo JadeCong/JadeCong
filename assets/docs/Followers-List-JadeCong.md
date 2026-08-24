@@ -9,6 +9,7 @@ AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
+arpitrajjj: https://github.com/arpitrajjj
 ash3spho3nix: https://github.com/ash3spho3nix
 BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
@@ -55,6 +56,7 @@ Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
+Lxcardoza993: https://github.com/Lxcardoza993
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
@@ -62,7 +64,6 @@ Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
 mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
-mrshrivasta: https://github.com/mrshrivasta
 n4yand: https://github.com/n4yand
 nelbeu: https://github.com/nelbeu
 neon-x-hub: https://github.com/neon-x-hub
@@ -111,6 +112,7 @@ volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
 webbrain-one: https://github.com/webbrain-one
+wertania: https://github.com/wertania
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
 XiaChiandXuce: https://github.com/XiaChiandXuce
