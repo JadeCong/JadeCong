@@ -255,7 +255,7 @@ anysearch-ai/anysearch-skill[main]: https://github.com/anysearch-ai/anysearch-sk
 anysphere/gpt-4-for-code[main]: https://github.com/anysphere/gpt-4-for-code.git
 anysphere/priompt[main]: https://github.com/anysphere/priompt.git
 Anytop2025/Anytop[main]: https://github.com/Anytop2025/Anytop.git
-anywhere-labs/deepseek-harness-desktop[master]: https://github.com/anywhere-labs/deepseek-harness-desktop.git
+anywhere-labs/dsh-desktop[master]: https://github.com/anywhere-labs/dsh-desktop.git
 apache/echarts[master]: https://github.com/apache/echarts.git
 apache/flink[master]: https://github.com/apache/flink.git
 apache/hadoop[trunk]: https://github.com/apache/hadoop.git
@@ -583,6 +583,7 @@ chenglou/pretext[main]: https://github.com/chenglou/pretext.git
 ChengshuLi/MoMaGen[main]: https://github.com/ChengshuLi/MoMaGen.git
 chenyuntc/pytorch-book[master]: https://github.com/chenyuntc/pytorch-book.git
 CherryHQ/cherry-studio[main]: https://github.com/CherryHQ/cherry-studio.git
+chiawenchen/NaP[main]: https://github.com/chiawenchen/NaP.git
 china-qijizhifeng/agentic-harness-engineering[main]: https://github.com/china-qijizhifeng/agentic-harness-engineering.git
 chinakook/Awesome-MXNet[master]: https://github.com/chinakook/Awesome-MXNet.git
 chiphuyen/stanford-tensorflow-tutorials[master]: https://github.com/chiphuyen/stanford-tensorflow-tutorials.git
@@ -2355,6 +2356,7 @@ mcfletch/pyopengl[master]: https://github.com/mcfletch/pyopengl.git
 mcubelab/gelslim[main]: https://github.com/mcubelab/gelslim.git
 mcxiaoke/mqtt[master]: https://github.com/mcxiaoke/mqtt.git
 mees/calvin[main]: https://github.com/mees/calvin.git
+meetsitaram/sonic-x2[main]: https://github.com/meetsitaram/sonic-x2.git
 mega-sam/mega-sam[main]: https://github.com/mega-sam/mega-sam.git
 MegEngine/MegCC[main]: https://github.com/MegEngine/MegCC.git
 MegEngine/MegEngine[master]: https://github.com/MegEngine/MegEngine.git
@@ -2571,6 +2573,7 @@ mqttjs/MQTT.js[main]: https://github.com/mqttjs/MQTT.js.git
 mrdbourke/machine-learning-roadmap[master]: https://github.com/mrdbourke/machine-learning-roadmap.git
 mrexodia/ida-pro-mcp[main]: https://github.com/mrexodia/ida-pro-mcp.git
 mrgloom/awesome-semantic-segmentation[master]: https://github.com/mrgloom/awesome-semantic-segmentation.git
+mrousavy/react-native-vision-camera[main]: https://github.com/mrousavy/react-native-vision-camera.git
 MrTornado24/DreamCraft3D_Plus[main]: https://github.com/MrTornado24/DreamCraft3D_Plus.git
 msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-weekly-robotics.git
 mschneider456/worldmesh[main]: https://github.com/mschneider456/worldmesh.git
@@ -2628,6 +2631,7 @@ neeek2303/EMOPortraits[main]: https://github.com/neeek2303/EMOPortraits.git
 neo4j-labs/llm-graph-builder[main]: https://github.com/neo4j-labs/llm-graph-builder.git
 neobotix/elite-robots2[main]: https://github.com/neobotix/elite-robots2.git
 neon-izm/EasyMotionRecorder[master]: https://github.com/neon-izm/EasyMotionRecorder.git
+neoteai/N0-TWAM[main]: https://github.com/neoteai/N0-TWAM.git
 NeoVertex1/SuperPrompt[main]: https://github.com/NeoVertex1/SuperPrompt.git
 neovim/neovim[master]: https://github.com/neovim/neovim.git
 nepfaff/scalable-real2sim[main]: https://github.com/nepfaff/scalable-real2sim.git
@@ -3210,6 +3214,7 @@ QwenLM/Qwen3-Omni[main]: https://github.com/QwenLM/Qwen3-Omni.git
 QwenLM/Qwen3-VL[main]: https://github.com/QwenLM/Qwen3-VL.git
 r-spacex/SpaceX-API[master]: https://github.com/r-spacex/SpaceX-API.git
 r-spacex/spacexstats-react[master]: https://github.com/r-spacex/spacexstats-react.git
+ra1nyxin/tentacle-monster-roleplay-esp32[master]: https://github.com/ra1nyxin/tentacle-monster-roleplay-esp32.git
 raghakot/keras-resnet[master]: https://github.com/raghakot/keras-resnet.git
 rai-opensource/judo[main]: https://github.com/rai-opensource/judo.git
 rai-opensource/spot_ros2[main]: https://github.com/rai-opensource/spot_ros2.git
@@ -4145,6 +4150,7 @@ waylau/books-collection[master]: https://github.com/waylau/books-collection.git
 waylau/harmonyos-tutorial[master]: https://github.com/waylau/harmonyos-tutorial.git
 wazuh/wazuh[main]: https://github.com/wazuh/wazuh.git
 wb14123/seq2seq-couplet[master]: https://github.com/wb14123/seq2seq-couplet.git
+wcandillon/react-native-webgpu[main]: https://github.com/wcandillon/react-native-webgpu.git
 WCHSoftGroup/ch343ser_linux[main]: https://github.com/WCHSoftGroup/ch343ser_linux.git
 weaviate/Verba[main]: https://github.com/weaviate/Verba.git
 web-infra-dev/midscene[main]: https://github.com/web-infra-dev/midscene.git
