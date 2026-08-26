@@ -774,6 +774,7 @@ nbfigueroa: https://github.com/nbfigueroa
 ncsoft: https://github.com/ncsoft
 nearai: https://github.com/nearai
 neobotix: https://github.com/neobotix
+neoteai: https://github.com/neoteai
 NeoVertex1: https://github.com/NeoVertex1
 neovim: https://github.com/neovim
 nepfaff: https://github.com/nepfaff
