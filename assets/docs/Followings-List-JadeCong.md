@@ -89,6 +89,7 @@ appwrite: https://github.com/appwrite
 aramis-lab: https://github.com/aramis-lab
 aravindsrinivas: https://github.com/aravindsrinivas
 ArcInstitute: https://github.com/ArcInstitute
+arduino: https://github.com/arduino
 argusswift: https://github.com/argusswift
 ARISE-Initiative: https://github.com/ARISE-Initiative
 ariszxxu: https://github.com/ariszxxu
@@ -225,6 +226,7 @@ containers: https://github.com/containers
 context-labs: https://github.com/context-labs
 convergence-ai: https://github.com/convergence-ai
 cool-team-official: https://github.com/cool-team-official
+CopilotKit: https://github.com/CopilotKit
 CoppeliaRobotics: https://github.com/CoppeliaRobotics
 corbt: https://github.com/corbt
 coze-dev: https://github.com/coze-dev
@@ -1005,6 +1007,7 @@ rhymes-ai: https://github.com/rhymes-ai
 Rice-RobotPI-Lab: https://github.com/Rice-RobotPI-Lab
 richards199999: https://github.com/richards199999
 ripienaar: https://github.com/ripienaar
+ripl: https://github.com/ripl
 RIVeR-Lab: https://github.com/RIVeR-Lab
 RLinf: https://github.com/RLinf
 RobbinW: https://github.com/RobbinW
@@ -1012,6 +1015,7 @@ Robbyant: https://github.com/Robbyant
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
 robocasa: https://github.com/robocasa
+RoboClaw-Robotics: https://github.com/RoboClaw-Robotics
 robocomp: https://github.com/robocomp
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
