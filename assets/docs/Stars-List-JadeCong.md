@@ -229,11 +229,6 @@ AnswerDotAI/fsdp_qlora[main]: https://github.com/AnswerDotAI/fsdp_qlora.git
 ant-design/ant-design[master]: https://github.com/ant-design/ant-design.git
 ant-design/x[main]: https://github.com/ant-design/x.git
 ant-research/4DAnyone[main]: https://github.com/ant-research/4DAnyone.git
-ant-research/CoDeF[main]: https://github.com/ant-research/CoDeF.git
-ant-research/DepthLab[main]: https://github.com/ant-research/DepthLab.git
-ant-research/FLARE[main]: https://github.com/ant-research/FLARE.git
-ant-research/LeviTor[main]: https://github.com/ant-research/LeviTor.git
-ant-research/MagicQuill[main]: https://github.com/ant-research/MagicQuill.git
 antgroup/agentic-ai-landscape[main]: https://github.com/antgroup/agentic-ai-landscape.git
 antgroup/echomimic[main]: https://github.com/antgroup/echomimic.git
 antgroup/echomimic_v2[main]: https://github.com/antgroup/echomimic_v2.git
@@ -290,7 +285,9 @@ aravindr93/hand_dapg[master]: https://github.com/aravindr93/hand_dapg.git
 aravindr93/mjrl[master]: https://github.com/aravindr93/mjrl.git
 ArcInstitute/evo2[main]: https://github.com/ArcInstitute/evo2.git
 arduino/Arduino[master]: https://github.com/arduino/Arduino.git
+arduino/arduino-cli[master]: https://github.com/arduino/arduino-cli.git
 arduino/arduino-ide[main]: https://github.com/arduino/arduino-ide.git
+arduino/ArduinoCore-avr[master]: https://github.com/arduino/ArduinoCore-avr.git
 argusswift/YOLOv4-pytorch[master]: https://github.com/argusswift/YOLOv4-pytorch.git
 arhanjain/polaris[main]: https://github.com/arhanjain/polaris.git
 Arindam200/awesome-ai-apps[main]: https://github.com/Arindam200/awesome-ai-apps.git
@@ -651,6 +648,7 @@ ControlVLA/ControlVLA[main]: https://github.com/ControlVLA/ControlVLA.git
 convergence-ai/proxy-lite[main]: https://github.com/convergence-ai/proxy-lite.git
 Convertio/convertio-cli[master]: https://github.com/Convertio/convertio-cli.git
 cool-team-official/cool-admin-vue[8.x]: https://github.com/cool-team-official/cool-admin-vue.git
+CopilotKit/OpenBot[main]: https://github.com/CopilotKit/OpenBot.git
 CoppeliaRobotics/coppeliaSimLib[master]: https://github.com/CoppeliaRobotics/coppeliaSimLib.git
 CoppeliaRobotics/manual[master]: https://github.com/CoppeliaRobotics/manual.git
 CoppeliaRobotics/models[master]: https://github.com/CoppeliaRobotics/models.git
@@ -983,6 +981,8 @@ erwincoumans/motion_imitation[master]: https://github.com/erwincoumans/motion_im
 escontra/AMP_for_hardware[main]: https://github.com/escontra/AMP_for_hardware.git
 escontra/gauss_gym[main]: https://github.com/escontra/gauss_gym.git
 eseckel/ai-for-grant-writing[main]: https://github.com/eseckel/ai-for-grant-writing.git
+espressif/esp-box[master]: https://github.com/espressif/esp-box.git
+espressif/esp-linux-bsp[integration/v1.0-esp32s31]: https://github.com/espressif/esp-linux-bsp.git
 espressif/esp-skainet[master]: https://github.com/espressif/esp-skainet.git
 etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
@@ -1196,7 +1196,7 @@ foxglove/mcap[main]: https://github.com/foxglove/mcap.git
 Francis-Rings/StableAnimator[main]: https://github.com/Francis-Rings/StableAnimator.git
 franciszzj/Leffa[main]: https://github.com/franciszzj/Leffa.git
 frankarobotics/franka_ros[develop]: https://github.com/frankarobotics/franka_ros.git
-frankarobotics/franka_ros2[humble]: https://github.com/frankarobotics/franka_ros2.git
+frankarobotics/franka_ros2[jazzy]: https://github.com/frankarobotics/franka_ros2.git
 frankarobotics/franka_toolbox_for_matlab[main]: https://github.com/frankarobotics/franka_toolbox_for_matlab.git
 frankarobotics/libfranka[main]: https://github.com/frankarobotics/libfranka.git
 frankarobotics/libfranka-release[master]: https://github.com/frankarobotics/libfranka-release.git
@@ -2669,7 +2669,7 @@ NickEngmann/nickengmann.github.io[master]: https://github.com/NickEngmann/nicken
 nickioan/robot2robot[solo_master]: https://github.com/nickioan/robot2robot.git
 nicodjimenez/lstm[master]: https://github.com/nicodjimenez/lstm.git
 nicrusso7/rex-gym[master]: https://github.com/nicrusso7/rex-gym.git
-niedev/RTranslator[v2.00]: https://github.com/niedev/RTranslator.git
+niedev/RTranslator[v3.00]: https://github.com/niedev/RTranslator.git
 Nightmare-n/DepthAnyVideo[main]: https://github.com/Nightmare-n/DepthAnyVideo.git
 nihui/opencv-mobile[master]: https://github.com/nihui/opencv-mobile.git
 nikhilbarhate99/PPO-PyTorch[master]: https://github.com/nikhilbarhate99/PPO-PyTorch.git
@@ -3114,6 +3114,7 @@ Pointcept/OpenIns3D[main]: https://github.com/Pointcept/OpenIns3D.git
 PokuangZhou/ContactWorld[main]: https://github.com/PokuangZhou/ContactWorld.git
 policyconsensus/policyconsensus[main]: https://github.com/policyconsensus/policyconsensus.git
 pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
+pollen-robotics/microduck[main]: https://github.com/pollen-robotics/microduck.git
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
 pollen-robotics/reachy-mini-motor-controller[main]: https://github.com/pollen-robotics/reachy-mini-motor-controller.git
 pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
@@ -3305,6 +3306,7 @@ ricequant/rqalpha[master]: https://github.com/ricequant/rqalpha.git
 richards199999/Thinking-Claude[main]: https://github.com/richards199999/Thinking-Claude.git
 ricmua/ros_force_dimension[main]: https://github.com/ricmua/ros_force_dimension.git
 ripienaar/free-for-dev[master]: https://github.com/ripienaar/free-for-dev.git
+ripl/ManipulationBenchmarkAudit[main]: https://github.com/ripl/ManipulationBenchmarkAudit.git
 riscv/riscv-isa-manual[main]: https://github.com/riscv/riscv-isa-manual.git
 RIVeR-Lab/mobiman[main]: https://github.com/RIVeR-Lab/mobiman.git
 rlabbe/filterpy[master]: https://github.com/rlabbe/filterpy.git
@@ -3317,6 +3319,11 @@ rmsalinas/DBow3[master]: https://github.com/rmsalinas/DBow3.git
 robbiebarrat/art-DCGAN[master]: https://github.com/robbiebarrat/art-DCGAN.git
 robbiehanson/XMPPFramework[master]: https://github.com/robbiehanson/XMPPFramework.git
 RobbinW/EVA[main]: https://github.com/RobbinW/EVA.git
+robbyant-research/CoDeF[main]: https://github.com/robbyant-research/CoDeF.git
+robbyant-research/DepthLab[main]: https://github.com/robbyant-research/DepthLab.git
+robbyant-research/FLARE[main]: https://github.com/robbyant-research/FLARE.git
+robbyant-research/LeviTor[main]: https://github.com/robbyant-research/LeviTor.git
+robbyant-research/MagicQuill[main]: https://github.com/robbyant-research/MagicQuill.git
 Robbyant/lingbot-map[main]: https://github.com/Robbyant/lingbot-map.git
 Robbyant/lingbot-vla[main]: https://github.com/Robbyant/lingbot-vla.git
 Robbyant/lingbot-vla-v2[main]: https://github.com/Robbyant/lingbot-vla-v2.git
@@ -3331,6 +3338,7 @@ robo-alex/gs-dynamics[main]: https://github.com/robo-alex/gs-dynamics.git
 robo-arena/roboarena[main]: https://github.com/robo-arena/roboarena.git
 RoboBrainCode/RoboBrainWiki[master]: https://github.com/RoboBrainCode/RoboBrainWiki.git
 robocasa/robocasa[main]: https://github.com/robocasa/robocasa.git
+RoboClaw-Robotics/RoboClaw[main]: https://github.com/RoboClaw-Robotics/RoboClaw.git
 roboflow/awesome-openai-vision-api-experiments[main]: https://github.com/roboflow/awesome-openai-vision-api-experiments.git
 roboflow/sports[main]: https://github.com/roboflow/sports.git
 roboflow/supervision[develop]: https://github.com/roboflow/supervision.git
@@ -3666,6 +3674,7 @@ star-history/star-history[main]: https://github.com/star-history/star-history.gi
 StarCycle/Awesome-Embodied-AI-Job[main]: https://github.com/StarCycle/Awesome-Embodied-AI-Job.git
 StarTrail-org/PixelRAG[main]: https://github.com/StarTrail-org/PixelRAG.git
 state-spaces/mamba[main]: https://github.com/state-spaces/mamba.git
+stats-organization/github-stats-extended[master]: https://github.com/stats-organization/github-stats-extended.git
 Stella-robot/GaiaHand[main]: https://github.com/Stella-robot/GaiaHand.git
 stepfun-ai/gelab-zero[main]: https://github.com/stepfun-ai/gelab-zero.git
 stepfun-ai/Step1X-3D[main]: https://github.com/stepfun-ai/Step1X-3D.git
