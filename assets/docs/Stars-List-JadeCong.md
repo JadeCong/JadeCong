@@ -348,6 +348,7 @@ AuboRobot/aubo_ros2_driver[main]: https://github.com/AuboRobot/aubo_ros2_driver.
 AuboRobot/aubo_ros_driver[main]: https://github.com/AuboRobot/aubo_ros_driver.git
 AuboRobot/mra7a[indigo-devel]: https://github.com/AuboRobot/mra7a.git
 AuboRobot/mra7a_tutorials[indigo-devel]: https://github.com/AuboRobot/mra7a_tutorials.git
+Audio8-AI/Audio8_TTS[master]: https://github.com/Audio8-AI/Audio8_TTS.git
 aurone/trac_ik[master]: https://github.com/aurone/trac_ik.git
 AutodeskRoboticsLab/graspfactory[main]: https://github.com/AutodeskRoboticsLab/graspfactory.git
 autogyro/yolo-V8[main]: https://github.com/autogyro/yolo-V8.git
@@ -550,6 +551,7 @@ ccyyycy/ycy[master]: https://github.com/ccyyycy/ycy.git
 cdevin/objectattention[master]: https://github.com/cdevin/objectattention.git
 cdjc/goto[master]: https://github.com/cdjc/goto.git
 cdpierse/transformers-interpret[master]: https://github.com/cdpierse/transformers-interpret.git
+CEA-LIST/GOAG[main]: https://github.com/CEA-LIST/GOAG.git
 ceres-solver/ceres-solver[master]: https://github.com/ceres-solver/ceres-solver.git
 Ceruleanacg/Learning-Notes[master]: https://github.com/Ceruleanacg/Learning-Notes.git
 cft0808/edict[main]: https://github.com/cft0808/edict.git
@@ -2297,6 +2299,7 @@ MagicMirrorOrg/MagicMirror[master]: https://github.com/MagicMirrorOrg/MagicMirro
 MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.git
 maillab/cloud-mail[main]: https://github.com/maillab/cloud-mail.git
+makerspet/oomwoo[main]: https://github.com/makerspet/oomwoo.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 malik-group/do-as-i-do[main]: https://github.com/malik-group/do-as-i-do.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
@@ -2312,6 +2315,7 @@ ManUtdMoon/ZPRL[main]: https://github.com/ManUtdMoon/ZPRL.git
 manycore-research/SpatialLM[main]: https://github.com/manycore-research/SpatialLM.git
 maplezzz/NTU_ML2017_Hung-yi-Lee_HW[master]: https://github.com/maplezzz/NTU_ML2017_Hung-yi-Lee_HW.git
 marcelo-earth/generative-manim[main]: https://github.com/marcelo-earth/generative-manim.git
+margelo/react-native-vision-camera[main]: https://github.com/margelo/react-native-vision-camera.git
 mariatirindelli/FacetJointNavigation[master]: https://github.com/mariatirindelli/FacetJointNavigation.git
 MarilynKeller/HIT[main]: https://github.com/MarilynKeller/HIT.git
 mariusrubo/Unity-Humanoid-Mocap-CSV[master]: https://github.com/mariusrubo/Unity-Humanoid-Mocap-CSV.git
@@ -2539,6 +2543,7 @@ modular/modular[main]: https://github.com/modular/modular.git
 moeru-ai/airi[main]: https://github.com/moeru-ai/airi.git
 momentum-robotics-lab/deformgs[main]: https://github.com/momentum-robotics-lab/deformgs.git
 Mondo-Robotics/DiT4DiT[main]: https://github.com/Mondo-Robotics/DiT4DiT.git
+Mondo-Robotics/PMT[main]: https://github.com/Mondo-Robotics/PMT.git
 mongodb/mongo[master]: https://github.com/mongodb/mongo.git
 MonitorControl/MonitorControl[main]: https://github.com/MonitorControl/MonitorControl.git
 monoio-rs/monoio[master]: https://github.com/monoio-rs/monoio.git
@@ -2573,7 +2578,6 @@ mqttjs/MQTT.js[main]: https://github.com/mqttjs/MQTT.js.git
 mrdbourke/machine-learning-roadmap[master]: https://github.com/mrdbourke/machine-learning-roadmap.git
 mrexodia/ida-pro-mcp[main]: https://github.com/mrexodia/ida-pro-mcp.git
 mrgloom/awesome-semantic-segmentation[master]: https://github.com/mrgloom/awesome-semantic-segmentation.git
-mrousavy/react-native-vision-camera[main]: https://github.com/mrousavy/react-native-vision-camera.git
 MrTornado24/DreamCraft3D_Plus[main]: https://github.com/MrTornado24/DreamCraft3D_Plus.git
 msadowski/awesome-weekly-robotics[master]: https://github.com/msadowski/awesome-weekly-robotics.git
 mschneider456/worldmesh[main]: https://github.com/mschneider456/worldmesh.git
@@ -2842,6 +2846,8 @@ ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
 Oldpan/Faceswap-Deepfake-Pytorch[master]: https://github.com/Oldpan/Faceswap-Deepfake-Pytorch.git
 Oliver-Cong02/UMO[main]: https://github.com/Oliver-Cong02/UMO.git
 ollama/ollama[main]: https://github.com/ollama/ollama.git
+omacom/omarchy[quattro]: https://github.com/omacom/omarchy.git
+omnilink-tech/omnisim[main]: https://github.com/omnilink-tech/omnisim.git
 OmniSVG/OmniSVG[main]: https://github.com/OmniSVG/OmniSVG.git
 ompl/ompl[main]: https://github.com/ompl/ompl.git
 Oneflow-Inc/oneflow[master]: https://github.com/Oneflow-Inc/oneflow.git
@@ -2943,6 +2949,7 @@ openmediavault/openmediavault[master]: https://github.com/openmediavault/openmed
 OpenMOSS/Awesome-WAM[main]: https://github.com/OpenMOSS/Awesome-WAM.git
 OpenMOSS/FRoM-W1[main]: https://github.com/OpenMOSS/FRoM-W1.git
 OpenMOSS/MOSS-TTS-Nano[main]: https://github.com/OpenMOSS/MOSS-TTS-Nano.git
+OpenMOSS/OpenETA[main]: https://github.com/OpenMOSS/OpenETA.git
 OpenMOSS/RoboOmni[main]: https://github.com/OpenMOSS/RoboOmni.git
 OpenMOSS/VLABench[main]: https://github.com/OpenMOSS/VLABench.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
@@ -3066,7 +3073,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
-PhyAgentOS/PhyAgentOS-core[preview]: https://github.com/PhyAgentOS/PhyAgentOS-core.git
+PhyAgentOS/PhyAgentOS-core[main]: https://github.com/PhyAgentOS/PhyAgentOS-core.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
@@ -3519,6 +3526,7 @@ shadowsocks/shadowsocks-windows[v4]: https://github.com/shadowsocks/shadowsocks-
 shadowsocks/ShadowsocksX-NG[develop]: https://github.com/shadowsocks/ShadowsocksX-NG.git
 shadowsocks/v2ray-plugin[master]: https://github.com/shadowsocks/v2ray-plugin.git
 ShangtongZhang/reinforcement-learning-an-introduction[master]: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
+ShaoanWang/TrackVLA[main]: https://github.com/ShaoanWang/TrackVLA.git
 shaoyifei96/Symskill[sim]: https://github.com/shaoyifei96/Symskill.git
 shareAI-lab/Kode-CLI[main]: https://github.com/shareAI-lab/Kode-CLI.git
 shareAI-lab/learn-claude-code[main]: https://github.com/shareAI-lab/learn-claude-code.git
@@ -4217,7 +4225,6 @@ worldcoin/idkit-js[main]: https://github.com/worldcoin/idkit-js.git
 WorldModelBench-Team/WorldModelBench[main]: https://github.com/WorldModelBench-Team/WorldModelBench.git
 wow-world-model/wow-world-model[main]: https://github.com/wow-world-model/wow-world-model.git
 WPI-AIM/ros_geomagic[master]: https://github.com/WPI-AIM/ros_geomagic.git
-wsakobe/TrackVLA[main]: https://github.com/wsakobe/TrackVLA.git
 wsdjeg/SpaceVim[master]: https://github.com/wsdjeg/SpaceVim.git
 wshobson/agents[main]: https://github.com/wshobson/agents.git
 wuhaoran6/openRobotics[master]: https://github.com/wuhaoran6/openRobotics.git
