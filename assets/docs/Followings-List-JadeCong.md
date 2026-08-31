@@ -107,6 +107,7 @@ Atarilab: https://github.com/Atarilab
 atenpas: https://github.com/atenpas
 ATH-MaaS: https://github.com/ATH-MaaS
 AuboRobot: https://github.com/AuboRobot
+Audio8-AI: https://github.com/Audio8-AI
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
 AutoLab-SAI-SJTU: https://github.com/AutoLab-SAI-SJTU
 AutomaApp: https://github.com/AutomaApp
@@ -176,6 +177,7 @@ carbon-language: https://github.com/carbon-language
 catachiii: https://github.com/catachiii
 cbfinn: https://github.com/cbfinn
 cdzombak: https://github.com/cdzombak
+CEA-LIST: https://github.com/CEA-LIST
 chai3d: https://github.com/chai3d
 chaidiscovery: https://github.com/chaidiscovery
 Chainlit: https://github.com/Chainlit
@@ -679,6 +681,7 @@ magic-research: https://github.com/magic-research
 MagicMirrorOrg: https://github.com/MagicMirrorOrg
 maillab: https://github.com/maillab
 majacinka: https://github.com/majacinka
+makerspet: https://github.com/makerspet
 MakeYourPet: https://github.com/MakeYourPet
 malik-group: https://github.com/malik-group
 MandiZhao: https://github.com/MandiZhao
@@ -833,6 +836,7 @@ OAI: https://github.com/OAI
 obra: https://github.com/obra
 octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
+omacom: https://github.com/omacom
 Oneflow-Inc: https://github.com/Oneflow-Inc
 onevcat: https://github.com/onevcat
 onlook-dev: https://github.com/onlook-dev
@@ -1077,6 +1081,7 @@ serpapi: https://github.com/serpapi
 SesameAILabs: https://github.com/SesameAILabs
 shadowsocks: https://github.com/shadowsocks
 ShangtongZhang: https://github.com/ShangtongZhang
+ShaoanWang: https://github.com/ShaoanWang
 shaoyifei96: https://github.com/shaoyifei96
 shareAI-lab: https://github.com/shareAI-lab
 sharpa-robotics: https://github.com/sharpa-robotics
@@ -1210,6 +1215,7 @@ tldr-pages: https://github.com/tldr-pages
 tldraw: https://github.com/tldraw
 TMElyralab: https://github.com/TMElyralab
 tnikolla: https://github.com/tnikolla
+tnkrai: https://github.com/tnkrai
 toeverything: https://github.com/toeverything
 TokyoRobotics: https://github.com/TokyoRobotics
 TommyZihao: https://github.com/TommyZihao
@@ -1335,7 +1341,6 @@ wkentaro: https://github.com/wkentaro
 worldarena: https://github.com/worldarena
 worldcoin: https://github.com/worldcoin
 wow-world-model: https://github.com/wow-world-model
-wsakobe: https://github.com/wsakobe
 wshobson: https://github.com/wshobson
 wuphilipp: https://github.com/wuphilipp
 wwj718: https://github.com/wwj718
