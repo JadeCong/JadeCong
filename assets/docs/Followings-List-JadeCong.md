@@ -226,6 +226,7 @@ Conarobot: https://github.com/Conarobot
 ConnectAI-E: https://github.com/ConnectAI-E
 containers: https://github.com/containers
 context-labs: https://github.com/context-labs
+Continuum-AI-Corp: https://github.com/Continuum-AI-Corp
 convergence-ai: https://github.com/convergence-ai
 cool-team-official: https://github.com/cool-team-official
 CopilotKit: https://github.com/CopilotKit
@@ -837,6 +838,7 @@ obra: https://github.com/obra
 octo-models: https://github.com/octo-models
 ollama: https://github.com/ollama
 omacom: https://github.com/omacom
+omnilink-tech: https://github.com/omnilink-tech
 Oneflow-Inc: https://github.com/Oneflow-Inc
 onevcat: https://github.com/onevcat
 onlook-dev: https://github.com/onlook-dev
