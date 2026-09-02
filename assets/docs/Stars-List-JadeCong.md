@@ -646,10 +646,12 @@ ComposioHQ/awesome-claude-skills[master]: https://github.com/ComposioHQ/awesome-
 computerhistory/AlexNet-Source-Code[main]: https://github.com/computerhistory/AlexNet-Source-Code.git
 CompVis/stable-diffusion[main]: https://github.com/CompVis/stable-diffusion.git
 context-labs/aella-data-explorer[main]: https://github.com/context-labs/aella-data-explorer.git
+Continuum-AI-Corp/OrcaRouter-Lite[main]: https://github.com/Continuum-AI-Corp/OrcaRouter-Lite.git
 ControlVLA/ControlVLA[main]: https://github.com/ControlVLA/ControlVLA.git
 convergence-ai/proxy-lite[main]: https://github.com/convergence-ai/proxy-lite.git
 Convertio/convertio-cli[master]: https://github.com/Convertio/convertio-cli.git
 cool-team-official/cool-admin-vue[8.x]: https://github.com/cool-team-official/cool-admin-vue.git
+CopilotKit/CopilotKit[main]: https://github.com/CopilotKit/CopilotKit.git
 CopilotKit/OpenBot[main]: https://github.com/CopilotKit/OpenBot.git
 CoppeliaRobotics/coppeliaSimLib[master]: https://github.com/CoppeliaRobotics/coppeliaSimLib.git
 CoppeliaRobotics/manual[master]: https://github.com/CoppeliaRobotics/manual.git
@@ -1426,6 +1428,7 @@ graykode/xlnet-Pytorch[master]: https://github.com/graykode/xlnet-Pytorch.git
 Graylab/IgFold[main]: https://github.com/Graylab/IgFold.git
 greedying/tctip[master]: https://github.com/greedying/tctip.git
 greensock/GSAP[master]: https://github.com/greensock/GSAP.git
+greensock/gsap-skills[main]: https://github.com/greensock/gsap-skills.git
 grisoon/DreamActor-M1[main]: https://github.com/grisoon/DreamActor-M1.git
 grpc/grpc[master]: https://github.com/grpc/grpc.git
 gsa-tts-archived/ai.gov[main]: https://github.com/gsa-tts-archived/ai.gov.git
@@ -2148,6 +2151,7 @@ libuvc/libuvc[master]: https://github.com/libuvc/libuvc.git
 lichy2004/GazeVLA[main]: https://github.com/lichy2004/GazeVLA.git
 lichy2004/GazeVLA-Data[main]: https://github.com/lichy2004/GazeVLA-Data.git
 lidge-jun/opencodex[main]: https://github.com/lidge-jun/opencodex.git
+lightorigins/LightNav-0[main]: https://github.com/lightorigins/LightNav-0.git
 Ligo-Biosciences/AlphaFold3[main]: https://github.com/Ligo-Biosciences/AlphaFold3.git
 liguodongiot/llm-action[main]: https://github.com/liguodongiot/llm-action.git
 lihanghang/NLP-Knowledge-Graph[master]: https://github.com/lihanghang/NLP-Knowledge-Graph.git
@@ -3205,7 +3209,6 @@ quanhaol/MagicMotion[main]: https://github.com/quanhaol/MagicMotion.git
 QuantConnect/Lean[master]: https://github.com/QuantConnect/Lean.git
 quantopian/zipline[master]: https://github.com/quantopian/zipline.git
 QuentinFuxa/WhisperLiveKit[main]: https://github.com/QuentinFuxa/WhisperLiveKit.git
-QuivrHQ/quivr[main]: https://github.com/QuivrHQ/quivr.git
 qusers/Q6[master]: https://github.com/qusers/Q6.git
 QwenAudio/CosyVoice[main]: https://github.com/QwenAudio/CosyVoice.git
 QwenAudio/SenseVoice[main]: https://github.com/QwenAudio/SenseVoice.git
@@ -3316,6 +3319,7 @@ ripienaar/free-for-dev[master]: https://github.com/ripienaar/free-for-dev.git
 ripl/ManipulationBenchmarkAudit[main]: https://github.com/ripl/ManipulationBenchmarkAudit.git
 riscv/riscv-isa-manual[main]: https://github.com/riscv/riscv-isa-manual.git
 RIVeR-Lab/mobiman[main]: https://github.com/RIVeR-Lab/mobiman.git
+rizinorg/cutter[dev]: https://github.com/rizinorg/cutter.git
 rlabbe/filterpy[master]: https://github.com/rlabbe/filterpy.git
 rlabbe/Kalman-and-Bayesian-Filters-in-Python[master]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python.git
 rlcode/reinforcement-learning[master]: https://github.com/rlcode/reinforcement-learning.git
@@ -3833,6 +3837,7 @@ Textualize/rich[main]: https://github.com/Textualize/rich.git
 tflearn/tflearn[master]: https://github.com/tflearn/tflearn.git
 tgeijten/sconegym[main]: https://github.com/tgeijten/sconegym.git
 The-Pocket/PocketFlow[main]: https://github.com/The-Pocket/PocketFlow.git
+The-Vibe-Company/quivr[main]: https://github.com/The-Vibe-Company/quivr.git
 TheAlgorithms/C[master]: https://github.com/TheAlgorithms/C.git
 TheAlgorithms/C-Plus-Plus[master]: https://github.com/TheAlgorithms/C-Plus-Plus.git
 TheAlgorithms/C-Sharp[master]: https://github.com/TheAlgorithms/C-Sharp.git
