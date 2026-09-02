@@ -77,6 +77,7 @@ OnFinality9: https://github.com/OnFinality9
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
+paulhay052: https://github.com/paulhay052
 pie-rise1development: https://github.com/pie-rise1development
 pinhe91: https://github.com/pinhe91
 Pinkuburu: https://github.com/Pinkuburu
@@ -106,7 +107,6 @@ SyedShaheerHussain: https://github.com/SyedShaheerHussain
 TeacherEvan: https://github.com/TeacherEvan
 TheArtPlug: https://github.com/TheArtPlug
 ThilakesB: https://github.com/ThilakesB
-tomasvarga116: https://github.com/tomasvarga116
 toum120: https://github.com/toum120
 umidjon3455: https://github.com/umidjon3455
 VIDAKHOSHPEY22: https://github.com/VIDAKHOSHPEY22
@@ -114,7 +114,6 @@ vimal0156: https://github.com/vimal0156
 volkn: https://github.com/volkn
 w32zhong: https://github.com/w32zhong
 wareeshaali2003: https://github.com/wareeshaali2003
-webbrain-one: https://github.com/webbrain-one
 wertania: https://github.com/wertania
 windev0609: https://github.com/windev0609
 Wu-Fisher: https://github.com/Wu-Fisher
