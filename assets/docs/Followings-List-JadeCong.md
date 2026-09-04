@@ -923,6 +923,7 @@ PetoiCamp: https://github.com/PetoiCamp
 pewdiepie-archdaemon: https://github.com/pewdiepie-archdaemon
 Phantom-video: https://github.com/Phantom-video
 PhyAgentOS-dev: https://github.com/PhyAgentOS-dev
+PhyScene: https://github.com/PhyScene
 Physical-Intelligence: https://github.com/Physical-Intelligence
 physical-superintelligence-lab: https://github.com/physical-superintelligence-lab
 Picrew: https://github.com/Picrew
