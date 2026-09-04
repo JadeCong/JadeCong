@@ -7,6 +7,7 @@ alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
+aramisjustin068: https://github.com/aramisjustin068
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 arpitrajjj: https://github.com/arpitrajjj
@@ -43,6 +44,7 @@ infinityabundance: https://github.com/infinityabundance
 ipqwery: https://github.com/ipqwery
 ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
+itsprs: https://github.com/itsprs
 ixqSCpxi: https://github.com/ixqSCpxi
 jacobsomer: https://github.com/jacobsomer
 jelspace: https://github.com/jelspace
@@ -52,7 +54,6 @@ jordiaphane: https://github.com/jordiaphane
 JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
-kgarbacinski: https://github.com/kgarbacinski
 Knighthood2001: https://github.com/Knighthood2001
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
