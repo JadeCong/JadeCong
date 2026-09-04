@@ -348,7 +348,6 @@ AuboRobot/aubo_ros2_driver[main]: https://github.com/AuboRobot/aubo_ros2_driver.
 AuboRobot/aubo_ros_driver[main]: https://github.com/AuboRobot/aubo_ros_driver.git
 AuboRobot/mra7a[indigo-devel]: https://github.com/AuboRobot/mra7a.git
 AuboRobot/mra7a_tutorials[indigo-devel]: https://github.com/AuboRobot/mra7a_tutorials.git
-Audio8-AI/Audio8_TTS[master]: https://github.com/Audio8-AI/Audio8_TTS.git
 aurone/trac_ik[master]: https://github.com/aurone/trac_ik.git
 AutodeskRoboticsLab/graspfactory[main]: https://github.com/AutodeskRoboticsLab/graspfactory.git
 autogyro/yolo-V8[main]: https://github.com/autogyro/yolo-V8.git
@@ -916,6 +915,7 @@ eclipse-zenoh/zenoh-plugin-dds[main]: https://github.com/eclipse-zenoh/zenoh-plu
 eclipse-zenoh/zenoh-plugin-ros2dds[main]: https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds.git
 eclipse-zenoh/zenoh-python[main]: https://github.com/eclipse-zenoh/zenoh-python.git
 ecomfe/awesome-echarts[master]: https://github.com/ecomfe/awesome-echarts.git
+Edge0-AI/Audio8_TTS[master]: https://github.com/Edge0-AI/Audio8_TTS.git
 EdikKing/hexhub[master]: https://github.com/EdikKing/hexhub.git
 EGalahad/sim2real[main]: https://github.com/EGalahad/sim2real.git
 Egonex-AI/Understand-Anything[main]: https://github.com/Egonex-AI/Understand-Anything.git
@@ -985,9 +985,16 @@ erwincoumans/motion_imitation[master]: https://github.com/erwincoumans/motion_im
 escontra/AMP_for_hardware[main]: https://github.com/escontra/AMP_for_hardware.git
 escontra/gauss_gym[main]: https://github.com/escontra/gauss_gym.git
 eseckel/ai-for-grant-writing[main]: https://github.com/eseckel/ai-for-grant-writing.git
+espressif/arduino-esp32[master]: https://github.com/espressif/arduino-esp32.git
 espressif/esp-box[master]: https://github.com/espressif/esp-box.git
+espressif/esp-claw[master]: https://github.com/espressif/esp-claw.git
+espressif/esp-idf[master]: https://github.com/espressif/esp-idf.git
+espressif/esp-iot-solution[master]: https://github.com/espressif/esp-iot-solution.git
 espressif/esp-linux-bsp[integration/v1.0-esp32s31]: https://github.com/espressif/esp-linux-bsp.git
 espressif/esp-skainet[master]: https://github.com/espressif/esp-skainet.git
+espressif/esp32-camera[master]: https://github.com/espressif/esp32-camera.git
+espressif/ESP8266_RTOS_SDK[master]: https://github.com/espressif/ESP8266_RTOS_SDK.git
+espressif/esptool[master]: https://github.com/espressif/esptool.git
 etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
 eth-ait/MultiPly[main]: https://github.com/eth-ait/MultiPly.git
@@ -1053,6 +1060,7 @@ facebookresearch/ELF[main]: https://github.com/facebookresearch/ELF.git
 facebookresearch/esm[main]: https://github.com/facebookresearch/esm.git
 facebookresearch/fairseq[main]: https://github.com/facebookresearch/fairseq.git
 facebookresearch/fastText[main]: https://github.com/facebookresearch/fastText.git
+facebookresearch/habitat-sim[main]: https://github.com/facebookresearch/habitat-sim.git
 facebookresearch/home-robot[main]: https://github.com/facebookresearch/home-robot.git
 facebookresearch/House3D[master]: https://github.com/facebookresearch/House3D.git
 facebookresearch/hyperreel[main]: https://github.com/facebookresearch/hyperreel.git
@@ -3079,6 +3087,7 @@ phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
 PhyAgentOS/PhyAgentOS-core[main]: https://github.com/PhyAgentOS/PhyAgentOS-core.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
+PhyScene/PhyScene[main]: https://github.com/PhyScene/PhyScene.git
 Physical-Intelligence/openpi[main]: https://github.com/Physical-Intelligence/openpi.git
 Physical-Intelligence/real-time-chunking-kinetix[main]: https://github.com/Physical-Intelligence/real-time-chunking-kinetix.git
 physical-superintelligence-lab/SIMPLE[main]: https://github.com/physical-superintelligence-lab/SIMPLE.git
@@ -3464,6 +3473,8 @@ ry/tensorflow-resnet[master]: https://github.com/ry/tensorflow-resnet.git
 RyanFitzgerald/devportfolio[master]: https://github.com/RyanFitzgerald/devportfolio.git
 ryanmcdermott/clean-code-javascript[master]: https://github.com/ryanmcdermott/clean-code-javascript.git
 ryoid/web-removebg[main]: https://github.com/ryoid/web-removebg.git
+RyosukeHori/GRIP[main]: https://github.com/RyosukeHori/GRIP.git
+RyosukeHori/PRISM[main]: https://github.com/RyosukeHori/PRISM.git
 sacmehta/delight[master]: https://github.com/sacmehta/delight.git
 sair-lab/AirSLAM[master]: https://github.com/sair-lab/AirSLAM.git
 Saiyan-World/goku[main]: https://github.com/Saiyan-World/goku.git
@@ -3902,7 +3913,7 @@ TingtingLiao/soap[main]: https://github.com/TingtingLiao/soap.git
 TinyAGI/tinyagi[main]: https://github.com/TinyAGI/tinyagi.git
 tinyhumansai/openhuman[main]: https://github.com/tinyhumansai/openhuman.git
 tiptop-robot/tiptop[main]: https://github.com/tiptop-robot/tiptop.git
-titanwings/distilly[dot-skill]: https://github.com/titanwings/distilly.git
+titanwings/distilly[distilly-plugin]: https://github.com/titanwings/distilly.git
 titu1994/neural-architecture-search[master]: https://github.com/titu1994/neural-architecture-search.git
 titu1994/progressive-neural-architecture-search[master]: https://github.com/titu1994/progressive-neural-architecture-search.git
 TixiaoShan/LIO-SAM[master]: https://github.com/TixiaoShan/LIO-SAM.git
@@ -3967,6 +3978,7 @@ trycua/cua[main]: https://github.com/trycua/cua.git
 tsinghua-fib-lab/RoboScape[main]: https://github.com/tsinghua-fib-lab/RoboScape.git
 tsinghua-fib-lab/WorldArena[main]: https://github.com/tsinghua-fib-lab/WorldArena.git
 Tsinghua-MARS-Lab/SLAM-Former[master]: https://github.com/Tsinghua-MARS-Lab/SLAM-Former.git
+Tsinghua-MARS-Lab/SLAMFormer-Infinity[main]: https://github.com/Tsinghua-MARS-Lab/SLAMFormer-Infinity.git
 TsinghuaC3I/Awesome-RL-for-LRMs[main]: https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
