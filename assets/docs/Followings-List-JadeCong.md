@@ -107,7 +107,6 @@ Atarilab: https://github.com/Atarilab
 atenpas: https://github.com/atenpas
 ATH-MaaS: https://github.com/ATH-MaaS
 AuboRobot: https://github.com/AuboRobot
-Audio8-AI: https://github.com/Audio8-AI
 AutodeskRoboticsLab: https://github.com/AutodeskRoboticsLab
 AutoLab-SAI-SJTU: https://github.com/AutoLab-SAI-SJTU
 AutomaApp: https://github.com/AutomaApp
@@ -312,6 +311,7 @@ earthtojake: https://github.com/earthtojake
 easychen: https://github.com/easychen
 EbookFoundation: https://github.com/EbookFoundation
 eclipse-zenoh: https://github.com/eclipse-zenoh
+Edge0-AI: https://github.com/Edge0-AI
 EGalahad: https://github.com/EGalahad
 egosteer: https://github.com/egosteer
 elecfreaks: https://github.com/elecfreaks
@@ -536,6 +536,7 @@ intel: https://github.com/intel
 intelligent-control-lab: https://github.com/intelligent-control-lab
 IntelRealSense: https://github.com/IntelRealSense
 InternRobotics: https://github.com/InternRobotics
+ioai-tech: https://github.com/ioai-tech
 iotdesignshop: https://github.com/iotdesignshop
 irom-princeton: https://github.com/irom-princeton
 Ironclad: https://github.com/Ironclad
@@ -1019,6 +1020,7 @@ RIVeR-Lab: https://github.com/RIVeR-Lab
 RLinf: https://github.com/RLinf
 RobbinW: https://github.com/RobbinW
 Robbyant: https://github.com/Robbyant
+robbyant-research: https://github.com/robbyant-research
 roberto-martinmartin: https://github.com/roberto-martinmartin
 Roblox: https://github.com/Roblox
 robocasa: https://github.com/robocasa
