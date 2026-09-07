@@ -126,6 +126,7 @@ aipoch/medical-research-skills[main]: https://github.com/aipoch/medical-research
 airbnb/javascript[master]: https://github.com/airbnb/javascript.git
 aitorzip/PyTorch-CycleGAN[master]: https://github.com/aitorzip/PyTorch-CycleGAN.git
 AiuniAI/Unique3D[main]: https://github.com/AiuniAI/Unique3D.git
+aiworkskills/wechat-article-skills[main]: https://github.com/aiworkskills/wechat-article-skills.git
 ajbrock/BigGAN-PyTorch[master]: https://github.com/ajbrock/BigGAN-PyTorch.git
 ajdillhoff/pytorch-deep-prior[master]: https://github.com/ajdillhoff/pytorch-deep-prior.git
 ajwagen/dsrl[main]: https://github.com/ajwagen/dsrl.git
@@ -1264,6 +1265,7 @@ GarageGames/Torque3D[development]: https://github.com/GarageGames/Torque3D.git
 GarlicBa/LiteVGGT-repo[main]: https://github.com/GarlicBa/LiteVGGT-repo.git
 garrytan/gbrain[master]: https://github.com/garrytan/gbrain.git
 garrytan/gstack[main]: https://github.com/garrytan/gstack.git
+garychowcmu/daizhigev20[master]: https://github.com/garychowcmu/daizhigev20.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
 GaTech-RL2/EgoVerse[main]: https://github.com/GaTech-RL2/EgoVerse.git
 GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
@@ -1309,6 +1311,7 @@ geyan21/ManiFlow_Policy[main]: https://github.com/geyan21/ManiFlow_Policy.git
 ggerganov/ggwave[master]: https://github.com/ggerganov/ggwave.git
 ggml-org/llama.cpp[master]: https://github.com/ggml-org/llama.cpp.git
 ggml-org/whisper.cpp[master]: https://github.com/ggml-org/whisper.cpp.git
+ggxxii/ACE-Ego-Hand[main]: https://github.com/ggxxii/ACE-Ego-Hand.git
 ghanning/MultiViewRoomLayout[main]: https://github.com/ghanning/MultiViewRoomLayout.git
 ghanning/PolyLayout[main]: https://github.com/ghanning/PolyLayout.git
 gicheonkang/prograsp[master]: https://github.com/gicheonkang/prograsp.git
@@ -1759,6 +1762,8 @@ InternRobotics/SIM1[main]: https://github.com/InternRobotics/SIM1.git
 InternRobotics/UniHSI[main]: https://github.com/InternRobotics/UniHSI.git
 interstellard/chatgpt-advanced[main]: https://github.com/interstellard/chatgpt-advanced.git
 introlab/rtabmap[master]: https://github.com/introlab/rtabmap.git
+ioai-tech/lerobot-studio[main]: https://github.com/ioai-tech/lerobot-studio.git
+ioai-tech/rosview[main]: https://github.com/ioai-tech/rosview.git
 ioiogoo/poetry_generator_Keras[master]: https://github.com/ioiogoo/poetry_generator_Keras.git
 iotdesignshop/dexhand-ble[main]: https://github.com/iotdesignshop/dexhand-ble.git
 iotdesignshop/dexhand_description[main]: https://github.com/iotdesignshop/dexhand_description.git
@@ -2045,7 +2050,7 @@ Kong/swrv[master]: https://github.com/Kong/swrv.git
 kortix-ai/suna[main]: https://github.com/kortix-ai/suna.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
 krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
-krillinai/KrillinAI[master]: https://github.com/krillinai/KrillinAI.git
+krillinai/OpenCreator[master]: https://github.com/krillinai/OpenCreator.git
 krish-suresh/flying_knots_public[main]: https://github.com/krish-suresh/flying_knots_public.git
 krishauser/Klampt[master]: https://github.com/krishauser/Klampt.git
 krishauser/Klampt-examples[master]: https://github.com/krishauser/Klampt-examples.git
@@ -3074,6 +3079,7 @@ petercorke/robotics-toolbox-python[main]: https://github.com/petercorke/robotics
 PeterH0323/Streamer-Sales[main]: https://github.com/PeterH0323/Streamer-Sales.git
 PeterL1n/BackgroundMattingV2[master]: https://github.com/PeterL1n/BackgroundMattingV2.git
 PetoiCamp/OpenCat-Quadruped-Robot[main]: https://github.com/PetoiCamp/OpenCat-Quadruped-Robot.git
+PetoiCamp/OpenCatEsp32-Quadruped-Robot[main]: https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot.git
 Phantom-video/HuMo[main]: https://github.com/Phantom-video/HuMo.git
 Phantom-video/Phantom[main]: https://github.com/Phantom-video/Phantom.git
 philc/vimium[master]: https://github.com/philc/vimium.git
@@ -3344,6 +3350,7 @@ robbyant-research/DepthLab[main]: https://github.com/robbyant-research/DepthLab.
 robbyant-research/FLARE[main]: https://github.com/robbyant-research/FLARE.git
 robbyant-research/LeviTor[main]: https://github.com/robbyant-research/LeviTor.git
 robbyant-research/MagicQuill[main]: https://github.com/robbyant-research/MagicQuill.git
+robbyant-research/Zero-WAM[main]: https://github.com/robbyant-research/Zero-WAM.git
 Robbyant/lingbot-map[main]: https://github.com/Robbyant/lingbot-map.git
 Robbyant/lingbot-vla[main]: https://github.com/Robbyant/lingbot-vla.git
 Robbyant/lingbot-vla-v2[main]: https://github.com/Robbyant/lingbot-vla-v2.git
