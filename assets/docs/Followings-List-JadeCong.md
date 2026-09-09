@@ -1199,6 +1199,7 @@ TheRobotStudio: https://github.com/TheRobotStudio
 ThingPulse: https://github.com/ThingPulse
 thkkk: https://github.com/thkkk
 thu-coai: https://github.com/thu-coai
+THU-MAIC: https://github.com/THU-MAIC
 thu-ml: https://github.com/thu-ml
 THU-SI: https://github.com/THU-SI
 THUDM: https://github.com/THUDM
