@@ -202,6 +202,7 @@ ament/ament_lint[rolling]: https://github.com/ament/ament_lint.git
 ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub[main]: https://github.com/ami-iit/paper_gorbani_2025_humanoids_multi-rate-mpc-ironcub.git
 amir1376/ab-download-manager[master]: https://github.com/amir1376/ab-download-manager.git
 AmmarkoV/SAM3DBody-cpp[main]: https://github.com/AmmarkoV/SAM3DBody-cpp.git
+Ampixa/sanoTTS[master]: https://github.com/Ampixa/sanoTTS.git
 amplab/SparkNet[master]: https://github.com/amplab/SparkNet.git
 anaconda/docker-images[main]: https://github.com/anaconda/docker-images.git
 anandpawara/Real_Time_Image_Animation[master]: https://github.com/anandpawara/Real_Time_Image_Animation.git
@@ -1076,6 +1077,7 @@ facebookresearch/pifuhd[main]: https://github.com/facebookresearch/pifuhd.git
 facebookresearch/pippo[main]: https://github.com/facebookresearch/pippo.git
 facebookresearch/projectaria_gen2_depth_from_stereo[main]: https://github.com/facebookresearch/projectaria_gen2_depth_from_stereo.git
 facebookresearch/projectaria_tools[main]: https://github.com/facebookresearch/projectaria_tools.git
+facebookresearch/project_superdex[main]: https://github.com/facebookresearch/project_superdex.git
 facebookresearch/pyrobot[main]: https://github.com/facebookresearch/pyrobot.git
 facebookresearch/PyTorch-BigGraph[main]: https://github.com/facebookresearch/PyTorch-BigGraph.git
 facebookresearch/PyTouch[main]: https://github.com/facebookresearch/PyTouch.git
@@ -2371,6 +2373,7 @@ Max-Fu/icrt[main]: https://github.com/Max-Fu/icrt.git
 maxin-cn/Cinemo[main]: https://github.com/maxin-cn/Cinemo.git
 maxjcohen/transformer[master]: https://github.com/maxjcohen/transformer.git
 maybe-finance/maybe[main]: https://github.com/maybe-finance/maybe.git
+mayukh4/linux-android[main]: https://github.com/mayukh4/linux-android.git
 mbortolon97/6dgs[main]: https://github.com/mbortolon97/6dgs.git
 MC-E/ReVideo[main]: https://github.com/MC-E/ReVideo.git
 mcfletch/pyopengl[master]: https://github.com/mcfletch/pyopengl.git
@@ -2671,6 +2674,7 @@ NeuronDance/DeepRL[master]: https://github.com/NeuronDance/DeepRL.git
 Neverforgetlove/xmate_robot[main]: https://github.com/Neverforgetlove/xmate_robot.git
 Newmu/dcgan_code[master]: https://github.com/Newmu/dcgan_code.git
 Newmu/Theano-Tutorials[master]: https://github.com/Newmu/Theano-Tutorials.git
+newsnext/newsnow[main]: https://github.com/newsnext/newsnow.git
 newton-physics/newton[main]: https://github.com/newton-physics/newton.git
 nextcloud/server[master]: https://github.com/nextcloud/server.git
 nexu-io/html-anything[main]: https://github.com/nexu-io/html-anything.git
@@ -3012,7 +3016,6 @@ OthersideAI/self-operating-computer[main]: https://github.com/OthersideAI/self-o
 OthmanAdi/planning-with-files[master]: https://github.com/OthmanAdi/planning-with-files.git
 OtterMind/Chat2DB[main]: https://github.com/OtterMind/Chat2DB.git
 ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
-ourongxing/newsnow[main]: https://github.com/ourongxing/newsnow.git
 ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
 ov2slam/ov2slam[main]: https://github.com/ov2slam/ov2slam.git
 overleaf-workshop/Overleaf-Workshop[master]: https://github.com/overleaf-workshop/Overleaf-Workshop.git
@@ -3141,6 +3144,7 @@ PokuangZhou/ContactWorld[main]: https://github.com/PokuangZhou/ContactWorld.git
 policyconsensus/policyconsensus[main]: https://github.com/policyconsensus/policyconsensus.git
 pollen-robotics/AmazingHand[main]: https://github.com/pollen-robotics/AmazingHand.git
 pollen-robotics/microduck[main]: https://github.com/pollen-robotics/microduck.git
+pollen-robotics/microduck_rl[develop]: https://github.com/pollen-robotics/microduck_rl.git
 pollen-robotics/reachy-2019[master]: https://github.com/pollen-robotics/reachy-2019.git
 pollen-robotics/reachy-mini-motor-controller[main]: https://github.com/pollen-robotics/reachy-mini-motor-controller.git
 pollen-robotics/reachy-sdk[main]: https://github.com/pollen-robotics/reachy-sdk.git
@@ -3780,7 +3784,6 @@ TangYihe/unsup-affordance[main]: https://github.com/TangYihe/unsup-affordance.gi
 TanixLu/pyfuze[main]: https://github.com/TanixLu/pyfuze.git
 tanweai/pua[main]: https://github.com/tanweai/pua.git
 Taokt/MT-ACT[main]: https://github.com/Taokt/MT-ACT.git
-TapXWorld/ChinaTextbook[master]: https://github.com/TapXWorld/ChinaTextbook.git
 tarm/serial[master]: https://github.com/tarm/serial.git
 tasl-lab/LaMMA-P[main]: https://github.com/tasl-lab/LaMMA-P.git
 tatsu-lab/stanford_alpaca[main]: https://github.com/tatsu-lab/stanford_alpaca.git
@@ -3883,6 +3886,7 @@ Thinklab-SJTU/Awesome-LLM4AD[main]: https://github.com/Thinklab-SJTU/Awesome-LLM
 thkkk/manibox[main]: https://github.com/thkkk/manibox.git
 thoughtbot/dotfiles[main]: https://github.com/thoughtbot/dotfiles.git
 thu-coai/SafetyBench[main]: https://github.com/thu-coai/SafetyBench.git
+THU-MAIC/OpenMAIC[main]: https://github.com/THU-MAIC/OpenMAIC.git
 THU-MIG/yolov10[main]: https://github.com/THU-MIG/yolov10.git
 thu-ml/Motus[main]: https://github.com/thu-ml/Motus.git
 thu-ml/RDT2[main]: https://github.com/thu-ml/RDT2.git
@@ -3988,6 +3992,7 @@ Tsinghua-MARS-Lab/SLAM-Former[master]: https://github.com/Tsinghua-MARS-Lab/SLAM
 Tsinghua-MARS-Lab/SLAMFormer-Infinity[main]: https://github.com/Tsinghua-MARS-Lab/SLAMFormer-Infinity.git
 TsinghuaC3I/Awesome-RL-for-LRMs[main]: https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
+ttktjmt/mjswan[main]: https://github.com/ttktjmt/mjswan.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
 tub-rip/ES-PTAM[main]: https://github.com/tub-rip/ES-PTAM.git
 tub-rip/visual_stabilization[main]: https://github.com/tub-rip/visual_stabilization.git
@@ -4275,6 +4280,7 @@ x1xhlol/system-prompts-and-models-of-ai-tools[main]: https://github.com/x1xhlol/
 xai-org/grok-1[main]: https://github.com/xai-org/grok-1.git
 xArm-Developer/xarm_ros[master]: https://github.com/xArm-Developer/xarm_ros.git
 xavier150/Blender-For-UnrealEngine-Addons[release]: https://github.com/xavier150/Blender-For-UnrealEngine-Addons.git
+Xbotics-Embodied-AI-club/RL_duck[main]: https://github.com/Xbotics-Embodied-AI-club/RL_duck.git
 Xbotics-Embodied-AI-club/Xbotics-Embodied-Guide[main]: https://github.com/Xbotics-Embodied-AI-club/Xbotics-Embodied-Guide.git
 xbpeng/awr[master]: https://github.com/xbpeng/awr.git
 xbpeng/DeepLoco[master]: https://github.com/xbpeng/DeepLoco.git
