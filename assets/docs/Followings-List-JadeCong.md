@@ -578,6 +578,7 @@ junyanz: https://github.com/junyanz
 Junyi42: https://github.com/Junyi42
 justjavac: https://github.com/justjavac
 jwasham: https://github.com/jwasham
+JYChen18: https://github.com/JYChen18
 KaimingHe: https://github.com/KaimingHe
 Kaixhin: https://github.com/Kaixhin
 kaixindelele: https://github.com/kaixindelele
@@ -1079,6 +1080,7 @@ scrapy: https://github.com/scrapy
 screego: https://github.com/screego
 ScriptEcho-ai: https://github.com/ScriptEcho-ai
 scutan90: https://github.com/scutan90
+scy-v: https://github.com/scy-v
 Sense-X: https://github.com/Sense-X
 sentient-agi: https://github.com/sentient-agi
 serhii-londar: https://github.com/serhii-londar
@@ -1111,6 +1113,7 @@ SJTU-ViSYS: https://github.com/SJTU-ViSYS
 skywind3000: https://github.com/skywind3000
 SkyworkAI: https://github.com/SkyworkAI
 slopus: https://github.com/slopus
+SMPLOlympics: https://github.com/SMPLOlympics
 sniekum: https://github.com/sniekum
 snuvclab: https://github.com/snuvclab
 SocialAI-tianji: https://github.com/SocialAI-tianji
@@ -1121,6 +1124,7 @@ solid: https://github.com/solid
 sorrycc: https://github.com/sorrycc
 soskek: https://github.com/soskek
 soybeanjs: https://github.com/soybeanjs
+SparcAI-Inc: https://github.com/SparcAI-Inc
 SparkAudio: https://github.com/SparkAudio
 SpectacularAI: https://github.com/SpectacularAI
 sphinx-doc: https://github.com/sphinx-doc
@@ -1178,6 +1182,7 @@ TEA-Lab: https://github.com/TEA-Lab
 team-aprl: https://github.com/team-aprl
 TeamWiseFlow: https://github.com/TeamWiseFlow
 TeleHuman: https://github.com/TeleHuman
+telekinesis-ai: https://github.com/telekinesis-ai
 Tencent: https://github.com/Tencent
 tencent-ailab: https://github.com/tencent-ailab
 Tencent-Hunyuan: https://github.com/Tencent-Hunyuan
@@ -1238,6 +1243,7 @@ trycua: https://github.com/trycua
 tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
 Tsinghua-MARS-Lab: https://github.com/Tsinghua-MARS-Lab
 TsinghuaC3I: https://github.com/TsinghuaC3I
+ttktjmt: https://github.com/ttktjmt
 tud-amr: https://github.com/tud-amr
 tum-phoenix: https://github.com/tum-phoenix
 tum-vision: https://github.com/tum-vision
@@ -1391,6 +1397,7 @@ yerfor: https://github.com/yerfor
 yformer: https://github.com/yformer
 Yidadaa: https://github.com/Yidadaa
 yikaiw: https://github.com/yikaiw
+yikart: https://github.com/yikart
 yiranran: https://github.com/yiranran
 YJango: https://github.com/YJango
 yjy0625: https://github.com/yjy0625
