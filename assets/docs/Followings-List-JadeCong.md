@@ -189,6 +189,7 @@ chathub-dev: https://github.com/chathub-dev
 chatmcp: https://github.com/chatmcp
 chenglou: https://github.com/chenglou
 CherryHQ: https://github.com/CherryHQ
+Chestnut-Robotics: https://github.com/Chestnut-Robotics
 chrisalbon: https://github.com/chrisalbon
 chrislgarry: https://github.com/chrislgarry
 ChrisTitusTech: https://github.com/ChrisTitusTech
@@ -735,6 +736,7 @@ mit-han-lab: https://github.com/mit-han-lab
 MIT-MI: https://github.com/MIT-MI
 mlc-ai: https://github.com/mlc-ai
 mmatl: https://github.com/mmatl
+MMintLab: https://github.com/MMintLab
 modelcontextprotocol: https://github.com/modelcontextprotocol
 modelscope: https://github.com/modelscope
 Mondo-Robotics: https://github.com/Mondo-Robotics
@@ -1092,6 +1094,7 @@ ShaoanWang: https://github.com/ShaoanWang
 shaoyifei96: https://github.com/shaoyifei96
 shareAI-lab: https://github.com/shareAI-lab
 sharpa-robotics: https://github.com/sharpa-robotics
+ShawnPana: https://github.com/ShawnPana
 SHI-Labs: https://github.com/SHI-Labs
 shidenggui: https://github.com/shidenggui
 showlab: https://github.com/showlab
@@ -1193,7 +1196,6 @@ TencentYoutuResearch: https://github.com/TencentYoutuResearch
 tensorflow: https://github.com/tensorflow
 teslamate-org: https://github.com/teslamate-org
 teslamotors: https://github.com/teslamotors
-TetherIA: https://github.com/TetherIA
 Textualize: https://github.com/Textualize
 tgeijten: https://github.com/tgeijten
 The-Pocket: https://github.com/The-Pocket
