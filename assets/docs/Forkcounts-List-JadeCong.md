@@ -11,6 +11,7 @@ JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.
   - tt-52101: https://github.com/tt-52101
 JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot-Learning.git
   - FreezeSoul: https://github.com/FreezeSoul
+  - GhostDragon9889: https://github.com/GhostDragon9889
   - JiahongWu1995: https://github.com/JiahongWu1995
   - muyangren499: https://github.com/muyangren499
   - raphaelhou25: https://github.com/raphaelhou25
