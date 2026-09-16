@@ -88,6 +88,7 @@ applied-ai-lab: https://github.com/applied-ai-lab
 appwrite: https://github.com/appwrite
 aramis-lab: https://github.com/aramis-lab
 aravindsrinivas: https://github.com/aravindsrinivas
+arc-l: https://github.com/arc-l
 ArcInstitute: https://github.com/ArcInstitute
 arduino: https://github.com/arduino
 argusswift: https://github.com/argusswift
@@ -196,6 +197,7 @@ ChrisTitusTech: https://github.com/ChrisTitusTech
 chrisyrniu: https://github.com/chrisyrniu
 ChromeDevTools: https://github.com/ChromeDevTools
 chuanqi305: https://github.com/chuanqi305
+chungmin99: https://github.com/chungmin99
 chvmp: https://github.com/chvmp
 CiscoDevNet: https://github.com/CiscoDevNet
 clash-download: https://github.com/clash-download
@@ -336,6 +338,7 @@ escontra: https://github.com/escontra
 espressif: https://github.com/espressif
 EstunSWRD: https://github.com/EstunSWRD
 etched-ai: https://github.com/etched-ai
+eth-siplab: https://github.com/eth-siplab
 eth-sri: https://github.com/eth-sri
 EtherDream: https://github.com/EtherDream
 ethereum: https://github.com/ethereum
@@ -608,6 +611,7 @@ krishauser: https://github.com/krishauser
 kscalelabs: https://github.com/kscalelabs
 kuindersma: https://github.com/kuindersma
 kvcache-ai: https://github.com/kvcache-ai
+kvuong2711: https://github.com/kvuong2711
 kyegomez: https://github.com/kyegomez
 Kyubyong: https://github.com/Kyubyong
 labuladong: https://github.com/labuladong
@@ -934,6 +938,7 @@ Picrew: https://github.com/Picrew
 Picsart-AI-Research: https://github.com/Picsart-AI-Research
 pika: https://github.com/pika
 PikaLabs: https://github.com/PikaLabs
+PINE-Lab-NTU: https://github.com/PINE-Lab-NTU
 pinokiocomputer: https://github.com/pinokiocomputer
 pipecat-ai: https://github.com/pipecat-ai
 PKU-EPIC: https://github.com/PKU-EPIC
@@ -1078,6 +1083,7 @@ SamuelSchmidgall: https://github.com/SamuelSchmidgall
 sanbuphy: https://github.com/sanbuphy
 saprmarks: https://github.com/saprmarks
 sashabaranov: https://github.com/sashabaranov
+SCAI-JHU: https://github.com/SCAI-JHU
 scrapy: https://github.com/scrapy
 screego: https://github.com/screego
 ScriptEcho-ai: https://github.com/ScriptEcho-ai
@@ -1109,6 +1115,7 @@ SimpleAutomationOrg: https://github.com/SimpleAutomationOrg
 simpler-env: https://github.com/simpler-env
 simstudioai: https://github.com/simstudioai
 simular-ai: https://github.com/simular-ai
+SimWorld-AI: https://github.com/SimWorld-AI
 sindresorhus: https://github.com/sindresorhus
 sinoyou: https://github.com/sinoyou
 sipeed: https://github.com/sipeed
@@ -1259,6 +1266,7 @@ TX-Leo: https://github.com/TX-Leo
 txsun1997: https://github.com/txsun1997
 tylerlum: https://github.com/tylerlum
 TypingMind: https://github.com/TypingMind
+tzuyuan: https://github.com/tzuyuan
 ubuntu: https://github.com/ubuntu
 Ucas-HaoranWei: https://github.com/Ucas-HaoranWei
 ucla: https://github.com/ucla
@@ -1431,6 +1439,7 @@ Zie619: https://github.com/Zie619
 ziplab: https://github.com/ziplab
 Zipstack: https://github.com/Zipstack
 ZiqiaoPeng: https://github.com/ZiqiaoPeng
+ZJU-LLMs: https://github.com/ZJU-LLMs
 zju3dv: https://github.com/zju3dv
 ZLMediaKit: https://github.com/ZLMediaKit
 zmh-program: https://github.com/zmh-program
