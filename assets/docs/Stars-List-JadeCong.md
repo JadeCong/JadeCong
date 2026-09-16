@@ -97,7 +97,7 @@ agrinman/tunnelto[master]: https://github.com/agrinman/tunnelto.git
 AhmadDarKhalil/HOI-DETR[main]: https://github.com/AhmadDarKhalil/HOI-DETR.git
 ahmedkhaleel2004/gitdiagram[main]: https://github.com/ahmedkhaleel2004/gitdiagram.git
 ahq1993/MPNet[master]: https://github.com/ahq1993/MPNet.git
-ahujasid/blender-mcp[main]: https://github.com/ahujasid/blender-mcp.git
+ahujasid/mcp-for-blender[main]: https://github.com/ahujasid/mcp-for-blender.git
 ahundt/awesome-robotics[master]: https://github.com/ahundt/awesome-robotics.git
 AI-liu/Complex-YOLO[master]: https://github.com/AI-liu/Complex-YOLO.git
 ai-shifu/ChatALL[main]: https://github.com/ai-shifu/ChatALL.git
@@ -2262,6 +2262,7 @@ loco-3d/crocoddyl[devel]: https://github.com/loco-3d/crocoddyl.git
 locomanip-duet/RoboDuet[master]: https://github.com/locomanip-duet/RoboDuet.git
 loggerhead/json4u[main]: https://github.com/loggerhead/json4u.git
 logseq/logseq[master]: https://github.com/logseq/logseq.git
+lok-i/orcs[main]: https://github.com/lok-i/orcs.git
 longcw/pytorch2caffe[master]: https://github.com/longcw/pytorch2caffe.git
 LongJin-lab/ARCM[main]: https://github.com/LongJin-lab/ARCM.git
 loongOpen/OpenLoong-Brain[main]: https://github.com/loongOpen/OpenLoong-Brain.git
@@ -2437,6 +2438,7 @@ metauto-ai/agent-as-a-judge[main]: https://github.com/metauto-ai/agent-as-a-judg
 metric-anything/metric-anything[main]: https://github.com/metric-anything/metric-anything.git
 meyerls/FruitNeRF[main]: https://github.com/meyerls/FruitNeRF.git
 mfornos/awesome-microservices[master]: https://github.com/mfornos/awesome-microservices.git
+mfpeticco/karma-hand-metric[main]: https://github.com/mfpeticco/karma-hand-metric.git
 mhutchie/vscode-git-graph[develop]: https://github.com/mhutchie/vscode-git-graph.git
 Miaosheng1/EVolSplat4D[main]: https://github.com/Miaosheng1/EVolSplat4D.git
 Michael-A-Kuykendall/shimmy[main]: https://github.com/Michael-A-Kuykendall/shimmy.git
@@ -3131,6 +3133,7 @@ pickxiguapi/Embodied-R1[main]: https://github.com/pickxiguapi/Embodied-R1.git
 Picrew/awesome-agent-harness[main]: https://github.com/Picrew/awesome-agent-harness.git
 Picsart-AI-Research/StreamingT2V[main]: https://github.com/Picsart-AI-Research/StreamingT2V.git
 pika/pika[main]: https://github.com/pika/pika.git
+PINE-Lab-NTU/FACET[main]: https://github.com/PINE-Lab-NTU/FACET.git
 pink-kinematics/pink[main]: https://github.com/pink-kinematics/pink.git
 pinokiocomputer/pinokio[main]: https://github.com/pinokiocomputer/pinokio.git
 pipecat-ai/pipecat[main]: https://github.com/pipecat-ai/pipecat.git
@@ -3611,6 +3614,7 @@ Shopify/shopify.github.com[main]: https://github.com/Shopify/shopify.github.com.
 shoumenchougou/RWKV-Wiki-CN[main]: https://github.com/shoumenchougou/RWKV-Wiki-CN.git
 showlab/Code2Video[main]: https://github.com/showlab/Code2Video.git
 showlab/Paper2Video[main]: https://github.com/showlab/Paper2Video.git
+showlab/Show-Harness[main]: https://github.com/showlab/Show-Harness.git
 showlab/X-Humanoid[main]: https://github.com/showlab/X-Humanoid.git
 ShuangLI59/unified_video_action[main]: https://github.com/ShuangLI59/unified_video_action.git
 Shubhamsaboo/awesome-llm-apps[main]: https://github.com/Shubhamsaboo/awesome-llm-apps.git
@@ -4553,6 +4557,7 @@ zju3dv/IntrinsicAnything[master]: https://github.com/zju3dv/IntrinsicAnything.gi
 zju3dv/MatchAnything[main]: https://github.com/zju3dv/MatchAnything.git
 zju3dv/Murre[main]: https://github.com/zju3dv/Murre.git
 zju3dv/neuralbody[master]: https://github.com/zju3dv/neuralbody.git
+zjwzcx/Awesome-Astra-Embodied-AI[main]: https://github.com/zjwzcx/Awesome-Astra-Embodied-AI.git
 ZLMediaKit/ZLMediaKit[master]: https://github.com/ZLMediaKit/ZLMediaKit.git
 zm0612/Hybrid_A_Star[main]: https://github.com/zm0612/Hybrid_A_Star.git
 znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN[master]: https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN.git
