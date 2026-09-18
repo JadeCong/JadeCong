@@ -667,6 +667,7 @@ localai-org: https://github.com/localai-org
 localsend: https://github.com/localsend
 locomanip-duet: https://github.com/locomanip-duet
 loggerhead: https://github.com/loggerhead
+lok-i: https://github.com/lok-i
 loongOpen: https://github.com/loongOpen
 Lordog: https://github.com/Lordog
 lowlighter: https://github.com/lowlighter
@@ -893,6 +894,7 @@ OpenTeleVision: https://github.com/OpenTeleVision
 opentiny: https://github.com/opentiny
 openverse-orca: https://github.com/openverse-orca
 openvla: https://github.com/openvla
+OpenWAM-Official: https://github.com/OpenWAM-Official
 openworm: https://github.com/openworm
 openxla: https://github.com/openxla
 oracle: https://github.com/oracle
@@ -1387,6 +1389,7 @@ XingangPan: https://github.com/XingangPan
 xingkongliang: https://github.com/xingkongliang
 xming521: https://github.com/xming521
 xpipe-io: https://github.com/xpipe-io
+XPolicyLab: https://github.com/XPolicyLab
 xpqiu: https://github.com/xpqiu
 xtekky: https://github.com/xtekky
 XTLS: https://github.com/XTLS
