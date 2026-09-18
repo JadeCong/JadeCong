@@ -188,6 +188,7 @@ alvinreal/awesome-opensource-ai[main]: https://github.com/alvinreal/awesome-open
 AlwaySleepy/Garment-Pile[main]: https://github.com/AlwaySleepy/Garment-Pile.git
 alyssaq/hough_transform[master]: https://github.com/alyssaq/hough_transform.git
 alyssaxuu/screenity[master]: https://github.com/alyssaxuu/screenity.git
+amagine-ai/Amagine3D[main]: https://github.com/amagine-ai/Amagine3D.git
 amathislab/musclemimic[main]: https://github.com/amathislab/musclemimic.git
 amazon-archives/amazon-dsstne[master]: https://github.com/amazon-archives/amazon-dsstne.git
 amazon-far/fpo-control[main]: https://github.com/amazon-far/fpo-control.git
@@ -422,6 +423,7 @@ BeingBeyond/BumbleBee[main]: https://github.com/BeingBeyond/BumbleBee.git
 BeingBeyond/DemoGrasp[main]: https://github.com/BeingBeyond/DemoGrasp.git
 BeingBeyond/DemoHLM[main]: https://github.com/BeingBeyond/DemoHLM.git
 BenBurgessLimerick/ManipulationOnTheMove[main]: https://github.com/BenBurgessLimerick/ManipulationOnTheMove.git
+bendlang/bend[main]: https://github.com/bendlang/bend.git
 benedekrozemberczki/awesome-graph-classification[master]: https://github.com/benedekrozemberczki/awesome-graph-classification.git
 benelot/pybullet-gym[master]: https://github.com/benelot/pybullet-gym.git
 benmahr/huaweimind[master]: https://github.com/benmahr/huaweimind.git
@@ -958,6 +960,7 @@ empriselab/feeding-deployment[main]: https://github.com/empriselab/feeding-deplo
 EmptyBlueBox/ConTrack[main]: https://github.com/EmptyBlueBox/ConTrack.git
 EmptyBlueBox/DexLatent[main]: https://github.com/EmptyBlueBox/DexLatent.git
 emqx/emqx[master]: https://github.com/emqx/emqx.git
+emwstudio/DuckEMW[main]: https://github.com/emwstudio/DuckEMW.git
 enactic/openarm[main]: https://github.com/enactic/openarm.git
 enactic/openarm_can[main]: https://github.com/enactic/openarm_can.git
 enactic/openarm_description[main]: https://github.com/enactic/openarm_description.git
@@ -1080,7 +1083,7 @@ facebookresearch/pifuhd[main]: https://github.com/facebookresearch/pifuhd.git
 facebookresearch/pippo[main]: https://github.com/facebookresearch/pippo.git
 facebookresearch/projectaria_gen2_depth_from_stereo[main]: https://github.com/facebookresearch/projectaria_gen2_depth_from_stereo.git
 facebookresearch/projectaria_tools[main]: https://github.com/facebookresearch/projectaria_tools.git
-facebookresearch/project_superdex[main]: https://github.com/facebookresearch/project_superdex.git
+facebookresearch/project_superdex[stable]: https://github.com/facebookresearch/project_superdex.git
 facebookresearch/pyrobot[main]: https://github.com/facebookresearch/pyrobot.git
 facebookresearch/PyTorch-BigGraph[main]: https://github.com/facebookresearch/PyTorch-BigGraph.git
 facebookresearch/PyTouch[main]: https://github.com/facebookresearch/PyTouch.git
@@ -1552,7 +1555,6 @@ HHHHHejia/Awesome-AgenticLLM-RL-Papers[main]: https://github.com/HHHHHejia/Aweso
 hhstore/awesome-buying-a-house[master]: https://github.com/hhstore/awesome-buying-a-house.git
 HiDream-ai/MotionPro[main]: https://github.com/HiDream-ai/MotionPro.git
 hieunc229/copilot-clone[master]: https://github.com/hieunc229/copilot-clone.git
-HigherOrderCO/Bend[main]: https://github.com/HigherOrderCO/Bend.git
 hill-a/stable-baselines[master]: https://github.com/hill-a/stable-baselines.git
 hindupuravinash/the-gan-zoo[master]: https://github.com/hindupuravinash/the-gan-zoo.git
 hipcityreg/situation-monitor[main]: https://github.com/hipcityreg/situation-monitor.git
@@ -1793,7 +1795,7 @@ Ironclad/rivet[main]: https://github.com/Ironclad/rivet.git
 IRVLUTD/HO-Cap[main]: https://github.com/IRVLUTD/HO-Cap.git
 IRVLUTD/UHAS_sim[main]: https://github.com/IRVLUTD/UHAS_sim.git
 isaac-sim/IsaacGymEnvs[main]: https://github.com/isaac-sim/IsaacGymEnvs.git
-isaac-sim/IsaacLab[release/3.0.0-beta2]: https://github.com/isaac-sim/IsaacLab.git
+isaac-sim/IsaacLab[develop]: https://github.com/isaac-sim/IsaacLab.git
 isaac-sim/IsaacLab-Arena[main]: https://github.com/isaac-sim/IsaacLab-Arena.git
 isaac-sim/IsaacSim[develop]: https://github.com/isaac-sim/IsaacSim.git
 isaac-sim/IsaacSim-ros_workspaces[main]: https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
@@ -3020,6 +3022,7 @@ OpenTeleVision/AMO[main]: https://github.com/OpenTeleVision/AMO.git
 OpenTeleVision/TeleVision[main]: https://github.com/OpenTeleVision/TeleVision.git
 opentiny/tiny-engine[develop]: https://github.com/opentiny/tiny-engine.git
 openvla/openvla[main]: https://github.com/openvla/openvla.git
+OpenWAM-Official/OpenWAM[main]: https://github.com/OpenWAM-Official/OpenWAM.git
 openworm/OpenWorm[master]: https://github.com/openworm/OpenWorm.git
 openwsn-berkeley/coap[develop]: https://github.com/openwsn-berkeley/coap.git
 openxla/xla[main]: https://github.com/openxla/xla.git
@@ -4357,6 +4360,7 @@ xmppjs/xmpp.js[main]: https://github.com/xmppjs/xmpp.js.git
 xournalpp/xournalpp[master]: https://github.com/xournalpp/xournalpp.git
 xpeng-robotics/UniT[main]: https://github.com/xpeng-robotics/UniT.git
 xpipe-io/xpipe[master]: https://github.com/xpipe-io/xpipe.git
+XPolicyLab/XPolicyLab[main]: https://github.com/XPolicyLab/XPolicyLab.git
 xtekky/gpt4free[main]: https://github.com/xtekky/gpt4free.git
 XTLS/REALITY[main]: https://github.com/XTLS/REALITY.git
 XTLS/Xray-core[main]: https://github.com/XTLS/Xray-core.git
