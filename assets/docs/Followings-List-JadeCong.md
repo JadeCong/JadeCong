@@ -751,6 +751,7 @@ moojink: https://github.com/moojink
 moonlight-stream: https://github.com/moonlight-stream
 moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
+MoonTechLab: https://github.com/MoonTechLab
 MorvanZhou: https://github.com/MorvanZhou
 mosaicml: https://github.com/mosaicml
 Motphys: https://github.com/Motphys
@@ -963,6 +964,7 @@ PRIME-RL: https://github.com/PRIME-RL
 PrimeIntellect-ai: https://github.com/PrimeIntellect-ai
 princeton: https://github.com/princeton
 princeton-nlp: https://github.com/princeton-nlp
+princeton-prism: https://github.com/princeton-prism
 princeton-vl: https://github.com/princeton-vl
 PrincetonLIPS: https://github.com/PrincetonLIPS
 PrincetonUniversity: https://github.com/PrincetonUniversity
@@ -1103,6 +1105,7 @@ shaoyifei96: https://github.com/shaoyifei96
 shareAI-lab: https://github.com/shareAI-lab
 sharpa-robotics: https://github.com/sharpa-robotics
 ShawnPana: https://github.com/ShawnPana
+shengshu-ai: https://github.com/shengshu-ai
 SHI-Labs: https://github.com/SHI-Labs
 shidenggui: https://github.com/shidenggui
 showlab: https://github.com/showlab
@@ -1388,6 +1391,7 @@ xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
 xingkongliang: https://github.com/xingkongliang
 xming521: https://github.com/xming521
+xpeng-robotics: https://github.com/xpeng-robotics
 xpipe-io: https://github.com/xpipe-io
 XPolicyLab: https://github.com/XPolicyLab
 xpqiu: https://github.com/xpqiu
