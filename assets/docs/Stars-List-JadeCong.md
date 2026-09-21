@@ -1629,7 +1629,6 @@ HuangCongQing/ROS[master]: https://github.com/HuangCongQing/ROS.git
 huanghanzhilian/c-shopping[main]: https://github.com/huanghanzhilian/c-shopping.git
 huangjia2019/ai-agents[main]: https://github.com/huangjia2019/ai-agents.git
 huangjia2019/llm-gpt[main]: https://github.com/huangjia2019/llm-gpt.git
-huangruiteng/loopx[main]: https://github.com/huangruiteng/loopx.git
 huangwl18/PointWorld[main]: https://github.com/huangwl18/PointWorld.git
 huangwl18/ReKep[main]: https://github.com/huangwl18/ReKep.git
 huangwl18/VoxPoser[main]: https://github.com/huangwl18/VoxPoser.git
@@ -2119,6 +2118,7 @@ langgptai/LangGPT[main]: https://github.com/langgptai/LangGPT.git
 lanius/tinyik[master]: https://github.com/lanius/tinyik.git
 LantaoYu/SeqGAN[master]: https://github.com/LantaoYu/SeqGAN.git
 lantiga/pytorch2c[master]: https://github.com/lantiga/pytorch2c.git
+laoma2053/awesome-zhuiju-free[main]: https://github.com/laoma2053/awesome-zhuiju-free.git
 lapce/lapce[master]: https://github.com/lapce/lapce.git
 Large-Trajectory-Model/ATM[main]: https://github.com/Large-Trajectory-Model/ATM.git
 LargeWorldModel/LWM[main]: https://github.com/LargeWorldModel/LWM.git
@@ -2273,6 +2273,7 @@ loongOpen/OpenLoong-Gymloong[main]: https://github.com/loongOpen/OpenLoong-Gymlo
 loongOpen/OpenLoong-Hardware[main]: https://github.com/loongOpen/OpenLoong-Hardware.git
 loongOpen/OpenLoong-MiniGym[main]: https://github.com/loongOpen/OpenLoong-MiniGym.git
 loongOpen/OpenLoong-ROS[main]: https://github.com/loongOpen/OpenLoong-ROS.git
+loopx-project/loopx[main]: https://github.com/loopx-project/loopx.git
 LordLiang/DrawingSpinUp[main]: https://github.com/LordLiang/DrawingSpinUp.git
 Lordog/dive-into-llms[main]: https://github.com/Lordog/dive-into-llms.git
 lorepirri/cayman-blog[master]: https://github.com/lorepirri/cayman-blog.git
@@ -2400,6 +2401,7 @@ mayukh4/linux-android[main]: https://github.com/mayukh4/linux-android.git
 mbortolon97/6dgs[main]: https://github.com/mbortolon97/6dgs.git
 MC-E/ReVideo[main]: https://github.com/MC-E/ReVideo.git
 mcfletch/pyopengl[master]: https://github.com/mcfletch/pyopengl.git
+mcncarl/yichen-skills[main]: https://github.com/mcncarl/yichen-skills.git
 mcubelab/gelslim[main]: https://github.com/mcubelab/gelslim.git
 mcxiaoke/mqtt[master]: https://github.com/mcxiaoke/mqtt.git
 mees/calvin[main]: https://github.com/mees/calvin.git
@@ -2597,6 +2599,7 @@ moonlight-stream/moonlight-qt[master]: https://github.com/moonlight-stream/moonl
 moonshine-ai/moonshine[main]: https://github.com/moonshine-ai/moonshine.git
 MoonshotAI/Kimi-Audio[master]: https://github.com/MoonshotAI/Kimi-Audio.git
 MoonshotAI/Kimi-k1.5[main]: https://github.com/MoonshotAI/Kimi-k1.5.git
+MoonTechLab/Selene-TV[main]: https://github.com/MoonTechLab/Selene-TV.git
 Morizeyao/GPT2-Chinese[old_gpt_2_chinese_before_2021_4_22]: https://github.com/Morizeyao/GPT2-Chinese.git
 MorvanZhou/Evolutionary-Algorithm[master]: https://github.com/MorvanZhou/Evolutionary-Algorithm.git
 MorvanZhou/morvanzhou.github.io[master]: https://github.com/MorvanZhou/morvanzhou.github.io.git
@@ -3163,7 +3166,7 @@ plait-board/drawnix[develop]: https://github.com/plait-board/drawnix.git
 Platane/snk[main]: https://github.com/Platane/snk.git
 plenaryapp/awesome-rss-feeds[master]: https://github.com/plenaryapp/awesome-rss-feeds.git
 PlexPt/awesome-chatgpt-prompts-zh[main]: https://github.com/PlexPt/awesome-chatgpt-prompts-zh.git
-PlotJuggler/PlotJuggler[main]: https://github.com/PlotJuggler/PlotJuggler.git
+PlotJuggler/PlotJuggler[main-4.x]: https://github.com/PlotJuggler/PlotJuggler.git
 plotly/plotly.py[main]: https://github.com/plotly/plotly.py.git
 plusjade/jekyll-bootstrap[master]: https://github.com/plusjade/jekyll-bootstrap.git
 pmagdon/FEPy[master]: https://github.com/pmagdon/FEPy.git
@@ -3207,6 +3210,7 @@ PRIME-RL/PRIME[main]: https://github.com/PRIME-RL/PRIME.git
 PRIME-RL/SimpleVLA-RL[main]: https://github.com/PRIME-RL/SimpleVLA-RL.git
 primefaces/primevue[master]: https://github.com/primefaces/primevue.git
 PrimeIntellect-ai/prime-diloco[main]: https://github.com/PrimeIntellect-ai/prime-diloco.git
+princeton-prism/RAVEN[main]: https://github.com/princeton-prism/RAVEN.git
 princeton-vl/DROID-SLAM[main]: https://github.com/princeton-vl/DROID-SLAM.git
 princeton-vl/infinigen[main]: https://github.com/princeton-vl/infinigen.git
 priyasundaresan/homer[main]: https://github.com/priyasundaresan/homer.git
@@ -3598,10 +3602,12 @@ sharinka0715/X-WAM[main]: https://github.com/sharinka0715/X-WAM.git
 sharpa-robotics/sharpa-manus-sdk[main]: https://github.com/sharpa-robotics/sharpa-manus-sdk.git
 sharpa-robotics/sharpa-rl-lab[main]: https://github.com/sharpa-robotics/sharpa-rl-lab.git
 sharpa-robotics/sharpa-tacmap[main]: https://github.com/sharpa-robotics/sharpa-tacmap.git
+sharpa-robotics/WM-Craftnet[main]: https://github.com/sharpa-robotics/WM-Craftnet.git
 ShawnPana/phone-harness[main]: https://github.com/ShawnPana/phone-harness.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
 shelhamer/revolver[master]: https://github.com/shelhamer/revolver.git
 ShengranHu/ADAS[main]: https://github.com/ShengranHu/ADAS.git
+shengshu-ai/Motus2[main]: https://github.com/shengshu-ai/Motus2.git
 sherjilozair/char-rnn-tensorflow[master]: https://github.com/sherjilozair/char-rnn-tensorflow.git
 SHI-Labs/Versatile-Diffusion[master]: https://github.com/SHI-Labs/Versatile-Diffusion.git
 ShichenLiu/CondenseNet[master]: https://github.com/ShichenLiu/CondenseNet.git
@@ -4034,6 +4040,7 @@ Tsinghua-MARS-Lab/SLAMFormer-Infinity[main]: https://github.com/Tsinghua-MARS-La
 TsinghuaC3I/Awesome-RL-for-LRMs[main]: https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs.git
 ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
 ttktjmt/mjswan[main]: https://github.com/ttktjmt/mjswan.git
+ttktjmt/mjswan_playground[main]: https://github.com/ttktjmt/mjswan_playground.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
 tub-rip/ES-PTAM[main]: https://github.com/tub-rip/ES-PTAM.git
 tub-rip/visual_stabilization[main]: https://github.com/tub-rip/visual_stabilization.git
@@ -4377,7 +4384,7 @@ xuxw98/ESAM[main]: https://github.com/xuxw98/ESAM.git
 XuyangBai/TransFusion[master]: https://github.com/XuyangBai/TransFusion.git
 xwmx/nb[master]: https://github.com/xwmx/nb.git
 XX-net/XX-Net[master]: https://github.com/XX-net/XX-Net.git
-XxHuberrr/Mineradio[main]: https://github.com/XxHuberrr/Mineradio.git
+XxHuberrr/Mineradio-paused[main]: https://github.com/XxHuberrr/Mineradio-paused.git
 xxm19/hommi[main]: https://github.com/xxm19/hommi.git
 xy02-05/ScoreHypo[main]: https://github.com/xy02-05/ScoreHypo.git
 yahoo/CaffeOnSpark[master]: https://github.com/yahoo/CaffeOnSpark.git
