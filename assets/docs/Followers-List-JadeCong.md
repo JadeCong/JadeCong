@@ -12,7 +12,6 @@ ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 arpitrajjj: https://github.com/arpitrajjj
 ash3spho3nix: https://github.com/ash3spho3nix
-BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
 bludnic: https://github.com/bludnic
