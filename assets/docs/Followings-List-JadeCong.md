@@ -643,6 +643,7 @@ letta-ai: https://github.com/letta-ai
 Liangdacai: https://github.com/Liangdacai
 liangpan99: https://github.com/liangpan99
 libing403: https://github.com/libing403
+lightorigins: https://github.com/lightorigins
 Ligo-Biosciences: https://github.com/Ligo-Biosciences
 liguodongiot: https://github.com/liguodongiot
 lihzha: https://github.com/lihzha
@@ -821,6 +822,7 @@ NoNoid: https://github.com/NoNoid
 NousResearch: https://github.com/NousResearch
 NovaSky-AI: https://github.com/NovaSky-AI
 nraiden: https://github.com/nraiden
+nssmd: https://github.com/nssmd
 NTUMARS: https://github.com/NTUMARS
 nubot-nudt: https://github.com/nubot-nudt
 Nuitka: https://github.com/Nuitka
@@ -884,6 +886,7 @@ openmediavault: https://github.com/openmediavault
 OpenMOSS: https://github.com/OpenMOSS
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRLHF: https://github.com/OpenRLHF
+openroboto-ai: https://github.com/openroboto-ai
 openrocket: https://github.com/openrocket
 OpenRouterTeam: https://github.com/OpenRouterTeam
 OpenSenseNova: https://github.com/OpenSenseNova
