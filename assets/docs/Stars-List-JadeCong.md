@@ -930,7 +930,7 @@ egosteer/egosteer[main]: https://github.com/egosteer/egosteer.git
 egosteer/robot-stack[main]: https://github.com/egosteer/robot-stack.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 ehehee/robovista[main]: https://github.com/ehehee/robovista.git
-EKKOLearnAI/hermes-studio[main]: https://github.com/EKKOLearnAI/hermes-studio.git
+EKKOLearnAI/ekko-studio[main]: https://github.com/EKKOLearnAI/ekko-studio.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
 elder-plinius/G0DM0D3[main]: https://github.com/elder-plinius/G0DM0D3.git
 elecfreaks/XGO-Rider[master]: https://github.com/elecfreaks/XGO-Rider.git
@@ -1619,7 +1619,7 @@ HRNet/HRNet-Semantic-Segmentation[HRNet-OCR]: https://github.com/HRNet/HRNet-Sem
 HRNet/Lite-HRNet[hrnet]: https://github.com/HRNet/Lite-HRNet.git
 hshi74/robocook[main]: https://github.com/hshi74/robocook.git
 hshi74/toddlerbot[main]: https://github.com/hshi74/toddlerbot.git
-hsliuping/TradingAgents-CN[main]: https://github.com/hsliuping/TradingAgents-CN.git
+hsliuping/TradingAgents-CN[v3.0]: https://github.com/hsliuping/TradingAgents-CN.git
 hsp-iit/HannesImitation[main]: https://github.com/hsp-iit/HannesImitation.git
 httpie/cli[master]: https://github.com/httpie/cli.git
 HuangCongQing/3D-Point-Clouds[main]: https://github.com/HuangCongQing/3D-Point-Clouds.git
@@ -1906,6 +1906,7 @@ JIAjindou/A2A_Flow_Matching[main]: https://github.com/JIAjindou/A2A_Flow_Matchin
 Jiakui/awesome-bert[master]: https://github.com/Jiakui/awesome-bert.git
 jiaming-ai/OpenGeneralist[main]: https://github.com/jiaming-ai/OpenGeneralist.git
 Jianghanxiao/PhysTwin[main]: https://github.com/Jianghanxiao/PhysTwin.git
+JiannnH/UniTac-VAE[main]: https://github.com/JiannnH/UniTac-VAE.git
 jianzongwu/DiffSensei[main]: https://github.com/jianzongwu/DiffSensei.git
 JiatianWu/stereo-dso[master]: https://github.com/JiatianWu/stereo-dso.git
 jiaweihe1996/DexVLG[main]: https://github.com/jiaweihe1996/DexVLG.git
@@ -2186,6 +2187,7 @@ libuvc/libuvc[master]: https://github.com/libuvc/libuvc.git
 lichy2004/GazeVLA[main]: https://github.com/lichy2004/GazeVLA.git
 lichy2004/GazeVLA-Data[main]: https://github.com/lichy2004/GazeVLA-Data.git
 lidge-jun/opencodex[main]: https://github.com/lidge-jun/opencodex.git
+lightorigins/Light-O1[main]: https://github.com/lightorigins/Light-O1.git
 lightorigins/LightNav-0[main]: https://github.com/lightorigins/LightNav-0.git
 Ligo-Biosciences/AlphaFold3[main]: https://github.com/Ligo-Biosciences/AlphaFold3.git
 liguodongiot/llm-action[main]: https://github.com/liguodongiot/llm-action.git
@@ -2431,11 +2433,11 @@ meshcat-dev/meshcat-python[master]: https://github.com/meshcat-dev/meshcat-pytho
 MeshFormer/MeshFormer[master]: https://github.com/MeshFormer/MeshFormer.git
 meta-llama/codellama[main]: https://github.com/meta-llama/codellama.git
 meta-llama/llama[main]: https://github.com/meta-llama/llama.git
+meta-llama/llama-cookbook[main]: https://github.com/meta-llama/llama-cookbook.git
 meta-llama/llama-models[main]: https://github.com/meta-llama/llama-models.git
 meta-llama/llama3[main]: https://github.com/meta-llama/llama3.git
 meta-prompting/meta-prompting[main]: https://github.com/meta-prompting/meta-prompting.git
 metadriverse/metaurban[main]: https://github.com/metadriverse/metaurban.git
-metainternal/llama-cookbook[main]: https://github.com/metainternal/llama-cookbook.git
 MetaMask/metamask-extension[main]: https://github.com/MetaMask/metamask-extension.git
 MetaMask/metamask-sdk[main]: https://github.com/MetaMask/metamask-sdk.git
 metauto-ai/agent-as-a-judge[main]: https://github.com/metauto-ai/agent-as-a-judge.git
@@ -2754,6 +2756,7 @@ NousResearch/hermes-agent[main]: https://github.com/NousResearch/hermes-agent.gi
 NovaSky-AI/SkyThought[main]: https://github.com/NovaSky-AI/SkyThought.git
 npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphCourse.git
 nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
+nssmd/RoboRSI[main]: https://github.com/nssmd/RoboRSI.git
 nstar1125/ShowMak3r[main]: https://github.com/nstar1125/ShowMak3r.git
 ntegrals/10x[main]: https://github.com/ntegrals/10x.git
 NTUMARS/Awesome-Tactile-Force-aware-Robot-Learning[main]: https://github.com/NTUMARS/Awesome-Tactile-Force-aware-Robot-Learning.git
@@ -3006,6 +3009,7 @@ OpenMOSS/RoboOmni[main]: https://github.com/OpenMOSS/RoboOmni.git
 OpenMOSS/VLABench[main]: https://github.com/OpenMOSS/VLABench.git
 OpenRL-Lab/openrl[main]: https://github.com/OpenRL-Lab/openrl.git
 OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
+openroboto-ai/jev-robot-control[main]: https://github.com/openroboto-ai/jev-robot-control.git
 openrocket/openrocket[unstable]: https://github.com/openrocket/openrocket.git
 OpenRouterArchived/openrouter-runner[main]: https://github.com/OpenRouterArchived/openrouter-runner.git
 OpenSenseNova/SenseNova-U1[main]: https://github.com/OpenSenseNova/SenseNova-U1.git
@@ -3051,7 +3055,7 @@ ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
 ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
 ov2slam/ov2slam[main]: https://github.com/ov2slam/ov2slam.git
 overleaf-workshop/Overleaf-Workshop[master]: https://github.com/overleaf-workshop/Overleaf-Workshop.git
-overleaf/overleaf[main]: https://github.com/overleaf/overleaf.git
+overleaf/overleaf[copilot/find-quick-win-issues]: https://github.com/overleaf/overleaf.git
 overtake/TelegramSwift[master]: https://github.com/overtake/TelegramSwift.git
 owainlewis/awesome-artificial-intelligence[master]: https://github.com/owainlewis/awesome-artificial-intelligence.git
 ownthink/KnowledgeGraph[master]: https://github.com/ownthink/KnowledgeGraph.git
@@ -3848,6 +3852,7 @@ TeleHuman/Align-Then-Steer[main]: https://github.com/TeleHuman/Align-Then-Steer.
 TeleHuman/HumanoidGen[main]: https://github.com/TeleHuman/HumanoidGen.git
 TeleHuman/humanoid_skateboarding[main]: https://github.com/TeleHuman/humanoid_skateboarding.git
 TeleHuman/TextOp[main]: https://github.com/TeleHuman/TextOp.git
+telekinesis-ai/telekinesis-examples[main]: https://github.com/telekinesis-ai/telekinesis-examples.git
 telekinesis-ai/telekinesis-rlbotics[main]: https://github.com/telekinesis-ai/telekinesis-rlbotics.git
 TemugeB/bodypose3d[main]: https://github.com/TemugeB/bodypose3d.git
 TEN-framework/ten-framework[main]: https://github.com/TEN-framework/ten-framework.git
@@ -4109,6 +4114,7 @@ unifyai/ivy[main]: https://github.com/unifyai/ivy.git
 UniPat-AI/SaaS-Bench[main]: https://github.com/UniPat-AI/SaaS-Bench.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
 unitreerobotics/unifolm-vla[main]: https://github.com/unitreerobotics/unifolm-vla.git
+unitreerobotics/unifolm-wla[main]: https://github.com/unitreerobotics/unifolm-wla.git
 unitreerobotics/unifolm-world-model-action[main]: https://github.com/unitreerobotics/unifolm-world-model-action.git
 unitreerobotics/unitree_mujoco[main]: https://github.com/unitreerobotics/unitree_mujoco.git
 unitreerobotics/unitree_rl_gym[main]: https://github.com/unitreerobotics/unitree_rl_gym.git
