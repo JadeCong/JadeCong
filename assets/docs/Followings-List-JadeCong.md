@@ -365,7 +365,6 @@ fathah: https://github.com/fathah
 FellouAI: https://github.com/FellouAI
 fengdu78: https://github.com/fengdu78
 FengQuanLi: https://github.com/FengQuanLi
-FestingerVault: https://github.com/FestingerVault
 fffaraz: https://github.com/fffaraz
 FFTAI: https://github.com/FFTAI
 finos: https://github.com/finos
@@ -848,6 +847,7 @@ nyu-systems: https://github.com/nyu-systems
 OAI: https://github.com/OAI
 obra: https://github.com/obra
 octo-models: https://github.com/octo-models
+okalachev: https://github.com/okalachev
 ollama: https://github.com/ollama
 omacom: https://github.com/omacom
 omnilink-tech: https://github.com/omnilink-tech
