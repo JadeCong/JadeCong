@@ -56,6 +56,7 @@ acheong08/ChatGPT[main]: https://github.com/acheong08/ChatGPT.git
 aCodeDog/awesome-loco-manipulation[master]: https://github.com/aCodeDog/awesome-loco-manipulation.git
 AD-EYE/foxglove-opensource[main]: https://github.com/AD-EYE/foxglove-opensource.git
 adam-p/markdown-here[master]: https://github.com/adam-p/markdown-here.git
+adamhung60/ModAR-code[main]: https://github.com/adamhung60/ModAR-code.git
 AdaptiveMotorControlLab/FMPose3D[main]: https://github.com/AdaptiveMotorControlLab/FMPose3D.git
 adaptyvbio/ProteinFlow[main]: https://github.com/adaptyvbio/ProteinFlow.git
 addyosmani/agent-skills[main]: https://github.com/addyosmani/agent-skills.git
@@ -399,6 +400,7 @@ baidubce/app-builder[master]: https://github.com/baidubce/app-builder.git
 BaiShuanghao/Awesome-Robotics-Manipulation[main]: https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation.git
 balancap/SSD-Tensorflow[master]: https://github.com/balancap/SSD-Tensorflow.git
 bamos/dcgan-completion.tensorflow[master]: https://github.com/bamos/dcgan-completion.tensorflow.git
+baojie/shiji-kb[main]: https://github.com/baojie/shiji-kb.git
 barats/RepoStats[main]: https://github.com/barats/RepoStats.git
 barry-ran/QtScrcpy[dev]: https://github.com/barry-ran/QtScrcpy.git
 barryclark/jekyll-now[master]: https://github.com/barryclark/jekyll-now.git
@@ -723,7 +725,6 @@ DanielTakeshi/fast_grasp_detect[master]: https://github.com/DanielTakeshi/fast_g
 Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch[master]: https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch.git
 Daniil-Osokin/lightweight-human-pose-estimation.pytorch[master]: https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch.git
 danijar/dreamerv3[main]: https://github.com/danijar/dreamerv3.git
-danny-avila/LibreChat[main]: https://github.com/danny-avila/LibreChat.git
 dansoutner/LSTM[master]: https://github.com/dansoutner/LSTM.git
 dante1613/Motorcomm-YT6801[main]: https://github.com/dante1613/Motorcomm-YT6801.git
 danveloper/flash-moe[main]: https://github.com/danveloper/flash-moe.git
@@ -1937,7 +1938,7 @@ jobbole/awesome-javascript-cn[master]: https://github.com/jobbole/awesome-javasc
 jobbole/awesome-programming-books[master]: https://github.com/jobbole/awesome-programming-books.git
 jobbole/awesome-python-cn[master]: https://github.com/jobbole/awesome-python-cn.git
 joeddav/devol[master]: https://github.com/joeddav/devol.git
-Johnserf-Seed/f2[main]: https://github.com/Johnserf-Seed/f2.git
+Johnserf-Seed/f2[v0.0.1.8-pw3]: https://github.com/Johnserf-Seed/f2.git
 JohnsonJiang1996/Awesome-VLA4AD[main]: https://github.com/JohnsonJiang1996/Awesome-VLA4AD.git
 jonschlinkert/remarkable[master]: https://github.com/jonschlinkert/remarkable.git
 jonyzhang2023/awesome-embodied-vla-va-vln[main]: https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln.git
@@ -2076,7 +2077,6 @@ krishauser/Klampt-examples[master]: https://github.com/krishauser/Klampt-example
 KrishKrosh/TrackWeight[main]: https://github.com/KrishKrosh/TrackWeight.git
 KrishMunot/awesome-startup[master]: https://github.com/KrishMunot/awesome-startup.git
 kristery/Awesome-Imitation-Learning[master]: https://github.com/kristery/Awesome-Imitation-Learning.git
-KRTirtho/spotube[master]: https://github.com/KRTirtho/spotube.git
 kscalelabs/evla[main]: https://github.com/kscalelabs/evla.git
 kscalelabs/kbot[master]: https://github.com/kscalelabs/kbot.git
 kscalelabs/ksim-gym[master]: https://github.com/kscalelabs/ksim-gym.git
@@ -2182,6 +2182,7 @@ LHRLAB/HyperGraphRAG[main]: https://github.com/LHRLAB/HyperGraphRAG.git
 liam-hq/liam[main]: https://github.com/liam-hq/liam.git
 liangpan99/TokenHSI[main]: https://github.com/liangpan99/TokenHSI.git
 lib-pku/libpku[master]: https://github.com/lib-pku/libpku.git
+LibreChat-AI/LibreChat[main]: https://github.com/LibreChat-AI/LibreChat.git
 librepods-org/librepods[main]: https://github.com/librepods-org/librepods.git
 libuvc/libuvc[master]: https://github.com/libuvc/libuvc.git
 lichy2004/GazeVLA[main]: https://github.com/lichy2004/GazeVLA.git
@@ -2897,6 +2898,8 @@ octotools/octotools[main]: https://github.com/octotools/octotools.git
 odysseus-dev/odysseus[dev]: https://github.com/odysseus-dev/odysseus.git
 ohmyzsh/ohmyzsh[master]: https://github.com/ohmyzsh/ohmyzsh.git
 ok-robot/ok-robot[main]: https://github.com/ok-robot/ok-robot.git
+okalachev/flix[master]: https://github.com/okalachev/flix.git
+okalachev/flixperiph[master]: https://github.com/okalachev/flixperiph.git
 Oldpan/Faceswap-Deepfake-Pytorch[master]: https://github.com/Oldpan/Faceswap-Deepfake-Pytorch.git
 Oliver-Cong02/UMO[main]: https://github.com/Oliver-Cong02/UMO.git
 ollama/ollama[main]: https://github.com/ollama/ollama.git
@@ -3055,7 +3058,7 @@ ou524u/MotionCritic[main]: https://github.com/ou524u/MotionCritic.git
 ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
 ov2slam/ov2slam[main]: https://github.com/ov2slam/ov2slam.git
 overleaf-workshop/Overleaf-Workshop[master]: https://github.com/overleaf-workshop/Overleaf-Workshop.git
-overleaf/overleaf[copilot/find-quick-win-issues]: https://github.com/overleaf/overleaf.git
+overleaf/overleaf[main]: https://github.com/overleaf/overleaf.git
 overtake/TelegramSwift[master]: https://github.com/overtake/TelegramSwift.git
 owainlewis/awesome-artificial-intelligence[master]: https://github.com/owainlewis/awesome-artificial-intelligence.git
 ownthink/KnowledgeGraph[master]: https://github.com/ownthink/KnowledgeGraph.git
@@ -3845,6 +3848,7 @@ TEA-Lab/DenseMatcher[master]: https://github.com/TEA-Lab/DenseMatcher.git
 TEA-Lab/Robo-ABC[main]: https://github.com/TEA-Lab/Robo-ABC.git
 team-aprl/MR.ScaleMaster[main]: https://github.com/team-aprl/MR.ScaleMaster.git
 team-openpm/workgpt[master]: https://github.com/team-openpm/workgpt.git
+team-spotube/spotube[master]: https://github.com/team-spotube/spotube.git
 TeamWiseFlow/xiaobei[master]: https://github.com/TeamWiseFlow/xiaobei.git
 TechmanRobotInc/tmr_ros1[noetic]: https://github.com/TechmanRobotInc/tmr_ros1.git
 TechmanRobotInc/tmr_ros2[humble]: https://github.com/TechmanRobotInc/tmr_ros2.git
