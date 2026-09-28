@@ -202,6 +202,7 @@ chvmp: https://github.com/chvmp
 CiscoDevNet: https://github.com/CiscoDevNet
 clash-download: https://github.com/clash-download
 clash-verge-rev: https://github.com/clash-verge-rev
+claude: https://github.com/claude
 clauderic: https://github.com/clauderic
 cline: https://github.com/cline
 CloudEngineHub: https://github.com/CloudEngineHub
@@ -338,6 +339,7 @@ escontra: https://github.com/escontra
 espressif: https://github.com/espressif
 EstunSWRD: https://github.com/EstunSWRD
 etched-ai: https://github.com/etched-ai
+eternity4719: https://github.com/eternity4719
 eth-siplab: https://github.com/eth-siplab
 eth-sri: https://github.com/eth-sri
 EtherDream: https://github.com/EtherDream
@@ -1205,6 +1207,7 @@ Tencent: https://github.com/Tencent
 tencent-ailab: https://github.com/tencent-ailab
 Tencent-Hunyuan: https://github.com/Tencent-Hunyuan
 TencentARC: https://github.com/TencentARC
+TencentCloud: https://github.com/TencentCloud
 TencentQQGYLab: https://github.com/TencentQQGYLab
 TencentYouTu: https://github.com/TencentYouTu
 TencentYoutuResearch: https://github.com/TencentYoutuResearch
