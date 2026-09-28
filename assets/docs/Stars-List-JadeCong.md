@@ -503,6 +503,7 @@ Buzz-Beater/EgoTaskQA[main]: https://github.com/Buzz-Beater/EgoTaskQA.git
 BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
+byoungd/up[master]: https://github.com/byoungd/up.git
 bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
 ByteDance-Seed/Depth-Anything-3[main]: https://github.com/ByteDance-Seed/Depth-Anything-3.git
 ByteDance-Seed/TraceAnything[main]: https://github.com/ByteDance-Seed/TraceAnything.git
@@ -814,6 +815,7 @@ DepthAnything/Video-Depth-Anything[main]: https://github.com/DepthAnything/Video
 desktop/desktop[development]: https://github.com/desktop/desktop.git
 DeusData/codebase-memory-mcp[main]: https://github.com/DeusData/codebase-memory-mcp.git
 deusyu/harness-engineering[main]: https://github.com/deusyu/harness-engineering.git
+deusyu/translate-book[main]: https://github.com/deusyu/translate-book.git
 developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/llm-answer-engine.git
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
 DexForce/EmbodiChain[main]: https://github.com/DexForce/EmbodiChain.git
@@ -1004,6 +1006,7 @@ espressif/esp32-camera[master]: https://github.com/espressif/esp32-camera.git
 espressif/ESP8266_RTOS_SDK[master]: https://github.com/espressif/ESP8266_RTOS_SDK.git
 espressif/esptool[master]: https://github.com/espressif/esptool.git
 etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
+eternity4719/HowToLiveBetter[main]: https://github.com/eternity4719/HowToLiveBetter.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
 eth-ait/MultiPly[main]: https://github.com/eth-ait/MultiPly.git
 eth-siplab/EgoExoMoCap[main]: https://github.com/eth-siplab/EgoExoMoCap.git
@@ -3678,6 +3681,7 @@ Skyvern-AI/skyvern[main]: https://github.com/Skyvern-AI/skyvern.git
 skywind3000/preserve-cd[master]: https://github.com/skywind3000/preserve-cd.git
 SkyworkAI/SkyReels-V1[main]: https://github.com/SkyworkAI/SkyReels-V1.git
 SkyworkAI/Skywork-R1V[main]: https://github.com/SkyworkAI/Skywork-R1V.git
+slelly/awesome-GPT6-for-embodiedAI[main]: https://github.com/slelly/awesome-GPT6-for-embodiedAI.git
 slopus/happy[main]: https://github.com/slopus/happy.git
 SMPLOlympics/SMPLOlympics[master]: https://github.com/SMPLOlympics/SMPLOlympics.git
 Snailclimb/JavaGuide[main]: https://github.com/Snailclimb/JavaGuide.git
@@ -3883,6 +3887,7 @@ TencentARC/BrushEdit[main]: https://github.com/TencentARC/BrushEdit.git
 TencentARC/DI-PCG[main]: https://github.com/TencentARC/DI-PCG.git
 TencentARC/InstantMesh[main]: https://github.com/TencentARC/InstantMesh.git
 TencentARC/Track4World[master]: https://github.com/TencentARC/Track4World.git
+TencentCloud/Octop[main]: https://github.com/TencentCloud/Octop.git
 TencentQQGYLab/AppAgent[main]: https://github.com/TencentQQGYLab/AppAgent.git
 TencentYouTu/nodejs_sdk[master]: https://github.com/TencentYouTu/nodejs_sdk.git
 TencentYouTu/python_sdk[master]: https://github.com/TencentYouTu/python_sdk.git
@@ -4006,7 +4011,6 @@ toml-lang/toml[main]: https://github.com/toml-lang/toml.git
 tomlunderwood/fep[master]: https://github.com/tomlunderwood/fep.git
 TommyZihao/vlm_arm[main]: https://github.com/TommyZihao/vlm_arm.git
 tomwhite/hadoop-book[master]: https://github.com/tomwhite/hadoop-book.git
-tonhowtf/omniget[main]: https://github.com/tonhowtf/omniget.git
 TonyRobotics/RoboWare[master]: https://github.com/TonyRobotics/RoboWare.git
 TonyRobotics/RoboWare-Studio[master]: https://github.com/TonyRobotics/RoboWare-Studio.git
 tonyzhaozh/act[main]: https://github.com/tonyzhaozh/act.git
@@ -4029,6 +4033,7 @@ trailofbits/algo[main]: https://github.com/trailofbits/algo.git
 TrajectoryCrafter/TrajectoryCrafter[main]: https://github.com/TrajectoryCrafter/TrajectoryCrafter.git
 TransformerOptimus/SuperAGI[main]: https://github.com/TransformerOptimus/SuperAGI.git
 TransformerOptimus/SuperCoder[main]: https://github.com/TransformerOptimus/SuperCoder.git
+tranvuongquocdat/SideScreen[main]: https://github.com/tranvuongquocdat/SideScreen.git
 travisvn/awesome-claude-skills[main]: https://github.com/travisvn/awesome-claude-skills.git
 trekhleb/javascript-algorithms[master]: https://github.com/trekhleb/javascript-algorithms.git
 TRI-ML/prismatic-vlms[main]: https://github.com/TRI-ML/prismatic-vlms.git
