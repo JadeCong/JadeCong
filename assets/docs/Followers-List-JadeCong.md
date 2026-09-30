@@ -41,7 +41,6 @@ idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 infinityabundance: https://github.com/infinityabundance
 ipqwery: https://github.com/ipqwery
-ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 itsprs: https://github.com/itsprs
 ixqSCpxi: https://github.com/ixqSCpxi
@@ -54,6 +53,7 @@ JunJie-zhang-o: https://github.com/JunJie-zhang-o
 justicelee: https://github.com/justicelee
 Kalidshere: https://github.com/Kalidshere
 Knighthood2001: https://github.com/Knighthood2001
+kpopdev: https://github.com/kpopdev
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
