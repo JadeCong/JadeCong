@@ -425,7 +425,6 @@ gggliuye: https://github.com/gggliuye
 GitbookIO: https://github.com/GitbookIO
 github: https://github.com/github
 githubnext: https://github.com/githubnext
-Gitlawb: https://github.com/Gitlawb
 gkjohnson: https://github.com/gkjohnson
 glenn-jocher: https://github.com/glenn-jocher
 go-redis: https://github.com/go-redis
@@ -1043,6 +1042,7 @@ Roblox: https://github.com/Roblox
 robocasa: https://github.com/robocasa
 RoboClaw-Robotics: https://github.com/RoboClaw-Robotics
 robocomp: https://github.com/robocomp
+RoboDojo-Benchmark: https://github.com/RoboDojo-Benchmark
 roboflow: https://github.com/roboflow
 robomechanics: https://github.com/robomechanics
 robometer: https://github.com/robometer
@@ -1271,6 +1271,7 @@ TUMFTM: https://github.com/TUMFTM
 TuragaLab: https://github.com/TuragaLab
 tvvocold: https://github.com/tvvocold
 tw93: https://github.com/tw93
+Twigpine: https://github.com/Twigpine
 twitter: https://github.com/twitter
 twpayne: https://github.com/twpayne
 TX-Leo: https://github.com/TX-Leo
@@ -1444,6 +1445,7 @@ zen-browser: https://github.com/zen-browser
 zeroclaw-labs: https://github.com/zeroclaw-labs
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
+zhengkid: https://github.com/zhengkid
 ZhengyiLuo: https://github.com/ZhengyiLuo
 zhouzypaul: https://github.com/zhouzypaul
 zia-ai: https://github.com/zia-ai
