@@ -241,6 +241,7 @@ anthropics/claude-plugins-official[main]: https://github.com/anthropics/claude-p
 anthropics/claudes-c-compiler[main]: https://github.com/anthropics/claudes-c-compiler.git
 anthropics/financial-services[main]: https://github.com/anthropics/financial-services.git
 anthropics/skills[main]: https://github.com/anthropics/skills.git
+antirez/ds4[main]: https://github.com/antirez/ds4.git
 antonioo-c/GeoDrive[main]: https://github.com/antonioo-c/GeoDrive.git
 antonkomarev/github-profile-views-counter[master]: https://github.com/antonkomarev/github-profile-views-counter.git
 AntonOsika/gpt-engineer[main]: https://github.com/AntonOsika/gpt-engineer.git
@@ -611,6 +612,7 @@ chvmp/robots[master]: https://github.com/chvmp/robots.git
 cirosantilli/awesome-reinforcement-learning-games[master]: https://github.com/cirosantilli/awesome-reinforcement-learning-games.git
 CiscoDevNet/wcae[master]: https://github.com/CiscoDevNet/wcae.git
 civilblur/mazanoke[main]: https://github.com/civilblur/mazanoke.git
+Clarklevis1995/dsh-mobile[main]: https://github.com/Clarklevis1995/dsh-mobile.git
 clash-download/Clash[main]: https://github.com/clash-download/Clash.git
 clash-verge-rev/clash-verge-rev[dev]: https://github.com/clash-verge-rev/clash-verge-rev.git
 clauderic/dnd-kit[main]: https://github.com/clauderic/dnd-kit.git
@@ -823,6 +825,7 @@ dexmal/dexbotic[main]: https://github.com/dexmal/dexbotic.git
 dexmal/realtime-vla-v2[main]: https://github.com/dexmal/realtime-vla-v2.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
 DexRobot/dexrobot_isaac[main]: https://github.com/DexRobot/dexrobot_isaac.git
+dextacwam/DexTacWAM[main]: https://github.com/dextacwam/DexTacWAM.git
 dfaker/df[master]: https://github.com/dfaker/df.git
 dibyaghosh/dnc[master]: https://github.com/dibyaghosh/dnc.git
 Dicklesworthstone/llm_aided_ocr[main]: https://github.com/Dicklesworthstone/llm_aided_ocr.git
@@ -1348,11 +1351,9 @@ GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese[main]: https://
 GitHubDaily/GitHubDaily[master]: https://github.com/GitHubDaily/GitHubDaily.git
 githubnext/copilot-workspace-user-manual[main]: https://github.com/githubnext/copilot-workspace-user-manual.git
 githubwing/GankClient-Kotlin[master]: https://github.com/githubwing/GankClient-Kotlin.git
-Gitlawb/openclaude[main]: https://github.com/Gitlawb/openclaude.git
 GitYCC/NTU_HYLee_MachineLearning_Homework[master]: https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework.git
 gkahn13/gcg[gcg_release]: https://github.com/gkahn13/gcg.git
 gkjohnson/closed-chain-ik-js[main]: https://github.com/gkjohnson/closed-chain-ik-js.git
-glaive-ai/reflection_70b_training[main]: https://github.com/glaive-ai/reflection_70b_training.git
 glaive-ai/simple-evals[main]: https://github.com/glaive-ai/simple-evals.git
 glfw/glfw[master]: https://github.com/glfw/glfw.git
 glitternetwork/pinme[main]: https://github.com/glitternetwork/pinme.git
@@ -1472,6 +1473,7 @@ GWxuan/TSP3D[main]: https://github.com/GWxuan/TSP3D.git
 Gynjn/selfsplat[main]: https://github.com/Gynjn/selfsplat.git
 gypified/libmpg123[master]: https://github.com/gypified/libmpg123.git
 GZWSAMA/OnePoseviaGen[main]: https://github.com/GZWSAMA/OnePoseviaGen.git
+H-EmbodVis/SimWAM[main]: https://github.com/H-EmbodVis/SimWAM.git
 h2oai/h2o-3[master]: https://github.com/h2oai/h2o-3.git
 h2oai/h2o-llmstudio[main]: https://github.com/h2oai/h2o-llmstudio.git
 haarnoja/sac[master]: https://github.com/haarnoja/sac.git
@@ -2155,6 +2157,7 @@ Leemu0822/MQTT_Unity[master]: https://github.com/Leemu0822/MQTT_Unity.git
 leggedrobotics/darknet_ros[master]: https://github.com/leggedrobotics/darknet_ros.git
 leggedrobotics/fdm[main]: https://github.com/leggedrobotics/fdm.git
 leggedrobotics/free_gait[master]: https://github.com/leggedrobotics/free_gait.git
+leggedrobotics/hoi-retarget[main]: https://github.com/leggedrobotics/hoi-retarget.git
 leggedrobotics/icp_localization[master]: https://github.com/leggedrobotics/icp_localization.git
 leggedrobotics/legged_gym[master]: https://github.com/leggedrobotics/legged_gym.git
 leggedrobotics/ocs2[main]: https://github.com/leggedrobotics/ocs2.git
@@ -2262,6 +2265,7 @@ llSourcell/Doctor-Dignity[main]: https://github.com/llSourcell/Doctor-Dignity.gi
 llSourcell/OpenAI_Five_vs_Dota2_Explained[master]: https://github.com/llSourcell/OpenAI_Five_vs_Dota2_Explained.git
 llvm/llvm-project[main]: https://github.com/llvm/llvm-project.git
 lmstudio-ai/model-catalog[main]: https://github.com/lmstudio-ai/model-catalog.git
+lobehub/awesome-rsi[main]: https://github.com/lobehub/awesome-rsi.git
 lobehub/lobehub[canary]: https://github.com/lobehub/lobehub.git
 localai-org/depth-anything.cpp[master]: https://github.com/localai-org/depth-anything.cpp.git
 localsend/localsend[main]: https://github.com/localsend/localsend.git
@@ -2831,7 +2835,7 @@ NVIDIA/cosmos[main]: https://github.com/NVIDIA/cosmos.git
 NVIDIA/FasterTransformer[main]: https://github.com/NVIDIA/FasterTransformer.git
 NVIDIA/FastPhotoStyle[master]: https://github.com/NVIDIA/FastPhotoStyle.git
 NVIDIA/Isaac-GR00T[main]: https://github.com/NVIDIA/Isaac-GR00T.git
-NVIDIA/IsaacTeleop[main]: https://github.com/NVIDIA/IsaacTeleop.git
+NVIDIA/IsaacCapture[main]: https://github.com/NVIDIA/IsaacCapture.git
 NVIDIA/MDL-SDK[master]: https://github.com/NVIDIA/MDL-SDK.git
 NVIDIA/Megatron-LM[main]: https://github.com/NVIDIA/Megatron-LM.git
 NVIDIA/NeMo-Framework-Launcher[main]: https://github.com/NVIDIA/NeMo-Framework-Launcher.git
@@ -3018,6 +3022,8 @@ OpenRLHF/OpenRLHF[main]: https://github.com/OpenRLHF/OpenRLHF.git
 openroboto-ai/jev-robot-control[main]: https://github.com/openroboto-ai/jev-robot-control.git
 openrocket/openrocket[unstable]: https://github.com/openrocket/openrocket.git
 OpenRouterArchived/openrouter-runner[main]: https://github.com/OpenRouterArchived/openrouter-runner.git
+OpenRouterTeam/python-sdk[main]: https://github.com/OpenRouterTeam/python-sdk.git
+OpenRouterTeam/typescript-sdk[main]: https://github.com/OpenRouterTeam/typescript-sdk.git
 OpenSenseNova/SenseNova-U1[main]: https://github.com/OpenSenseNova/SenseNova-U1.git
 opensim-org/opensim-core[main]: https://github.com/opensim-org/opensim-core.git
 opensim-org/opensim-gui[main]: https://github.com/opensim-org/opensim-gui.git
@@ -3417,6 +3423,7 @@ robo-arena/roboarena[main]: https://github.com/robo-arena/roboarena.git
 RoboBrainCode/RoboBrainWiki[master]: https://github.com/RoboBrainCode/RoboBrainWiki.git
 robocasa/robocasa[main]: https://github.com/robocasa/robocasa.git
 RoboClaw-Robotics/RoboClaw[main]: https://github.com/RoboClaw-Robotics/RoboClaw.git
+RoboDojo-Benchmark/RoboDojo[main]: https://github.com/RoboDojo-Benchmark/RoboDojo.git
 roboflow/awesome-openai-vision-api-experiments[main]: https://github.com/roboflow/awesome-openai-vision-api-experiments.git
 roboflow/sports[main]: https://github.com/roboflow/sports.git
 roboflow/supervision[develop]: https://github.com/roboflow/supervision.git
@@ -4073,6 +4080,7 @@ tw93/Pake[main]: https://github.com/tw93/Pake.git
 tw93/tw93[main]: https://github.com/tw93/tw93.git
 tw93/Weekly[main]: https://github.com/tw93/Weekly.git
 twbs/bootstrap[main]: https://github.com/twbs/bootstrap.git
+Twigpine/openclaude[main]: https://github.com/Twigpine/openclaude.git
 twitter/the-algorithm[main]: https://github.com/twitter/the-algorithm.git
 twitter/the-algorithm-ml[main]: https://github.com/twitter/the-algorithm-ml.git
 twitter/twemoji[master]: https://github.com/twitter/twemoji.git
@@ -4340,6 +4348,7 @@ x-humanoid-robomind/x-humanoid-robomind.github.io[main]: https://github.com/x-hu
 X-LANCE/AniTalker[main]: https://github.com/X-LANCE/AniTalker.git
 X-PLUG/MobileAgent[main]: https://github.com/X-PLUG/MobileAgent.git
 X-Square-Robot/wall-x[main]: https://github.com/X-Square-Robot/wall-x.git
+X-Square-Robot/Xplanner[main]: https://github.com/X-Square-Robot/Xplanner.git
 x1xhlol/system-prompts-and-models-of-ai-tools[main]: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git
 xai-org/grok-1[main]: https://github.com/xai-org/grok-1.git
 xai-org/grok-build[main]: https://github.com/xai-org/grok-build.git
@@ -4542,6 +4551,7 @@ zhaoweih/Shadowsocks-Tutorial[main]: https://github.com/zhaoweih/Shadowsocks-Tut
 ZheC/Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation.git
 Zheng-Chong/CatVTON[edited]: https://github.com/Zheng-Chong/CatVTON.git
 ZhengdiYu/Dyn-HaMR[main]: https://github.com/ZhengdiYu/Dyn-HaMR.git
+zhengkid/Dream-RSI[main]: https://github.com/zhengkid/Dream-RSI.git
 ZhengPeng7/BiRefNet[main]: https://github.com/ZhengPeng7/BiRefNet.git
 ZhengtongXu/UniT[main]: https://github.com/ZhengtongXu/UniT.git
 ZhengyiLuo/Omnigrasp[master]: https://github.com/ZhengyiLuo/Omnigrasp.git
