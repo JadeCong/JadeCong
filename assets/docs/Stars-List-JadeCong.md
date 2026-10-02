@@ -372,7 +372,7 @@ Awesome-HarmonyOS/HarmonyOS[master]: https://github.com/Awesome-HarmonyOS/Harmon
 awesome-NeRF/awesome-NeRF[main]: https://github.com/awesome-NeRF/awesome-NeRF.git
 awesome-selfhosted/awesome-selfhosted[master]: https://github.com/awesome-selfhosted/awesome-selfhosted.git
 awesomedata/awesome-public-datasets[master]: https://github.com/awesomedata/awesome-public-datasets.git
-aws/aws-cli[develop]: https://github.com/aws/aws-cli.git
+aws/aws-cli[v2]: https://github.com/aws/aws-cli.git
 aws/aws-toolkit-vscode[master]: https://github.com/aws/aws-toolkit-vscode.git
 awslabs/aws-shell[master]: https://github.com/awslabs/aws-shell.git
 Axellwppr/gentle-humanoid[main]: https://github.com/Axellwppr/gentle-humanoid.git
@@ -1110,7 +1110,7 @@ facebookresearch/vggt[main]: https://github.com/facebookresearch/vggt.git
 facebookresearch/VideoPose3D[main]: https://github.com/facebookresearch/VideoPose3D.git
 facebookresearch/videoseal[main]: https://github.com/facebookresearch/videoseal.git
 facebookresearch/vjepa2[main]: https://github.com/facebookresearch/vjepa2.git
-facefusion/facefusion[master]: https://github.com/facefusion/facefusion.git
+facefusion/facefusion[v4-challenge]: https://github.com/facefusion/facefusion.git
 Faceunity/FUZegoLiveDemoDroid[master]: https://github.com/Faceunity/FUZegoLiveDemoDroid.git
 FAIR-INNOVATION/fairino-cpp-sdk[main]: https://github.com/FAIR-INNOVATION/fairino-cpp-sdk.git
 FAIR-INNOVATION/fairino-python-sdk[main]: https://github.com/FAIR-INNOVATION/fairino-python-sdk.git
@@ -2977,11 +2977,11 @@ openai/transformer-debugger[main]: https://github.com/openai/transformer-debugge
 openai/universe[master]: https://github.com/openai/universe.git
 openai/whisper[main]: https://github.com/openai/whisper.git
 OpenAPITools/openapi-generator[master]: https://github.com/OpenAPITools/openapi-generator.git
-OpenBB-finance/OpenBB[develop]: https://github.com/OpenBB-finance/OpenBB.git
 OpenBMB/ChatDev[main]: https://github.com/OpenBMB/ChatDev.git
 OpenBMB/MiniCPM-V[main]: https://github.com/OpenBMB/MiniCPM-V.git
 OpenBMB/ProAgent[main]: https://github.com/OpenBMB/ProAgent.git
 OpenBMB/XAgent[main]: https://github.com/OpenBMB/XAgent.git
+openbq-org/OpenBB[develop]: https://github.com/openbq-org/OpenBB.git
 openclaw/clawhub[main]: https://github.com/openclaw/clawhub.git
 openclaw/openclaw[main]: https://github.com/openclaw/openclaw.git
 opencv/opencv[5.x]: https://github.com/opencv/opencv.git
@@ -3371,7 +3371,7 @@ remoteintech/remote-jobs[main]: https://github.com/remoteintech/remote-jobs.git
 RenzKa/simlingo[main]: https://github.com/RenzKa/simlingo.git
 reorproject/reor[main]: https://github.com/reorproject/reor.git
 Replicable-MARL/MARLlib[master]: https://github.com/Replicable-MARL/MARLlib.git
-requarks/wiki[main]: https://github.com/requarks/wiki.git
+requarks/wiki[scarlett]: https://github.com/requarks/wiki.git
 rerun-io/rerun[main]: https://github.com/rerun-io/rerun.git
 restsharp/RestSharp[dev]: https://github.com/restsharp/RestSharp.git
 RethinkRobotics/sawyer_robot[master]: https://github.com/RethinkRobotics/sawyer_robot.git
