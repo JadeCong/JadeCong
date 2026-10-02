@@ -41,6 +41,7 @@ idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 infinityabundance: https://github.com/infinityabundance
 ipqwery: https://github.com/ipqwery
+ishandutta2007: https://github.com/ishandutta2007
 itsKayWat: https://github.com/itsKayWat
 itsprs: https://github.com/itsprs
 ixqSCpxi: https://github.com/ixqSCpxi
