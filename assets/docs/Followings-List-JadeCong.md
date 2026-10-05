@@ -323,6 +323,7 @@ electech6: https://github.com/electech6
 electron: https://github.com/electron
 Elite-Robots: https://github.com/Elite-Robots
 Embodied-Web-Agent: https://github.com/Embodied-Web-Agent
+EmbodiedSWE: https://github.com/EmbodiedSWE
 emidan19: https://github.com/emidan19
 emilkowalski: https://github.com/emilkowalski
 EmptyBlueBox: https://github.com/EmptyBlueBox
@@ -393,6 +394,7 @@ frankarobotics: https://github.com/frankarobotics
 freemocap: https://github.com/freemocap
 FreeRTOS: https://github.com/FreeRTOS
 FreshRSS: https://github.com/FreshRSS
+Friedrich-M: https://github.com/Friedrich-M
 friedrichyuan: https://github.com/friedrichyuan
 FuchsiaOS: https://github.com/FuchsiaOS
 fudan-generative-vision: https://github.com/fudan-generative-vision
@@ -1397,6 +1399,7 @@ XiaomiRobotics: https://github.com/XiaomiRobotics
 xiaoxiaoxh: https://github.com/xiaoxiaoxh
 XingangPan: https://github.com/XingangPan
 xingkongliang: https://github.com/xingkongliang
+xixu-me: https://github.com/xixu-me
 xming521: https://github.com/xming521
 xpeng-robotics: https://github.com/xpeng-robotics
 xpipe-io: https://github.com/xpipe-io
