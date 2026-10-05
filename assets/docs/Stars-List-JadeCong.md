@@ -49,6 +49,7 @@ abi/screenshot-to-code[main]: https://github.com/abi/screenshot-to-code.git
 abliao/RoBridge[main]: https://github.com/abliao/RoBridge.git
 ac-rad/anyplace[main]: https://github.com/ac-rad/anyplace.git
 academicpages/academicpages.github.io[master]: https://github.com/academicpages/academicpages.github.io.git
+acados/acados[main]: https://github.com/acados/acados.git
 Accenture/AmpliGraph[develop]: https://github.com/Accenture/AmpliGraph.git
 ACETeleop/ACETeleop[main]: https://github.com/ACETeleop/ACETeleop.git
 ACETeleop/ACE_hardware[main]: https://github.com/ACETeleop/ACE_hardware.git
@@ -504,7 +505,7 @@ Buzz-Beater/EgoTaskQA[main]: https://github.com/Buzz-Beater/EgoTaskQA.git
 BVLC/caffe[master]: https://github.com/BVLC/caffe.git
 by-luckk/PhysGen3D[main]: https://github.com/by-luckk/PhysGen3D.git
 byjlw/video-analyzer[main]: https://github.com/byjlw/video-analyzer.git
-byoungd/up[master]: https://github.com/byoungd/up.git
+byoungd/up[main]: https://github.com/byoungd/up.git
 bytebot-ai/bytebot[main]: https://github.com/bytebot-ai/bytebot.git
 ByteDance-Seed/Depth-Anything-3[main]: https://github.com/ByteDance-Seed/Depth-Anything-3.git
 ByteDance-Seed/TraceAnything[main]: https://github.com/ByteDance-Seed/TraceAnything.git
@@ -958,6 +959,7 @@ ematvey/tensorflow-seq2seq-tutorials[master]: https://github.com/ematvey/tensorf
 embodied-generalist/embodied-generalist[main]: https://github.com/embodied-generalist/embodied-generalist.git
 Embodied-Web-Agent/Embodied-Web-Agent[main]: https://github.com/Embodied-Web-Agent/Embodied-Web-Agent.git
 EmbodiedCity/AirScape.code[main]: https://github.com/EmbodiedCity/AirScape.code.git
+EmbodiedSWE/EmbodiedSWE[main]: https://github.com/EmbodiedSWE/EmbodiedSWE.git
 emedvedev/attention-ocr[master]: https://github.com/emedvedev/attention-ocr.git
 emidan19/deep-tempest[main]: https://github.com/emidan19/deep-tempest.git
 emilkowalski/skills[main]: https://github.com/emilkowalski/skills.git
@@ -1110,7 +1112,7 @@ facebookresearch/vggt[main]: https://github.com/facebookresearch/vggt.git
 facebookresearch/VideoPose3D[main]: https://github.com/facebookresearch/VideoPose3D.git
 facebookresearch/videoseal[main]: https://github.com/facebookresearch/videoseal.git
 facebookresearch/vjepa2[main]: https://github.com/facebookresearch/vjepa2.git
-facefusion/facefusion[v4-challenge]: https://github.com/facefusion/facefusion.git
+facefusion/facefusion[master]: https://github.com/facefusion/facefusion.git
 Faceunity/FUZegoLiveDemoDroid[master]: https://github.com/Faceunity/FUZegoLiveDemoDroid.git
 FAIR-INNOVATION/fairino-cpp-sdk[main]: https://github.com/FAIR-INNOVATION/fairino-cpp-sdk.git
 FAIR-INNOVATION/fairino-python-sdk[main]: https://github.com/FAIR-INNOVATION/fairino-python-sdk.git
@@ -1240,6 +1242,7 @@ FreeRTOS/FreeRTOS-Kernel[main]: https://github.com/FreeRTOS/FreeRTOS-Kernel.git
 FreeRTOS/FreeRTOS-LTS[202604-LTS]: https://github.com/FreeRTOS/FreeRTOS-LTS.git
 FreeRTOS/FreeRTOS-Plus-TCP[main]: https://github.com/FreeRTOS/FreeRTOS-Plus-TCP.git
 FreshRSS/FreshRSS[edge]: https://github.com/FreshRSS/FreshRSS.git
+Friedrich-M/UniMate[main]: https://github.com/Friedrich-M/UniMate.git
 friedrichyuan/awesome-bfm-papers[main]: https://github.com/friedrichyuan/awesome-bfm-papers.git
 fshamshirdar/DeepVO[deepvo]: https://github.com/fshamshirdar/DeepVO.git
 fsuarez6/phantom_omni[hydro-devel]: https://github.com/fsuarez6/phantom_omni.git
@@ -1295,6 +1298,7 @@ geekan/HowToLiveLonger[main]: https://github.com/geekan/HowToLiveLonger.git
 geekcomputers/Python[master]: https://github.com/geekcomputers/Python.git
 geektown/raspberry-xunfei[master]: https://github.com/geektown/raspberry-xunfei.git
 geekxh/hello-algorithm[master]: https://github.com/geekxh/hello-algorithm.git
+GehaoZhang6/Grounded-Action-Model[main]: https://github.com/GehaoZhang6/Grounded-Action-Model.git
 geliuhao/CVPR2016_HandPoseEstimation[master]: https://github.com/geliuhao/CVPR2016_HandPoseEstimation.git
 gemlab-vt/motionshop[main]: https://github.com/gemlab-vt/motionshop.git
 gen-robot/RL4VLA[main]: https://github.com/gen-robot/RL4VLA.git
@@ -2353,6 +2357,7 @@ MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.git
 maillab/cloud-mail[main]: https://github.com/maillab/cloud-mail.git
 makerspet/oomwoo[main]: https://github.com/makerspet/oomwoo.git
+makerspet/oomwoo-install[jazzy]: https://github.com/makerspet/oomwoo-install.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 malik-group/do-as-i-do[main]: https://github.com/malik-group/do-as-i-do.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
@@ -4385,6 +4390,7 @@ xinglie/report-designer[master]: https://github.com/xinglie/report-designer.git
 xingyizhou/CenterNet2[master]: https://github.com/xingyizhou/CenterNet2.git
 XinyueZhuXY/touch_in_the_wild[main]: https://github.com/XinyueZhuXY/touch_in_the_wild.git
 xiph/libao[master]: https://github.com/xiph/libao.git
+xixu-me/xget[main]: https://github.com/xixu-me/xget.git
 xlite-dev/lite.ai.toolkit[main]: https://github.com/xlite-dev/lite.ai.toolkit.git
 xming521/WeClone[master]: https://github.com/xming521/WeClone.git
 xmppjs/xmpp.js[main]: https://github.com/xmppjs/xmpp.js.git
