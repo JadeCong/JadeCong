@@ -3,6 +3,7 @@
 AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
+AlakhiarovSalekh: https://github.com/AlakhiarovSalekh
 alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
