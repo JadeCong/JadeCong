@@ -13,6 +13,7 @@ ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 arpitrajjj: https://github.com/arpitrajjj
 ash3spho3nix: https://github.com/ash3spho3nix
+BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
 bludnic: https://github.com/bludnic
@@ -75,7 +76,6 @@ nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
-OnFinality9: https://github.com/OnFinality9
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
 ousmanmahammedmahie13-blip: https://github.com/ousmanmahammedmahie13-blip
