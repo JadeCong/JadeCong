@@ -536,7 +536,7 @@ CapeAga/bai-it[main]: https://github.com/CapeAga/bai-it.git
 capgym/cap-x[main]: https://github.com/capgym/cap-x.git
 CapSoftware/Cap[main]: https://github.com/CapSoftware/Cap.git
 carbon-language/carbon-lang[trunk]: https://github.com/carbon-language/carbon-lang.git
-carla-simulator/carla[ue5-dev]: https://github.com/carla-simulator/carla.git
+carla-simulator/carla[ue58-dev]: https://github.com/carla-simulator/carla.git
 carla-simulator/imitation-learning[master]: https://github.com/carla-simulator/imitation-learning.git
 carlosferrazza/humanoid-bench[main]: https://github.com/carlosferrazza/humanoid-bench.git
 carpedm20/DCGAN-tensorflow[master]: https://github.com/carpedm20/DCGAN-tensorflow.git
@@ -1597,6 +1597,7 @@ hmrishavbandy/FlipSketch[main]: https://github.com/hmrishavbandy/FlipSketch.git
 hms-dbmi/CHIEF[main]: https://github.com/hms-dbmi/CHIEF.git
 Ho-lab-jaist/protac[main]: https://github.com/Ho-lab-jaist/protac.git
 hoangminhle/hierarchical_IL_RL[master]: https://github.com/hoangminhle/hierarchical_IL_RL.git
+Holiday-Robot/FlashDexRetarget[main]: https://github.com/Holiday-Robot/FlashDexRetarget.git
 Holiday-Robot/FlashSAC[main]: https://github.com/Holiday-Robot/FlashSAC.git
 holistic-3d/awesome-holistic-3d[master]: https://github.com/holistic-3d/awesome-holistic-3d.git
 Holistic-Motion2D/Tender[main]: https://github.com/Holistic-Motion2D/Tender.git
@@ -2076,7 +2077,7 @@ kocasariumut/FaceAnything[main]: https://github.com/kocasariumut/FaceAnything.gi
 kodecocodes/swift-algorithm-club[master]: https://github.com/kodecocodes/swift-algorithm-club.git
 kodecocodes/swift-style-guide[main]: https://github.com/kodecocodes/swift-style-guide.git
 Kong/swrv[master]: https://github.com/Kong/swrv.git
-kortix-ai/suna[main]: https://github.com/kortix-ai/suna.git
+kortix-ai/suna[dev]: https://github.com/kortix-ai/suna.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
 krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
 krillinai/OpenCreator[master]: https://github.com/krillinai/OpenCreator.git
@@ -2128,7 +2129,7 @@ langgptai/LangGPT[main]: https://github.com/langgptai/LangGPT.git
 lanius/tinyik[master]: https://github.com/lanius/tinyik.git
 LantaoYu/SeqGAN[master]: https://github.com/LantaoYu/SeqGAN.git
 lantiga/pytorch2c[master]: https://github.com/lantiga/pytorch2c.git
-laoma2053/awesome-zhuiju-free[main]: https://github.com/laoma2053/awesome-zhuiju-free.git
+laoma528/awesome-zhuiju-free[main]: https://github.com/laoma528/awesome-zhuiju-free.git
 lapce/lapce[master]: https://github.com/lapce/lapce.git
 Large-Trajectory-Model/ATM[main]: https://github.com/Large-Trajectory-Model/ATM.git
 LargeWorldModel/LWM[main]: https://github.com/LargeWorldModel/LWM.git
@@ -2931,7 +2932,7 @@ open-dynamic-robot-initiative/open_robot_actuator_hardware[master]: https://gith
 open-dynamic-robot-initiative/trifinger_object_tracking[master]: https://github.com/open-dynamic-robot-initiative/trifinger_object_tracking.git
 open-gigaai/giga-brain-0[main]: https://github.com/open-gigaai/giga-brain-0.git
 open-gigaai/giga-world-policy[main]: https://github.com/open-gigaai/giga-world-policy.git
-Open-Industry-Project/Open-Industry-Project[master]: https://github.com/Open-Industry-Project/Open-Industry-Project.git
+Open-Industry-Project/Open-Industry-Project-Godot[master]: https://github.com/Open-Industry-Project/Open-Industry-Project-Godot.git
 open-mmlab/Amphion[main]: https://github.com/open-mmlab/Amphion.git
 open-mmlab/Live2Diff[main]: https://github.com/open-mmlab/Live2Diff.git
 open-mmlab/mmagic[main]: https://github.com/open-mmlab/mmagic.git
