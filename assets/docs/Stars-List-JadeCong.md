@@ -1273,6 +1273,7 @@ GalaxyGeneralRobotics/OpenTrack[main]: https://github.com/GalaxyGeneralRobotics/
 GalaxyGeneralRobotics/OpenWBT[main]: https://github.com/GalaxyGeneralRobotics/OpenWBT.git
 game1024/OpenSpeedy[master]: https://github.com/game1024/OpenSpeedy.git
 GameGen-X/GameGen-X[main]: https://github.com/GameGen-X/GameGen-X.git
+gandli/vmware-downloads[main]: https://github.com/gandli/vmware-downloads.git
 gantFDT/icraft[main]: https://github.com/gantFDT/icraft.git
 gaoxiang12/faster-lio[main]: https://github.com/gaoxiang12/faster-lio.git
 gaoxiang12/ORBSLAM2_with_pointcloud_map[master]: https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map.git
@@ -2733,7 +2734,6 @@ nianticlabs/monodepth2[master]: https://github.com/nianticlabs/monodepth2.git
 nianticlabs/mvsanywhere[main]: https://github.com/nianticlabs/mvsanywhere.git
 nianticlabs/spz[main]: https://github.com/nianticlabs/spz.git
 nicedreamzapp/claude-code-local[main]: https://github.com/nicedreamzapp/claude-code-local.git
-Nick088Official/SuperPrompt-v1[main]: https://github.com/Nick088Official/SuperPrompt-v1.git
 NickEngmann/nickengmann.github.io[master]: https://github.com/NickEngmann/nickengmann.github.io.git
 nickioan/robot2robot[solo_master]: https://github.com/nickioan/robot2robot.git
 nicodjimenez/lstm[master]: https://github.com/nicodjimenez/lstm.git
@@ -2965,6 +2965,7 @@ openai/gym[master]: https://github.com/openai/gym.git
 openai/harmony[main]: https://github.com/openai/harmony.git
 openai/human-eval[master]: https://github.com/openai/human-eval.git
 openai/imitation[master]: https://github.com/openai/imitation.git
+openai/math[main]: https://github.com/openai/math.git
 openai/mlsh[master]: https://github.com/openai/mlsh.git
 openai/mujoco-py[master]: https://github.com/openai/mujoco-py.git
 openai/mujoco-worldgen[master]: https://github.com/openai/mujoco-worldgen.git
@@ -3407,6 +3408,7 @@ rlpy/rlpy[master]: https://github.com/rlpy/rlpy.git
 rmsalinas/DBow3[master]: https://github.com/rmsalinas/DBow3.git
 robbiebarrat/art-DCGAN[master]: https://github.com/robbiebarrat/art-DCGAN.git
 robbiehanson/XMPPFramework[master]: https://github.com/robbiehanson/XMPPFramework.git
+robbietilton/Compositor[main]: https://github.com/robbietilton/Compositor.git
 RobbinW/EVA[main]: https://github.com/RobbinW/EVA.git
 robbyant-research/CoDeF[main]: https://github.com/robbyant-research/CoDeF.git
 robbyant-research/DepthLab[main]: https://github.com/robbyant-research/DepthLab.git
@@ -3440,6 +3442,7 @@ robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robometer/robometer[main]: https://github.com/robometer/robometer.git
 RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.git
 RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
+RoboOpus/ACG-WAM[main]: https://github.com/RoboOpus/ACG-WAM.git
 Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 Roboparty/UFO[main]: https://github.com/Roboparty/UFO.git
