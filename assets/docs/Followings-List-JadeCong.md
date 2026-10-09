@@ -1036,6 +1036,7 @@ ripienaar: https://github.com/ripienaar
 ripl: https://github.com/ripl
 RIVeR-Lab: https://github.com/RIVeR-Lab
 RLinf: https://github.com/RLinf
+robbietilton: https://github.com/robbietilton
 RobbinW: https://github.com/RobbinW
 Robbyant: https://github.com/Robbyant
 robbyant-research: https://github.com/robbyant-research
