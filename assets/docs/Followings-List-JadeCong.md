@@ -755,6 +755,7 @@ moonlight-stream: https://github.com/moonlight-stream
 moonshine-ai: https://github.com/moonshine-ai
 MoonshotAI: https://github.com/MoonshotAI
 MoonTechLab: https://github.com/MoonTechLab
+morluto: https://github.com/morluto
 MorvanZhou: https://github.com/MorvanZhou
 mosaicml: https://github.com/mosaicml
 Motphys: https://github.com/Motphys
@@ -1174,6 +1175,7 @@ stephane: https://github.com/stephane
 stephane-caron: https://github.com/stephane-caron
 stepjam: https://github.com/stepjam
 Stirling-Tools: https://github.com/Stirling-Tools
+storytold: https://github.com/storytold
 straight-tamago: https://github.com/straight-tamago
 strands-agents: https://github.com/strands-agents
 streamlit: https://github.com/streamlit
