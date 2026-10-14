@@ -25,7 +25,6 @@ chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
 Connor9994: https://github.com/Connor9994
 COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
-CriptoNuno2024: https://github.com/CriptoNuno2024
 DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
@@ -84,6 +83,7 @@ pie-rise1development: https://github.com/pie-rise1development
 pinhe91: https://github.com/pinhe91
 Pinkuburu: https://github.com/Pinkuburu
 QingWeng: https://github.com/QingWeng
+quinta-yoshicat: https://github.com/quinta-yoshicat
 Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
