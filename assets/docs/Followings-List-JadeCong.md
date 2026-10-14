@@ -450,6 +450,7 @@ graspnet: https://github.com/graspnet
 gravitational: https://github.com/gravitational
 Graylab: https://github.com/Graylab
 greensock: https://github.com/greensock
+groundingpi: https://github.com/groundingpi
 grpc: https://github.com/grpc
 GuanxingLu: https://github.com/GuanxingLu
 h2oai: https://github.com/h2oai
@@ -1305,6 +1306,7 @@ unit-mesh: https://github.com/unit-mesh
 unitreerobotics: https://github.com/unitreerobotics
 Unity-Technologies: https://github.com/Unity-Technologies
 UniversalRobots: https://github.com/UniversalRobots
+UniWAM: https://github.com/UniWAM
 unovue: https://github.com/unovue
 Unsigned-Long: https://github.com/Unsigned-Long
 unslothai: https://github.com/unslothai
