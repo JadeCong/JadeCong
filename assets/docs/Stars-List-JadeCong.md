@@ -180,7 +180,7 @@ allenai/OLMo[main]: https://github.com/allenai/OLMo.git
 allenai/olmocr[main]: https://github.com/allenai/olmocr.git
 allenai/spoc-robot-training[main]: https://github.com/allenai/spoc-robot-training.git
 allenwong/30DaysofSwift[master]: https://github.com/allenwong/30DaysofSwift.git
-allinssl/allinssl[1.1.3]: https://github.com/allinssl/allinssl.git
+allinssl/allinssl[1.1.4]: https://github.com/allinssl/allinssl.git
 AlmondGod/act-bigym-aloha[main]: https://github.com/AlmondGod/act-bigym-aloha.git
 Alpha-VLLM/Lumina-mGPT[main]: https://github.com/Alpha-VLLM/Lumina-mGPT.git
 alphacep/vosk-api[master]: https://github.com/alphacep/vosk-api.git
@@ -2370,8 +2370,8 @@ MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
 malik-group/do-as-i-do[main]: https://github.com/malik-group/do-as-i-do.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
+mangdangroboticsclub/mini_pupper[main]: https://github.com/mangdangroboticsclub/mini_pupper.git
 mangdangroboticsclub/mini_pupper_ros[ros2-dev]: https://github.com/mangdangroboticsclub/mini_pupper_ros.git
-mangdangroboticsclub/QuadrupedRobot[mini_pupper]: https://github.com/mangdangroboticsclub/QuadrupedRobot.git
 manicman1999/StyleGAN-Keras[master]: https://github.com/manicman1999/StyleGAN-Keras.git
 ManimCommunity/manim[main]: https://github.com/ManimCommunity/manim.git
 ManipTrans/ManipTrans[main]: https://github.com/ManipTrans/ManipTrans.git
@@ -3456,6 +3456,7 @@ Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
 Roboparty/UFO[main]: https://github.com/Roboparty/UFO.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
+robosimstudio/robosimstudio[main]: https://github.com/robosimstudio/robosimstudio.git
 RoboStack/jupyter-ros[main]: https://github.com/RoboStack/jupyter-ros.git
 RoboStack/jupyterlab-ros[master]: https://github.com/RoboStack/jupyterlab-ros.git
 RoboStack/ros-humble[main]: https://github.com/RoboStack/ros-humble.git
@@ -3613,6 +3614,7 @@ sermanet/tcn[master]: https://github.com/sermanet/tcn.git
 serpapi/serpapi-python[master]: https://github.com/serpapi/serpapi-python.git
 SesameAILabs/csm[main]: https://github.com/SesameAILabs/csm.git
 sesteban951/shooting-for-contact[main]: https://github.com/sesteban951/shooting-for-contact.git
+seungjun-moon/rlhnd[main]: https://github.com/seungjun-moon/rlhnd.git
 SgtVincent/EMOS[embodied_mas]: https://github.com/SgtVincent/EMOS.git
 sh-akira/EasyMotionRecorder[master]: https://github.com/sh-akira/EasyMotionRecorder.git
 Shadowsocks-Wiki/shadowsocks[master]: https://github.com/Shadowsocks-Wiki/shadowsocks.git
@@ -4457,6 +4459,7 @@ YanjieZe/Humanoid-Teleoperation[main]: https://github.com/YanjieZe/Humanoid-Tele
 YanjieZe/Improved-3D-Diffusion-Policy[main]: https://github.com/YanjieZe/Improved-3D-Diffusion-Policy.git
 YanjieZe/TWIST[master]: https://github.com/YanjieZe/TWIST.git
 yannqi/Draw-an-Audio-Code[main]: https://github.com/yannqi/Draw-an-Audio-Code.git
+yanwen-zou/Roboprompt[master]: https://github.com/yanwen-zou/Roboprompt.git
 yao62995/tensorflow[master]: https://github.com/yao62995/tensorflow.git
 Yeachan-Heo/oh-my-claudecode[main]: https://github.com/Yeachan-Heo/oh-my-claudecode.git
 Yeachan-Heo/oh-my-codex[main]: https://github.com/Yeachan-Heo/oh-my-codex.git
