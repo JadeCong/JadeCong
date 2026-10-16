@@ -29,6 +29,8 @@ DaurDiop: https://github.com/DaurDiop
 Deng0303: https://github.com/Deng0303
 devimccallion: https://github.com/devimccallion
 dirambora: https://github.com/dirambora
+Dvurechensky: https://github.com/Dvurechensky
+erdenekhuu-bot: https://github.com/erdenekhuu-bot
 ggzy12345: https://github.com/ggzy12345
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
@@ -66,7 +68,6 @@ markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
 MeriemBoujamza: https://github.com/MeriemBoujamza
 Modelplane01: https://github.com/Modelplane01
-mohamedelmougy: https://github.com/mohamedelmougy
 motanelson: https://github.com/motanelson
 n4yand: https://github.com/n4yand
 nelbeu: https://github.com/nelbeu
