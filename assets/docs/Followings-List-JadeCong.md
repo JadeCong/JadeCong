@@ -1055,6 +1055,7 @@ RoboMME: https://github.com/RoboMME
 Roboparty: https://github.com/Roboparty
 robopen: https://github.com/robopen
 roboscienceorg: https://github.com/roboscienceorg
+robosimstudio: https://github.com/robosimstudio
 RoboStack: https://github.com/RoboStack
 Robot-VLAs: https://github.com/Robot-VLAs
 RobotControlStack: https://github.com/RobotControlStack
