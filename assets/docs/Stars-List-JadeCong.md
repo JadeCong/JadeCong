@@ -1771,6 +1771,7 @@ intell-sci-comput/PSE[main]: https://github.com/intell-sci-comput/PSE.git
 intelligent-control-lab/guard[main]: https://github.com/intelligent-control-lab/guard.git
 Intellindust-AI-Lab/DEIM[main]: https://github.com/Intellindust-AI-Lab/DEIM.git
 interactive-3d/interactive3d[main]: https://github.com/interactive-3d/interactive3d.git
+Interactive-Active-AI/OneWM[main]: https://github.com/Interactive-Active-AI/OneWM.git
 InternLM/MindSearch[main]: https://github.com/InternLM/MindSearch.git
 InternRobotics/AdaMimic[main]: https://github.com/InternRobotics/AdaMimic.git
 InternRobotics/Aether[main]: https://github.com/InternRobotics/Aether.git
@@ -3650,7 +3651,7 @@ SHI-Labs/Versatile-Diffusion[master]: https://github.com/SHI-Labs/Versatile-Diff
 ShichenLiu/CondenseNet[master]: https://github.com/ShichenLiu/CondenseNet.git
 shidenggui/easyquant[master]: https://github.com/shidenggui/easyquant.git
 shidenggui/easyquotation[master]: https://github.com/shidenggui/easyquotation.git
-shidenggui/easytrader[master]: https://github.com/shidenggui/easytrader.git
+shidenggui/easytrader[rm]: https://github.com/shidenggui/easytrader.git
 shiftkey/desktop[linux]: https://github.com/shiftkey/desktop.git
 shihenw/convolutional-pose-machines-release[master]: https://github.com/shihenw/convolutional-pose-machines-release.git
 ShiqiYu/libfacedetection[master]: https://github.com/ShiqiYu/libfacedetection.git
