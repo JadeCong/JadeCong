@@ -1,6 +1,6 @@
 name: Update Readme
 
-run-name: Update Readme
+run-name: Update Readme - JadeCong
 
 on:
   schedule:
@@ -29,17 +29,17 @@ jobs:
     
     steps:
       - name: Checkout current repository to the runner
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
       
       - name: Checkout target repository to the runner
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           repository: JadeCong/JadeCong.github.io
           path: JadeCong.github.io
           token: ${{ github.token }}
       
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.12'
           cache: 'pip'

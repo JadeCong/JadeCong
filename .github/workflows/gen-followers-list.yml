@@ -1,6 +1,6 @@
 name: Gen Followers List
 
-run-name: Gen Followers List
+run-name: Gen Followers List - JadeCong
 
 on:
   schedule:
@@ -29,7 +29,7 @@ jobs:
     
     steps:
       - name: Check out the repository to the runner
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
       
       - name: Configure git
         run: |

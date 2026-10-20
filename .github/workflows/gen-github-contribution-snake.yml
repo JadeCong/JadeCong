@@ -1,7 +1,7 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Gen GitHub Contribution Snake
 
-run-name: Gen GitHub Contribution Snake
+run-name: Gen GitHub Contribution Snake - JadeCong
 
 # Controls when the action will run.
 on:
@@ -9,7 +9,7 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+  workflow_dispatch: # Manual dispatch
 
 permissions: 
   contents: write
@@ -32,8 +32,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job.
     steps:
       # Check repos under $GITHUB_WORKSHOP, so your job can access it.
-      - name: Checkout the repository to the runner
-        uses: actions/checkout@v5
+      - name: Check out the repository to the runner
+        uses: actions/checkout@v7
       
       # Generate the contribution snake.
       - name: Generate Contribution Snake
