@@ -29,10 +29,10 @@ jobs:
     
     steps:
       - name: Checkout current repository to the runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       - name: Checkout target repository to the runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: JadeCong/JadeCong.github.io
           path: JadeCong.github.io

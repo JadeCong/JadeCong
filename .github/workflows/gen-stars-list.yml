@@ -1,6 +1,6 @@
-name: Gen Stars List - JadeCong
+name: Gen Stars List
 
-run-name: Gen Stars List - JadeCong
+run-name: Gen Stars List
 
 on:
   schedule:
@@ -24,12 +24,12 @@ concurrency:
 
 jobs:
   gen-stars-list:
-    name: Gen Stars List
+    name: Gen Stars List for JadeCong
     runs-on: [self-hosted, Linux, ARM64, JadeCong, runner-JadeCong]
     
     steps:
       - name: Check out the repository to the runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       - name: Configure git
         run: |
