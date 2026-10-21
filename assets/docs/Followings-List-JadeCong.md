@@ -485,6 +485,7 @@ HKPolyU-UAV: https://github.com/HKPolyU-UAV
 hku-mars: https://github.com/hku-mars
 HKUDS: https://github.com/HKUDS
 HKUST-Aerial-Robotics: https://github.com/HKUST-Aerial-Robotics
+hmjz100: https://github.com/hmjz100
 hmrishavbandy: https://github.com/hmrishavbandy
 hms-dbmi: https://github.com/hms-dbmi
 Holiday-Robot: https://github.com/Holiday-Robot
@@ -1061,7 +1062,6 @@ Robot-VLAs: https://github.com/Robot-VLAs
 RobotControlStack: https://github.com/RobotControlStack
 roboterax: https://github.com/roboterax
 ROBOTIS-GIT: https://github.com/ROBOTIS-GIT
-robotlearning123: https://github.com/robotlearning123
 RobotLocomotion: https://github.com/RobotLocomotion
 RoboTwin-Platform: https://github.com/RoboTwin-Platform
 RoboVerseOrg: https://github.com/RoboVerseOrg
@@ -1442,6 +1442,7 @@ yukihiko: https://github.com/yukihiko
 Yuliang-Liu: https://github.com/Yuliang-Liu
 yuliangguo: https://github.com/yuliangguo
 yusufkaraaslan: https://github.com/yusufkaraaslan
+Yutang-Lin: https://github.com/Yutang-Lin
 yuxng: https://github.com/yuxng
 YvanYin: https://github.com/YvanYin
 yxyang: https://github.com/yxyang
