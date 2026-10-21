@@ -197,6 +197,7 @@ amazon-far/fpo-control[main]: https://github.com/amazon-far/fpo-control.git
 amazon-far/holosoma[main]: https://github.com/amazon-far/holosoma.git
 amazon-far/php_parkour[main]: https://github.com/amazon-far/php_parkour.git
 amazon-far/residual-offpolicy-rl[main]: https://github.com/amazon-far/residual-offpolicy-rl.git
+amazon-far/RPL[main]: https://github.com/amazon-far/RPL.git
 amazon-far/TWIST2[master]: https://github.com/amazon-far/TWIST2.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
@@ -1292,6 +1293,7 @@ garychowcmu/daizhigev20[master]: https://github.com/garychowcmu/daizhigev20.git
 gaschler/rotationconverter[master]: https://github.com/gaschler/rotationconverter.git
 GaTech-RL2/EgoVerse[main]: https://github.com/GaTech-RL2/EgoVerse.git
 GaTech-RL2/mimiclabs[main]: https://github.com/GaTech-RL2/mimiclabs.git
+Gathin23/cleanyourtv[main]: https://github.com/Gathin23/cleanyourtv.git
 GaussianCube/GaussianCube[main]: https://github.com/GaussianCube/GaussianCube.git
 gaussic/text-classification-cnn-rnn[master]: https://github.com/gaussic/text-classification-cnn-rnn.git
 gautamkrishnar/blog-post-workflow[master]: https://github.com/gautamkrishnar/blog-post-workflow.git
@@ -1598,6 +1600,7 @@ HKUST-Aerial-Robotics/VINS-Fusion[master]: https://github.com/HKUST-Aerial-Robot
 HKUST-Aerial-Robotics/VINS-Mobile[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Mobile.git
 HKUST-Aerial-Robotics/VINS-Mono[master]: https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git
 HKUST-SAIL/RaDe-GS[main]: https://github.com/HKUST-SAIL/RaDe-GS.git
+hmjz100/LinkSwift[dev]: https://github.com/hmjz100/LinkSwift.git
 hmrishavbandy/FlipSketch[main]: https://github.com/hmrishavbandy/FlipSketch.git
 hms-dbmi/CHIEF[main]: https://github.com/hms-dbmi/CHIEF.git
 Ho-lab-jaist/protac[main]: https://github.com/Ho-lab-jaist/protac.git
@@ -1812,7 +1815,7 @@ Ironclad/rivet[main]: https://github.com/Ironclad/rivet.git
 IRVLUTD/HO-Cap[main]: https://github.com/IRVLUTD/HO-Cap.git
 IRVLUTD/UHAS_sim[main]: https://github.com/IRVLUTD/UHAS_sim.git
 isaac-sim/IsaacGymEnvs[main]: https://github.com/isaac-sim/IsaacGymEnvs.git
-isaac-sim/IsaacLab[develop]: https://github.com/isaac-sim/IsaacLab.git
+isaac-sim/IsaacLab[main]: https://github.com/isaac-sim/IsaacLab.git
 isaac-sim/IsaacLab-Arena[main]: https://github.com/isaac-sim/IsaacLab-Arena.git
 isaac-sim/IsaacSim[develop]: https://github.com/isaac-sim/IsaacSim.git
 isaac-sim/IsaacSim-ros_workspaces[main]: https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
@@ -3454,7 +3457,13 @@ RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.gi
 RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
 RoboOpus/ACG-WAM[main]: https://github.com/RoboOpus/ACG-WAM.git
 Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
+Roboparty/roboparty_deploy[main]: https://github.com/Roboparty/roboparty_deploy.git
+Roboparty/roboparty_train[main]: https://github.com/Roboparty/roboparty_train.git
 Roboparty/roboto_origin[main]: https://github.com/Roboparty/roboto_origin.git
+Roboparty/RP1[main]: https://github.com/Roboparty/RP1.git
+Roboparty/rp1_description[master]: https://github.com/Roboparty/rp1_description.git
+Roboparty/RP1_firmware[main]: https://github.com/Roboparty/RP1_firmware.git
+Roboparty/RP1_hardware[main]: https://github.com/Roboparty/RP1_hardware.git
 Roboparty/UFO[main]: https://github.com/Roboparty/UFO.git
 robopen/roboagent[main]: https://github.com/robopen/roboagent.git
 robosimstudio/robosimstudio[main]: https://github.com/robosimstudio/robosimstudio.git
@@ -3477,6 +3486,7 @@ ROBOTIS-GIT/cyclo_intelligence[main]: https://github.com/ROBOTIS-GIT/cyclo_intel
 ROBOTIS-GIT/cyclo_lab[main]: https://github.com/ROBOTIS-GIT/cyclo_lab.git
 ROBOTIS-GIT/lerobot-cyclo[main]: https://github.com/ROBOTIS-GIT/lerobot-cyclo.git
 ROBOTIS-GIT/ROBOTIS-OP3[master]: https://github.com/ROBOTIS-GIT/ROBOTIS-OP3.git
+ROBOTIS-GIT/robotis_hand[main]: https://github.com/ROBOTIS-GIT/robotis_hand.git
 RobotLabLTH/SkiROS2[master]: https://github.com/RobotLabLTH/SkiROS2.git
 robotlearn/pyrobolearn[master]: https://github.com/robotlearn/pyrobolearn.git
 robotlearn/raisimpy[master]: https://github.com/robotlearn/raisimpy.git
@@ -4527,6 +4537,7 @@ yunhaif/reflect-vlm[main]: https://github.com/yunhaif/reflect-vlm.git
 yunhaif/regrind[main]: https://github.com/yunhaif/regrind.git
 yunjey/pytorch-tutorial[master]: https://github.com/yunjey/pytorch-tutorial.git
 yusufkaraaslan/Skill_Seekers[development]: https://github.com/yusufkaraaslan/Skill_Seekers.git
+Yutang-Lin/FIBER[main]: https://github.com/Yutang-Lin/FIBER.git
 YuvDwi/Steve[main]: https://github.com/YuvDwi/Steve.git
 yuxng/PoseCNN[master]: https://github.com/yuxng/PoseCNN.git
 YvanYin/DrivingWorld[main]: https://github.com/YvanYin/DrivingWorld.git
