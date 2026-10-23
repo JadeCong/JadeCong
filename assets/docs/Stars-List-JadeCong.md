@@ -941,6 +941,7 @@ egosteer/egosteer[main]: https://github.com/egosteer/egosteer.git
 egosteer/robot-stack[main]: https://github.com/egosteer/robot-stack.git
 ehang-io/nps[master]: https://github.com/ehang-io/nps.git
 ehehee/robovista[main]: https://github.com/ehehee/robovista.git
+Einsia/EmbodiedEvo[main]: https://github.com/Einsia/EmbodiedEvo.git
 EKKOLearnAI/ekko-studio[main]: https://github.com/EKKOLearnAI/ekko-studio.git
 elblogbruno/NotionAI-MyMind[master]: https://github.com/elblogbruno/NotionAI-MyMind.git
 elder-plinius/G0DM0D3[main]: https://github.com/elder-plinius/G0DM0D3.git
@@ -3045,6 +3046,7 @@ openrocket/openrocket[unstable]: https://github.com/openrocket/openrocket.git
 OpenRouterArchived/openrouter-runner[main]: https://github.com/OpenRouterArchived/openrouter-runner.git
 OpenRouterTeam/python-sdk[main]: https://github.com/OpenRouterTeam/python-sdk.git
 OpenRouterTeam/typescript-sdk[main]: https://github.com/OpenRouterTeam/typescript-sdk.git
+OpenSenseNova/SenseNova-RoboRSI[main]: https://github.com/OpenSenseNova/SenseNova-RoboRSI.git
 OpenSenseNova/SenseNova-U1[main]: https://github.com/OpenSenseNova/SenseNova-U1.git
 opensim-org/opensim-core[main]: https://github.com/opensim-org/opensim-core.git
 opensim-org/opensim-gui[main]: https://github.com/opensim-org/opensim-gui.git
@@ -3057,6 +3059,7 @@ OpenSPG/KAG[master]: https://github.com/OpenSPG/KAG.git
 OpenSPG/openspg[master]: https://github.com/OpenSPG/openspg.git
 openssl/openssl[master]: https://github.com/openssl/openssl.git
 openstack/swift[master]: https://github.com/openstack/swift.git
+opentac/opentac[main]: https://github.com/opentac/opentac.git
 OpenTalker/SadTalker[main]: https://github.com/OpenTalker/SadTalker.git
 OpenTeleVision/AMO[main]: https://github.com/OpenTeleVision/AMO.git
 OpenTeleVision/TeleVision[main]: https://github.com/OpenTeleVision/TeleVision.git
