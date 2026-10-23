@@ -318,6 +318,7 @@ eclipse-zenoh: https://github.com/eclipse-zenoh
 Edge0-AI: https://github.com/Edge0-AI
 EGalahad: https://github.com/EGalahad
 egosteer: https://github.com/egosteer
+Einsia: https://github.com/Einsia
 elecfreaks: https://github.com/elecfreaks
 electech6: https://github.com/electech6
 electron: https://github.com/electron
