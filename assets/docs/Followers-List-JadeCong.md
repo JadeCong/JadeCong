@@ -40,6 +40,7 @@ heyogeshcode: https://github.com/heyogeshcode
 hgh752362-max: https://github.com/hgh752362-max
 hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
+Icaro0310: https://github.com/Icaro0310
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 infinityabundance: https://github.com/infinityabundance
@@ -103,6 +104,7 @@ smartjimmy090-png: https://github.com/smartjimmy090-png
 solotech939: https://github.com/solotech939
 songminlhy: https://github.com/songminlhy
 sphinxzerd: https://github.com/sphinxzerd
+splincode: https://github.com/splincode
 standardgalactic: https://github.com/standardgalactic
 sunlight0102: https://github.com/sunlight0102
 sunnyyouknow: https://github.com/sunnyyouknow
