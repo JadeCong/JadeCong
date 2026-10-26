@@ -3,6 +3,7 @@
 AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
+aixisstudio: https://github.com/aixisstudio
 AlakhiarovSalekh: https://github.com/AlakhiarovSalekh
 alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
@@ -76,6 +77,7 @@ neon-x-hub: https://github.com/neon-x-hub
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
+NotAFlightRisk: https://github.com/NotAFlightRisk
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
