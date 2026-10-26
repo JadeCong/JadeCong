@@ -826,6 +826,8 @@ developersdigest/llm-answer-engine[main]: https://github.com/developersdigest/ll
 devsisters/DQN-tensorflow[master]: https://github.com/devsisters/DQN-tensorflow.git
 DexForce/EmbodiChain[main]: https://github.com/DexForce/EmbodiChain.git
 DexForce/UNITAS[main]: https://github.com/DexForce/UNITAS.git
+DexHoldem/Dexholdem-Policy[main]: https://github.com/DexHoldem/Dexholdem-Policy.git
+DexHoldem/DexHoldemSKills[main]: https://github.com/DexHoldem/DexHoldemSKills.git
 dexmal/dexbotic[main]: https://github.com/dexmal/dexbotic.git
 dexmal/realtime-vla-v2[main]: https://github.com/dexmal/realtime-vla-v2.git
 DexRobot/dexrobot_ecosystem[main]: https://github.com/DexRobot/dexrobot_ecosystem.git
@@ -2354,6 +2356,7 @@ LynnHo/CycleGAN-Tensorflow-2[master]: https://github.com/LynnHo/CycleGAN-Tensorf
 lyswhut/lx-music-desktop[master]: https://github.com/lyswhut/lx-music-desktop.git
 lyswhut/lx-music-mobile[master]: https://github.com/lyswhut/lx-music-mobile.git
 lyswhut/lx-music-sync-server[master]: https://github.com/lyswhut/lx-music-sync-server.git
+lzyang2000/morphmimic[main]: https://github.com/lzyang2000/morphmimic.git
 lzyang2000/twist2_mjlab[master]: https://github.com/lzyang2000/twist2_mjlab.git
 M-Abozaid/esp32-c3-adblock[main]: https://github.com/M-Abozaid/esp32-c3-adblock.git
 m-damien/VisualStoryWriting[main]: https://github.com/m-damien/VisualStoryWriting.git
@@ -2372,6 +2375,7 @@ maillab/cloud-mail[main]: https://github.com/maillab/cloud-mail.git
 makerspet/oomwoo[main]: https://github.com/makerspet/oomwoo.git
 makerspet/oomwoo-install[jazzy]: https://github.com/makerspet/oomwoo-install.git
 MakeYourPet/hexapod[main]: https://github.com/MakeYourPet/hexapod.git
+MakrSas/ios-topaz[topaz]: https://github.com/MakrSas/ios-topaz.git
 malik-group/do-as-i-do[main]: https://github.com/malik-group/do-as-i-do.git
 MandiZhao/dexmachina[main]: https://github.com/MandiZhao/dexmachina.git
 MandiZhao/robot-collab[main]: https://github.com/MandiZhao/robot-collab.git
@@ -3092,7 +3096,6 @@ ousttrue/UniHumanoid[master]: https://github.com/ousttrue/UniHumanoid.git
 ov2slam/ov2slam[main]: https://github.com/ov2slam/ov2slam.git
 overleaf-workshop/Overleaf-Workshop[master]: https://github.com/overleaf-workshop/Overleaf-Workshop.git
 overleaf/overleaf[main]: https://github.com/overleaf/overleaf.git
-overtake/TelegramSwift[master]: https://github.com/overtake/TelegramSwift.git
 owainlewis/awesome-artificial-intelligence[master]: https://github.com/owainlewis/awesome-artificial-intelligence.git
 ownthink/KnowledgeGraph[master]: https://github.com/ownthink/KnowledgeGraph.git
 owocki/pytrader[master]: https://github.com/owocki/pytrader.git
@@ -3475,6 +3478,8 @@ RoboStack/jupyterlab-ros[master]: https://github.com/RoboStack/jupyterlab-ros.gi
 RoboStack/ros-humble[main]: https://github.com/RoboStack/ros-humble.git
 RoboStack/ros-jazzy[main]: https://github.com/RoboStack/ros-jazzy.git
 RoboStack/ros-noetic[main]: https://github.com/RoboStack/ros-noetic.git
+robot-agent-exploration/rax[main]: https://github.com/robot-agent-exploration/rax.git
+robot-agent-exploration/skills-lib[main]: https://github.com/robot-agent-exploration/skills-lib.git
 robot-learning-co/trlc-dk1[main]: https://github.com/robot-learning-co/trlc-dk1.git
 Robot-MA/manipulate-anything[main]: https://github.com/Robot-MA/manipulate-anything.git
 Robot-VLAs/RoboVLMs[main]: https://github.com/Robot-VLAs/RoboVLMs.git
@@ -4141,7 +4146,7 @@ ucla-mobility/AutoVLA[main]: https://github.com/ucla-mobility/AutoVLA.git
 UCSB-AI/swap-anything[main]: https://github.com/UCSB-AI/swap-anything.git
 UCSC-VLAA/story-iter[main]: https://github.com/UCSC-VLAA/story-iter.git
 udacity/deep-reinforcement-learning[master]: https://github.com/udacity/deep-reinforcement-learning.git
-udecode/plate[main]: https://github.com/udecode/plate.git
+udecode/plate[next]: https://github.com/udecode/plate.git
 UE4-OceanProject/OceanProject[master]: https://github.com/UE4-OceanProject/OceanProject.git
 UFund-Me/Qbot[main]: https://github.com/UFund-Me/Qbot.git
 uiuckimlab/CHILD[main]: https://github.com/uiuckimlab/CHILD.git
@@ -4175,6 +4180,8 @@ unitreerobotics/unitree_mujoco[main]: https://github.com/unitreerobotics/unitree
 unitreerobotics/unitree_rl_gym[main]: https://github.com/unitreerobotics/unitree_rl_gym.git
 unitreerobotics/unitree_ros[master]: https://github.com/unitreerobotics/unitree_ros.git
 unitreerobotics/unitree_ros2[master]: https://github.com/unitreerobotics/unitree_ros2.git
+unitreerobotics/unitree_sdk2[main]: https://github.com/unitreerobotics/unitree_sdk2.git
+unitreerobotics/unitree_sdk2_python[master]: https://github.com/unitreerobotics/unitree_sdk2_python.git
 unitreerobotics/xr_teleoperate[main]: https://github.com/unitreerobotics/xr_teleoperate.git
 Unity-Technologies/ml-agents[develop]: https://github.com/Unity-Technologies/ml-agents.git
 Unity-Technologies/Unity-Robotics-Hub[main]: https://github.com/Unity-Technologies/Unity-Robotics-Hub.git
@@ -4414,6 +4421,7 @@ XiaomiRobotics/Xiaomi-Robotics-0[main]: https://github.com/XiaomiRobotics/Xiaomi
 xiaowei-hu/CycleGAN-tensorflow[master]: https://github.com/xiaowei-hu/CycleGAN-tensorflow.git
 xiaoxiaoxh/reactive_diffusion_policy[main]: https://github.com/xiaoxiaoxh/reactive_diffusion_policy.git
 xiaoxiaoxh/TactAR_APP[master]: https://github.com/xiaoxiaoxh/TactAR_APP.git
+xiaoyang111222/cn-math-taxonomy[main]: https://github.com/xiaoyang111222/cn-math-taxonomy.git
 xiefei2929/ORB_SLAM3-RGBD-Inertial[master]: https://github.com/xiefei2929/ORB_SLAM3-RGBD-Inertial.git
 xiefei2929/ORB_SLAM3-ROS-Interface[master]: https://github.com/xiefei2929/ORB_SLAM3-ROS-Interface.git
 XingangPan/DragGAN[main]: https://github.com/XingangPan/DragGAN.git
@@ -4580,6 +4588,10 @@ zeng-yifei/STAG4D[main]: https://github.com/zeng-yifei/STAG4D.git
 ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
 zeroclaw-labs/zeroclaw[master]: https://github.com/zeroclaw-labs/zeroclaw.git
+ZeroErrControl/eRob_CANopen_Linux[main]: https://github.com/ZeroErrControl/eRob_CANopen_Linux.git
+ZeroErrControl/eRob_eCoder[main]: https://github.com/ZeroErrControl/eRob_eCoder.git
+ZeroErrControl/eRob_IGH_EtherCAT[main]: https://github.com/ZeroErrControl/eRob_IGH_EtherCAT.git
+ZeroErrControl/eRob_SOEM_linux[main]: https://github.com/ZeroErrControl/eRob_SOEM_linux.git
 zeroth-robotics/zeroth-bot[main]: https://github.com/zeroth-robotics/zeroth-bot.git
 Zeta36/chess-alpha-zero[master]: https://github.com/Zeta36/chess-alpha-zero.git
 Zeyi-Lin/HivisionIDPhotos[master]: https://github.com/Zeyi-Lin/HivisionIDPhotos.git
