@@ -2,7 +2,6 @@ JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.gi
   - 09510: https://github.com/09510
 JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
   - 09510: https://github.com/09510
-  - 2324621372: https://github.com/2324621372
   - ayameaqua: https://github.com/ayameaqua
   - chenxingshenSecond: https://github.com/chenxingshenSecond
   - Game-Challenge: https://github.com/Game-Challenge
