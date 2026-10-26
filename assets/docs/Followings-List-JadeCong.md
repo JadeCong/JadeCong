@@ -689,6 +689,7 @@ lumalabs: https://github.com/lumalabs
 luong-komorebi: https://github.com/luong-komorebi
 lutris: https://github.com/lutris
 lyswhut: https://github.com/lyswhut
+lzyang2000: https://github.com/lzyang2000
 m5stack: https://github.com/m5stack
 MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
@@ -1059,6 +1060,7 @@ robopen: https://github.com/robopen
 roboscienceorg: https://github.com/roboscienceorg
 robosimstudio: https://github.com/robosimstudio
 RoboStack: https://github.com/RoboStack
+robot-agent-exploration: https://github.com/robot-agent-exploration
 Robot-VLAs: https://github.com/Robot-VLAs
 RobotControlStack: https://github.com/RobotControlStack
 roboterax: https://github.com/roboterax
