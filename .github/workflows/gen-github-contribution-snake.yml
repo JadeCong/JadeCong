@@ -27,7 +27,7 @@ jobs:
   gen-github-contribution-snake:
     name: Gen GitHub Contribution Snake for JadeCong
     # The type of runner that the job will run on.
-    runs-on: [self-hosted, Linux, ARM64, JadeCong, runner-JadeCong]
+    runs-on: ubuntu-latest
     
     # Steps represent a sequence of tasks that will be executed as part of the job.
     steps:
