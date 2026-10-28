@@ -603,6 +603,7 @@ khyu: https://github.com/khyu
 Kiln-AI: https://github.com/Kiln-AI
 kimiyoung: https://github.com/kimiyoung
 KindXiaoming: https://github.com/KindXiaoming
+KingKongRobotics: https://github.com/KingKongRobotics
 Kinovarobotics: https://github.com/Kinovarobotics
 Kitware: https://github.com/Kitware
 KlingAIResearch: https://github.com/KlingAIResearch
@@ -1213,6 +1214,7 @@ team-aprl: https://github.com/team-aprl
 TeamWiseFlow: https://github.com/TeamWiseFlow
 TeleHuman: https://github.com/TeleHuman
 telekinesis-ai: https://github.com/telekinesis-ai
+tempo-robot: https://github.com/tempo-robot
 Tencent: https://github.com/Tencent
 tencent-ailab: https://github.com/tencent-ailab
 Tencent-Hunyuan: https://github.com/Tencent-Hunyuan
@@ -1456,6 +1458,7 @@ zealdocs: https://github.com/zealdocs
 zed-industries: https://github.com/zed-industries
 zen-browser: https://github.com/zen-browser
 zeroclaw-labs: https://github.com/zeroclaw-labs
+ZeroErrControl: https://github.com/ZeroErrControl
 zeroth-robotics: https://github.com/zeroth-robotics
 ZheC: https://github.com/ZheC
 zhengkid: https://github.com/zhengkid
