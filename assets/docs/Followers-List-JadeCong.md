@@ -33,6 +33,7 @@ dirambora: https://github.com/dirambora
 Dvurechensky: https://github.com/Dvurechensky
 erdenekhuu-bot: https://github.com/erdenekhuu-bot
 ggzy12345: https://github.com/ggzy12345
+Git-FED: https://github.com/Git-FED
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
 harinadh76: https://github.com/harinadh76
@@ -77,7 +78,6 @@ neon-x-hub: https://github.com/neon-x-hub
 nholuongut: https://github.com/nholuongut
 nikollgjokaj: https://github.com/nikollgjokaj
 nilaghosh399: https://github.com/nilaghosh399
-NotAFlightRisk: https://github.com/NotAFlightRisk
 OfficialCodeVoyage: https://github.com/OfficialCodeVoyage
 oomodan: https://github.com/oomodan
 opd-ai: https://github.com/opd-ai
