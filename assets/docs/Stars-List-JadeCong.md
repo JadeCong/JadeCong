@@ -1820,7 +1820,7 @@ IRVLUTD/UHAS_sim[main]: https://github.com/IRVLUTD/UHAS_sim.git
 isaac-sim/IsaacGymEnvs[main]: https://github.com/isaac-sim/IsaacGymEnvs.git
 isaac-sim/IsaacLab[main]: https://github.com/isaac-sim/IsaacLab.git
 isaac-sim/IsaacLab-Arena[main]: https://github.com/isaac-sim/IsaacLab-Arena.git
-isaac-sim/IsaacSim[develop]: https://github.com/isaac-sim/IsaacSim.git
+isaac-sim/IsaacSim[release/6.3]: https://github.com/isaac-sim/IsaacSim.git
 isaac-sim/IsaacSim-ros_workspaces[main]: https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
 isaac-sim/OmniIsaacGymEnvs[main]: https://github.com/isaac-sim/OmniIsaacGymEnvs.git
 isabella4444x/Biadapt[main]: https://github.com/isabella4444x/Biadapt.git
@@ -2069,6 +2069,8 @@ kimbring2/AlphaStar_Implementation[master]: https://github.com/kimbring2/AlphaSt
 kimiyoung/transformer-xl[master]: https://github.com/kimiyoung/transformer-xl.git
 kinam0252/TIC-FT[main]: https://github.com/kinam0252/TIC-FT.git
 KindXiaoming/pykan[master]: https://github.com/KindXiaoming/pykan.git
+KingKongRobotics/jumper[main]: https://github.com/KingKongRobotics/jumper.git
+KingKongRobotics/jumper-design[main]: https://github.com/KingKongRobotics/jumper-design.git
 Kinovarobotics/Kinova-kortex2_Gen3_G3L[master]: https://github.com/Kinovarobotics/Kinova-kortex2_Gen3_G3L.git
 Kinovarobotics/kinova-ros[noetic-devel]: https://github.com/Kinovarobotics/kinova-ros.git
 Kinovarobotics/ros2_kortex[main]: https://github.com/Kinovarobotics/ros2_kortex.git
@@ -3394,6 +3396,7 @@ RefoundAI/lenny-skills[main]: https://github.com/RefoundAI/lenny-skills.git
 reHackable/awesome-reMarkable[master]: https://github.com/reHackable/awesome-reMarkable.git
 reinforcement-learning-kr/lets-do-irl[master]: https://github.com/reinforcement-learning-kr/lets-do-irl.git
 remoteintech/remote-jobs[main]: https://github.com/remoteintech/remote-jobs.git
+Renhuai123/ziwei-doushu[main]: https://github.com/Renhuai123/ziwei-doushu.git
 RenzKa/simlingo[main]: https://github.com/RenzKa/simlingo.git
 reorproject/reor[main]: https://github.com/reorproject/reor.git
 Replicable-MARL/MARLlib[master]: https://github.com/Replicable-MARL/MARLlib.git
@@ -3912,6 +3915,8 @@ TeleHuman/humanoid_skateboarding[main]: https://github.com/TeleHuman/humanoid_sk
 TeleHuman/TextOp[main]: https://github.com/TeleHuman/TextOp.git
 telekinesis-ai/telekinesis-examples[main]: https://github.com/telekinesis-ai/telekinesis-examples.git
 telekinesis-ai/telekinesis-rlbotics[main]: https://github.com/telekinesis-ai/telekinesis-rlbotics.git
+tempo-robot/TEMPO[main]: https://github.com/tempo-robot/TEMPO.git
+tempo-robot/TempoBench[main]: https://github.com/tempo-robot/TempoBench.git
 TemugeB/bodypose3d[main]: https://github.com/TemugeB/bodypose3d.git
 TEN-framework/ten-framework[main]: https://github.com/TEN-framework/ten-framework.git
 tencent-ailab/V-Express[main]: https://github.com/tencent-ailab/V-Express.git
@@ -4494,6 +4499,7 @@ yfeng95/GAN[master]: https://github.com/yfeng95/GAN.git
 yformer/EfficientTAM[main]: https://github.com/yformer/EfficientTAM.git
 YicongHong/Recurrent-VLN-BERT[main]: https://github.com/YicongHong/Recurrent-VLN-BERT.git
 yifan-hou/adaptive_compliance_policy[main]: https://github.com/yifan-hou/adaptive_compliance_policy.git
+yifan-hou/cr-dagger[main]: https://github.com/yifan-hou/cr-dagger.git
 yihao-meng/AniDoc_demo[main]: https://github.com/yihao-meng/AniDoc_demo.git
 yijiangh/ikfast_pybind[master]: https://github.com/yijiangh/ikfast_pybind.git
 yikaiw/Vidu4D[main]: https://github.com/yikaiw/Vidu4D.git
@@ -4618,6 +4624,8 @@ zhisheng17/flink-learning[master]: https://github.com/zhisheng17/flink-learning.
 zhongleilz/Sketch2Anim[main]: https://github.com/zhongleilz/Sketch2Anim.git
 zhongyang219/TrafficMonitor[master]: https://github.com/zhongyang219/TrafficMonitor.git
 Zhoues/RoboRefer[main]: https://github.com/Zhoues/RoboRefer.git
+zhourui9813/DexRoam[main]: https://github.com/zhourui9813/DexRoam.git
+zhourui9813/DexRoam-Policy-Training[main]: https://github.com/zhourui9813/DexRoam-Policy-Training.git
 zhouzypaul/wsrl[main]: https://github.com/zhouzypaul/wsrl.git
 ZhuLinsen/daily_stock_analysis[main]: https://github.com/ZhuLinsen/daily_stock_analysis.git
 zhulu111/ComfyUI_Bxb[main]: https://github.com/zhulu111/ComfyUI_Bxb.git
