@@ -9,7 +9,6 @@ alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
 AnandMayank: https://github.com/AnandMayank
 anttoni-jaakola: https://github.com/anttoni-jaakola
-aramisjustin068: https://github.com/aramisjustin068
 ArefMq: https://github.com/ArefMq
 ariszxxu: https://github.com/ariszxxu
 arpitrajjj: https://github.com/arpitrajjj
@@ -42,7 +41,6 @@ heyogeshcode: https://github.com/heyogeshcode
 hgh752362-max: https://github.com/hgh752362-max
 hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
-Icaro0310: https://github.com/Icaro0310
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 infinityabundance: https://github.com/infinityabundance
@@ -91,7 +89,6 @@ quinta-yoshicat: https://github.com/quinta-yoshicat
 Rajindersaini905: https://github.com/Rajindersaini905
 ranhongliang: https://github.com/ranhongliang
 rashidch: https://github.com/rashidch
-raviwijerathna1: https://github.com/raviwijerathna1
 RemoteBrowser01: https://github.com/RemoteBrowser01
 ritakaneu: https://github.com/ritakaneu
 rodrigogalura: https://github.com/rodrigogalura
