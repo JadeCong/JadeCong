@@ -198,6 +198,7 @@ amazon-far/holosoma[main]: https://github.com/amazon-far/holosoma.git
 amazon-far/php_parkour[main]: https://github.com/amazon-far/php_parkour.git
 amazon-far/residual-offpolicy-rl[main]: https://github.com/amazon-far/residual-offpolicy-rl.git
 amazon-far/RPL[main]: https://github.com/amazon-far/RPL.git
+amazon-far/SSIO[main]: https://github.com/amazon-far/SSIO.git
 amazon-far/TWIST2[master]: https://github.com/amazon-far/TWIST2.git
 AmberSahdev/Open-Interface[main]: https://github.com/AmberSahdev/Open-Interface.git
 amdegroot/ssd.pytorch[master]: https://github.com/amdegroot/ssd.pytorch.git
@@ -794,6 +795,7 @@ deepseek-ai/3FS[main]: https://github.com/deepseek-ai/3FS.git
 deepseek-ai/awesome-deepseek-agent[main]: https://github.com/deepseek-ai/awesome-deepseek-agent.git
 deepseek-ai/awesome-deepseek-integration[main]: https://github.com/deepseek-ai/awesome-deepseek-integration.git
 deepseek-ai/DeepEP[main]: https://github.com/deepseek-ai/DeepEP.git
+deepseek-ai/DeepInfer[main]: https://github.com/deepseek-ai/DeepInfer.git
 deepseek-ai/DeepSeek-Coder[main]: https://github.com/deepseek-ai/DeepSeek-Coder.git
 deepseek-ai/DeepSeek-Coder-V2[main]: https://github.com/deepseek-ai/DeepSeek-Coder-V2.git
 deepseek-ai/deepseek-harness[master]: https://github.com/deepseek-ai/deepseek-harness.git
@@ -1058,9 +1060,6 @@ Eyeline-Labs/Go-with-the-Flow[main]: https://github.com/Eyeline-Labs/Go-with-the
 eyyub/tensorflow-pix2pix[master]: https://github.com/eyyub/tensorflow-pix2pix.git
 Ezharjan/AcademicGPT[master]: https://github.com/Ezharjan/AcademicGPT.git
 f/prompts.chat[main]: https://github.com/f/prompts.chat.git
-facebook/docusaurus[main]: https://github.com/facebook/docusaurus.git
-facebook/folly[main]: https://github.com/facebook/folly.git
-facebook/stetho[main]: https://github.com/facebook/stetho.git
 facebookarchive/caffe2[master]: https://github.com/facebookarchive/caffe2.git
 facebookarchive/fb.resnet.torch[master]: https://github.com/facebookarchive/fb.resnet.torch.git
 facebookarchive/react-360[master]: https://github.com/facebookarchive/react-360.git
@@ -2175,7 +2174,9 @@ LeCAR-Lab/SoFTA[main]: https://github.com/LeCAR-Lab/SoFTA.git
 ledgetech/lua-resty-http[master]: https://github.com/ledgetech/lua-resty-http.git
 Leemu0822/MQTT_Unity[master]: https://github.com/Leemu0822/MQTT_Unity.git
 leggedrobotics/darknet_ros[master]: https://github.com/leggedrobotics/darknet_ros.git
+leggedrobotics/defm[main]: https://github.com/leggedrobotics/defm.git
 leggedrobotics/fdm[main]: https://github.com/leggedrobotics/fdm.git
+leggedrobotics/foothold-prediction-model[main]: https://github.com/leggedrobotics/foothold-prediction-model.git
 leggedrobotics/free_gait[master]: https://github.com/leggedrobotics/free_gait.git
 leggedrobotics/hoi-retarget[main]: https://github.com/leggedrobotics/hoi-retarget.git
 leggedrobotics/icp_localization[master]: https://github.com/leggedrobotics/icp_localization.git
@@ -2469,6 +2470,9 @@ meta-llama/llama-cookbook[main]: https://github.com/meta-llama/llama-cookbook.gi
 meta-llama/llama-models[main]: https://github.com/meta-llama/llama-models.git
 meta-llama/llama3[main]: https://github.com/meta-llama/llama3.git
 meta-prompting/meta-prompting[main]: https://github.com/meta-prompting/meta-prompting.git
+meta/docusaurus[main]: https://github.com/meta/docusaurus.git
+meta/folly[main]: https://github.com/meta/folly.git
+meta/stetho[main]: https://github.com/meta/stetho.git
 metadriverse/metaurban[main]: https://github.com/metadriverse/metaurban.git
 MetaMask/metamask-extension[main]: https://github.com/MetaMask/metamask-extension.git
 MetaMask/metamask-sdk[main]: https://github.com/MetaMask/metamask-sdk.git
@@ -3148,6 +3152,7 @@ peng-zhihui/Dummy-Robot[main]: https://github.com/peng-zhihui/Dummy-Robot.git
 peng-zhihui/HoloCubic[main]: https://github.com/peng-zhihui/HoloCubic.git
 peng-zhihui/Project-Quantum[master]: https://github.com/peng-zhihui/Project-Quantum.git
 peng-zhihui/XUAN[main]: https://github.com/peng-zhihui/XUAN.git
+pengchujin/aerial-tv[main]: https://github.com/pengchujin/aerial-tv.git
 PENGZhaoqing/HousePricing[master]: https://github.com/PENGZhaoqing/HousePricing.git
 penrose/penrose[main]: https://github.com/penrose/penrose.git
 perceptron-ai-inc/perceptron[main]: https://github.com/perceptron-ai-inc/perceptron.git
@@ -3700,6 +3705,7 @@ Significant-Gravitas/AutoGPT[master]: https://github.com/Significant-Gravitas/Au
 SIGRobotics-UIUC/LeKiwi[main]: https://github.com/SIGRobotics-UIUC/LeKiwi.git
 SIGRobotics-UIUC/LeKiwi-sim[main]: https://github.com/SIGRobotics-UIUC/LeKiwi-sim.git
 sihyun-yu/REPA[main]: https://github.com/sihyun-yu/REPA.git
+SII-ZijunX/ForceWAM[main]: https://github.com/SII-ZijunX/ForceWAM.git
 SimarKareer/EgoMimic[main]: https://github.com/SimarKareer/EgoMimic.git
 SimarKareer/EgoMimic-Eve[main]: https://github.com/SimarKareer/EgoMimic-Eve.git
 simbody/simbody[master]: https://github.com/simbody/simbody.git
@@ -4343,6 +4349,7 @@ wenhaochai/StableVideo[master]: https://github.com/wenhaochai/StableVideo.git
 WenjiaWang0312/EmbodMocap[main]: https://github.com/WenjiaWang0312/EmbodMocap.git
 wenqsun/DimensionX[main]: https://github.com/wenqsun/DimensionX.git
 Wenzhuo-Liu/MMTL-UniAD[main]: https://github.com/Wenzhuo-Liu/MMTL-UniAD.git
+wesbos/3d-model-anything[main]: https://github.com/wesbos/3d-model-anything.git
 wesbos/JavaScript30[master]: https://github.com/wesbos/JavaScript30.git
 Westlake-AGI-Lab/AppAgentX[main]: https://github.com/Westlake-AGI-Lab/AppAgentX.git
 weston-embedded/uC-OS3[develop]: https://github.com/weston-embedded/uC-OS3.git
