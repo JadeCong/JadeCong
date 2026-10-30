@@ -354,7 +354,6 @@ EvolvingLMMs-Lab: https://github.com/EvolvingLMMs-Lab
 EvoMap: https://github.com/EvoMap
 exelban: https://github.com/exelban
 exo-explore: https://github.com/exo-explore
-facebook: https://github.com/facebook
 facebookarchive: https://github.com/facebookarchive
 facebookresearch: https://github.com/facebookresearch
 facefusion: https://github.com/facefusion
@@ -727,6 +726,7 @@ megvii-model: https://github.com/megvii-model
 meituan: https://github.com/meituan
 mem0ai: https://github.com/mem0ai
 Meshcapade: https://github.com/Meshcapade
+meta: https://github.com/meta
 meta-llama: https://github.com/meta-llama
 metadriverse: https://github.com/metadriverse
 MetaMask: https://github.com/MetaMask
@@ -1376,6 +1376,7 @@ webpro: https://github.com/webpro
 weiaicunzai: https://github.com/weiaicunzai
 WEIFENG2333: https://github.com/WEIFENG2333
 WenjiaWang0312: https://github.com/WenjiaWang0312
+wesbos: https://github.com/wesbos
 Westlake-AGI-Lab: https://github.com/Westlake-AGI-Lab
 weston-embedded: https://github.com/weston-embedded
 wheelos: https://github.com/wheelos
