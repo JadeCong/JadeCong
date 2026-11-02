@@ -3,7 +3,6 @@
 AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
-aixisstudio: https://github.com/aixisstudio
 AlakhiarovSalekh: https://github.com/AlakhiarovSalekh
 alicevic201610-commits: https://github.com/alicevic201610-commits
 alkutn123-tech: https://github.com/alkutn123-tech
@@ -32,7 +31,6 @@ dirambora: https://github.com/dirambora
 Dvurechensky: https://github.com/Dvurechensky
 erdenekhuu-bot: https://github.com/erdenekhuu-bot
 ggzy12345: https://github.com/ggzy12345
-Git-FED: https://github.com/Git-FED
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
 harinadh76: https://github.com/harinadh76
@@ -62,11 +60,12 @@ kpopdev: https://github.com/kpopdev
 Liangdacai: https://github.com/Liangdacai
 LiTaobate: https://github.com/LiTaobate
 lodhik9: https://github.com/lodhik9
-Lxcardoza993: https://github.com/Lxcardoza993
+lxlynx: https://github.com/lxlynx
 maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
+MatthewMacri: https://github.com/MatthewMacri
 MeriemBoujamza: https://github.com/MeriemBoujamza
 Modelplane01: https://github.com/Modelplane01
 motanelson: https://github.com/motanelson
