@@ -1019,7 +1019,6 @@ espressif/esp-skainet[master]: https://github.com/espressif/esp-skainet.git
 espressif/esp32-camera[master]: https://github.com/espressif/esp32-camera.git
 espressif/ESP8266_RTOS_SDK[master]: https://github.com/espressif/ESP8266_RTOS_SDK.git
 espressif/esptool[master]: https://github.com/espressif/esptool.git
-etched-ai/open-oasis[master]: https://github.com/etched-ai/open-oasis.git
 eternity4719/HowToLiveBetter[main]: https://github.com/eternity4719/HowToLiveBetter.git
 eth-ait/Gaussian-Garments[main]: https://github.com/eth-ait/Gaussian-Garments.git
 eth-ait/MultiPly[main]: https://github.com/eth-ait/MultiPly.git
@@ -3177,6 +3176,7 @@ Phlow/feeling-responsive[gh-pages]: https://github.com/Phlow/feeling-responsive.
 phocean/TopIcons-plus[master]: https://github.com/phocean/TopIcons-plus.git
 phodal/auto-dev[master]: https://github.com/phodal/auto-dev.git
 phodal/github[gh-pages]: https://github.com/phodal/github.git
+phone-harness/phone-harness[main]: https://github.com/phone-harness/phone-harness.git
 PhyAgentOS/PhyAgentOS-core[main]: https://github.com/PhyAgentOS/PhyAgentOS-core.git
 Phylliade/awesome-machine-learning-robotics[master]: https://github.com/Phylliade/awesome-machine-learning-robotics.git
 PhyScene/PhyScene[main]: https://github.com/PhyScene/PhyScene.git
@@ -3667,7 +3667,6 @@ sharpa-robotics/sharpa-manus-sdk[main]: https://github.com/sharpa-robotics/sharp
 sharpa-robotics/sharpa-rl-lab[main]: https://github.com/sharpa-robotics/sharpa-rl-lab.git
 sharpa-robotics/sharpa-tacmap[main]: https://github.com/sharpa-robotics/sharpa-tacmap.git
 sharpa-robotics/WM-Craftnet[main]: https://github.com/sharpa-robotics/WM-Craftnet.git
-ShawnPana/phone-harness[main]: https://github.com/ShawnPana/phone-harness.git
 shaxiu/XianyuAutoAgent[main]: https://github.com/shaxiu/XianyuAutoAgent.git
 shelhamer/revolver[master]: https://github.com/shelhamer/revolver.git
 ShengranHu/ADAS[main]: https://github.com/ShengranHu/ADAS.git
@@ -3867,7 +3866,7 @@ sv-pp/SceneVersepp[master]: https://github.com/sv-pp/SceneVersepp.git
 svpino/alloy-voice-assistant[main]: https://github.com/svpino/alloy-voice-assistant.git
 SwanHubX/SwanLab[main]: https://github.com/SwanHubX/SwanLab.git
 SWE-agent/SWE-agent[main]: https://github.com/SWE-agent/SWE-agent.git
-SwifterSwift/SwifterSwift[master]: https://github.com/SwifterSwift/SwifterSwift.git
+SwifterSwift/SwifterSwift[main]: https://github.com/SwifterSwift/SwifterSwift.git
 SwiftGGTeam/the-swift-programming-language-in-chinese[main]: https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese.git
 swiftlang/swift[main]: https://github.com/swiftlang/swift.git
 swiftlang/swift-evolution[main]: https://github.com/swiftlang/swift-evolution.git
