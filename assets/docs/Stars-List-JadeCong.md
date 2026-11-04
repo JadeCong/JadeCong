@@ -471,6 +471,8 @@ BlueBubblesApp/bluebubbles-server[master]: https://github.com/BlueBubblesApp/blu
 bluemapleman/MapleAI[master]: https://github.com/bluemapleman/MapleAI.git
 bmild/nerf[master]: https://github.com/bmild/nerf.git
 Boese0601/MagicDance[main]: https://github.com/Boese0601/MagicDance.git
+bojieli/ai-agent-book[main]: https://github.com/bojieli/ai-agent-book.git
+bojieli/ai-infra-book[main]: https://github.com/bojieli/ai-infra-book.git
 bojone/attention[master]: https://github.com/bojone/attention.git
 BoosterRobotics/booster_gym[main]: https://github.com/BoosterRobotics/booster_gym.git
 BoosterRobotics/booster_robotics_sdk[main]: https://github.com/BoosterRobotics/booster_robotics_sdk.git
@@ -803,6 +805,7 @@ deepseek-ai/DeepSeek-LLM[main]: https://github.com/deepseek-ai/DeepSeek-LLM.git
 deepseek-ai/DeepSeek-R1[main]: https://github.com/deepseek-ai/DeepSeek-R1.git
 deepseek-ai/DeepSeek-V2[main]: https://github.com/deepseek-ai/DeepSeek-V2.git
 deepseek-ai/DeepSeek-V3[main]: https://github.com/deepseek-ai/DeepSeek-V3.git
+deepseek-ai/dsh-superagent-prototype[main]: https://github.com/deepseek-ai/dsh-superagent-prototype.git
 deepseek-ai/FlashMLA[main]: https://github.com/deepseek-ai/FlashMLA.git
 deepseek-ai/Janus[main]: https://github.com/deepseek-ai/Janus.git
 deepset-ai/haystack[main]: https://github.com/deepset-ai/haystack.git
@@ -843,6 +846,7 @@ DietrichGebert/ponytail[main]: https://github.com/DietrichGebert/ponytail.git
 different-ai/openwork[dev]: https://github.com/different-ai/openwork.git
 digital-standard/ThreeDPoseUnityBarracuda[master]: https://github.com/digital-standard/ThreeDPoseUnityBarracuda.git
 DigitalPlatDev/FreeDomain[main]: https://github.com/DigitalPlatDev/FreeDomain.git
+dimastatz/whisper-flow[main]: https://github.com/dimastatz/whisper-flow.git
 dimensionalOS/dimos[main]: https://github.com/dimensionalOS/dimos.git
 Dimillian/RedditOS[master]: https://github.com/Dimillian/RedditOS.git
 dingdingcai/GSPose[main]: https://github.com/dingdingcai/GSPose.git
@@ -2090,7 +2094,7 @@ kocasariumut/FaceAnything[main]: https://github.com/kocasariumut/FaceAnything.gi
 kodecocodes/swift-algorithm-club[master]: https://github.com/kodecocodes/swift-algorithm-club.git
 kodecocodes/swift-style-guide[main]: https://github.com/kodecocodes/swift-style-guide.git
 Kong/swrv[master]: https://github.com/Kong/swrv.git
-kortix-ai/suna[dev]: https://github.com/kortix-ai/suna.git
+kortix-ai/CompanyOS[dev]: https://github.com/kortix-ai/CompanyOS.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
 krahets/hello-algo[main]: https://github.com/krahets/hello-algo.git
 krillinai/OpenCreator[master]: https://github.com/krillinai/OpenCreator.git
@@ -2964,6 +2968,7 @@ open-mmlab/mmdetection3d[main]: https://github.com/open-mmlab/mmdetection3d.git
 open-mmlab/mmpose[main]: https://github.com/open-mmlab/mmpose.git
 open-mmlab/mmsegmentation[main]: https://github.com/open-mmlab/mmsegmentation.git
 open-policy-agent/gatekeeper[master]: https://github.com/open-policy-agent/gatekeeper.git
+Open-RUA/uni-robot-agent[main]: https://github.com/Open-RUA/uni-robot-agent.git
 open-source-parsers/jsoncpp[master]: https://github.com/open-source-parsers/jsoncpp.git
 open-vela/nuttx[dev]: https://github.com/open-vela/nuttx.git
 open-webui/desktop[main]: https://github.com/open-webui/desktop.git
@@ -3075,6 +3080,7 @@ OpenTeleVision/TeleVision[main]: https://github.com/OpenTeleVision/TeleVision.gi
 opentiny/tiny-engine[develop]: https://github.com/opentiny/tiny-engine.git
 openvla/openvla[main]: https://github.com/openvla/openvla.git
 OpenWAM-Official/OpenWAM[main]: https://github.com/OpenWAM-Official/OpenWAM.git
+OpenWhispr/openwhispr[main]: https://github.com/OpenWhispr/openwhispr.git
 openworm/OpenWorm[master]: https://github.com/openworm/OpenWorm.git
 openwsn-berkeley/coap[develop]: https://github.com/openwsn-berkeley/coap.git
 openxla/xla[main]: https://github.com/openxla/xla.git
@@ -3469,6 +3475,7 @@ robomechanics/quad-sdk[main]: https://github.com/robomechanics/quad-sdk.git
 robometer/robometer[main]: https://github.com/robometer/robometer.git
 RoboMME/robomme_benchmark[main]: https://github.com/RoboMME/robomme_benchmark.git
 RoboMME/robomme_policy_learning[main]: https://github.com/RoboMME/robomme_policy_learning.git
+roboninecom/STS32XX-Firmware[main]: https://github.com/roboninecom/STS32XX-Firmware.git
 RoboOpus/ACG-WAM[main]: https://github.com/RoboOpus/ACG-WAM.git
 Roboparty/Party_OS[main]: https://github.com/Roboparty/Party_OS.git
 Roboparty/roboparty_deploy[main]: https://github.com/Roboparty/roboparty_deploy.git
