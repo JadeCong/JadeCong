@@ -870,6 +870,7 @@ open-dynamic-robot-initiative: https://github.com/open-dynamic-robot-initiative
 open-gigaai: https://github.com/open-gigaai
 Open-Industry-Project: https://github.com/Open-Industry-Project
 open-mmlab: https://github.com/open-mmlab
+Open-RUA: https://github.com/Open-RUA
 open-vela: https://github.com/open-vela
 open-webui: https://github.com/open-webui
 Open-X-Humanoid: https://github.com/Open-X-Humanoid
@@ -908,6 +909,7 @@ opentiny: https://github.com/opentiny
 openverse-orca: https://github.com/openverse-orca
 openvla: https://github.com/openvla
 OpenWAM-Official: https://github.com/OpenWAM-Official
+OpenWhispr: https://github.com/OpenWhispr
 openworm: https://github.com/openworm
 openxla: https://github.com/openxla
 oracle: https://github.com/oracle
