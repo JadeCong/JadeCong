@@ -95,6 +95,7 @@ JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/Int
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
+  - boldotter921: https://github.com/boldotter921
   - JadeCong: https://github.com/JadeCong
 JadeCong/JadeCong.github.io[main]: https://github.com/JadeCong/JadeCong.github.io.git
   - {"message":"Resource: https://github.com/{"message":"Resource
