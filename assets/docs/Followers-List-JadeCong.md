@@ -1,4 +1,5 @@
 00mjk: https://github.com/00mjk
+0vm: https://github.com/0vm
 156afl: https://github.com/156afl
 AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
@@ -22,7 +23,6 @@ Carrington-dev: https://github.com/Carrington-dev
 chenchy: https://github.com/chenchy
 chitminthu2003fg-boop: https://github.com/chitminthu2003fg-boop
 cluzier: https://github.com/cluzier
-coffsec: https://github.com/coffsec
 Connor9994: https://github.com/Connor9994
 COUNTRY-HUMANS: https://github.com/COUNTRY-HUMANS
 DaurDiop: https://github.com/DaurDiop
