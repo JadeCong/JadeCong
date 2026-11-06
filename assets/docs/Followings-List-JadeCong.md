@@ -84,6 +84,7 @@ apachecn: https://github.com/apachecn
 apilayer: https://github.com/apilayer
 apirrone: https://github.com/apirrone
 apple: https://github.com/apple
+apple-aiml-research: https://github.com/apple-aiml-research
 applied-ai-lab: https://github.com/applied-ai-lab
 appwrite: https://github.com/appwrite
 aramis-lab: https://github.com/aramis-lab
@@ -148,6 +149,7 @@ BlinkDL: https://github.com/BlinkDL
 BlueBubblesApp: https://github.com/BlueBubblesApp
 BlueOrigin: https://github.com/BlueOrigin
 bmild: https://github.com/bmild
+bojieli: https://github.com/bojieli
 BoosterRobotics: https://github.com/BoosterRobotics
 Borda: https://github.com/Borda
 bowang-lab: https://github.com/bowang-lab
@@ -346,6 +348,7 @@ eth-siplab: https://github.com/eth-siplab
 eth-sri: https://github.com/eth-sri
 EtherDream: https://github.com/EtherDream
 ethereum: https://github.com/ethereum
+etherlab: https://github.com/etherlab
 ethz-adrl: https://github.com/ethz-adrl
 eureka-research: https://github.com/eureka-research
 EverMind-AI: https://github.com/EverMind-AI
@@ -885,6 +888,7 @@ opendatalab: https://github.com/opendatalab
 opendataloader-project: https://github.com/opendataloader-project
 OpenDCAI: https://github.com/OpenDCAI
 OpenDriveLab: https://github.com/OpenDriveLab
+OpenEtherCATsociety: https://github.com/OpenEtherCATsociety
 openeuler-mirror: https://github.com/openeuler-mirror
 OpenGalaxea: https://github.com/OpenGalaxea
 OpenGVLab: https://github.com/OpenGVLab
