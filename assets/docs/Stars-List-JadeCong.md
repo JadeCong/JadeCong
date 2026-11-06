@@ -90,6 +90,7 @@ AgibotTech/EnerVerse-AC[main]: https://github.com/AgibotTech/EnerVerse-AC.git
 AgibotTech/EWMBench[main]: https://github.com/AgibotTech/EWMBench.git
 AgibotTech/genie_sim[main]: https://github.com/AgibotTech/genie_sim.git
 AgileRobotsAG/RAFCON[develop]: https://github.com/AgileRobotsAG/RAFCON.git
+agilexrobotics/Agilex-College[master]: https://github.com/agilexrobotics/Agilex-College.git
 agiresearch/AIOS[main]: https://github.com/agiresearch/AIOS.git
 agiresearch/Cerebrum[main]: https://github.com/agiresearch/Cerebrum.git
 agiresearch/OpenAGI[main]: https://github.com/agiresearch/OpenAGI.git
@@ -279,6 +280,7 @@ apollographql/react-apollo[master]: https://github.com/apollographql/react-apoll
 appcypher/awesome-mcp-servers[main]: https://github.com/appcypher/awesome-mcp-servers.git
 apple-aiml-research/ml-depth-pro[main]: https://github.com/apple-aiml-research/ml-depth-pro.git
 apple-aiml-research/ml-fastvlm[main]: https://github.com/apple-aiml-research/ml-fastvlm.git
+apple-aiml-research/ml-halo[main]: https://github.com/apple-aiml-research/ml-halo.git
 apple-aiml-research/ml-matrix3d[main]: https://github.com/apple-aiml-research/ml-matrix3d.git
 apple-aiml-research/ml-simplefold[main]: https://github.com/apple-aiml-research/ml-simplefold.git
 apple/axlearn[main]: https://github.com/apple/axlearn.git
@@ -529,7 +531,7 @@ bytedance/UI-TARS[main]: https://github.com/bytedance/UI-TARS.git
 bytedance/UI-TARS-desktop[main]: https://github.com/bytedance/UI-TARS-desktop.git
 bytedance/WildDoc[master]: https://github.com/bytedance/WildDoc.git
 bytedance/X-Dyna[main]: https://github.com/bytedance/X-Dyna.git
-cactus-compute/cactus[main]: https://github.com/cactus-compute/cactus.git
+cactus-compute/engine[main]: https://github.com/cactus-compute/engine.git
 caddyserver/caddy[master]: https://github.com/caddyserver/caddy.git
 caelan/pybullet-planning[master]: https://github.com/caelan/pybullet-planning.git
 cambrian-mllm/cambrian[main]: https://github.com/cambrian-mllm/cambrian.git
@@ -1268,6 +1270,7 @@ fuergaosi233/wechat-chatgpt[main]: https://github.com/fuergaosi233/wechat-chatgp
 FujiwaraChoki/MoneyPrinter[main]: https://github.com/FujiwaraChoki/MoneyPrinter.git
 FujiwaraChoki/MoneyPrinterV2[main]: https://github.com/FujiwaraChoki/MoneyPrinterV2.git
 Future-House/paper-qa[main]: https://github.com/Future-House/paper-qa.git
+fuyichen0725/blinkmimic[main]: https://github.com/fuyichen0725/blinkmimic.git
 fz-lyu/modbuspp[master]: https://github.com/fz-lyu/modbuspp.git
 fzi-forschungszentrum-informatik/schunk_svh_driver[master]: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_driver.git
 GAIR-NLP/PC-Agent[main]: https://github.com/GAIR-NLP/PC-Agent.git
@@ -1701,6 +1704,7 @@ HunxByts/GhostTrack[main]: https://github.com/HunxByts/GhostTrack.git
 husthuke/awesome-knowledge-graph[master]: https://github.com/husthuke/awesome-knowledge-graph.git
 hustvl/GaussianDreamerPro[main]: https://github.com/hustvl/GaussianDreamerPro.git
 hustvl/YOLOS[main]: https://github.com/hustvl/YOLOS.git
+HustWolfzzb/EmbodiedAIOS[main]: https://github.com/HustWolfzzb/EmbodiedAIOS.git
 Huxpro/huxpro.github.io[master]: https://github.com/Huxpro/huxpro.github.io.git
 HVision-NKU/StoryDiffusion[main]: https://github.com/HVision-NKU/StoryDiffusion.git
 hwdsl2/setup-ipsec-vpn[master]: https://github.com/hwdsl2/setup-ipsec-vpn.git
@@ -2093,6 +2097,7 @@ knowm/XChange[develop]: https://github.com/knowm/XChange.git
 kocasariumut/FaceAnything[main]: https://github.com/kocasariumut/FaceAnything.git
 kodecocodes/swift-algorithm-club[master]: https://github.com/kodecocodes/swift-algorithm-club.git
 kodecocodes/swift-style-guide[main]: https://github.com/kodecocodes/swift-style-guide.git
+kokiainet/anti-distill[master]: https://github.com/kokiainet/anti-distill.git
 Kong/swrv[master]: https://github.com/Kong/swrv.git
 kortix-ai/CompanyOS[dev]: https://github.com/kortix-ai/CompanyOS.git
 Kr1s77/awesome-python-login-model[master]: https://github.com/Kr1s77/awesome-python-login-model.git
@@ -2192,7 +2197,6 @@ leggedrobotics/SimBenchmark[master]: https://github.com/leggedrobotics/SimBenchm
 leggedrobotics/viplanner[main]: https://github.com/leggedrobotics/viplanner.git
 lehome-official/lehome[main]: https://github.com/lehome-official/lehome.git
 leigest519/ScreenCoder[main]: https://github.com/leigest519/ScreenCoder.git
-leilei926524-tech/anti-distill[master]: https://github.com/leilei926524-tech/anti-distill.git
 leimao/Voice-Converter-CycleGAN[master]: https://github.com/leimao/Voice-Converter-CycleGAN.git
 leisurelicht/wtfpython-cn[master]: https://github.com/leisurelicht/wtfpython-cn.git
 lemonhu/stock-knowledge-graph[master]: https://github.com/lemonhu/stock-knowledge-graph.git
@@ -2365,6 +2369,7 @@ lyswhut/lx-music-sync-server[master]: https://github.com/lyswhut/lx-music-sync-s
 lzyang2000/morphmimic[main]: https://github.com/lzyang2000/morphmimic.git
 lzyang2000/twist2_mjlab[master]: https://github.com/lzyang2000/twist2_mjlab.git
 M-Abozaid/esp32-c3-adblock[main]: https://github.com/M-Abozaid/esp32-c3-adblock.git
+m-afham/AirCursor[main]: https://github.com/m-afham/AirCursor.git
 m-damien/VisualStoryWriting[main]: https://github.com/m-damien/VisualStoryWriting.git
 m5stack/StackChan[main]: https://github.com/m5stack/StackChan.git
 Ma-Lab-Berkeley/ReduNet[master]: https://github.com/Ma-Lab-Berkeley/ReduNet.git
@@ -3811,6 +3816,7 @@ Stanford-TML/HEAD_release[main]: https://github.com/Stanford-TML/HEAD_release.gi
 Stanford-TML/PDP[main]: https://github.com/Stanford-TML/PDP.git
 Stanford-TML/robot_keyframe_kit[main]: https://github.com/Stanford-TML/robot_keyframe_kit.git
 StanfordASL/cbfpy[main]: https://github.com/StanfordASL/cbfpy.git
+StanfordASL/frax[main]: https://github.com/StanfordASL/frax.git
 StanfordASL/oscbf[main]: https://github.com/StanfordASL/oscbf.git
 StanfordASL/rompc[master]: https://github.com/StanfordASL/rompc.git
 StanfordASL/Trajectron[master]: https://github.com/StanfordASL/Trajectron.git
@@ -3882,6 +3888,7 @@ SWivid/F5-TTS[main]: https://github.com/SWivid/F5-TTS.git
 sxhxliang/BigGAN-pytorch[master]: https://github.com/sxhxliang/BigGAN-pytorch.git
 sxzxs/Real-time-translation-typing[main]: https://github.com/sxzxs/Real-time-translation-typing.git
 sylvestf/LIBERO-plus[main]: https://github.com/sylvestf/LIBERO-plus.git
+systemsoftware/airpodmouse[main]: https://github.com/systemsoftware/airpodmouse.git
 sz3/libcimbar[master]: https://github.com/sz3/libcimbar.git
 szagoruyko/attention-transfer[master]: https://github.com/szagoruyko/attention-transfer.git
 szagoruyko/pytorchviz[master]: https://github.com/szagoruyko/pytorchviz.git
@@ -4427,6 +4434,7 @@ xbpeng/DeepLoco[master]: https://github.com/xbpeng/DeepLoco.git
 xbpeng/DeepMimic[master]: https://github.com/xbpeng/DeepMimic.git
 xbpeng/DeepTerrainRL[master]: https://github.com/xbpeng/DeepTerrainRL.git
 xbpeng/MimicKit[main]: https://github.com/xbpeng/MimicKit.git
+xenomai-ci/xenomai[master]: https://github.com/xenomai-ci/xenomai.git
 xflr6/graphviz[master]: https://github.com/xflr6/graphviz.git
 xiamx/awesome-sentiment-analysis[master]: https://github.com/xiamx/awesome-sentiment-analysis.git
 XiandaGuo/OpenStereo[v2]: https://github.com/XiandaGuo/OpenStereo.git
@@ -4608,6 +4616,7 @@ ZenoCoding/MathGPT[main]: https://github.com/ZenoCoding/MathGPT.git
 zergtant/pytorch-handbook[master]: https://github.com/zergtant/pytorch-handbook.git
 zeroclaw-labs/zeroclaw[master]: https://github.com/zeroclaw-labs/zeroclaw.git
 ZeroErrControl/eRob_CANopen_Linux[main]: https://github.com/ZeroErrControl/eRob_CANopen_Linux.git
+ZeroErrControl/eRob_Compensation_Controller[main]: https://github.com/ZeroErrControl/eRob_Compensation_Controller.git
 ZeroErrControl/eRob_eCoder[main]: https://github.com/ZeroErrControl/eRob_eCoder.git
 ZeroErrControl/eRob_IGH_EtherCAT[main]: https://github.com/ZeroErrControl/eRob_IGH_EtherCAT.git
 ZeroErrControl/eRob_SOEM_linux[main]: https://github.com/ZeroErrControl/eRob_SOEM_linux.git
