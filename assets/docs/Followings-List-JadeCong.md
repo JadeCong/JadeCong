@@ -141,6 +141,7 @@ behavior-robot-suite: https://github.com/behavior-robot-suite
 BeingBeyond: https://github.com/BeingBeyond
 BEPb: https://github.com/BEPb
 BerkeleyAutomation: https://github.com/BerkeleyAutomation
+bilawalsidhu: https://github.com/bilawalsidhu
 binance: https://github.com/binance
 binary-husky: https://github.com/binary-husky
 biomejs: https://github.com/biomejs
@@ -253,6 +254,7 @@ cynthia-you: https://github.com/cynthia-you
 d2l-ai: https://github.com/d2l-ai
 D4Vinci: https://github.com/D4Vinci
 daattali: https://github.com/daattali
+dabingfy-dot: https://github.com/dabingfy-dot
 DAGroup-PKU: https://github.com/DAGroup-PKU
 DaiLuyaoME: https://github.com/DaiLuyaoME
 dair-ai: https://github.com/dair-ai
@@ -482,6 +484,7 @@ HeyGen-Official: https://github.com/HeyGen-Official
 HFAiLab: https://github.com/HFAiLab
 HiDream-ai: https://github.com/HiDream-ai
 higgsfield: https://github.com/higgsfield
+hikvision-research: https://github.com/hikvision-research
 hiplot: https://github.com/hiplot
 hiroi-sora: https://github.com/hiroi-sora
 HKPolyU-UAV: https://github.com/HKPolyU-UAV
@@ -1255,6 +1258,7 @@ tiiuae: https://github.com/tiiuae
 timdorr: https://github.com/timdorr
 TimerChen: https://github.com/TimerChen
 timqian: https://github.com/timqian
+Tinaliu0123: https://github.com/Tinaliu0123
 TingliangZhang: https://github.com/TingliangZhang
 tinyhumansai: https://github.com/tinyhumansai
 TixiaoShan: https://github.com/TixiaoShan
