@@ -4,13 +4,13 @@ JadeCong/AGI[main]: https://github.com/JadeCong/AGI.git
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
+JadeCong/AvatarGame-Host[main]: https://github.com/JadeCong/AvatarGame-Host.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
+JadeCong/AvatarGame-Unity[main]: https://github.com/JadeCong/AvatarGame-Unity.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
@@ -58,7 +58,7 @@ JadeCong/Awesome-X-Technologies[main]: https://github.com/JadeCong/Awesome-X-Tec
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/demo_ros[master]: https://github.com/JadeCong/demo_ros.git
+JadeCong/demo_ros[main]: https://github.com/JadeCong/demo_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
@@ -70,25 +70,25 @@ JadeCong/demo_ros2[main]: https://github.com/JadeCong/demo_ros2.git
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/franka_ros[master]: https://github.com/JadeCong/franka_ros.git
+JadeCong/franka_ros[main]: https://github.com/JadeCong/franka_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/HandControl-MuJoCo[master]: https://github.com/JadeCong/HandControl-MuJoCo.git
+JadeCong/HandControl-MuJoCo[main]: https://github.com/JadeCong/HandControl-MuJoCo.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/HumanPose3D-Pytorch[master]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
+JadeCong/HumanPose3D-Pytorch[main]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/IntelligentAssemblyRobotSystem[master]: https://github.com/JadeCong/IntelligentAssemblyRobotSystem.git
+JadeCong/IntelligentAssemblyRobotSystem[main]: https://github.com/JadeCong/IntelligentAssemblyRobotSystem.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
@@ -109,13 +109,13 @@ JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-h
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/mr1d_ros[master]: https://github.com/JadeCong/mr1d_ros.git
+JadeCong/mr1d_ros[main]: https://github.com/JadeCong/mr1d_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/mr_ros[master]: https://github.com/JadeCong/mr_ros.git
+JadeCong/mr_ros[main]: https://github.com/JadeCong/mr_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
@@ -139,25 +139,25 @@ JadeCong/plugin_ros2[main]: https://github.com/JadeCong/plugin_ros2.git
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/realman-python[master]: https://github.com/JadeCong/realman-python.git
+JadeCong/realman-python[main]: https://github.com/JadeCong/realman-python.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/realman_ros[master]: https://github.com/JadeCong/realman_ros.git
+JadeCong/realman_ros[main]: https://github.com/JadeCong/realman_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/realsense_ros[master]: https://github.com/JadeCong/realsense_ros.git
+JadeCong/realsense_ros[main]: https://github.com/JadeCong/realsense_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/Robotic-Softbody-Manipulation[master]: https://github.com/JadeCong/Robotic-Softbody-Manipulation.git
+JadeCong/Robotic-Softbody-Manipulation[main]: https://github.com/JadeCong/Robotic-Softbody-Manipulation.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
@@ -169,13 +169,13 @@ JadeCong/siemens_ros[main]: https://github.com/JadeCong/siemens_ros.git
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/Slave-xArm5[master]: https://github.com/JadeCong/Slave-xArm5.git
+JadeCong/Slave-xArm5[main]: https://github.com/JadeCong/Slave-xArm5.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
   - by: https://github.com/by
   - integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}: https://github.com/integration","documentation_url":"https://docs.github.com/rest/activity/starring#list-stargazers","status":"403"}
-JadeCong/touch_ros[master]: https://github.com/JadeCong/touch_ros.git
+JadeCong/touch_ros[main]: https://github.com/JadeCong/touch_ros.git
   - {"message":"Resource: https://github.com/{"message":"Resource
   - not: https://github.com/not
   - accessible: https://github.com/accessible
