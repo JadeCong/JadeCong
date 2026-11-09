@@ -1,6 +1,6 @@
-JadeCong/AvatarGame-Host[master]: https://github.com/JadeCong/AvatarGame-Host.git
+JadeCong/AvatarGame-Host[main]: https://github.com/JadeCong/AvatarGame-Host.git
   - 09510: https://github.com/09510
-JadeCong/AvatarGame-Unity[master]: https://github.com/JadeCong/AvatarGame-Unity.git
+JadeCong/AvatarGame-Unity[main]: https://github.com/JadeCong/AvatarGame-Unity.git
   - 09510: https://github.com/09510
   - ayameaqua: https://github.com/ayameaqua
   - chenxingshenSecond: https://github.com/chenxingshenSecond
@@ -18,11 +18,11 @@ JadeCong/Awesome-Robot-Learning[main]: https://github.com/JadeCong/Awesome-Robot
   - zongkai28: https://github.com/zongkai28
 JadeCong/demo_ros2[main]: https://github.com/JadeCong/demo_ros2.git
   - OrderForce-Intelligence: https://github.com/OrderForce-Intelligence
-JadeCong/HumanPose3D-Pytorch[master]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
+JadeCong/HumanPose3D-Pytorch[main]: https://github.com/JadeCong/HumanPose3D-Pytorch.git
   - LouisNUST: https://github.com/LouisNUST
 JadeCong/JadeCong[main]: https://github.com/JadeCong/JadeCong.git
   - sebagrz03: https://github.com/sebagrz03
 JadeCong/jekyll-theme-hydejack[main]: https://github.com/JadeCong/jekyll-theme-hydejack.git
   - DRedDevil04: https://github.com/DRedDevil04
-JadeCong/Robotic-Softbody-Manipulation[master]: https://github.com/JadeCong/Robotic-Softbody-Manipulation.git
+JadeCong/Robotic-Softbody-Manipulation[main]: https://github.com/JadeCong/Robotic-Softbody-Manipulation.git
   - zhen-cuhk: https://github.com/zhen-cuhk
