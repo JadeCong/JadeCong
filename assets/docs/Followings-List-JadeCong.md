@@ -754,6 +754,7 @@ mit-biomimetics: https://github.com/mit-biomimetics
 mit-han-lab: https://github.com/mit-han-lab
 MIT-MI: https://github.com/MIT-MI
 mlc-ai: https://github.com/mlc-ai
+mll-lab-nu: https://github.com/mll-lab-nu
 mmatl: https://github.com/mmatl
 MMintLab: https://github.com/MMintLab
 modelcontextprotocol: https://github.com/modelcontextprotocol
@@ -903,6 +904,7 @@ openmediavault: https://github.com/openmediavault
 OpenMOSS: https://github.com/OpenMOSS
 OpenRL-Lab: https://github.com/OpenRL-Lab
 OpenRLHF: https://github.com/OpenRLHF
+openrobokit: https://github.com/openrobokit
 openroboto-ai: https://github.com/openroboto-ai
 openrocket: https://github.com/openrocket
 OpenRouterTeam: https://github.com/OpenRouterTeam
@@ -1149,6 +1151,7 @@ sindresorhus: https://github.com/sindresorhus
 sinoyou: https://github.com/sinoyou
 sipeed: https://github.com/sipeed
 SJTU-ViSYS: https://github.com/SJTU-ViSYS
+skild-ai: https://github.com/skild-ai
 skywind3000: https://github.com/skywind3000
 SkyworkAI: https://github.com/SkyworkAI
 slopus: https://github.com/slopus
