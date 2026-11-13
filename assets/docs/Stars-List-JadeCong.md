@@ -1891,6 +1891,7 @@ jadore801120/attention-is-all-you-need-pytorch[master]: https://github.com/jador
 jakevdp/PythonDataScienceHandbook[master]: https://github.com/jakevdp/PythonDataScienceHandbook.git
 JakobEngel/dso[master]: https://github.com/JakobEngel/dso.git
 jamesmawm/High-Frequency-Trading-Model-with-IB[master]: https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB.git
+jamesondh/chimera-vocal-synth[main]: https://github.com/jamesondh/chimera-vocal-synth.git
 jamiemcg/Remarkable[master]: https://github.com/jamiemcg/Remarkable.git
 jangyungi/unity-chai3d[master]: https://github.com/jangyungi/unity-chai3d.git
 janhq/ichigo[main]: https://github.com/janhq/ichigo.git
@@ -2054,7 +2055,6 @@ KelianB/SPARK[main]: https://github.com/KelianB/SPARK.git
 kenjihiranabe/The-Art-of-Linear-Algebra[main]: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra.git
 kenshohara/3D-ResNets-PyTorch[master]: https://github.com/kenshohara/3D-ResNets-PyTorch.git
 kepano/kepano-obsidian[main]: https://github.com/kepano/kepano-obsidian.git
-kepano/obsidian-skills[main]: https://github.com/kepano/obsidian-skills.git
 KeplerC/awesome-cloud-robotics[main]: https://github.com/KeplerC/awesome-cloud-robotics.git
 KeplerC/robo2VLM[main]: https://github.com/KeplerC/robo2VLM.git
 keras-rl/keras-rl[master]: https://github.com/keras-rl/keras-rl.git
@@ -2272,6 +2272,7 @@ Little-Podi/AdaWorld[main]: https://github.com/Little-Podi/AdaWorld.git
 liuhuanyong/QASystemOnMedicalKG[master]: https://github.com/liuhuanyong/QASystemOnMedicalKG.git
 liuruoze/mini-AlphaStar[main]: https://github.com/liuruoze/mini-AlphaStar.git
 liushb9/TACO[main]: https://github.com/liushb9/TACO.git
+liuxiaogang-com/desktop-icon-billiards[main]: https://github.com/liuxiaogang-com/desktop-icon-billiards.git
 liuxiaoyu1104/AnimateAnywhere[main]: https://github.com/liuxiaoyu1104/AnimateAnywhere.git
 liuzhao1225/YouDub-webui[main]: https://github.com/liuzhao1225/YouDub-webui.git
 lixiaowen-xw/DiffuEraser[master]: https://github.com/lixiaowen-xw/DiffuEraser.git
@@ -2805,6 +2806,7 @@ nooploop-dev/serial[master]: https://github.com/nooploop-dev/serial.git
 notmahi/dobb-e[main]: https://github.com/notmahi/dobb-e.git
 notvenky/eFlesh[main]: https://github.com/notvenky/eFlesh.git
 NousResearch/hermes-agent[main]: https://github.com/NousResearch/hermes-agent.git
+NousResearch/hermes-agent-self-evolution[main]: https://github.com/NousResearch/hermes-agent-self-evolution.git
 NovaSky-AI/SkyThought[main]: https://github.com/NovaSky-AI/SkyThought.git
 npubird/KnowledgeGraphCourse[master]: https://github.com/npubird/KnowledgeGraphCourse.git
 nraiden/cofounder[main]: https://github.com/nraiden/cofounder.git
@@ -2941,6 +2943,7 @@ OAI/OpenAPI-Specification[main]: https://github.com/OAI/OpenAPI-Specification.gi
 obgm/libcoap[develop]: https://github.com/obgm/libcoap.git
 OBKoro1/koro1FileHeader[master]: https://github.com/OBKoro1/koro1FileHeader.git
 obra/superpowers[main]: https://github.com/obra/superpowers.git
+obsidianmd/obsidian-skills[main]: https://github.com/obsidianmd/obsidian-skills.git
 oceanbase/oceanbase[master]: https://github.com/oceanbase/oceanbase.git
 ocrmypdf/OCRmyPDF[main]: https://github.com/ocrmypdf/OCRmyPDF.git
 octo-models/octo[main]: https://github.com/octo-models/octo.git
@@ -4099,6 +4102,7 @@ toml-lang/toml[main]: https://github.com/toml-lang/toml.git
 tomlunderwood/fep[master]: https://github.com/tomlunderwood/fep.git
 TommyZihao/vlm_arm[main]: https://github.com/TommyZihao/vlm_arm.git
 tomwhite/hadoop-book[master]: https://github.com/tomwhite/hadoop-book.git
+tonhowtf/omniget[main]: https://github.com/tonhowtf/omniget.git
 TonyRobotics/RoboWare[master]: https://github.com/TonyRobotics/RoboWare.git
 TonyRobotics/RoboWare-Studio[master]: https://github.com/TonyRobotics/RoboWare-Studio.git
 tonyzhaozh/act[main]: https://github.com/tonyzhaozh/act.git
@@ -4647,7 +4651,7 @@ zhaojieting/Part_HOE[main]: https://github.com/zhaojieting/Part_HOE.git
 zhaorw02/DeepMesh[main]: https://github.com/zhaorw02/DeepMesh.git
 zhaoweih/Shadowsocks-Tutorial[main]: https://github.com/zhaoweih/Shadowsocks-Tutorial.git
 ZheC/Realtime_Multi-Person_Pose_Estimation[master]: https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation.git
-Zheng-Chong/CatVTON[edited]: https://github.com/Zheng-Chong/CatVTON.git
+Zheng-Chong/CatVTON-Page[project-page]: https://github.com/Zheng-Chong/CatVTON-Page.git
 ZhengdiYu/Dyn-HaMR[main]: https://github.com/ZhengdiYu/Dyn-HaMR.git
 zhengkid/Dream-RSI[main]: https://github.com/zhengkid/Dream-RSI.git
 ZhengPeng7/BiRefNet[main]: https://github.com/ZhengPeng7/BiRefNet.git
