@@ -305,6 +305,7 @@ donnemartin: https://github.com/donnemartin
 doocs: https://github.com/doocs
 DopplerHQ: https://github.com/DopplerHQ
 dorianborian: https://github.com/dorianborian
+doubleZ-dev: https://github.com/doubleZ-dev
 dougsm: https://github.com/dougsm
 doxygen: https://github.com/doxygen
 DrJimFan: https://github.com/DrJimFan
@@ -1085,6 +1086,7 @@ RockChinQ: https://github.com/RockChinQ
 RokaeRobot: https://github.com/RokaeRobot
 rolpotamias: https://github.com/rolpotamias
 RoMeLaUCLA: https://github.com/RoMeLaUCLA
+Ropedia: https://github.com/Ropedia
 ros: https://github.com/ros
 ros-agriculture: https://github.com/ros-agriculture
 ros-controls: https://github.com/ros-controls
@@ -1289,6 +1291,7 @@ tsinghua-fib-lab: https://github.com/tsinghua-fib-lab
 Tsinghua-MARS-Lab: https://github.com/Tsinghua-MARS-Lab
 TsinghuaC3I: https://github.com/TsinghuaC3I
 ttktjmt: https://github.com/ttktjmt
+tu-rbo: https://github.com/tu-rbo
 tud-amr: https://github.com/tud-amr
 tum-phoenix: https://github.com/tum-phoenix
 tum-vision: https://github.com/tum-vision
