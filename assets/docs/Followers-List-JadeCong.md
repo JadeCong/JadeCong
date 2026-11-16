@@ -1,5 +1,4 @@
 00mjk: https://github.com/00mjk
-156afl: https://github.com/156afl
 AhmadJeddi: https://github.com/AhmadJeddi
 AhmedDabish: https://github.com/AhmedDabish
 AI0228: https://github.com/AI0228
@@ -32,6 +31,7 @@ dirambora: https://github.com/dirambora
 Dvurechensky: https://github.com/Dvurechensky
 erdenekhuu-bot: https://github.com/erdenekhuu-bot
 ggzy12345: https://github.com/ggzy12345
+Git-FED: https://github.com/Git-FED
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
 harinadh76: https://github.com/harinadh76
@@ -83,6 +83,7 @@ paulhay052: https://github.com/paulhay052
 pie-rise1development: https://github.com/pie-rise1development
 pinhe91: https://github.com/pinhe91
 Pinkuburu: https://github.com/Pinkuburu
+plusmde: https://github.com/plusmde
 QingWeng: https://github.com/QingWeng
 quinta-yoshicat: https://github.com/quinta-yoshicat
 Rajindersaini905: https://github.com/Rajindersaini905
