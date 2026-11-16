@@ -866,6 +866,7 @@ discoverse-dev/gs_playground[main]: https://github.com/discoverse-dev/gs_playgro
 DIYgod/RSSHub[master]: https://github.com/DIYgod/RSSHub.git
 DIYgod/RSSHub-Radar[dev]: https://github.com/DIYgod/RSSHub-Radar.git
 django/django[main]: https://github.com/django/django.git
+djl11/ivy[main]: https://github.com/djl11/ivy.git
 dkanou/telepose[master]: https://github.com/dkanou/telepose.git
 DLR-RM/stable-baselines3[master]: https://github.com/DLR-RM/stable-baselines3.git
 dmlc/minpy[master]: https://github.com/dmlc/minpy.git
@@ -890,6 +891,7 @@ DopplerHQ/awesome-interview-questions[master]: https://github.com/DopplerHQ/awes
 dorianborian/sesame-robot[main]: https://github.com/dorianborian/sesame-robot.git
 dornik/doughnet[main]: https://github.com/dornik/doughnet.git
 Doubiiu/ToonCrafter[main]: https://github.com/Doubiiu/ToonCrafter.git
+doubleZ-dev/TASK-TARS-Embodied-Robotics[main]: https://github.com/doubleZ-dev/TASK-TARS-Embodied-Robotics.git
 dougsm/ggcnn[master]: https://github.com/dougsm/ggcnn.git
 dougsm/ggcnn_kinova_grasping[master]: https://github.com/dougsm/ggcnn_kinova_grasping.git
 dougsm/mvp_grasp[master]: https://github.com/dougsm/mvp_grasp.git
@@ -1794,6 +1796,7 @@ InternRobotics/Aether[main]: https://github.com/InternRobotics/Aether.git
 InternRobotics/ARTDECO[main]: https://github.com/InternRobotics/ARTDECO.git
 InternRobotics/EmbodiedScan[main]: https://github.com/InternRobotics/EmbodiedScan.git
 InternRobotics/HIMLoco[main]: https://github.com/InternRobotics/HIMLoco.git
+InternRobotics/Humanoid-Goalkeeper[main]: https://github.com/InternRobotics/Humanoid-Goalkeeper.git
 InternRobotics/Infinite-Mobility[main]: https://github.com/InternRobotics/Infinite-Mobility.git
 InternRobotics/InternScenes[main]: https://github.com/InternRobotics/InternScenes.git
 InternRobotics/InternUtopia[main]: https://github.com/InternRobotics/InternUtopia.git
@@ -1974,6 +1977,7 @@ jobbole/awesome-python-cn[master]: https://github.com/jobbole/awesome-python-cn.
 joeddav/devol[master]: https://github.com/joeddav/devol.git
 Johnserf-Seed/f2[v0.0.1.8-pw3]: https://github.com/Johnserf-Seed/f2.git
 JohnsonJiang1996/Awesome-VLA4AD[main]: https://github.com/JohnsonJiang1996/Awesome-VLA4AD.git
+JohnYao93/flash-aloha[main]: https://github.com/JohnYao93/flash-aloha.git
 jonschlinkert/remarkable[master]: https://github.com/jonschlinkert/remarkable.git
 jonyzhang2023/awesome-embodied-vla-va-vln[main]: https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln.git
 jonyzhang2023/awesome-humanoid-learning[main]: https://github.com/jonyzhang2023/awesome-humanoid-learning.git
@@ -3551,6 +3555,7 @@ RokaeRobot/xCoreSDK-Python[main]: https://github.com/RokaeRobot/xCoreSDK-Python.
 rolpotamias/WiLoR[main]: https://github.com/rolpotamias/WiLoR.git
 RoMeLaUCLA/robot-player[master]: https://github.com/RoMeLaUCLA/robot-player.git
 RooCodeInc/Roo-Code[main]: https://github.com/RooCodeInc/Roo-Code.git
+Ropedia/Ropedia-Xperience-2[main]: https://github.com/Ropedia/Ropedia-Xperience-2.git
 ros-agriculture/lawn_tractor[master]: https://github.com/ros-agriculture/lawn_tractor.git
 ros-agriculture/tractor_localization[master]: https://github.com/ros-agriculture/tractor_localization.git
 ros-controls/ros2_control[master]: https://github.com/ros-controls/ros2_control.git
@@ -4148,6 +4153,7 @@ ttchengab/zest_code[main]: https://github.com/ttchengab/zest_code.git
 ttktjmt/mjswan[main]: https://github.com/ttktjmt/mjswan.git
 ttktjmt/mjswan_playground[main]: https://github.com/ttktjmt/mjswan_playground.git
 ttroy50/cmake-examples[master]: https://github.com/ttroy50/cmake-examples.git
+tu-rbo/LfDEC[main]: https://github.com/tu-rbo/LfDEC.git
 tub-rip/ES-PTAM[main]: https://github.com/tub-rip/ES-PTAM.git
 tub-rip/visual_stabilization[main]: https://github.com/tub-rip/visual_stabilization.git
 tud-amr/pumafabrics[main]: https://github.com/tud-amr/pumafabrics.git
@@ -4212,7 +4218,6 @@ unidex-ai/UniDex[main]: https://github.com/unidex-ai/UniDex.git
 unified-field-theory-org/animations[main]: https://github.com/unified-field-theory-org/animations.git
 unified-field-theory-org/unifiedfieldtheory.cn[main]: https://github.com/unified-field-theory-org/unifiedfieldtheory.cn.git
 unified-force/UniFP[main]: https://github.com/unified-force/UniFP.git
-unifyai/ivy[main]: https://github.com/unifyai/ivy.git
 UniPat-AI/SaaS-Bench[main]: https://github.com/UniPat-AI/SaaS-Bench.git
 unitreerobotics/Qmini[main]: https://github.com/unitreerobotics/Qmini.git
 unitreerobotics/unifolm-vla[main]: https://github.com/unitreerobotics/unifolm-vla.git
