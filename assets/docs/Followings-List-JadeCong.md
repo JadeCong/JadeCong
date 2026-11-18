@@ -622,6 +622,7 @@ krillinai: https://github.com/krillinai
 krishauser: https://github.com/krishauser
 kscalelabs: https://github.com/kscalelabs
 kuindersma: https://github.com/kuindersma
+kushal2000: https://github.com/kushal2000
 kvcache-ai: https://github.com/kvcache-ai
 kvuong2711: https://github.com/kvuong2711
 kyegomez: https://github.com/kyegomez
@@ -971,6 +972,7 @@ pipecat-ai: https://github.com/pipecat-ai
 PKU-EPIC: https://github.com/PKU-EPIC
 PKU-MARL: https://github.com/PKU-MARL
 PKU-YuanGroup: https://github.com/PKU-YuanGroup
+PLAN-Lab: https://github.com/PLAN-Lab
 PlotJuggler: https://github.com/PlotJuggler
 pollen-robotics: https://github.com/pollen-robotics
 poloclub: https://github.com/poloclub
@@ -1257,6 +1259,7 @@ THUDM: https://github.com/THUDM
 thunlp: https://github.com/thunlp
 tianheyu927: https://github.com/tianheyu927
 TianHuiLab: https://github.com/TianHuiLab
+tianjizn: https://github.com/tianjizn
 Tianxiaomo: https://github.com/Tianxiaomo
 TianxingChen: https://github.com/TianxingChen
 tiiuae: https://github.com/tiiuae
