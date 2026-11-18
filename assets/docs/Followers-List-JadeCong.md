@@ -65,7 +65,6 @@ maliraptor: https://github.com/maliraptor
 marjanovicbrane: https://github.com/marjanovicbrane
 markxjackson: https://github.com/markxjackson
 Martian-Array: https://github.com/Martian-Array
-MatthewMacri: https://github.com/MatthewMacri
 MeriemBoujamza: https://github.com/MeriemBoujamza
 Modelplane01: https://github.com/Modelplane01
 motanelson: https://github.com/motanelson
