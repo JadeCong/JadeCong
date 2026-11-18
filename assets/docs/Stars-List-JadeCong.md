@@ -295,6 +295,7 @@ aramis-lab/clinica[dev]: https://github.com/aramis-lab/clinica.git
 aravindr93/hand_dapg[master]: https://github.com/aravindr93/hand_dapg.git
 aravindr93/mjrl[master]: https://github.com/aravindr93/mjrl.git
 arc-l/a2a[main]: https://github.com/arc-l/a2a.git
+ArcheOne-AI/RoboScript[main]: https://github.com/ArcheOne-AI/RoboScript.git
 ArcInstitute/evo2[main]: https://github.com/ArcInstitute/evo2.git
 arduino/Arduino[master]: https://github.com/arduino/Arduino.git
 arduino/arduino-cli[master]: https://github.com/arduino/arduino-cli.git
@@ -1341,7 +1342,7 @@ getmaxun/maxun[develop]: https://github.com/getmaxun/maxun.git
 getnamo/TensorFlow-Unreal[main]: https://github.com/getnamo/TensorFlow-Unreal.git
 getnamo/TensorFlow-Unreal-Examples[main]: https://github.com/getnamo/TensorFlow-Unreal-Examples.git
 getomni-ai/zerox[main]: https://github.com/getomni-ai/zerox.git
-GetStream/Vision-Agents[main]: https://github.com/GetStream/Vision-Agents.git
+GetStream/Agents[main]: https://github.com/GetStream/Agents.git
 GetStream/Winds[master]: https://github.com/GetStream/Winds.git
 getumbrel/llama-gpt[master]: https://github.com/getumbrel/llama-gpt.git
 getzep/graphiti[main]: https://github.com/getzep/graphiti.git
@@ -2129,6 +2130,7 @@ kuchin/awesome-cto[main]: https://github.com/kuchin/awesome-cto.git
 kuchin/awesome-tpm[main]: https://github.com/kuchin/awesome-tpm.git
 Kulbear/deep-learning-coursera[master]: https://github.com/Kulbear/deep-learning-coursera.git
 kungfu-systems/kungfu[dev/v4/v4.0]: https://github.com/kungfu-systems/kungfu.git
+kushal2000/play2perfect[main]: https://github.com/kushal2000/play2perfect.git
 kuzudb/kuzu[master]: https://github.com/kuzudb/kuzu.git
 kvcache-ai/ktransformers[main]: https://github.com/kvcache-ai/ktransformers.git
 kvuong2711/fix-anything[main]: https://github.com/kvuong2711/fix-anything.git
@@ -3243,6 +3245,7 @@ PKU-YuanGroup/Open-Sora-Plan[main]: https://github.com/PKU-YuanGroup/Open-Sora-P
 PKU-YuanGroup/Video-LLaVA[main]: https://github.com/PKU-YuanGroup/Video-LLaVA.git
 PKUanonym/REKCARC-TSC-UHT[master]: https://github.com/PKUanonym/REKCARC-TSC-UHT.git
 plait-board/drawnix[develop]: https://github.com/plait-board/drawnix.git
+PLAN-Lab/VTAM[main]: https://github.com/PLAN-Lab/VTAM.git
 Platane/snk[main]: https://github.com/Platane/snk.git
 plenaryapp/awesome-rss-feeds[master]: https://github.com/plenaryapp/awesome-rss-feeds.git
 PlotJuggler/PlotJuggler[main]: https://github.com/PlotJuggler/PlotJuggler.git
