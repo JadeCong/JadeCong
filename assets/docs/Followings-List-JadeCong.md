@@ -179,6 +179,7 @@ CapSoftware: https://github.com/CapSoftware
 carbon-language: https://github.com/carbon-language
 catachiii: https://github.com/catachiii
 cbfinn: https://github.com/cbfinn
+ccch1mneyyy: https://github.com/ccch1mneyyy
 cdzombak: https://github.com/cdzombak
 CEA-LIST: https://github.com/CEA-LIST
 chai3d: https://github.com/chai3d
@@ -278,6 +279,7 @@ deepchem: https://github.com/deepchem
 deeplearning-ai-research: https://github.com/deeplearning-ai-research
 deepseek-ai: https://github.com/deepseek-ai
 deepset-ai: https://github.com/deepset-ai
+DefGuard: https://github.com/DefGuard
 DefTruth: https://github.com/DefTruth
 DepthAnything: https://github.com/DepthAnything
 DexForce: https://github.com/DexForce
@@ -919,6 +921,7 @@ OpenTeleVision: https://github.com/OpenTeleVision
 opentiny: https://github.com/opentiny
 openverse-orca: https://github.com/openverse-orca
 openvla: https://github.com/openvla
+OpenVPN: https://github.com/OpenVPN
 OpenWAM-Official: https://github.com/OpenWAM-Official
 OpenWhispr: https://github.com/OpenWhispr
 openworm: https://github.com/openworm
