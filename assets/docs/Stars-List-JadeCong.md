@@ -564,6 +564,7 @@ cbfinn/rllab[master]: https://github.com/cbfinn/rllab.git
 cbh123/stickerbaker[main]: https://github.com/cbh123/stickerbaker.git
 cbsudux/awesome-human-pose-estimation[master]: https://github.com/cbsudux/awesome-human-pose-estimation.git
 cccedric/conrft[main]: https://github.com/cccedric/conrft.git
+ccch1mneyyy/dsh-Go[main]: https://github.com/ccch1mneyyy/dsh-Go.git
 ccch1mneyyy/dsh-TUI[main]: https://github.com/ccch1mneyyy/dsh-TUI.git
 ccyyycy/ycy[master]: https://github.com/ccyyycy/ycy.git
 cdevin/objectattention[master]: https://github.com/cdevin/objectattention.git
@@ -817,6 +818,7 @@ deepseek-ai/Janus[main]: https://github.com/deepseek-ai/Janus.git
 deepset-ai/haystack[main]: https://github.com/deepset-ai/haystack.git
 deepspeedai/DeepSpeed[master]: https://github.com/deepspeedai/DeepSpeed.git
 deezer/spleeter[master]: https://github.com/deezer/spleeter.git
+DefGuard/defguard[stable/2.x]: https://github.com/DefGuard/defguard.git
 defunkt/gist[master]: https://github.com/defunkt/gist.git
 demodiffusion/demodiffusion[main]: https://github.com/demodiffusion/demodiffusion.git
 Dene33/video_to_bvh[master]: https://github.com/Dene33/video_to_bvh.git
@@ -1785,7 +1787,7 @@ inspatio/worldfm[main]: https://github.com/inspatio/worldfm.git
 inspirelt/Turbo-GS[main]: https://github.com/inspirelt/Turbo-GS.git
 instantX-research/InstantID[main]: https://github.com/instantX-research/InstantID.git
 intel/ros2_grasp_library[master]: https://github.com/intel/ros2_grasp_library.git
-intel/ros2_openvino_toolkit[master]: https://github.com/intel/ros2_openvino_toolkit.git
+intel/ros2_openvino_toolkit[main]: https://github.com/intel/ros2_openvino_toolkit.git
 intell-sci-comput/PSE[main]: https://github.com/intell-sci-comput/PSE.git
 intelligent-control-lab/guard[main]: https://github.com/intelligent-control-lab/guard.git
 Intellindust-AI-Lab/DEIM[main]: https://github.com/Intellindust-AI-Lab/DEIM.git
@@ -2280,7 +2282,7 @@ liuruoze/mini-AlphaStar[main]: https://github.com/liuruoze/mini-AlphaStar.git
 liushb9/TACO[main]: https://github.com/liushb9/TACO.git
 liuxiaogang-com/desktop-icon-billiards[main]: https://github.com/liuxiaogang-com/desktop-icon-billiards.git
 liuxiaoyu1104/AnimateAnywhere[main]: https://github.com/liuxiaoyu1104/AnimateAnywhere.git
-liuzhao1225/YouDub-webui[main]: https://github.com/liuzhao1225/YouDub-webui.git
+liuzhao1225/YouDub-Desktop[main]: https://github.com/liuzhao1225/YouDub-Desktop.git
 lixiaowen-xw/DiffuEraser[master]: https://github.com/lixiaowen-xw/DiffuEraser.git
 liyaowei-stu/ImageConductor[main]: https://github.com/liyaowei-stu/ImageConductor.git
 liyi14/HAMSTER_beta[main]: https://github.com/liyi14/HAMSTER_beta.git
@@ -3154,6 +3156,7 @@ PaddlePaddle/Quantum[master]: https://github.com/PaddlePaddle/Quantum.git
 PaddlePaddle/Research[master]: https://github.com/PaddlePaddle/Research.git
 PaddlePaddle/VisualDL[develop]: https://github.com/PaddlePaddle/VisualDL.git
 pages-themes/hacker[master]: https://github.com/pages-themes/hacker.git
+pairlab/flomo[main]: https://github.com/pairlab/flomo.git
 pairlab/leibnizgym[master]: https://github.com/pairlab/leibnizgym.git
 pallets/flask[main]: https://github.com/pallets/flask.git
 pandas-dev/pandas[main]: https://github.com/pandas-dev/pandas.git
@@ -4705,6 +4708,7 @@ zju3dv/IntrinsicAnything[master]: https://github.com/zju3dv/IntrinsicAnything.gi
 zju3dv/MatchAnything[main]: https://github.com/zju3dv/MatchAnything.git
 zju3dv/Murre[main]: https://github.com/zju3dv/Murre.git
 zju3dv/neuralbody[master]: https://github.com/zju3dv/neuralbody.git
+zju3dv/SADL[main]: https://github.com/zju3dv/SADL.git
 zjwzcx/Awesome-Astra-Embodied-AI[main]: https://github.com/zjwzcx/Awesome-Astra-Embodied-AI.git
 ZLMediaKit/ZLMediaKit[master]: https://github.com/ZLMediaKit/ZLMediaKit.git
 zm0612/Hybrid_A_Star[main]: https://github.com/zm0612/Hybrid_A_Star.git
