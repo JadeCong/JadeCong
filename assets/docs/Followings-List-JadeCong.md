@@ -552,7 +552,6 @@ instructor-ai: https://github.com/instructor-ai
 intel: https://github.com/intel
 intelligent-control-lab: https://github.com/intelligent-control-lab
 IntelRealSense: https://github.com/IntelRealSense
-InternRobotics: https://github.com/InternRobotics
 ioai-tech: https://github.com/ioai-tech
 iotdesignshop: https://github.com/iotdesignshop
 irom-princeton: https://github.com/irom-princeton
@@ -1113,6 +1112,7 @@ ruvnet: https://github.com/ruvnet
 RVMI: https://github.com/RVMI
 ry: https://github.com/ry
 safishamsi: https://github.com/safishamsi
+Sage-PhysicalAI: https://github.com/Sage-PhysicalAI
 sair-lab: https://github.com/sair-lab
 Saiyan-World: https://github.com/Saiyan-World
 SakanaAI: https://github.com/SakanaAI
