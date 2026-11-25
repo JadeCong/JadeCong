@@ -703,6 +703,7 @@ m5stack: https://github.com/m5stack
 MadryLab: https://github.com/MadryLab
 magic-quill: https://github.com/magic-quill
 magic-research: https://github.com/magic-research
+MAGICLAB-NUS: https://github.com/MAGICLAB-NUS
 MagicMirrorOrg: https://github.com/MagicMirrorOrg
 maillab: https://github.com/maillab
 majacinka: https://github.com/majacinka
