@@ -1214,6 +1214,7 @@ FlagOpen/RoboCOIN[main]: https://github.com/FlagOpen/RoboCOIN.git
 FlagOpen/RoboOS[main]: https://github.com/FlagOpen/RoboOS.git
 flagos-ai/FlagGems[master]: https://github.com/flagos-ai/FlagGems.git
 flagos-ai/FlagScale[main]: https://github.com/flagos-ai/FlagScale.git
+flaviagaglio/air-synth[main]: https://github.com/flaviagaglio/air-synth.git
 flexible-collision-library/fcl[master]: https://github.com/flexible-collision-library/fcl.git
 flexivrobotics/flexiv_aidk[main]: https://github.com/flexivrobotics/flexiv_aidk.git
 flexivrobotics/flexiv_rdk[main]: https://github.com/flexivrobotics/flexiv_rdk.git
@@ -1755,6 +1756,7 @@ iiordanov/remote-desktop-clients[master]: https://github.com/iiordanov/remote-de
 ikaijua/Awesome-AITools[main]: https://github.com/ikaijua/Awesome-AITools.git
 ikatyang/emoji-cheat-sheet[master]: https://github.com/ikatyang/emoji-cheat-sheet.git
 iLearn-Lab/VLA-Diffusion-Policy-Robotics[main]: https://github.com/iLearn-Lab/VLA-Diffusion-Policy-Robotics.git
+IliaLarchenko/RoboEvalSolution[main]: https://github.com/IliaLarchenko/RoboEvalSolution.git
 illacloud/illa-builder[beta]: https://github.com/illacloud/illa-builder.git
 iluwatar/java-design-patterns[master]: https://github.com/iluwatar/java-design-patterns.git
 ImageOptim/gifski[main]: https://github.com/ImageOptim/gifski.git
@@ -2376,6 +2378,7 @@ MadcowD/ell[main]: https://github.com/MadcowD/ell.git
 MADEAPPS/newton-dynamics[master]: https://github.com/MADEAPPS/newton-dynamics.git
 maderix/ANE[main]: https://github.com/maderix/ANE.git
 MadryLab/modelcomponents[main]: https://github.com/MadryLab/modelcomponents.git
+MAGICLAB-NUS/Force2Act[main]: https://github.com/MAGICLAB-NUS/Force2Act.git
 MagicMirrorOrg/MagicMirror[master]: https://github.com/MagicMirrorOrg/MagicMirror.git
 MAGREF-Video/MAGREF[main]: https://github.com/MAGREF-Video/MAGREF.git
 mahseema/awesome-ai-tools[main]: https://github.com/mahseema/awesome-ai-tools.git
@@ -2762,6 +2765,7 @@ nianticlabs/monodepth2[master]: https://github.com/nianticlabs/monodepth2.git
 nianticlabs/mvsanywhere[main]: https://github.com/nianticlabs/mvsanywhere.git
 nianticlabs/spz[main]: https://github.com/nianticlabs/spz.git
 nicedreamzapp/claude-code-local[main]: https://github.com/nicedreamzapp/claude-code-local.git
+Nick088Official/SuperPrompt-v1[main]: https://github.com/Nick088Official/SuperPrompt-v1.git
 NickEngmann/nickengmann.github.io[master]: https://github.com/NickEngmann/nickengmann.github.io.git
 nickioan/robot2robot[solo_master]: https://github.com/nickioan/robot2robot.git
 nico-bohlinger/xmimic[main]: https://github.com/nico-bohlinger/xmimic.git
