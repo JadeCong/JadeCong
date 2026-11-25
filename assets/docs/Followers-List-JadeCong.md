@@ -14,7 +14,6 @@ BEPb: https://github.com/BEPb
 BigM25: https://github.com/BigM25
 binj2901-commits: https://github.com/binj2901-commits
 bludnic: https://github.com/bludnic
-boldotter921: https://github.com/boldotter921
 buraksocial: https://github.com/buraksocial
 Cameleon3D: https://github.com/Cameleon3D
 Carrington-dev: https://github.com/Carrington-dev
@@ -39,6 +38,7 @@ heyogeshcode: https://github.com/heyogeshcode
 hgh752362-max: https://github.com/hgh752362-max
 hmzgtl16: https://github.com/hmzgtl16
 humayrakhanomrime: https://github.com/humayrakhanomrime
+Icaro0310: https://github.com/Icaro0310
 idimetrix: https://github.com/idimetrix
 IDouble: https://github.com/IDouble
 infinityabundance: https://github.com/infinityabundance
