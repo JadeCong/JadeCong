@@ -883,6 +883,7 @@ docmost/docmost[main]: https://github.com/docmost/docmost.git
 dog-qiuqiu/FastestDet[main]: https://github.com/dog-qiuqiu/FastestDet.git
 dog-qiuqiu/Yolo-Fastest[master]: https://github.com/dog-qiuqiu/Yolo-Fastest.git
 dog-qiuqiu/Yolo-FastestV2[main]: https://github.com/dog-qiuqiu/Yolo-FastestV2.git
+DollhouseRobotics/super-gpc[main]: https://github.com/DollhouseRobotics/super-gpc.git
 dongjunkun/GanK[master]: https://github.com/dongjunkun/GanK.git
 DonJayamanne/gitHistoryVSCode[main]: https://github.com/DonJayamanne/gitHistoryVSCode.git
 donnemartin/data-science-ipython-notebooks[master]: https://github.com/donnemartin/data-science-ipython-notebooks.git
@@ -1247,6 +1248,7 @@ foxglove/foxglove-sdk[main]: https://github.com/foxglove/foxglove-sdk.git
 foxglove/mcap[main]: https://github.com/foxglove/mcap.git
 Francis-Rings/StableAnimator[main]: https://github.com/Francis-Rings/StableAnimator.git
 franciszzj/Leffa[main]: https://github.com/franciszzj/Leffa.git
+Frank-ZY-Dou/ndm-gym[main]: https://github.com/Frank-ZY-Dou/ndm-gym.git
 frankarobotics/franka_ros[develop]: https://github.com/frankarobotics/franka_ros.git
 frankarobotics/franka_ros2[jazzy]: https://github.com/frankarobotics/franka_ros2.git
 frankarobotics/franka_toolbox_for_matlab[main]: https://github.com/frankarobotics/franka_toolbox_for_matlab.git
@@ -1318,6 +1320,7 @@ gautamkrishnar/blog-post-workflow[master]: https://github.com/gautamkrishnar/blo
 gazebosim/gz-mujoco[main]: https://github.com/gazebosim/gz-mujoco.git
 gbeced/pyalgotrade[master]: https://github.com/gbeced/pyalgotrade.git
 gbmhunter/CppLinuxSerial[master]: https://github.com/gbmhunter/CppLinuxSerial.git
+gcfy63821/dexx_lab[main]: https://github.com/gcfy63821/dexx_lab.git
 geekan/HowToLiveLonger[main]: https://github.com/geekan/HowToLiveLonger.git
 geekcomputers/Python[master]: https://github.com/geekcomputers/Python.git
 geektown/raspberry-xunfei[master]: https://github.com/geektown/raspberry-xunfei.git
@@ -1562,6 +1565,7 @@ hbb1/2d-gaussian-splatting[main]: https://github.com/hbb1/2d-gaussian-splatting.
 HCPLab-SYSU/Book-of-MLM[main]: https://github.com/HCPLab-SYSU/Book-of-MLM.git
 HCPLab-SYSU/CausalVLR[main]: https://github.com/HCPLab-SYSU/CausalVLR.git
 HCPLab-SYSU/Embodied_AI_Paper_List[main]: https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List.git
+heartleo/zlib[main]: https://github.com/heartleo/zlib.git
 hebing-sjtu/SurfSplat[master]: https://github.com/hebing-sjtu/SurfSplat.git
 Hedlen/Awesome-Multimodal-Intelligence[main]: https://github.com/Hedlen/Awesome-Multimodal-Intelligence.git
 hehao98/StarScout[main]: https://github.com/hehao98/StarScout.git
@@ -1657,7 +1661,7 @@ HRNet/HRNet-Semantic-Segmentation[HRNet-OCR]: https://github.com/HRNet/HRNet-Sem
 HRNet/Lite-HRNet[hrnet]: https://github.com/HRNet/Lite-HRNet.git
 hshi74/robocook[main]: https://github.com/hshi74/robocook.git
 hshi74/toddlerbot[main]: https://github.com/hshi74/toddlerbot.git
-hsliuping/TradingAgents-CN[v3.0]: https://github.com/hsliuping/TradingAgents-CN.git
+hsliuping/TradingAgents-CN[main]: https://github.com/hsliuping/TradingAgents-CN.git
 hsp-iit/HannesImitation[main]: https://github.com/hsp-iit/HannesImitation.git
 httpie/cli[master]: https://github.com/httpie/cli.git
 HuangCongQing/3D-Point-Clouds[main]: https://github.com/HuangCongQing/3D-Point-Clouds.git
@@ -2193,6 +2197,7 @@ leggedrobotics/raisimGym[master]: https://github.com/leggedrobotics/raisimGym.gi
 leggedrobotics/ros_best_practices[main]: https://github.com/leggedrobotics/ros_best_practices.git
 leggedrobotics/rsl_rl[main]: https://github.com/leggedrobotics/rsl_rl.git
 leggedrobotics/SimBenchmark[master]: https://github.com/leggedrobotics/SimBenchmark.git
+leggedrobotics/terrain-grounded-imagination[main]: https://github.com/leggedrobotics/terrain-grounded-imagination.git
 leggedrobotics/viplanner[main]: https://github.com/leggedrobotics/viplanner.git
 lehome-official/lehome[main]: https://github.com/lehome-official/lehome.git
 leigest519/ScreenCoder[main]: https://github.com/leigest519/ScreenCoder.git
