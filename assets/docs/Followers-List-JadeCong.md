@@ -29,7 +29,6 @@ dirambora: https://github.com/dirambora
 Dvurechensky: https://github.com/Dvurechensky
 erdenekhuu-bot: https://github.com/erdenekhuu-bot
 ggzy12345: https://github.com/ggzy12345
-Git-FED: https://github.com/Git-FED
 gulrehman54: https://github.com/gulrehman54
 Guorandol: https://github.com/Guorandol
 harinadh76: https://github.com/harinadh76
