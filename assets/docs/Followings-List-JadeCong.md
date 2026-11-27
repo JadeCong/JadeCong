@@ -303,6 +303,7 @@ DLR-SC: https://github.com/DLR-SC
 dockur: https://github.com/dockur
 docmost: https://github.com/docmost
 dog-qiuqiu: https://github.com/dog-qiuqiu
+DollhouseRobotics: https://github.com/DollhouseRobotics
 donnemartin: https://github.com/donnemartin
 doocs: https://github.com/doocs
 DopplerHQ: https://github.com/DopplerHQ
